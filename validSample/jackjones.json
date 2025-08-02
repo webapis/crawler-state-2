@@ -41,7 +41,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .gallery-swiper__body a)",
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile__plp",
       "matchedProductItemSelectorManual": "article.product-tile__plp",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -55,7 +55,7 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | Jack&Jones",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-02T03:38:43.687Z",
+    "timestamp": "2025-08-02T04:17:42.977Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,7 +70,7 @@
       "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3"
     ],
     "primaryImg": "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-    "link": null,
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_1242_1175842/kep",
     "price": [
       {
         "value": "590,00 TL",
@@ -83,7 +83,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile__plp",
       "matchedProductItemSelectorManual": "article.product-tile__plp",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -97,9 +97,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | Jack&Jones",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-02T03:38:43.688Z",
+    "timestamp": "2025-08-02T04:17:42.978Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
@@ -112,7 +112,7 @@
       "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=640&quality=80&key=10-0-3"
     ],
     "primaryImg": "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=480&quality=80&key=10-0-1",
-    "link": null,
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12251579_221_1108680/kad%C4%B1n-renkli-has%C4%B1r-omuz-cantas%C4%B1-miami",
     "price": [
       {
         "value": "990,00 TL",
@@ -125,7 +125,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile__plp",
       "matchedProductItemSelectorManual": "article.product-tile__plp",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -139,9 +139,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | Jack&Jones",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-02T03:38:43.688Z",
+    "timestamp": "2025-08-02T04:17:42.978Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
@@ -154,7 +154,7 @@
       "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=640&quality=80&key=10-0-3"
     ],
     "primaryImg": "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=480&quality=80&key=10-0-1",
-    "link": null,
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_617_1175840/kep",
     "price": [
       {
         "value": "590,00 TL",
@@ -167,7 +167,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile__plp",
       "matchedProductItemSelectorManual": "article.product-tile__plp",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -181,9 +181,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | Jack&Jones",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-02T03:38:43.688Z",
+    "timestamp": "2025-08-02T04:17:42.979Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
@@ -196,7 +196,7 @@
       "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3"
     ],
     "primaryImg": "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
-    "link": null,
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274401_2161/ayarlanabilir-kay%C4%B1%C5%9F-%C3%A7anta",
     "price": [
       {
         "value": "1.790,00 TL",
@@ -209,7 +209,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile__plp",
       "matchedProductItemSelectorManual": "article.product-tile__plp",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -223,9 +223,9 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | Jack&Jones",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-02T03:38:43.689Z",
+    "timestamp": "2025-08-02T04:17:42.980Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
