@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Kadın Vizon Makyaj Çantası",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://tr.uspoloassn.com/kadin-vizon-canta-50318180-vr052/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.049,97 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1049.97,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.499,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 1499.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.999,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 2999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.049,97 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1049.97,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "[poster]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.218Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
