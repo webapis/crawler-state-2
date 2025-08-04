@@ -1,36 +1,41 @@
 [
   {
-    "title": "Önü Dekolteli Bağcıklı Kalp Yaka Straplez Kesim Şık Mini Elbise - Siyah",
+    "title": "Deri Püsküllü Çanta - Taba",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-fd9ec-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap--15b2f.jpg",
-      "https://rivus.com.tr/ust-giyim/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-d15f-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-d0e-f6.png",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-64-b00.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-cc0907..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba--909b4..jpg",
+      "https://rivus.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-7f31cd..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-fd9ec-.jpg",
-    "link": "https://rivus.com.tr/onu-dekolteli-bagcikli-kalp-yaka-straplez-kesim-sik-mini-elbise-siyah",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-cc0907..jpg",
+    "link": "https://rivus.com.tr/deri-puskullu-canta--taba-3029",
     "price": [
       {
-        "value": "$171.22",
+        "value": "$220.49",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 5735.87,
+        "numericValue": 7386.41,
         "unsetPrice": false
       },
       {
-        "value": "$102,73 usd",
-        "selector": ".KatSepetFiyat span",
+        "value": "$245.12",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 3441.45,
+        "numericValue": 8211.52,
         "unsetPrice": false
       },
       {
-        "value": "$171.22",
+        "value": "$220.49",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 5735.87,
+        "numericValue": 7386.41,
+        "unsetPrice": false
+      },
+      {
+        "value": "$245.12",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 8211.52,
         "unsetPrice": false
       }
     ],
@@ -45,15 +50,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Şık Bayan ve Tarz Üst Giyim - Rivus",
-    "pageURL": "https://rivus.com.tr/ust-giyim",
-    "timestamp": "2025-08-02T06:41:56.741Z",
+    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
+    "pageURL": "https://rivus.com.tr/canta",
+    "timestamp": "2025-08-04T05:31:34.903Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -61,37 +67,42 @@
     "priceValid": true
   },
   {
-    "title": "Önü Dekolteli Bağcıklı Kalp Yaka Straplez Kesim Şık Mini Elbise - Leopar",
+    "title": "Deri Püsküllü Çanta - Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-b7-c56.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-26-07f.jpg",
-      "https://rivus.com.tr/ust-giyim/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-f-7666.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-47-541.png",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-e1a-96.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-4d7876..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah--de3e0..jpg",
+      "https://rivus.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-6e6292..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-b7-c56.jpg",
-    "link": "https://rivus.com.tr/onu-dekolteli-bagcikli-kalp-yaka-straplez-kesim-sik-mini-elbise-leopar",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-4d7876..jpg",
+    "link": "https://rivus.com.tr/deri-puskullu-canta--siyah-3030",
     "price": [
       {
-        "value": "$178.61",
+        "value": "$220.49",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 5983.44,
+        "numericValue": 7386.41,
         "unsetPrice": false
       },
       {
-        "value": "$107,17 usd",
-        "selector": ".KatSepetFiyat span",
+        "value": "$245.12",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 3590.2,
+        "numericValue": 8211.52,
         "unsetPrice": false
       },
       {
-        "value": "$178.61",
+        "value": "$220.49",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 5983.44,
+        "numericValue": 7386.41,
+        "unsetPrice": false
+      },
+      {
+        "value": "$245.12",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 8211.52,
         "unsetPrice": false
       }
     ],
@@ -106,15 +117,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Şık Bayan ve Tarz Üst Giyim - Rivus",
-    "pageURL": "https://rivus.com.tr/ust-giyim",
-    "timestamp": "2025-08-02T06:41:56.742Z",
+    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
+    "pageURL": "https://rivus.com.tr/canta",
+    "timestamp": "2025-08-04T05:31:34.904Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,36 +134,41 @@
     "priceValid": true
   },
   {
-    "title": "Önü Dekolteli Bağcıklı Kalp Yaka Straplez Kesim Şık Büstiyer - Ekru",
+    "title": "Deri Püsküllü Çanta - Kahve",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-4f7-3a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-54fb30.jpg",
-      "https://rivus.com.tr/ust-giyim/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap--a191-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap--ad33-.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-8-b264..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-a1a-c3..jpg",
+      "https://rivus.com.tr/canta/Uploads/images/load.gif"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-4f7-3a.jpg",
-    "link": "https://rivus.com.tr/onu-dekolteli-bagcikli-kalp-yaka-straplez-kesim-sik-bustiyer-ekru",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-8-b264..jpg",
+    "link": "https://rivus.com.tr/deri-puskullu-canta--kahve-3031",
     "price": [
       {
-        "value": "$97.31",
+        "value": "$220.49",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 3259.89,
+        "numericValue": 7386.41,
         "unsetPrice": false
       },
       {
-        "value": "$58,39 usd",
-        "selector": ".KatSepetFiyat span",
+        "value": "$245.12",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 1956.07,
+        "numericValue": 8211.52,
         "unsetPrice": false
       },
       {
-        "value": "$97.31",
+        "value": "$220.49",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 3259.89,
+        "numericValue": 7386.41,
+        "unsetPrice": false
+      },
+      {
+        "value": "$245.12",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 8211.52,
         "unsetPrice": false
       }
     ],
@@ -166,15 +183,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Şık Bayan ve Tarz Üst Giyim - Rivus",
-    "pageURL": "https://rivus.com.tr/ust-giyim",
-    "timestamp": "2025-08-02T06:41:56.743Z",
+    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
+    "pageURL": "https://rivus.com.tr/canta",
+    "timestamp": "2025-08-04T05:31:34.905Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -182,37 +200,44 @@
     "priceValid": true
   },
   {
-    "title": "Önü Dekolteli Bağcıklı Kalp Yaka Straplez Kesim Şık Büstiyer - Siyah",
+    "title": "Dokulu Parlak Deri Kemer Çanta - Gold",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-85ea8a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap--bd882.jpg",
-      "https://rivus.com.tr/ust-giyim/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-d2dc3-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-db7ef8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-4378-8.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--49ac-..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-a-57eb..jpg",
+      "https://rivus.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-87-477..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--83ad-..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-281a1-..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/onu-dekolteli-bagcikli-kalp-yaka-strap-85ea8a.jpg",
-    "link": "https://rivus.com.tr/onu-dekolteli-bagcikli-kalp-yaka-straplez-kesim-sik-bustiyer-siyah",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--49ac-..jpg",
+    "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gold-3320",
     "price": [
       {
-        "value": "$97.31",
+        "value": "$10.47",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 3259.89,
+        "numericValue": 350.75,
         "unsetPrice": false
       },
       {
-        "value": "$58,39 usd",
-        "selector": ".KatSepetFiyat span",
+        "value": "$20.94",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 1956.07,
+        "numericValue": 701.49,
         "unsetPrice": false
       },
       {
-        "value": "$97.31",
+        "value": "$10.47",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 3259.89,
+        "numericValue": 350.75,
+        "unsetPrice": false
+      },
+      {
+        "value": "$20.94",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 701.49,
         "unsetPrice": false
       }
     ],
@@ -227,15 +252,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Şık Bayan ve Tarz Üst Giyim - Rivus",
-    "pageURL": "https://rivus.com.tr/ust-giyim",
-    "timestamp": "2025-08-02T06:41:56.745Z",
+    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
+    "pageURL": "https://rivus.com.tr/canta",
+    "timestamp": "2025-08-04T05:31:34.907Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -243,37 +269,44 @@
     "priceValid": true
   },
   {
-    "title": "Yakası Büzgülü Dar Kesim Kolsuz Elbise - Siyah",
+    "title": "Dokulu Parlak Deri Kemer Çanta - Gri",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-f-4f65.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-fdb670.jpg",
-      "https://rivus.com.tr/ust-giyim/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-8b-4f5.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-a-b4f7.png",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-f2fd70.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-866b-5..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-ebd-73..jpg",
+      "https://rivus.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-4d55-8..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-6-42fc..jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-d9a4d6..jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-buzgulu-dar-kesim-kolsuz-elbise-f-4f65.jpg",
-    "link": "https://rivus.com.tr/yakasi-buzgulu-dar-kesim-kolsuz-elbise-siyah",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-866b-5..jpg",
+    "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gri-3321",
     "price": [
       {
-        "value": "$134.26",
+        "value": "$10.47",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 4497.71,
+        "numericValue": 350.75,
         "unsetPrice": false
       },
       {
-        "value": "$80,56 usd",
-        "selector": ".KatSepetFiyat span",
+        "value": "$20.94",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 2698.76,
+        "numericValue": 701.49,
         "unsetPrice": false
       },
       {
-        "value": "$134.26",
+        "value": "$10.47",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 4497.71,
+        "numericValue": 350.75,
+        "unsetPrice": false
+      },
+      {
+        "value": "$20.94",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 701.49,
         "unsetPrice": false
       }
     ],
@@ -288,15 +321,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Şık Bayan ve Tarz Üst Giyim - Rivus",
-    "pageURL": "https://rivus.com.tr/ust-giyim",
-    "timestamp": "2025-08-02T06:41:56.746Z",
+    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
+    "pageURL": "https://rivus.com.tr/canta",
+    "timestamp": "2025-08-04T05:31:34.908Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
