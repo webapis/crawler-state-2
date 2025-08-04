@@ -1,18 +1,25 @@
 [
   {
-    "title": "Erkek Koyu Yeşil %100 Koton Benetton Logolu Bisiklet Yaka T-Shirt",
+    "title": "Kadın Lacivert Keten Karışımlı Desenli Şal",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638761177977572516.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638761178008197577.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638761177977572516.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638761178008197577.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597726144135.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597806457054.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597726144135.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597806457054.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638761177977572516.jpeg",
-    "link": "https://tr.benetton.com/erkek/erkek-koyu-yesil-100-koton-benetton-logolu-bisiklet-yaka-t-shirt_166634",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597726144135.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-lacivert-keten-karisimli-desenli-canta_166083",
     "price": [
       {
-        "value": "1.299,99 TL",
+        "value": "649,99 TL",
         "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 649.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".old-price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -28,14 +35,15 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price"
+        ".p-price .one-price",
+        ".old-price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
-    "pageTitle": "Erkek Üst Giyim | Benetton",
-    "pageURL": "https://tr.benetton.com/erkek-ust-giyim",
-    "timestamp": "2025-08-04T08:23:05.756Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-04T08:27:25.230Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,19 +51,26 @@
     "priceValid": true
   },
   {
-    "title": "Erkek Beyaz %100 Koton Benetton Logolu Bisiklet Yaka T-Shirt",
+    "title": "Kadın Krem Keten Karışımlı Desenli Şal",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952292412959.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952342257232.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638748952292412959.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638748952342257232.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597612705890.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597525205141.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597612705890.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952292412959.jpeg",
-    "link": "https://tr.benetton.com/erkek/erkek-beyaz-100-koton-benetton-logolu-bisiklet-yaka-t-shirt_166626",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-keten-karisimli-desenli-canta_166082",
     "price": [
       {
-        "value": "1.299,99 TL",
+        "value": "649,99 TL",
         "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 649.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".old-price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -71,14 +86,15 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price"
+        ".p-price .one-price",
+        ".old-price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
-    "pageTitle": "Erkek Üst Giyim | Benetton",
-    "pageURL": "https://tr.benetton.com/erkek-ust-giyim",
-    "timestamp": "2025-08-04T08:23:05.757Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-04T08:27:25.231Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -86,21 +102,28 @@
     "priceValid": true
   },
   {
-    "title": "Erkek Siyah %100 Koton Benetton Logolu Bisiklet Yaka T-Shirt",
+    "title": "Kadın Yeşil Desenli Tote Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638743886069358497.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638743886094827349.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638743886069358497.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638743886094827349.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597019263780.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597066920462.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597019263780.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597066920462.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638743886069358497.jpeg",
-    "link": "https://tr.benetton.com/erkek/erkek-siyah-100-koton-benetton-logolu-bisiklet-yaka-t-shirt_166625",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597019263780.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-yesil-desenli-tote-canta_166079",
     "price": [
       {
-        "value": "1.299,99 TL",
+        "value": "1.249,99 TL",
         "selector": ".p-price .one-price",
         "attribute": "innerText",
-        "numericValue": 1299.99,
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.499,99 TL",
+        "selector": ".old-price",
+        "attribute": "innerText",
+        "numericValue": 2499.99,
         "unsetPrice": false
       }
     ],
@@ -114,14 +137,15 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price"
+        ".p-price .one-price",
+        ".old-price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
-    "pageTitle": "Erkek Üst Giyim | Benetton",
-    "pageURL": "https://tr.benetton.com/erkek-ust-giyim",
-    "timestamp": "2025-08-04T08:23:05.757Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-04T08:27:25.232Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,21 +153,28 @@
     "priceValid": true
   },
   {
-    "title": "Erkek Lacivert %100 Koton Benetton Logolu Bisiklet Yaka T-Shirt",
+    "title": "Kadın Krem Desenli Tote Çanta",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952114755077.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952161630387.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638748952114755077.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638748952161630387.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822596819418631.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822596865512730.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822596819418631.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822596865512730.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638748952114755077.jpeg",
-    "link": "https://tr.benetton.com/erkek/erkek-lacivert-100-koton-benetton-logolu-bisiklet-yaka-t-shirt_166624",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822596819418631.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-desenli-tote-canta_166078",
     "price": [
       {
-        "value": "1.299,99 TL",
+        "value": "1.249,99 TL",
         "selector": ".p-price .one-price",
         "attribute": "innerText",
-        "numericValue": 1299.99,
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.499,99 TL",
+        "selector": ".old-price",
+        "attribute": "innerText",
+        "numericValue": 2499.99,
         "unsetPrice": false
       }
     ],
@@ -157,14 +188,15 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price"
+        ".p-price .one-price",
+        ".old-price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
-    "pageTitle": "Erkek Üst Giyim | Benetton",
-    "pageURL": "https://tr.benetton.com/erkek-ust-giyim",
-    "timestamp": "2025-08-04T08:23:05.758Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-04T08:27:25.232Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,21 +204,28 @@
     "priceValid": true
   },
   {
-    "title": "Erkek Siyah Bisiklet Yaka Slub T-shirt",
+    "title": "Kadın Siyah İçi Pamuk Delikli Omuz Çantası",
     "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638744759786515601.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638744759843390989.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638744759786515601.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638744759843390989.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638811359264029414.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638811359306216900.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638811359264029414.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638811359306216900.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638744759786515601.jpeg",
-    "link": "https://tr.benetton.com/erkek/erkek-siyah-bisiklet-yaka-slub-t-shirt_166620",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638811359264029414.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-ici-pamuk-delikli-omuz-cantasi_165847",
     "price": [
       {
-        "value": "1.199,99 TL",
+        "value": "1.249,99 TL",
         "selector": ".p-price .one-price",
         "attribute": "innerText",
-        "numericValue": 1199.99,
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.499,99 TL",
+        "selector": ".old-price",
+        "attribute": "innerText",
+        "numericValue": 2499.99,
         "unsetPrice": false
       }
     ],
@@ -200,14 +239,15 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price"
+        ".p-price .one-price",
+        ".old-price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
-    "pageTitle": "Erkek Üst Giyim | Benetton",
-    "pageURL": "https://tr.benetton.com/erkek-ust-giyim",
-    "timestamp": "2025-08-04T08:23:05.758Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-04T08:27:25.233Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
