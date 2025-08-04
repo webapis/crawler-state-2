@@ -1,0 +1,332 @@
+[
+  {
+    "title": "Kadın Kum Çapraz Çanta",
+    "img": [
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1152082/b511c23f-1155-4754-bb31-53e78c36e800_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1152082/754e7ffc-f464-494f-9572-024b3b8d6f99_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1152082/ab3b7c19-c3dc-4305-9b37-adc78ffb6fdb_size796x1198_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1152082/b511c23f-1155-4754-bb31-53e78c36e800_size796x1198_quality100_cropCenter.jpg",
+    "link": "https://tr.uspoloassn.com/kadin-kum-canta-50311547-vr085/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.399,97 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1399.97,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.999,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "3.999,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 3999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.399,97 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1399.97,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.199Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Kahverengi Omuz Çantası",
+    "img": [
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1151788/0a10e188-757d-4307-b1e5-df122162e216_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1151788/83c2a212-221c-4104-8049-afe2db7e5984_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1151788/04d62f3a-c213-4bfa-a1a3-c4e37cfb7c4d_size796x1198_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1151788/0a10e188-757d-4307-b1e5-df122162e216_size796x1198_quality100_cropCenter.jpg",
+    "link": "https://tr.uspoloassn.com/kadin-kahverengi-canta-50311446-vr029/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.697,47 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.424,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 2424.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "4.849,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 4849.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.697,47 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.201Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Beyaz Çapraz Çanta",
+    "img": [
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1181757/d13e6653-b77c-4254-a1e4-9161d0e9b431_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1181757/c71e9e65-fdfb-4224-b894-9416b8e0210a_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1181757/40c04297-0729-49b2-8a43-2c7192209f13_size796x1198_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1181757/d13e6653-b77c-4254-a1e4-9161d0e9b431_size796x1198_quality100_cropCenter.jpg",
+    "link": "https://tr.uspoloassn.com/kadin-beyaz-canta-50311461-vr013/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.697,47 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.424,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 2424.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "4.849,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 4849.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.697,47 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.203Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Krem Kol Çantası",
+    "img": [
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1141681/059396a9-eee1-4e8e-98bd-24fb9d7ae75c_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1141681/ce02e91a-00ff-4e4e-9b9f-5e7301af045b_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1141681/901efac9-e357-49de-9fb4-597444066044_size796x1198_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://25d163.a-cdn.akinoncloud.com/products/2025/03/28/1141681/059396a9-eee1-4e8e-98bd-24fb9d7ae75c_size796x1198_quality100_cropCenter.jpg",
+    "link": "https://tr.uspoloassn.com/kadin-krem-canta-50311431-vr071/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.679,97 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1679.97,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "4.799,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 4799.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.679,97 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1679.97,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.205Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Kahverengi Kol Çantası",
+    "img": [
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1184105/e3f93593-6acd-4ee4-85a3-d90edfe9bde2_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1184105/84006e35-ffe7-4f51-a023-6b5e0eb13d65_size796x1198_quality100_cropCenter.jpg",
+      "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1184105/ce20c9a3-9ee1-4b9a-b3c7-156a9b23b054_size796x1198_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://25d163.a-cdn.akinoncloud.com/products/2025/06/12/1184105/e3f93593-6acd-4ee4-85a3-d90edfe9bde2_size796x1198_quality100_cropCenter.jpg",
+    "link": "https://tr.uspoloassn.com/kadin-kahverengi-canta-50311444-vr029/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.697,47 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.424,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 2424.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "4.849,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 4849.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.697,47 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1697.47,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-04T05:33:06.207Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
