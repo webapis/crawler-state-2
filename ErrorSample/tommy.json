@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638599406649952909.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638599406649952909.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638599406649952909.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638599406652296637.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638599406652296637.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638599406652296637.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638599406649952909.webp",
+    "link": "https://tr.tommy.com/erkek-authentic-bomber-ceket_197461",
+    "price": [
+      {
+        "value": "9.999,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 9999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim?p=14",
+    "timestamp": "2025-08-05T12:42:24.053Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
