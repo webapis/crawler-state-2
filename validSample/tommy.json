@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888845030655193.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888845030655193.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888845030655193.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888845032530179.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888845032530179.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888845032530179.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888845030655193.webp",
+    "link": "https://tr.tommy.com/erkek-cotton-modal-t-shirt_201331",
+    "price": [
+      {
+        "value": "3.149,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 3149,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim",
+    "timestamp": "2025-08-05T12:20:15.120Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844894560283.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844894560283.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844894560283.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844896122822.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844896122822.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844896122822.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844894560283.webp",
+    "link": "https://tr.tommy.com/erkek-heritage-oxford-stripe-gomlek_201328",
+    "price": [
+      {
+        "value": "4.049,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 4049,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim",
+    "timestamp": "2025-08-05T12:20:15.121Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844940654396.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844940654396.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844940654396.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844942216907.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844942216907.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844942216907.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844940654396.webp",
+    "link": "https://tr.tommy.com/erkek-cable-knitted-kazak_201329",
+    "price": [
+      {
+        "value": "6.299,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 6299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim",
+    "timestamp": "2025-08-05T12:20:15.122Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844989717288.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844989717288.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844989717288.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844992373610.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844992373610.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844992373610.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844989717288.webp",
+    "link": "https://tr.tommy.com/erkek-gmd-riviera-classic-polo-t-shirt_201330",
+    "price": [
+      {
+        "value": "4.499,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 4499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim",
+    "timestamp": "2025-08-05T12:20:15.123Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844600339138.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844600339138.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844600339138.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844602214199.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638888844602214199.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638888844602214199.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638888844600339138.webp",
+    "link": "https://tr.tommy.com/erkek-cargo-twill-sort_201322",
+    "price": [
+      {
+        "value": "5.399,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 5399,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Erkek Giyim Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/erkek-giyim",
+    "timestamp": "2025-08-05T12:20:15.124Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
