@@ -11,6 +11,13 @@
     "link": "https://www.vakko.com/el-cantasi/acik-mavi-canta-p-M401795818-0047",
     "price": [
       {
+        "value": "₺ 55.475",
+        "selector": "spa-product-price .price",
+        "attribute": "innerText",
+        "numericValue": 55475,
+        "unsetPrice": false
+      },
+      {
         "value": "₺ 66.570",
         "selector": ".old-price",
         "attribute": "innerText",
@@ -28,6 +35,7 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "spa-product-price .price",
         ".old-price"
       ],
       "usedFallbackDocument": false,
@@ -35,7 +43,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
-    "timestamp": "2025-08-05T05:59:03.631Z",
+    "timestamp": "2025-08-05T06:05:39.275Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -54,6 +62,13 @@
     "link": "https://www.vakko.com/el-cantasi/acik-mavi-canta-p-M401795820-0047",
     "price": [
       {
+        "value": "₺ 39.975",
+        "selector": "spa-product-price .price",
+        "attribute": "innerText",
+        "numericValue": 39975,
+        "unsetPrice": false
+      },
+      {
         "value": "₺ 47.970",
         "selector": ".old-price",
         "attribute": "innerText",
@@ -71,6 +86,7 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "spa-product-price .price",
         ".old-price"
       ],
       "usedFallbackDocument": false,
@@ -78,7 +94,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
-    "timestamp": "2025-08-05T05:59:03.632Z",
+    "timestamp": "2025-08-05T06:05:39.276Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +113,13 @@
     "link": "https://www.vakko.com/el-cantasi/acik-mavi-canta-p-M401795817-0047",
     "price": [
       {
+        "value": "₺ 12.975",
+        "selector": "spa-product-price .price",
+        "attribute": "innerText",
+        "numericValue": 12975,
+        "unsetPrice": false
+      },
+      {
         "value": "₺ 15.570",
         "selector": ".old-price",
         "attribute": "innerText",
@@ -114,6 +137,7 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "spa-product-price .price",
         ".old-price"
       ],
       "usedFallbackDocument": false,
@@ -121,7 +145,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
-    "timestamp": "2025-08-05T05:59:03.633Z",
+    "timestamp": "2025-08-05T06:05:39.276Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -140,6 +164,13 @@
     "link": "https://www.vakko.com/el-cantasi/mavi-suet-canta-p-M402298130-0038",
     "price": [
       {
+        "value": "₺ 45.475",
+        "selector": "spa-product-price .price",
+        "attribute": "innerText",
+        "numericValue": 45475,
+        "unsetPrice": false
+      },
+      {
         "value": "₺ 54.570",
         "selector": ".old-price",
         "attribute": "innerText",
@@ -157,6 +188,7 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "spa-product-price .price",
         ".old-price"
       ],
       "usedFallbackDocument": false,
@@ -164,7 +196,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
-    "timestamp": "2025-08-05T05:59:03.634Z",
+    "timestamp": "2025-08-05T06:05:39.277Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,6 +215,13 @@
     "link": "https://www.vakko.com/el-cantasi/bej-suet-canta-p-M402298134-0021",
     "price": [
       {
+        "value": "₺ 55.475",
+        "selector": "spa-product-price .price",
+        "attribute": "innerText",
+        "numericValue": 55475,
+        "unsetPrice": false
+      },
+      {
         "value": "₺ 66.570",
         "selector": ".old-price",
         "attribute": "innerText",
@@ -200,6 +239,7 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "spa-product-price .price",
         ".old-price"
       ],
       "usedFallbackDocument": false,
@@ -207,7 +247,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
-    "timestamp": "2025-08-05T05:59:03.635Z",
+    "timestamp": "2025-08-05T06:05:39.278Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
