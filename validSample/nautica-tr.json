@@ -9,7 +9,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/03/12/43634/3910a399-6ca3-48e0-9413-cb23e06f8b82_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-siyah-omuz-cantasi-cn3132t/",
-    "price": [],
+    "price": [
+      {
+        "value": "1.799 TL",
+        "selector": ".product-item-info-prices .product-sale-price",
+        "attribute": "innerText",
+        "numericValue": 1799,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -19,18 +27,20 @@
       "titleSelectorMatched": ".product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-item-info-prices .product-sale-price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-08-05T06:25:56.660Z",
+    "timestamp": "2025-08-05T07:46:06.814Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Siyah Omuz Çantası",
@@ -42,7 +52,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/04/10/74211/9246a700-a14e-4ac7-b80b-9fd3813f369b_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-siyah-omuz-cantasi-cn5302t/",
-    "price": [],
+    "price": [
+      {
+        "value": "1.799 TL",
+        "selector": ".product-item-info-prices .product-sale-price",
+        "attribute": "innerText",
+        "numericValue": 1799,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -52,18 +70,20 @@
       "titleSelectorMatched": ".product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-item-info-prices .product-sale-price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-08-05T06:25:56.661Z",
+    "timestamp": "2025-08-05T07:46:06.815Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Bej Omuz Çantası",
@@ -75,7 +95,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/04/10/74216/d17e79bf-f115-46f9-8ea7-891f5e731453_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-bej-omuz-cantasi-cn5303t/",
-    "price": [],
+    "price": [
+      {
+        "value": "2.999 TL",
+        "selector": ".product-item-info-prices .product-sale-price",
+        "attribute": "innerText",
+        "numericValue": 2999,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -85,18 +113,20 @@
       "titleSelectorMatched": ".product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-item-info-prices .product-sale-price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-08-05T06:25:56.662Z",
+    "timestamp": "2025-08-05T07:46:06.816Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Bej Omuz Çantası",
@@ -108,7 +138,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/03/05/74213/67fa0114-d37f-4849-9962-91ecc84b15b6_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-bej-omuz-cantasi-cn5304t/",
-    "price": [],
+    "price": [
+      {
+        "value": "2.299 TL",
+        "selector": ".product-item-info-prices .product-sale-price",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -118,18 +156,20 @@
       "titleSelectorMatched": ".product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-item-info-prices .product-sale-price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-08-05T06:25:56.663Z",
+    "timestamp": "2025-08-05T07:46:06.817Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Bej El Çantası",
@@ -141,7 +181,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2024/04/03/67147/a081d74a-08b9-470d-ba18-4b59e91128ee_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-bej-el-cantasi-cn5272t/",
-    "price": [],
+    "price": [
+      {
+        "value": "2.299 TL",
+        "selector": ".product-item-info-prices .product-sale-price",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -151,17 +199,19 @@
       "titleSelectorMatched": ".product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-item-info-prices .product-sale-price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-08-05T06:25:56.664Z",
+    "timestamp": "2025-08-05T07:46:06.818Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   }
 ]
