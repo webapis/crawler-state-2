@@ -11,31 +11,17 @@
     "link": "https://rivus.com.tr/deri-puskullu-canta--taba-3029",
     "price": [
       {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 7386.41,
+        "numericValue": 8194.77,
         "unsetPrice": false
       },
       {
-        "value": "$245.12",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
-        "unsetPrice": false
-      },
-      {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 7386.41,
-        "unsetPrice": false
-      },
-      {
-        "value": "$245.12",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
+        "numericValue": 8194.77,
         "unsetPrice": false
       }
     ],
@@ -50,16 +36,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
     "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-04T05:48:54.876Z",
+    "timestamp": "2025-08-06T07:05:40.784Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -78,31 +62,17 @@
     "link": "https://rivus.com.tr/deri-puskullu-canta--siyah-3030",
     "price": [
       {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 7386.41,
+        "numericValue": 8194.77,
         "unsetPrice": false
       },
       {
-        "value": "$245.12",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
-        "unsetPrice": false
-      },
-      {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 7386.41,
-        "unsetPrice": false
-      },
-      {
-        "value": "$245.12",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
+        "numericValue": 8194.77,
         "unsetPrice": false
       }
     ],
@@ -117,16 +87,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
     "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-04T05:48:54.877Z",
+    "timestamp": "2025-08-06T07:05:40.785Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -144,31 +112,17 @@
     "link": "https://rivus.com.tr/deri-puskullu-canta--kahve-3031",
     "price": [
       {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 7386.41,
+        "numericValue": 8194.77,
         "unsetPrice": false
       },
       {
-        "value": "$245.12",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
-        "unsetPrice": false
-      },
-      {
-        "value": "$220.49",
+        "value": "$244.62",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 7386.41,
-        "unsetPrice": false
-      },
-      {
-        "value": "$245.12",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 8211.52,
+        "numericValue": 8194.77,
         "unsetPrice": false
       }
     ],
@@ -183,16 +137,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
     "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-04T05:48:54.878Z",
+    "timestamp": "2025-08-06T07:05:40.786Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -213,31 +165,31 @@
     "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gold-3320",
     "price": [
       {
-        "value": "$10.47",
+        "value": "$10.45",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 350.75,
+        "numericValue": 350.07,
         "unsetPrice": false
       },
       {
-        "value": "$20.94",
+        "value": "$20.90",
         "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 701.49,
+        "numericValue": 700.15,
         "unsetPrice": false
       },
       {
-        "value": "$10.47",
+        "value": "$10.45",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 350.75,
+        "numericValue": 350.07,
         "unsetPrice": false
       },
       {
-        "value": "$20.94",
+        "value": "$20.90",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
-        "numericValue": 701.49,
+        "numericValue": 700.15,
         "unsetPrice": false
       }
     ],
@@ -261,7 +213,7 @@
     },
     "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
     "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-04T05:48:54.879Z",
+    "timestamp": "2025-08-06T07:05:40.788Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -282,31 +234,31 @@
     "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gri-3321",
     "price": [
       {
-        "value": "$10.47",
+        "value": "$10.45",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 350.75,
+        "numericValue": 350.07,
         "unsetPrice": false
       },
       {
-        "value": "$20.94",
+        "value": "$20.90",
         "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
-        "numericValue": 701.49,
+        "numericValue": 700.15,
         "unsetPrice": false
       },
       {
-        "value": "$10.47",
+        "value": "$10.45",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 350.75,
+        "numericValue": 350.07,
         "unsetPrice": false
       },
       {
-        "value": "$20.94",
+        "value": "$20.90",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
-        "numericValue": 701.49,
+        "numericValue": 700.15,
         "unsetPrice": false
       }
     ],
@@ -330,7 +282,7 @@
     },
     "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
     "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-04T05:48:54.881Z",
+    "timestamp": "2025-08-06T07:05:40.789Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
