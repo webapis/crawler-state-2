@@ -1,15 +1,113 @@
 [
   {
+    "title": "Wander Matelassé Hobo Siyah Napa Deri Kadın El Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/678/-/productimages/oxbvrrdd.bc1_MP_00bc4b47-7877-4adf-9be6-817248127c0b_1_23016010322532554906934178355_771.jpg",
+      "https://cdn.beymen.com/mnresize/339/-/productimages/oxbvrrdd.bc1_MP_00bc4b47-7877-4adf-9be6-817248127c0b_1_23016010322532554906934178355_771.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/oxbvrrdd.bc1_MP_00bc4b47-7877-4adf-9be6-817248127c0b_1_23016010322532554906934178355_771.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/2xw4rs2f.lxd_MP_afb8c5ff-8309-427f-9a6d-492045028a49_2_23016010322532554906934178355_771.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/yq0sbp1i.o2o_MP_712060dc-5ad5-4dae-bdbb-8c44ceb84fda_3_23016010322532554906934178355_771.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/1bop0cgu.am0_MP_b85fa1df-0674-4bca-8de3-8342c78a4ad7_4_23016010322532554906934178355_771.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/339/-/productimages/oxbvrrdd.bc1_MP_00bc4b47-7877-4adf-9be6-817248127c0b_1_23016010322532554906934178355_771.jpg, https://cdn.beymen.com/mnresize/678/-/productimages/oxbvrrdd.bc1_MP_00bc4b47-7877-4adf-9be6-817248127c0b_1_23016010322532554906934178355_771.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_miu-miu-wander-matelasse-hobo-siyah-napa-deri-kadin-el-cantasi_1589695",
+    "price": [
+      {
+        "value": "108.000 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "innerText",
+        "numericValue": 108000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".m-productCard__newPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#productList"
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-06T07:06:39.350Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Siyah Kadın Deri Çanta",
+    "img": [
+      "https://cdn.beymen.com/mnresize/678/-/productimages/tljkuctl.z4z_IMG_01_2110099146188.jpg",
+      "https://cdn.beymen.com/mnresize/339/-/productimages/tljkuctl.z4z_IMG_01_2110099146188.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/tljkuctl.z4z_IMG_01_2110099146188.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/nb0fjim3.rhr_IMG_02_2110099146188.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/x4spwzlq.2sj_IMG_03_2110099146188.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/n42utfv1.px5_IMG_04_2110099146188.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/339/-/productimages/tljkuctl.z4z_IMG_01_2110099146188.jpg, https://cdn.beymen.com/mnresize/678/-/productimages/tljkuctl.z4z_IMG_01_2110099146188.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_valentino-garavani-siyah-kadin-deri-canta_1625321",
+    "price": [
+      {
+        "value": "36.495 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "innerText",
+        "numericValue": 36495,
+        "unsetPrice": false
+      },
+      {
+        "value": "63.950 TL",
+        "selector": ".m-productCard__oldPrice",
+        "attribute": "innerText",
+        "numericValue": 63950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".m-productCard__newPrice",
+        ".m-productCard__oldPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#productList"
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-06T07:06:39.352Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
     "title": "Nyluxe Siyah Kadın Çanta",
     "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg",
+      "https://cdn.beymen.com/mnresize/678/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg",
+      "https://cdn.beymen.com/mnresize/339/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/aviq50iv.yy2_IMG_02_2110099142692.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/qbeiyuar.5dz_IMG_03_2110099142692.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/z1eexwbv.zhi_IMG_04_2110099142692.jpg"
     ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg 2x",
+    "primaryImg": "https://cdn.beymen.com/mnresize/339/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg, https://cdn.beymen.com/mnresize/678/-/productimages/ihuquura.hzp_IMG_01_2110099142692.jpg 2x",
     "link": "https://www.beymen.com/tr/p_beymen-nyluxe-siyah-kadin-canta_1627161",
     "price": [
       {
@@ -45,7 +143,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-04T05:48:06.595Z",
+    "timestamp": "2025-08-06T07:06:39.354Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -55,14 +153,14 @@
   {
     "title": "The Denim Chain Glamshot Mavi Kadın Çanta",
     "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg",
+      "https://cdn.beymen.com/mnresize/678/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg",
+      "https://cdn.beymen.com/mnresize/339/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/fma4km1e.crt_IMG_02_2110100124358.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/mwep20dd.lli_IMG_03_2110100124358.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/enuxittg.wmv_IMG_04_2110100124358.jpg"
     ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg 2x",
+    "primaryImg": "https://cdn.beymen.com/mnresize/339/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg, https://cdn.beymen.com/mnresize/678/-/productimages/izvz2caa.bmf_IMG_01_2110100124358.jpg 2x",
     "link": "https://www.beymen.com/tr/p_marc-jacobs-the-denim-chain-glamshot-mavi-kadin-canta_1638067",
     "price": [
       {
@@ -98,7 +196,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-04T05:48:06.598Z",
+    "timestamp": "2025-08-06T07:06:39.356Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,14 +206,15 @@
   {
     "title": "Re-Edition 2005 Siyah Re-Nylon Mini Kadın El Çantası",
     "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
+      "https://cdn.beymen.com/mnresize/678/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
+      "https://cdn.beymen.com/mnresize/339/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/5ddkosl4.s3b_MP_72a6b209-4438-45e8-8d43-9f41e2cab39c_2_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/rheupikx.div_MP_0509a5ac-db79-4a21-9d33-2a39496ffdb5_3_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/tteb0rci.gra_MP_a5f02425-a6db-4717-8706-c0227196d4b0_4_31398568582310051232166451453_817.jpg"
     ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg 2x",
+    "primaryImg": "https://cdn.beymen.com/mnresize/339/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg, https://cdn.beymen.com/mnresize/678/-/productimages/lw5qcgmq.mcm_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg 2x",
     "link": "https://www.beymen.com/tr/p_prada-re-edition-2005-siyah-re-nylon-mini-kadin-el-cantasi_1623000",
     "price": [
       {
@@ -143,113 +242,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-04T05:48:06.600Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Medium Heires Beyaz Kadın Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bqquxqo0.1n4_IMG_02_2110100073359.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kjf2xhvf.gfi_IMG_03_2110100073359.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/wglfqkub.tns_IMG_04_2110100073359.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_alexander-wang-medium-heires-beyaz-kadin-canta_1668420",
-    "price": [
-      {
-        "value": "26.495 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "innerText",
-        "numericValue": 26495,
-        "unsetPrice": false
-      },
-      {
-        "value": "41.950 TL",
-        "selector": ".m-productCard__oldPrice",
-        "attribute": "innerText",
-        "numericValue": 41950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".m-productCard__newPrice",
-        ".m-productCard__oldPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#productList"
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-04T05:48:06.602Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Geromino Lacivert Kadın Alışveriş Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/rnp5zix4.xwz_IMG_01_2110099142876.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/rnp5zix4.xwz_IMG_01_2110099142876.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/rnp5zix4.xwz_IMG_01_2110099142876.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/td0cvwsp.ptf_IMG_02_2110099142876.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/zazztzcw.hgu_IMG_03_2110099142876.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/fgu3pbbu.ykf_IMG_04_2110099142876.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/rnp5zix4.xwz_IMG_01_2110099142876.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/rnp5zix4.xwz_IMG_01_2110099142876.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_beymen-geromino-lacivert-kadin-alisveris-cantasi_1641137",
-    "price": [
-      {
-        "value": "4.199 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "innerText",
-        "numericValue": 4199,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.950 TL",
-        "selector": ".m-productCard__oldPrice",
-        "attribute": "innerText",
-        "numericValue": 6950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".m-productCard__newPrice",
-        ".m-productCard__oldPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#productList"
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-04T05:48:06.603Z",
+    "timestamp": "2025-08-06T07:06:39.357Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
