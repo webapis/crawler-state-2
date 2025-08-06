@@ -1,1 +1,247 @@
-[]
+[
+  {
+    "title": "Converse Unisex Yeşil Bel Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/dc998ef8-6002-419b-87e1-e7e38d53755c_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/74b98fbf-ea49-440f-850b-5d64c1f7168d_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/dc998ef8-6002-419b-87e1-e7e38d53755c_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-unisex-yesil-bel-cantasi/10026645-384/",
+    "price": [
+      {
+        "value": "₺ 1.499",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1499,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 1.999",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 1999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-06T07:07:13.898Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Converse Unisex Siyah Bel Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/412f5216-eb26-4d1f-a9ec-ecec8a80db75_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/f68ae508-03a9-43b8-99f2-4d276074e39c_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/412f5216-eb26-4d1f-a9ec-ecec8a80db75_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-unisex-siyah-bel-cantasi/10026645-001/",
+    "price": [
+      {
+        "value": "₺ 1.499",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1499,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 1.999",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 1999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-06T07:07:13.899Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Converse Go 2 Unisex Siyah El Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/e54200d0-133a-47e4-abe7-f637d89bed06_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/12deffe6-b859-4225-8590-1d1948d10d3d_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/e54200d0-133a-47e4-abe7-f637d89bed06_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-go-2-unisex-siyah-el-cantasi/10027605-001/",
+    "price": [
+      {
+        "value": "₺ 1.724",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1724,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 2.299",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-06T07:07:13.900Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Converse Go 2 Unisex Lacivert El Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/07dd976d-b86e-4473-a436-11349febc949_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/94dfd966-83c4-41fa-82a8-591c24c372ab_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/07dd976d-b86e-4473-a436-11349febc949_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-go-2-unisex-lacivert-el-cantasi/10027605-403/",
+    "price": [
+      {
+        "value": "₺ 1.724",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1724,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 2.299",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-06T07:07:13.901Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Converse Unisex Siyah Sırt Çantası",
+    "img": [
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/44e5d3a4-1747-42d2-87ff-b0c1929d7248_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/b0013a6c-22d4-479b-9ee5-26c250dc6aaf_size338x422.jpg"
+    ],
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/44e5d3a4-1747-42d2-87ff-b0c1929d7248_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-unisex-siyah-sirt-cantasi/10026646-001/",
+    "price": [
+      {
+        "value": "₺ 2.999",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 2999,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 3.999",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 3999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "h2.product-item__name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta | Converse Türkiye",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-06T07:07:13.902Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
