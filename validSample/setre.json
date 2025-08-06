@@ -1,31 +1,24 @@
 [
   {
-    "title": "Bej %100 Keten Bel Detaylı Rahat Kesim Etek",
+    "title": "Açık Bej Askılı Kemer Detaylı Kol Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-bel-detayli-rahat-k-6e-bac.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-bel-detayli-rahat-k-6e-bac.jpg",
-    "link": "https://www.setre.com/bej-100-keten-bel-detayli-rahat-kesim-etek-44176",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg",
+    "link": "https://www.setre.com/acik-bej-askili-kemer-detayli-kol-cantasi-40264",
     "price": [
       {
-        "value": "$320.00",
+        "value": "$304.00",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 10720,
+        "numericValue": 10184,
         "unsetPrice": false
       },
       {
-        "value": "160,00 $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 5360,
-        "unsetPrice": false
-      },
-      {
-        "value": "$320.00",
+        "value": "$304.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 10720,
+        "numericValue": 10184,
         "unsetPrice": false
       }
     ],
@@ -40,15 +33,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com",
-    "pageURL": "https://www.setre.com/kadin-giyim",
-    "timestamp": "2025-08-06T08:58:39.482Z",
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-06T09:02:55.311Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,32 +48,121 @@
     "priceValid": true
   },
   {
-    "title": "Bej %100 Keten Cep Detaylı Asimetrik Kapama Ceket",
+    "title": "Açık Bej Büzgü Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-cep-detayli-asimetr-57f8c0.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-cep-detayli-asimetr-57f8c0.jpg",
-    "link": "https://www.setre.com/bej-100-keten-cep-detayli-asimetrik-kapama-ceket-42557",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg",
+    "link": "https://www.setre.com/acik-bej-buzgu-detayli-omuz-cantasi-40265",
     "price": [
       {
-        "value": "$480.00",
+        "value": "$384.00",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 16080,
+        "numericValue": 12864,
         "unsetPrice": false
       },
       {
-        "value": "240,00 $",
-        "selector": ".productPrice  .lastprice",
+        "value": "$384.00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 12864,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#ProductPageProductList.ProductList"
+    },
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-06T09:02:55.312Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Açık Bej Desenli Fermuarlı Portföy Cüzdan",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg",
+    "link": "https://www.setre.com/acik-bej-desenli-fermuarli-portfoy-canta-40266",
+    "price": [
+      {
+        "value": "$208.00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 6968,
+        "unsetPrice": false
+      },
+      {
+        "value": "$208.00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 6968,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#ProductPageProductList.ProductList"
+    },
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-06T09:02:55.314Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Açık Bej Fermuar Detaylı Portföy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg",
+    "link": "https://www.setre.com/acik-bej-fermuar-detayli-portfoy-canta-40262",
+    "price": [
+      {
+        "value": "$240.00",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 8040,
         "unsetPrice": false
       },
       {
-        "value": "$480.00",
+        "value": "$240.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 16080,
+        "numericValue": 8040,
         "unsetPrice": false
       }
     ],
@@ -96,15 +177,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com",
-    "pageURL": "https://www.setre.com/kadin-giyim",
-    "timestamp": "2025-08-06T08:58:39.483Z",
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-06T09:02:55.315Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,32 +192,25 @@
     "priceValid": true
   },
   {
-    "title": "Bej %100 Keten Cep Detaylı Tam Kalıp Pantolon",
+    "title": "Açık Bej Uzun Askı Detaylı Kol Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-cep-detayli-tam-kal-4078b7.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-cep-detayli-tam-kal-4078b7.jpg",
-    "link": "https://www.setre.com/bej-100-keten-cep-detayli-tam-kalip-pantolon-44147",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=682,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg",
+    "link": "https://www.setre.com/acik-bej-uzun-aski-detayli-kol-cantasi-40263",
     "price": [
       {
-        "value": "$320.00",
+        "value": "$384.00",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 10720,
+        "numericValue": 12864,
         "unsetPrice": false
       },
       {
-        "value": "160,00 $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 5360,
-        "unsetPrice": false
-      },
-      {
-        "value": "$320.00",
+        "value": "$384.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 10720,
+        "numericValue": 12864,
         "unsetPrice": false
       }
     ],
@@ -152,127 +225,14 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com",
-    "pageURL": "https://www.setre.com/kadin-giyim",
-    "timestamp": "2025-08-06T08:58:39.485Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Bej %100 Keten Kemer Detaylı Midi Boy Etek",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-kemer-detayli-midi---83e7-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-kemer-detayli-midi---83e7-.jpg",
-    "link": "https://www.setre.com/bej-100-keten-kemer-detayli-midi-boy-etek-42547",
-    "price": [
-      {
-        "value": "$336.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 11256,
-        "unsetPrice": false
-      },
-      {
-        "value": "168,00 $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 5628,
-        "unsetPrice": false
-      },
-      {
-        "value": "$336.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 11256,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com",
-    "pageURL": "https://www.setre.com/kadin-giyim",
-    "timestamp": "2025-08-06T08:58:39.486Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Bej %100 Keten Uzun Kollu Oversize Gömlek",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-uzun-kollu-gomlekst-7b28fc.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrebej-100-keten-uzun-kollu-gomlekst-7b28fc.jpg",
-    "link": "https://www.setre.com/bej-1yb4ecgm0666-gomlek-42443",
-    "price": [
-      {
-        "value": "$272.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 9112,
-        "unsetPrice": false
-      },
-      {
-        "value": "136,00 $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 4556,
-        "unsetPrice": false
-      },
-      {
-        "value": "$272.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 9112,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com",
-    "pageURL": "https://www.setre.com/kadin-giyim",
-    "timestamp": "2025-08-06T08:58:39.487Z",
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-06T09:02:55.316Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
