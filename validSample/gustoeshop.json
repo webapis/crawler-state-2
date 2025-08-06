@@ -1,96 +1,98 @@
 [
   {
-    "title": "Soft Leather Bag - Burgundy",
+    "title": "Patterned Satin Shirt - Brick",
     "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30940-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30942-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30542-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30941-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30940-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30942-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30542-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30941-69-O.webp"
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32497-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32496-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32498-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32499-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32500-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32501-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32497-72-O.webp",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32496-72-O.webp",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32498-72-O.webp",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32499-72-O.webp",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32500-72-O.webp",
+      "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32501-72-O.webp"
     ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-burgundy-25yg",
+    "primaryImg": "https://witcdn.gustoeshop.com/enpatterned-satin-shirt-brick-25yg-satin-shirt-gusto-32497-72-O.jpg",
+    "link": "https://gustoeshop.com/en/patterned-satin-shirt-brick-25yg",
     "price": [
       {
-        "value": "85,62 EUR",
+        "value": "47,28 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1749.83,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "78,80 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2916.39,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "47,28 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1749.83,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "47,28 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1749.83,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "47,28",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 47.28,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "78,80 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2916.39,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "47,28",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 47.28,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "78,80 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2916.39,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "47,28 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1749.83,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "78,80 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2916.39,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "47,28",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 47.28,
         "unsetPrice": false
       }
     ],
@@ -111,9 +113,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-06T07:19:22.016Z",
+    "pageTitle": "Tops",
+    "pageURL": "https://gustoeshop.com/kadin-ust-giyim?ps=4",
+    "timestamp": "2025-08-06T07:24:34.866Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -121,97 +123,100 @@
     "priceValid": true
   },
   {
-    "title": "Soft Leather Bag - Beige",
+    "title": "Mandarin Collar Drawstring Waist Modal Shirt - Ecru",
     "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30939-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30937-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30540-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30938-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30939-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30937-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30540-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30938-69-O.webp"
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32505-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32504-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32506-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32507-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32508-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32509-72-O.jpg",
+      "https://gustoeshop.com/kadin-ust-giyim/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32505-72-O.webp",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32504-72-O.webp",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32506-72-O.webp",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32507-72-O.webp",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32508-72-O.webp",
+      "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32509-72-O.webp"
     ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-beige-25yg",
+    "primaryImg": "https://witcdn.gustoeshop.com/enmandarin-collar-drawstring-waist-modal-shirt-ecru-25yg-waist-rope-shirt-gusto-32505-72-O.jpg",
+    "link": "https://gustoeshop.com/en/mandarin-collar-drawstring-waist-modal-shirt-ecru-25yg",
     "price": [
       {
-        "value": "85,62 EUR",
+        "value": "56,22 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 2080.7,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "93,71 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 3468.21,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "56,22 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 2080.7,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "56,22 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 2080.7,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "56,22",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 56.22,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "93,71 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 3468.21,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "56,22",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 56.22,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "93,71 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 3468.21,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "56,22 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 2080.7,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "93,71 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 3468.21,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "56,22",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 56.22,
         "unsetPrice": false
       }
     ],
@@ -232,9 +237,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-06T07:19:22.017Z",
+    "pageTitle": "Tops",
+    "pageURL": "https://gustoeshop.com/kadin-ust-giyim?ps=4",
+    "timestamp": "2025-08-06T07:24:34.867Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -242,93 +247,98 @@
     "priceValid": true
   },
   {
-    "title": "Soft Leather Bag - Black",
+    "title": "Waist Rope Belted Tencel Blouse - Green",
     "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31381-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31382-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31381-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31382-69-O.webp"
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31183-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31181-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31180-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31182-72-O.jpg",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31184-72-O.jpg",
+      "https://gustoeshop.com/kadin-ust-giyim/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31183-72-O.webp",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31181-72-O.webp",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31180-72-O.webp",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31182-72-O.webp",
+      "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31184-72-O.webp"
     ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-black-25yg",
+    "primaryImg": "https://witcdn.gustoeshop.com/enwaist-rope-belted-tencel-blouse-green-25yg-zero-sleeve-blouse-gusto-31183-72-O.jpg",
+    "link": "https://gustoeshop.com/en/waist-rope-belted-tencel-blouse-green-25yg",
     "price": [
       {
-        "value": "85,62 EUR",
+        "value": "39,61 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1465.97,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "66,02 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2443.4,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "39,61 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1465.97,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "39,61 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1465.97,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "39,61",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 39.61,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "66,02 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2443.4,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "39,61",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 39.61,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "66,02 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2443.4,
         "unsetPrice": false
       },
       {
-        "value": "85,62 EUR",
+        "value": "39,61 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3168.8,
+        "numericValue": 1465.97,
         "unsetPrice": false
       },
       {
-        "value": "142,69 EUR",
+        "value": "66,02 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5280.96,
+        "numericValue": 2443.4,
         "unsetPrice": false
       },
       {
-        "value": "85,62",
+        "value": "39,61",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 85.62,
+        "numericValue": 39.61,
         "unsetPrice": false
       }
     ],
@@ -349,9 +359,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-06T07:19:22.018Z",
+    "pageTitle": "Tops",
+    "pageURL": "https://gustoeshop.com/kadin-ust-giyim?ps=4",
+    "timestamp": "2025-08-06T07:24:34.868Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -359,100 +369,100 @@
     "priceValid": true
   },
   {
-    "title": "Leather Bag with Long Handles - Black",
+    "title": "One-Shoulder Satin Blouse - Black",
     "img": [
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28587-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28588-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28589-68-O.jpg",
-      "https://gustoeshop.com/canta/theme/standart/images/lazy_load_yukleniyor.gif",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28590-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28587-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28588-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28589-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28590-68-O.webp"
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31959-71-O.jpg",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31960-71-O.jpg",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31961-71-O.jpg",
+      "https://gustoeshop.com/kadin-ust-giyim/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31962-71-O.jpg",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31963-71-O.jpg",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31964-71-O.jpg",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31959-71-O.webp",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31960-71-O.webp",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31961-71-O.webp",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31962-71-O.webp",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31963-71-O.webp",
+      "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31964-71-O.webp"
     ],
-    "primaryImg": "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.jpg",
-    "link": "https://gustoeshop.com/en/leather-bag-with-long-handles-black-25yg",
+    "primaryImg": "https://witcdn.gustoeshop.com/enone-shoulder-satin-blouse-black-25yg-black-blouse-gusto-31959-71-O.jpg",
+    "link": "https://gustoeshop.com/en/one-shoulder-satin-blouse-black-25yg",
     "price": [
       {
-        "value": "105,42 EUR",
+        "value": "40,89 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3901.59,
+        "numericValue": 1513.34,
         "unsetPrice": false
       },
       {
-        "value": "175,70 EUR",
+        "value": "68,15 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 6502.66,
+        "numericValue": 2522.23,
         "unsetPrice": false
       },
       {
-        "value": "105,42 EUR",
+        "value": "40,89 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3901.59,
+        "numericValue": 1513.34,
         "unsetPrice": false
       },
       {
-        "value": "105,42 EUR",
+        "value": "40,89 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3901.59,
+        "numericValue": 1513.34,
         "unsetPrice": false
       },
       {
-        "value": "105,42",
+        "value": "40,89",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 105.42,
+        "numericValue": 40.89,
         "unsetPrice": false
       },
       {
-        "value": "175,70 EUR",
+        "value": "68,15 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 6502.66,
+        "numericValue": 2522.23,
         "unsetPrice": false
       },
       {
-        "value": "105,42",
+        "value": "40,89",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 105.42,
+        "numericValue": 40.89,
         "unsetPrice": false
       },
       {
-        "value": "175,70 EUR",
+        "value": "68,15 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 6502.66,
+        "numericValue": 2522.23,
         "unsetPrice": false
       },
       {
-        "value": "105,42 EUR",
+        "value": "40,89 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3901.59,
+        "numericValue": 1513.34,
         "unsetPrice": false
       },
       {
-        "value": "175,70 EUR",
+        "value": "68,15 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 6502.66,
+        "numericValue": 2522.23,
         "unsetPrice": false
       },
       {
-        "value": "105,42",
+        "value": "40,89",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 105.42,
+        "numericValue": 40.89,
         "unsetPrice": false
       }
     ],
@@ -473,9 +483,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-06T07:19:22.020Z",
+    "pageTitle": "Tops",
+    "pageURL": "https://gustoeshop.com/kadin-ust-giyim?ps=4",
+    "timestamp": "2025-08-06T07:24:34.869Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -483,95 +493,99 @@
     "priceValid": true
   },
   {
-    "title": "Lock Buckle Long Strap Mini Leather Bag - Brown",
+    "title": "Sleeveless Tencel Shirt with Pockets - Black",
     "img": [
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28584-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28585-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28586-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28584-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28585-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28586-67-O.webp"
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31790-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31791-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31792-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31793-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31794-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31795-70-O.jpg",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31790-70-O.webp",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31791-70-O.webp",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31792-70-O.webp",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31793-70-O.webp",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31794-70-O.webp",
+      "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31795-70-O.webp"
     ],
-    "primaryImg": "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.jpg",
-    "link": "https://gustoeshop.com/en/lock-buckle-long-strap-mini-leather-bag-brown-25yg",
+    "primaryImg": "https://witcdn.gustoeshop.com/ensleeveless-tencel-shirt-with-pockets-black-25yg-black-shirt-gusto-31790-70-O.jpg",
+    "link": "https://gustoeshop.com/en/sleeveless-tencel-shirt-with-pockets-black-25yg",
     "price": [
       {
-        "value": "84,34 EUR",
+        "value": "38,33 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3121.42,
+        "numericValue": 1418.59,
         "unsetPrice": false
       },
       {
-        "value": "140,56 EUR",
+        "value": "63,89 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5202.13,
+        "numericValue": 2364.57,
         "unsetPrice": false
       },
       {
-        "value": "84,34 EUR",
+        "value": "38,33 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3121.42,
+        "numericValue": 1418.59,
         "unsetPrice": false
       },
       {
-        "value": "84,34 EUR",
+        "value": "38,33 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3121.42,
+        "numericValue": 1418.59,
         "unsetPrice": false
       },
       {
-        "value": "84,34",
+        "value": "38,33",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 84.34,
+        "numericValue": 38.33,
         "unsetPrice": false
       },
       {
-        "value": "140,56 EUR",
+        "value": "63,89 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5202.13,
+        "numericValue": 2364.57,
         "unsetPrice": false
       },
       {
-        "value": "84,34",
+        "value": "38,33",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 84.34,
+        "numericValue": 38.33,
         "unsetPrice": false
       },
       {
-        "value": "140,56 EUR",
+        "value": "63,89 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5202.13,
+        "numericValue": 2364.57,
         "unsetPrice": false
       },
       {
-        "value": "84,34 EUR",
+        "value": "38,33 EUR",
         "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
-        "numericValue": 3121.42,
+        "numericValue": 1418.59,
         "unsetPrice": false
       },
       {
-        "value": "140,56 EUR",
+        "value": "63,89 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
-        "numericValue": 5202.13,
+        "numericValue": 2364.57,
         "unsetPrice": false
       },
       {
-        "value": "84,34",
+        "value": "38,33",
         "selector": ".current-price .product-price",
         "attribute": "innerText",
-        "numericValue": 84.34,
+        "numericValue": 38.33,
         "unsetPrice": false
       }
     ],
@@ -592,9 +606,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-06T07:19:22.021Z",
+    "pageTitle": "Tops",
+    "pageURL": "https://gustoeshop.com/kadin-ust-giyim?ps=4",
+    "timestamp": "2025-08-06T07:24:34.871Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
