@@ -6,17 +6,17 @@
     "link": "https://tr.uspoloassn.com/kadin-vizon-canta-50318180-vr052/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.049,97 TL",
+        "value": "Sepetteki Fiyatı 1.154,97 TL",
         "selector": ".product__listing--basket-price",
         "attribute": "innerText",
-        "numericValue": 1049.97,
+        "numericValue": 1154.97,
         "unsetPrice": false
       },
       {
-        "value": "1.499,95 TL",
+        "value": "1.649,95 TL",
         "selector": ".lone-price",
         "attribute": "innerText",
-        "numericValue": 1499.95,
+        "numericValue": 1649.95,
         "unsetPrice": false
       },
       {
@@ -27,10 +27,10 @@
         "unsetPrice": false
       },
       {
-        "value": "1.049,97 TL",
+        "value": "1.154,97 TL",
         "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
-        "numericValue": 1049.97,
+        "numericValue": 1154.97,
         "unsetPrice": false
       }
     ],
@@ -54,7 +54,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-04T05:46:08.288Z",
+    "timestamp": "2025-08-06T07:04:42.121Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
