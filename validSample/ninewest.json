@@ -32,8 +32,8 @@
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=7",
-    "timestamp": "2025-08-04T06:23:05.697Z",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=8",
+    "timestamp": "2025-08-06T07:09:22.690Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,14 +41,14 @@
     "priceValid": true
   },
   {
-    "title": "JOSTONE 5FX Gümüş Kadın Clutch",
+    "title": "JOSTONE 5FX Siyah Kadın Clutch",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976989_f1.jpg?w=500",
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983151_f1.jpg?w=500",
       "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101983151_f1.jpg?w=80",
       "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101976989_f1.jpg?w=80"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976989_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-jostone-5fx-gumus-kadin-clutch-101976989",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983151_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-jostone-5fx-siyah-kadin-clutch-101983151",
     "price": [
       {
         "value": "1.799,00 TL",
@@ -82,8 +82,58 @@
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=7",
-    "timestamp": "2025-08-04T06:23:05.699Z",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=8",
+    "timestamp": "2025-08-06T07:09:22.692Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "QUARIDA 5FX Krem Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102006787_f1.JPG?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/05/101977043_f1.JPG?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/05/102006787_f1.JPG?w=80"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/05/102006787_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-quarida-5fx-krem-kadin-capraz-canta-102006787",
+    "price": [
+      {
+        "value": "1.799,00 TL",
+        "selector": ".product-pricing-one__price",
+        "attribute": "innerText",
+        "numericValue": 1799,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.299,00 TL",
+        "selector": ".product-pricing-two span",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "matchedProductItemSelectorManual": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-pricing-one__price",
+        ".product-pricing-two span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.product-grid.product-lists"
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=8",
+    "timestamp": "2025-08-06T07:09:22.693Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -124,8 +174,8 @@
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=7",
-    "timestamp": "2025-08-04T06:23:05.701Z",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=8",
+    "timestamp": "2025-08-06T07:09:22.696Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -133,26 +183,27 @@
     "priceValid": true
   },
   {
-    "title": "QUARIDABIGGI 5FX Siyah Kadın Omuz Çantası",
+    "title": "BRIGANABIG 5FX Siyah Kadın Omuz Çantası",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986233_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986233_f1.jpg?w=80"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102014023_f1-1737624175.JPG?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/102014023_f1-1737624175.JPG?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=80"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986233_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-quaridabiggi-5fx-siyah-kadin-omuz-cantasi-101986233",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/102014023_f1-1737624175.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-briganabig-5fx-siyah-kadin-omuz-cantasi-102014023",
     "price": [
       {
-        "value": "2.199,00 TL",
+        "value": "2.999,00 TL",
         "selector": ".product-pricing-one__price",
         "attribute": "innerText",
-        "numericValue": 2199,
+        "numericValue": 2999,
         "unsetPrice": false
       },
       {
-        "value": "2.799,00 TL",
+        "value": "3.799,00 TL",
         "selector": ".product-pricing-two span",
         "attribute": "innerText",
-        "numericValue": 2799,
+        "numericValue": 3799,
         "unsetPrice": false
       }
     ],
@@ -173,58 +224,8 @@
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=7",
-    "timestamp": "2025-08-04T06:23:05.703Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "VOIRON 5FX Bej Kadın El Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101977091_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/102014121_f1-1737624191.JPG?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101977091_f1.jpg?w=80"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101977091_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-voiron-5fx-bej-kadin-el-cantasi-101977091",
-    "price": [
-      {
-        "value": "1.999,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "numericValue": 1999,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.499,00 TL",
-        "selector": ".product-pricing-two span",
-        "attribute": "innerText",
-        "numericValue": 2499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "matchedProductItemSelectorManual": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price",
-        ".product-pricing-two span"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.product-grid.product-lists"
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=7",
-    "timestamp": "2025-08-04T06:23:05.704Z",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=8",
+    "timestamp": "2025-08-06T07:09:22.698Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
