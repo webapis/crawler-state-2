@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Kadın Puffer Kapitoneli Omuz Çantası",
+    "img": [
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR295_01_01.jpg",
+      "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/ghostImages/productCard.svg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR295_02_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR295_03_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR295_04_01.jpg"
+    ],
+    "primaryImg": "https://dfcdn.defacto.com.tr/376/E5339AX_NS_BR295_01_01.jpg 525w,https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR295_01_01.jpg 773w,https://dfcdn.defacto.com.tr/768/E5339AX_NS_BR295_01_01.jpg 2000w,https://dfcdn.defacto.com.tr/768/E5339AX_NS_BR295_01_01.jpg 3000w",
+    "link": "https://www.defacto.com.tr/kadin-puffer-kapitoneli-omuz-cantasi-3204996",
+    "price": [
+      {
+        "value": "599.99 TL",
+        "selector": ".second-line .base-price:not(.campaing-base-price)",
+        "attribute": "innerText",
+        "numericValue": 599.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "599.99 TL",
+        "selector": ".second-line .base-price:not(.campaing-base-price)",
+        "attribute": "innerText",
+        "numericValue": 599.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-card",
+      "matchedProductItemSelectorManual": ".product-card",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".second-line .base-price:not(.campaing-base-price)"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#product-container .catalog-products"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
+    "pageURL": "https://www.defacto.com.tr/kadin-canta?page=6",
+    "timestamp": "2025-08-06T03:39:41.032Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Puffer Kapitoneli Omuz Çantası",
+    "img": [
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR3_01_01.jpg",
+      "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/ghostImages/productCard.svg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR3_02_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR3_03_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR3_04_01.jpg"
+    ],
+    "primaryImg": "https://dfcdn.defacto.com.tr/376/E5339AX_NS_BR3_01_01.jpg 525w,https://dfcdn.defacto.com.tr/480/E5339AX_NS_BR3_01_01.jpg 773w,https://dfcdn.defacto.com.tr/768/E5339AX_NS_BR3_01_01.jpg 2000w,https://dfcdn.defacto.com.tr/768/E5339AX_NS_BR3_01_01.jpg 3000w",
+    "link": "https://www.defacto.com.tr/kadin-puffer-kapitoneli-omuz-cantasi-3204998",
+    "price": [
+      {
+        "value": "599.99 TL",
+        "selector": ".second-line .base-price:not(.campaing-base-price)",
+        "attribute": "innerText",
+        "numericValue": 599.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "599.99 TL",
+        "selector": ".second-line .base-price:not(.campaing-base-price)",
+        "attribute": "innerText",
+        "numericValue": 599.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-card",
+      "matchedProductItemSelectorManual": ".product-card",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".second-line .base-price:not(.campaing-base-price)"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#product-container .catalog-products"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
+    "pageURL": "https://www.defacto.com.tr/kadin-canta?page=10",
+    "timestamp": "2025-08-06T03:39:56.504Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
