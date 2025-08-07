@@ -8,15 +8,29 @@
     "link": "https://www.ilvi.com/kranj-altin-renk-kadin-porfoy-canta",
     "price": [
       {
-        "value": "275.00$",
+        "value": "250.00$",
         "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
-        "value": "275.00$",
+        "value": "250.00$",
         "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -33,14 +47,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-06T07:07:20.106Z",
+    "timestamp": "2025-08-07T04:02:17.536Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,15 +72,29 @@
     "link": "https://www.ilvi.com/kranj-siyah-kadin-porfoy-canta",
     "price": [
       {
-        "value": "275.00$",
+        "value": "250.00$",
         "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
-        "value": "275.00$",
+        "value": "250.00$",
         "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -81,14 +111,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-06T07:07:20.107Z",
+    "timestamp": "2025-08-07T04:02:17.537Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -104,15 +136,29 @@
     "link": "https://www.ilvi.com/doolin-gumus-kadin-porfoy-canta",
     "price": [
       {
-        "value": "238.00$",
+        "value": "225.00$",
         "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
-        "value": "238.00$",
+        "value": "225.00$",
         "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -129,14 +175,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-06T07:07:20.108Z",
+    "timestamp": "2025-08-07T04:02:17.538Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -152,15 +200,29 @@
     "link": "https://www.ilvi.com/doolin-altin-kadin-porfoy-canta",
     "price": [
       {
-        "value": "238.00$",
+        "value": "225.00$",
         "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
-        "value": "238.00$",
+        "value": "225.00$",
         "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -177,14 +239,16 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-06T07:07:20.109Z",
+    "timestamp": "2025-08-07T04:02:17.539Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -232,7 +296,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-06T07:07:20.110Z",
+    "timestamp": "2025-08-07T04:02:17.540Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
