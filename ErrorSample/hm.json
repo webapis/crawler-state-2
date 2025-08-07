@@ -1,8 +1,10 @@
 [
   {
     "title": "Torba Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "link": "https://www2.hm.com/tr_tr/productpage.1294611001.html",
     "price": [
       {
@@ -20,7 +22,7 @@
       "matchedSelector": "article[data-category]",
       "matchedProductItemSelectorManual": "article[data-category]",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "[data-articlecode] div div p span"
@@ -30,7 +32,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-07T11:46:44.828Z",
+    "timestamp": "2025-08-07T11:54:23.876Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -39,8 +41,10 @@
   },
   {
     "title": "Çapraz Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "link": "https://www2.hm.com/tr_tr/productpage.1300469003.html",
     "price": [
       {
@@ -58,7 +62,7 @@
       "matchedSelector": "article[data-category]",
       "matchedProductItemSelectorManual": "article[data-category]",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "[data-articlecode] div div p span"
@@ -68,7 +72,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-07T11:46:44.829Z",
+    "timestamp": "2025-08-07T11:54:23.877Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -77,8 +81,10 @@
   },
   {
     "title": "Çapraz Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "link": "https://www2.hm.com/tr_tr/productpage.1290237002.html",
     "price": [
       {
@@ -96,7 +102,7 @@
       "matchedSelector": "article[data-category]",
       "matchedProductItemSelectorManual": "article[data-category]",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "[data-articlecode] div div p span"
@@ -106,7 +112,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-07T11:46:44.832Z",
+    "timestamp": "2025-08-07T11:54:23.880Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -115,8 +121,10 @@
   },
   {
     "title": "Hasır Tote Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "link": "https://www2.hm.com/tr_tr/productpage.1269052001.html",
     "price": [
       {
@@ -134,7 +142,7 @@
       "matchedSelector": "article[data-category]",
       "matchedProductItemSelectorManual": "article[data-category]",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "[data-articlecode] div div p span"
@@ -144,7 +152,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-07T11:46:44.833Z",
+    "timestamp": "2025-08-07T11:54:23.881Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -153,8 +161,10 @@
   },
   {
     "title": "Pamuklu Kanvas Shopper Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
     "link": "https://www2.hm.com/tr_tr/productpage.1060589002.html",
     "price": [
       {
@@ -172,7 +182,7 @@
       "matchedSelector": "article[data-category]",
       "matchedProductItemSelectorManual": "article[data-category]",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "[data-articlecode] div div p span"
@@ -182,7 +192,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-07T11:46:44.834Z",
+    "timestamp": "2025-08-07T11:54:23.882Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
