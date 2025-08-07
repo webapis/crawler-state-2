@@ -1,93 +1,5 @@
 [
   {
-    "title": "SUNİ DERİ MIX HASIR ÇANTA",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_1.JPG",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_2.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_3.JPG"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009.JPG",
-    "link": "https://www.twist.com.tr/urun/sari-canta",
-    "price": [
-      {
-        "value": "1.379,70 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "innerText",
-        "numericValue": 1379.7,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd:not(.prd-combine-cart)",
-      "matchedProductItemSelectorManual": ".prd:not(.prd-combine-cart)",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".urunListe_satisFiyat"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-07T08:23:54.485Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "SUNİ DERİ MIX HASIR ÇANTA",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_1.JPG",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_2.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009_3.JPG"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052100009.JPG",
-    "link": "https://www.twist.com.tr/urun/sari-canta",
-    "price": [
-      {
-        "value": "1.379,70 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "innerText",
-        "numericValue": 1379.7,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".urunListe_satisFiyat"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-07T08:23:54.486Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "KONTRAST KORDONLU ÇANTA",
     "img": [
       "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052136001.JPG",
@@ -111,8 +23,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd:not(.prd-combine-cart)",
-      "matchedProductItemSelectorManual": ".prd:not(.prd-combine-cart)",
+      "matchedSelector": ".prd",
+      "matchedProductItemSelectorManual": ".prd",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
@@ -124,7 +36,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-07T08:23:54.487Z",
+    "timestamp": "2025-08-07T09:26:29.300Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,7 +80,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-07T08:23:54.488Z",
+    "timestamp": "2025-08-07T09:26:29.301Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -199,8 +111,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd:not(.prd-combine-cart)",
-      "matchedProductItemSelectorManual": ".prd:not(.prd-combine-cart)",
+      "matchedSelector": ".prd",
+      "matchedProductItemSelectorManual": ".prd",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
@@ -212,7 +124,95 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-07T08:23:54.489Z",
+    "timestamp": "2025-08-07T09:26:29.302Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "ZİNCİR ASKILI DERİ GÖRÜNÜMLÜ ÇANTA",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052053001.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052053001_1.JPG",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052053001_2.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052053001_3.JPG"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052053001.JPG",
+    "link": "https://www.twist.com.tr/urun/siyah-canta-tr-17373",
+    "price": [
+      {
+        "value": "989,70 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "innerText",
+        "numericValue": 989.7,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".urunListe_satisFiyat"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".prd-list .product-list-grid"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-08-07T09:26:29.303Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "KARMA CHARM LI ÇANTA",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052143022.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052143022_2.JPG",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052143022_3.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052143022_4.JPG"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS25/Stillife/TS1250052143022.JPG",
+    "link": "https://www.twist.com.tr/urun/haki-canta-1907",
+    "price": [
+      {
+        "value": "1.379,70 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "innerText",
+        "numericValue": 1379.7,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".prd",
+      "matchedProductItemSelectorManual": ".prd",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".urunListe_satisFiyat"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".prd-list .product-list-grid"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-08-07T09:26:29.305Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
