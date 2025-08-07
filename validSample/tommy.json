@@ -37,7 +37,52 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-06T07:04:47.930Z",
+    "timestamp": "2025-08-07T07:37:31.269Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kapat",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638876742611896545.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638876742611896545.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638876742611896545.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638876742613459094.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638876742613459094.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638876742613459094.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638876742611896545.webp",
+    "link": "https://tr.tommy.com/unisex-th-summer-tote-canta_201175",
+    "price": [
+      {
+        "value": "5.849,00 TL",
+        "selector": ".old-price",
+        "attribute": "innerText",
+        "numericValue": 5849,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .p-image a)",
+      "matchedSelector": ".p-item.col-6",
+      "matchedProductItemSelectorManual": ".p-item.col-6",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".old-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-08-07T07:37:31.270Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -79,7 +124,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-06T07:04:47.932Z",
+    "timestamp": "2025-08-07T07:37:31.271Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -89,21 +134,21 @@
   {
     "title": "Kapat",
     "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463308985489.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463308985489.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463308985489.webp"
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463254922830.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463254922830.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463254922830.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463256641852.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463256641852.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463256641852.webp"
     ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463306797988.webp",
-    "link": "https://tr.tommy.com/kadin-tjw-edition-tote-canta_201046",
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463254922830.webp",
+    "link": "https://tr.tommy.com/kadin-tjw-daily-mini-tote-canta_201045",
     "price": [
       {
-        "value": "4.499,00 TL",
+        "value": "3.149,00 TL",
         "selector": ".p-price .one-price",
         "attribute": "innerText",
-        "numericValue": 4499,
+        "numericValue": 3149,
         "unsetPrice": false
       }
     ],
@@ -124,7 +169,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-06T07:04:47.933Z",
+    "timestamp": "2025-08-07T07:37:31.272Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,52 +214,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-06T07:04:47.934Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kapat",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638846504147776654.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638846504147776654.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638846504147776654.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638846504149182928.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638846504149182928.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638846504149182928.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638846504147776654.webp",
-    "link": "https://tr.tommy.com/kadin-tjw-daily-omuz-cantasi_200874",
-    "price": [
-      {
-        "value": "3.149,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "innerText",
-        "numericValue": 3149,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .p-image a)",
-      "matchedSelector": ".p-item.col-6",
-      "matchedProductItemSelectorManual": ".p-item.col-6",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-06T07:04:47.935Z",
+    "timestamp": "2025-08-07T07:37:31.273Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
