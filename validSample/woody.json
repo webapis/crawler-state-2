@@ -1,111 +1,5 @@
 [
   {
-    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 010-LABRADOODLE",
-    "img": [
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_200.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
-    "link": "https://www.woody.com.tr/velsoft-canta-wbh-010-labradoodle_242-10-wbh-m-unilab101",
-    "price": [
-      {
-        "value": "₺1.274,93",
-        "selector": ".productPrice .newPrice",
-        "attribute": "innerText",
-        "numericValue": 1274.93,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺1.699,90",
-        "selector": ".productPrice .oldPrice",
-        "attribute": "innerText",
-        "numericValue": 1699.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.ts.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | Çanta",
-    "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-07T09:27:59.474Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 020-Dinozor Temalı Lacivert",
-    "img": [
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_200.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
-    "link": "https://www.woody.com.tr/velsoft-canta-wbh-020-acik-yesil_242-10-wbh-m-unidin101",
-    "price": [
-      {
-        "value": "₺1.274,93",
-        "selector": ".productPrice .newPrice",
-        "attribute": "innerText",
-        "numericValue": 1274.93,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺1.699,90",
-        "selector": ".productPrice .oldPrice",
-        "attribute": "innerText",
-        "numericValue": 1699.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.ts.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | Çanta",
-    "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-07T09:27:59.475Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Ayrıntıları göster Havlu Çanta-Wbc - 845-Mavi",
     "img": [
       "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_1000.jpeg",
@@ -151,7 +45,7 @@
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-07T09:27:59.476Z",
+    "timestamp": "2025-08-07T10:11:49.379Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -204,7 +98,113 @@
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-07T09:27:59.477Z",
+    "timestamp": "2025-08-07T10:11:49.380Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 010-LABRADOODLE",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wbh-010-labradoodle_242-10-wbh-m-unilab101",
+    "price": [
+      {
+        "value": "₺1.274,93",
+        "selector": ".productPrice .newPrice",
+        "attribute": "innerText",
+        "numericValue": 1274.93,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.699,90",
+        "selector": ".productPrice .oldPrice",
+        "attribute": "innerText",
+        "numericValue": 1699.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".productPrice .newPrice",
+        ".productPrice .oldPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.ts.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T10:11:49.382Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 020-Dinozor Temalı Lacivert",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wbh-020-acik-yesil_242-10-wbh-m-unidin101",
+    "price": [
+      {
+        "value": "₺1.274,93",
+        "selector": ".productPrice .newPrice",
+        "attribute": "innerText",
+        "numericValue": 1274.93,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.699,90",
+        "selector": ".productPrice .oldPrice",
+        "attribute": "innerText",
+        "numericValue": 1699.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".productPrice .newPrice",
+        ".productPrice .oldPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.ts.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T10:11:49.384Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -257,7 +257,7 @@
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-07T09:27:59.478Z",
+    "timestamp": "2025-08-07T10:11:49.386Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
