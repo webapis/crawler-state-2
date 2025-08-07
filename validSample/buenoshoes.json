@@ -40,7 +40,7 @@
     },
     "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
-    "timestamp": "2025-08-07T07:52:28.347Z",
+    "timestamp": "2025-08-07T08:23:12.315Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,7 +88,7 @@
     },
     "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
-    "timestamp": "2025-08-07T07:52:28.348Z",
+    "timestamp": "2025-08-07T08:23:12.316Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -136,7 +136,55 @@
     },
     "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
-    "timestamp": "2025-08-07T07:52:28.349Z",
+    "timestamp": "2025-08-07T08:23:12.317Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Gül Kurusu Deri Kadın Espadril Ayakkabı",
+    "img": [
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/duz-ornek-tanim_74_1281_R2.jpg?v=1146"
+    ],
+    "primaryImg": "SFolder/ProductImages/duz-ornek-tanim_74_1281_R2.jpg?v=1146",
+    "link": "https://www.buenoshoes.com.tr/gul-kurusu-deri-kadin-espadril-ayakkabi-322-1-74",
+    "price": [
+      {
+        "value": "t 1.999,00",
+        "selector": "span.divUFiyat1",
+        "attribute": "innerText",
+        "numericValue": 1999,
+        "unsetPrice": false
+      },
+      {
+        "value": "t 2.499,00",
+        "selector": "[itemprop=\"highPrice\"]",
+        "attribute": "innerText",
+        "numericValue": 2499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "matchedProductItemSelectorManual": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.divUFiyat1",
+        "[itemprop=\"highPrice\"]"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".divUOrta .divUUrunler"
+    },
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T08:23:12.318Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,55 +232,7 @@
     },
     "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
-    "timestamp": "2025-08-07T07:52:28.350Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Yeşil Açık Deri Kadın Spor Ayakkabı",
-    "img": [
-      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/gunluk-ayakkabi-kadin-gunluk-ayakkabi_2557_36981_R2.jpg?v=1112"
-    ],
-    "primaryImg": "SFolder/ProductImages/gunluk-ayakkabi-kadin-gunluk-ayakkabi_2557_36981_R2.jpg?v=1112",
-    "link": "https://www.buenoshoes.com.tr/yesil-acik-deri-kadin-spor-ayakkabi-5976-1-2557",
-    "price": [
-      {
-        "value": "t 3.199,20",
-        "selector": "span.divUFiyat1",
-        "attribute": "innerText",
-        "numericValue": 3199.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.999,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "numericValue": 3999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "matchedProductItemSelectorManual": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".divUOrta .divUUrunler"
-    },
-    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
-    "timestamp": "2025-08-07T07:52:28.351Z",
+    "timestamp": "2025-08-07T08:23:12.319Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
