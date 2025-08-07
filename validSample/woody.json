@@ -1,16 +1,69 @@
 [
   {
-    "title": "Ayrıntıları göster Erkek Pijama-Hpb - 952-Mavi Beyaz Dama Desenli",
+    "title": "Ayrıntıları göster Havlu Çanta-Wbc - 845-Mavi",
     "img": [
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b3f9521a24d5104b7da_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b3f9521a24d5104b7da_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b3f9521a24d5104b7da_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_200.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b409521a24d5104b897_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b409521a24d5104b897_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92b409521a24d5104b897_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_200.jpeg"
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_200.jpeg"
     ],
-    "primaryImg": "/content/images/thumbs/67d92b3f9521a24d5104b7da_erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_1000.jpeg",
-    "link": "https://www.woody.com.tr/erkek-pijama-hpb-952-allover-check-blue-woody-helen-b_253-18-hpb-z-a-printedhln003",
+    "primaryImg": "/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_1000.jpeg",
+    "link": "https://www.woody.com.tr/havlu-canta-wbc-845-mavi_251-10-wbc-bdck106",
+    "price": [
+      {
+        "value": "₺449,95",
+        "selector": ".productPrice .newPrice",
+        "attribute": "innerText",
+        "numericValue": 449.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺899,90",
+        "selector": ".productPrice .oldPrice",
+        "attribute": "innerText",
+        "numericValue": 899.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".productPrice .newPrice",
+        ".productPrice .oldPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T05:26:26.145Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Terry Havlu Kol Çantası-Hba - 953-Mavi Beyaz Çizgili",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56594_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56594_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56594_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56230_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56230_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56230_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/67d94c579521a24d51b56594_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_1000.jpeg",
+    "link": "https://www.woody.com.tr/terry-havlu-kol-cantasi-hba-953-mavi-beyaz-cizgili_253-18-hba-thln001",
     "price": [
       {
         "value": "₺1.199,96",
@@ -43,9 +96,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.subCategoryList"
     },
-    "pageTitle": "Woody Türkiye | ERKEK",
-    "pageURL": "https://www.woody.com.tr/erkek-2",
-    "timestamp": "2025-08-07T05:23:49.018Z",
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T05:26:26.146Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -53,30 +106,30 @@
     "priceValid": true
   },
   {
-    "title": "Ayrıntıları göster Erkek Pijama-Hpb - 951-Kırmızı Beyaz Dama Desenli",
+    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 010-LABRADOODLE",
     "img": [
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92cb19521a24d51214b2b_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92cb19521a24d51214b2b_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92cb19521a24d51214b2b_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_200.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92ca69521a24d5120fe40_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92ca69521a24d5120fe40_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d92ca69521a24d5120fe40_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_200.jpeg"
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd0657b62c99283eaf74b4_velsoft-anta-wbh-010-labradoodle_200.jpeg"
     ],
-    "primaryImg": "/content/images/thumbs/67d92cb19521a24d51214b2b_erkek-pijama-hpb-951-allover-check-red-woody-helen-b_1000.jpeg",
-    "link": "https://www.woody.com.tr/erkek-pijama-hpb-951-allover-check-red-woody-helen-b_253-18-hpb-z-a-printedhln002",
+    "primaryImg": "/content/images/thumbs/66fd0657b62c99283eaf786f_velsoft-anta-wbh-010-labradoodle_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wbh-010-labradoodle_242-10-wbh-m-unilab101",
     "price": [
       {
-        "value": "₺1.199,96",
+        "value": "₺1.274,93",
         "selector": ".productPrice .newPrice",
         "attribute": "innerText",
-        "numericValue": 1199.96,
+        "numericValue": 1274.93,
         "unsetPrice": false
       },
       {
-        "value": "₺2.999,90",
+        "value": "₺1.699,90",
         "selector": ".productPrice .oldPrice",
         "attribute": "innerText",
-        "numericValue": 2999.9,
+        "numericValue": 1699.9,
         "unsetPrice": false
       }
     ],
@@ -96,9 +149,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.subCategoryList"
     },
-    "pageTitle": "Woody Türkiye | ERKEK",
-    "pageURL": "https://www.woody.com.tr/erkek-2",
-    "timestamp": "2025-08-07T05:23:49.019Z",
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T05:26:26.147Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -106,30 +159,30 @@
     "priceValid": true
   },
   {
-    "title": "Ayrıntıları göster Erkek Pijama-Pss - 924-Çizgili Ekru",
+    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 020-Dinozor Temalı Lacivert",
     "img": [
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec633_erkek-pijama-pss-924-izgili-ekru_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec633_erkek-pijama-pss-924-izgili-ekru_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec633_erkek-pijama-pss-924-izgili-ekru_200.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec6b5_erkek-pijama-pss-924-izgili-ekru_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec6b5_erkek-pijama-pss-924-izgili-ekru_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d423809521a24d513ec6b5_erkek-pijama-pss-924-izgili-ekru_200.jpeg"
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_200.jpeg"
     ],
-    "primaryImg": "/content/images/thumbs/67d423809521a24d513ec633_erkek-pijama-pss-924-izgili-ekru_1000.jpeg",
-    "link": "https://www.woody.com.tr/erkek-pijama-pss-924-cizgili-ekru_251-10-pss-s-a-pinstripeldy116",
+    "primaryImg": "/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wbh-020-acik-yesil_242-10-wbh-m-unidin101",
     "price": [
       {
-        "value": "₺1.499,95",
+        "value": "₺1.274,93",
         "selector": ".productPrice .newPrice",
         "attribute": "innerText",
-        "numericValue": 1499.95,
+        "numericValue": 1274.93,
         "unsetPrice": false
       },
       {
-        "value": "₺2.999,90",
+        "value": "₺1.699,90",
         "selector": ".productPrice .oldPrice",
         "attribute": "innerText",
-        "numericValue": 2999.9,
+        "numericValue": 1699.9,
         "unsetPrice": false
       }
     ],
@@ -149,9 +202,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.subCategoryList"
     },
-    "pageTitle": "Woody Türkiye | ERKEK",
-    "pageURL": "https://www.woody.com.tr/erkek-2",
-    "timestamp": "2025-08-07T05:23:49.020Z",
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T05:26:26.148Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -159,30 +212,30 @@
     "priceValid": true
   },
   {
-    "title": "Ayrıntıları göster Erkek Deniz Şortu-Qww - 958-Miskin Baskılı Yeşil",
+    "title": "Ayrıntıları göster Velsoft Çanta-Wba - 719-Mint Yeşili",
     "img": [
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df219521a24d516c4100_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df219521a24d516c4100_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df219521a24d516c4100_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_200.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df209521a24d516c40c2_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df209521a24d516c40c2_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67d7df209521a24d516c40c2_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_200.jpeg"
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_200.jpeg"
     ],
-    "primaryImg": "/content/images/thumbs/67d7df219521a24d516c4100_erkek-deniz-ortu-qww-958-w-swim-aop-sloth_1000.jpeg",
-    "link": "https://www.woody.com.tr/-qww-958-w-swim-aop-sloth_251-12-qww-w-a-printedhrm115",
+    "primaryImg": "/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wba-719-mint-yesili_242-10-wba-m-uniduc102",
     "price": [
       {
-        "value": "₺1.349,95",
+        "value": "₺399,95",
         "selector": ".productPrice .newPrice",
         "attribute": "innerText",
-        "numericValue": 1349.95,
+        "numericValue": 399.95,
         "unsetPrice": false
       },
       {
-        "value": "₺2.699,90",
+        "value": "₺799,90",
         "selector": ".productPrice .oldPrice",
         "attribute": "innerText",
-        "numericValue": 2699.9,
+        "numericValue": 799.9,
         "unsetPrice": false
       }
     ],
@@ -202,62 +255,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.subCategoryList"
     },
-    "pageTitle": "Woody Türkiye | ERKEK",
-    "pageURL": "https://www.woody.com.tr/erkek-2",
-    "timestamp": "2025-08-07T05:23:49.021Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Ayrıntıları göster Erkek Pijama-Qrs - 766-Koyu Yeşil",
-    "img": [
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5c0cc1_erkek-pijama-qrs-766-forest-biome_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5c0cc1_erkek-pijama-qrs-766-forest-biome_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5c0cc1_erkek-pijama-qrs-766-forest-biome_200.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5bfe06_erkek-pijama-qrs-766-forest-biome_1000.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5bfe06_erkek-pijama-qrs-766-forest-biome_300.jpeg",
-      "https://www.woody.com.tr/erkek-2/content/images/thumbs/67bc2c4c5e778ea47b5bfe06_erkek-pijama-qrs-766-forest-biome_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/67bc2c4c5e778ea47b5c0cc1_erkek-pijama-qrs-766-forest-biome_1000.jpeg",
-    "link": "https://www.woody.com.tr/erkek-pijama-qrs-766-forest-biome_251-12-qrs-z-a-unildy111",
-    "price": [
-      {
-        "value": "₺1.499,95",
-        "selector": ".productPrice .newPrice",
-        "attribute": "innerText",
-        "numericValue": 1499.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺2.999,90",
-        "selector": ".productPrice .oldPrice",
-        "attribute": "innerText",
-        "numericValue": 2999.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | ERKEK",
-    "pageURL": "https://www.woody.com.tr/erkek-2",
-    "timestamp": "2025-08-07T05:23:49.022Z",
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-07T05:26:26.149Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
