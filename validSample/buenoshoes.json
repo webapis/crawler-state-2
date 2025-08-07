@@ -1,11 +1,203 @@
 [
   {
-    "title": "Vizon Deri Kadın El Çantası",
+    "title": "Siyah Açma Deri Kadın Topuklu Ayakkabı",
     "img": [
-      "https://www.buenoshoes.com.tr/kadin/canta/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3300_48396_R2.jpg?v=0000"
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/kadin-30-wa24277-kdn-ayk_3627_51266_R2.jpg?v=0000"
     ],
-    "primaryImg": "SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3300_48396_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/vizon-deri-kadin-el-cantasi-3670-1-3300",
+    "primaryImg": "SFolder/ProductImages/kadin-30-wa24277-kdn-ayk_3627_51266_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-acma-deri-kadin-topuklu-ayakkabi-3461-1-3627",
+    "price": [
+      {
+        "value": "t 2.999,00",
+        "selector": "span.divUFiyat1",
+        "attribute": "innerText",
+        "numericValue": 2999,
+        "unsetPrice": false
+      },
+      {
+        "value": "t 3.999,00",
+        "selector": "[itemprop=\"highPrice\"]",
+        "attribute": "innerText",
+        "numericValue": 3999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "matchedProductItemSelectorManual": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.divUFiyat1",
+        "[itemprop=\"highPrice\"]"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".divUOrta .divUUrunler"
+    },
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T06:01:08.436Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Bej Flotter Deri Kadın Günlük Ayakkabı",
+    "img": [
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/klasik-ayakkabi-erkek-klasik-ayakkabi_2315_31344_R2.jpg?v=1130"
+    ],
+    "primaryImg": "SFolder/ProductImages/klasik-ayakkabi-erkek-klasik-ayakkabi_2315_31344_R2.jpg?v=1130",
+    "link": "https://www.buenoshoes.com.tr/bej-flotter-deri-kadin-gunluk-ayakkabi-4807-1-2315",
+    "price": [
+      {
+        "value": "t 2.200,00",
+        "selector": "span.divUFiyat1",
+        "attribute": "innerText",
+        "numericValue": 2200,
+        "unsetPrice": false
+      },
+      {
+        "value": "t 2.750,00",
+        "selector": "[itemprop=\"highPrice\"]",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "matchedProductItemSelectorManual": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.divUFiyat1",
+        "[itemprop=\"highPrice\"]"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".divUOrta .divUUrunler"
+    },
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T06:01:08.437Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Sarı Deri Kadın Düz Babet",
+    "img": [
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/babet-kadin-duz-babet_83_2532_R2.jpg?v=0000"
+    ],
+    "primaryImg": "SFolder/ProductImages/babet-kadin-duz-babet_83_2532_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/sari-deri-kadin-duz-babet-369-1-83",
+    "price": [
+      {
+        "value": "t 2.399,20",
+        "selector": "span.divUFiyat1",
+        "attribute": "innerText",
+        "numericValue": 2399.2,
+        "unsetPrice": false
+      },
+      {
+        "value": "t 2.999,00",
+        "selector": "[itemprop=\"highPrice\"]",
+        "attribute": "innerText",
+        "numericValue": 2999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "matchedProductItemSelectorManual": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.divUFiyat1",
+        "[itemprop=\"highPrice\"]"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".divUOrta .divUUrunler"
+    },
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T06:01:08.438Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Siyah Deri Kadın Topuklu Ayakkabı",
+    "img": [
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/topuklu-ayakkabi-kadin-topuklu-ayakkabi_3139_45193_R2.jpg?v=0000"
+    ],
+    "primaryImg": "SFolder/ProductImages/topuklu-ayakkabi-kadin-topuklu-ayakkabi_3139_45193_R2.jpg?v=0000",
+    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-topuklu-ayakkabi-6739-1-3139",
+    "price": [
+      {
+        "value": "t 3.000,00",
+        "selector": "span.divUFiyat1",
+        "attribute": "innerText",
+        "numericValue": 3000,
+        "unsetPrice": false
+      },
+      {
+        "value": "t 3.750,00",
+        "selector": "[itemprop=\"highPrice\"]",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "matchedProductItemSelectorManual": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.divUFiyat1",
+        "[itemprop=\"highPrice\"]"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".divUOrta .divUUrunler"
+    },
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T06:01:08.439Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Yeşil Açık Deri Kadın Spor Ayakkabı",
+    "img": [
+      "https://www.buenoshoes.com.tr/kadin/ayakkabi/SFolder/ProductImages/gunluk-ayakkabi-kadin-gunluk-ayakkabi_2557_36981_R2.jpg?v=1112"
+    ],
+    "primaryImg": "SFolder/ProductImages/gunluk-ayakkabi-kadin-gunluk-ayakkabi_2557_36981_R2.jpg?v=1112",
+    "link": "https://www.buenoshoes.com.tr/yesil-acik-deri-kadin-spor-ayakkabi-5976-1-2557",
     "price": [
       {
         "value": "t 3.199,20",
@@ -38,201 +230,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".divUOrta .divUUrunler"
     },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-07T05:58:09.810Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Siyah Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/kadin/canta/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3146_48390_R2.jpg?v=0000"
-    ],
-    "primaryImg": "SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3146_48390_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3146",
-    "price": [
-      {
-        "value": "t 2.591,28",
-        "selector": "span.divUFiyat1",
-        "attribute": "innerText",
-        "numericValue": 2591.28,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.599,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "numericValue": 3599,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "matchedProductItemSelectorManual": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".divUOrta .divUUrunler"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-07T05:58:09.811Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Siyah Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/kadin/canta/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2323_32310_R2.jpg?v=0000"
-    ],
-    "primaryImg": "SFolder/ProductImages/el-cantasi-kadin-el-cantasi_2323_32310_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-2323",
-    "price": [
-      {
-        "value": "t 2.879,20",
-        "selector": "span.divUFiyat1",
-        "attribute": "innerText",
-        "numericValue": 2879.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.599,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "numericValue": 3599,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "matchedProductItemSelectorManual": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".divUOrta .divUUrunler"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-07T05:58:09.812Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Siyah Deri Kadın El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/kadin/canta/SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3314_49094_R2.jpg?v=0000"
-    ],
-    "primaryImg": "SFolder/ProductImages/el-cantasi-kadin-el-cantasi_3314_49094_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3314",
-    "price": [
-      {
-        "value": "t 2.799,20",
-        "selector": "span.divUFiyat1",
-        "attribute": "innerText",
-        "numericValue": 2799.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.499,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "numericValue": 3499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "matchedProductItemSelectorManual": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".divUOrta .divUUrunler"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-07T05:58:09.813Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Yeşil Deri Kadın Deri El Çantası",
-    "img": [
-      "https://www.buenoshoes.com.tr/kadin/canta/SFolder/ProductImages/el-cantasi-kadin-deri-el-cantasi_2724_48137_R2.jpg?v=0000"
-    ],
-    "primaryImg": "SFolder/ProductImages/el-cantasi-kadin-deri-el-cantasi_2724_48137_R2.jpg?v=0000",
-    "link": "https://www.buenoshoes.com.tr/yesil-deri-kadin-deri-el-cantasi-3901-1-2724",
-    "price": [
-      {
-        "value": "t 2.463,20",
-        "selector": "span.divUFiyat1",
-        "attribute": "innerText",
-        "numericValue": 2463.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.079,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "numericValue": 3079,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "matchedProductItemSelectorManual": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".divUOrta .divUUrunler"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
-    "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-07T05:58:09.814Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri ve Fiyatları - Bueno Shoes",
+    "pageURL": "https://www.buenoshoes.com.tr/kadin/ayakkabi",
+    "timestamp": "2025-08-07T06:01:08.440Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
