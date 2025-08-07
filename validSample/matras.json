@@ -6,7 +6,15 @@
     ],
     "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-8196-0EE-10250001004300-1750687440-1.jpg?v22",
     "link": "https://www.matras.com/urun/0ee-10250001004300_matras-unisex-evrak-cantasi-0ee-1025-kahverengi",
-    "price": [],
+    "price": [
+      {
+        "value": "9.250,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "innerText",
+        "numericValue": 9250,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -16,18 +24,20 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product_box .price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-07T11:35:54.490Z",
+    "timestamp": "2025-08-07T11:41:47.025Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Matraş Unisex Evrak Çantası 0EE-1025 Kahverengi",
@@ -36,7 +46,15 @@
     ],
     "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-8196-0EE-10250001004300-1750687440-1.jpg?v22",
     "link": "https://www.matras.com/urun/0ee-10250001004300_matras-unisex-evrak-cantasi-0ee-1025-kahverengi",
-    "price": [],
+    "price": [
+      {
+        "value": "9.250,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "innerText",
+        "numericValue": 9250,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -46,18 +64,20 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product_box .price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-07T11:35:54.491Z",
+    "timestamp": "2025-08-07T11:41:47.026Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Matraş Erkek Laptop Çantası Siyah 0OO-1014",
@@ -66,7 +86,15 @@
     ],
     "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-8177-0OO-10140005000100-1750054525-1.jpg?v22",
     "link": "https://www.matras.com/urun/0oo-10140005000100_matras-erkek-laptop-cantasi-siyah-0oo-1014",
-    "price": [],
+    "price": [
+      {
+        "value": "4.890,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "innerText",
+        "numericValue": 4890,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -76,18 +104,20 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product_box .price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-07T11:35:54.492Z",
+    "timestamp": "2025-08-07T11:41:47.027Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Matraş Erkek Laptop Çantası Siyah 0OO-1014",
@@ -96,7 +126,15 @@
     ],
     "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-8177-0OO-10140005000100-1750054525-1.jpg?v22",
     "link": "https://www.matras.com/urun/0oo-10140005000100_matras-erkek-laptop-cantasi-siyah-0oo-1014",
-    "price": [],
+    "price": [
+      {
+        "value": "4.890,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "innerText",
+        "numericValue": 4890,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -106,18 +144,20 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product_box .price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-07T11:35:54.492Z",
+    "timestamp": "2025-08-07T11:41:47.027Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Matraş Kadın Askılı Omuz Çantası 0BB-1145 Lacivert",
@@ -126,7 +166,15 @@
     ],
     "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-460-8169-0BB-11450001000600-1747126007-1.jpg?v22",
     "link": "https://www.matras.com/urun/0bb-11450001000600_matras-kadin-askili-omuz-cantasi-0bb-1145-lacivert",
-    "price": [],
+    "price": [
+      {
+        "value": "7.100,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "innerText",
+        "numericValue": 7100,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -136,17 +184,19 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product_box .price"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-07T11:35:54.493Z",
+    "timestamp": "2025-08-07T11:41:47.028Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   }
 ]
