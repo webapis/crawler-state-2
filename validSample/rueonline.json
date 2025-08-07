@@ -1,181 +1,5 @@
 [
   {
-    "title": "Ahşap Saplı Büyük Camel Çanta  ",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/ahsap-sapli-buyuk-camel-canta---a2b2-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/ahsap-sapli-buyuk-camel-canta---a2b2-.jpg",
-    "link": "https://www.rueonline.com/ahsap-sapli-buyuk-camel-canta",
-    "price": [
-      {
-        "value": "$190.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 6365,
-        "unsetPrice": false
-      },
-      {
-        "value": "$190.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 6365,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Aksesuar Modelleri ve Fiyatları | Rue Les Createurs",
-    "pageURL": "https://www.rueonline.com/kadin-aksesuar",
-    "timestamp": "2025-08-06T08:55:18.636Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Doğal Deniz Kabuğu Bileklik",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/dogal-deniz-kabugu-bileklik-0b-bb3.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/dogal-deniz-kabugu-bileklik-0b-bb3.jpg",
-    "link": "https://www.rueonline.com/dogal-deniz-kabugu-bileklik",
-    "price": [
-      {
-        "value": "$80.25",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 2688.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "$107.00",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 3584.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "$80.25",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 2688.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "$107.00",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 3584.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Aksesuar Modelleri ve Fiyatları | Rue Les Createurs",
-    "pageURL": "https://www.rueonline.com/kadin-aksesuar",
-    "timestamp": "2025-08-06T08:55:18.638Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Jasper Taşlı Otantik Pirinç Kolye",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/jasper-tasli-otantik-pirinc-kolye-2ea-3a.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/jasper-tasli-otantik-pirinc-kolye-2ea-3a.jpg",
-    "link": "https://www.rueonline.com/jasper-tasli-otantik-pirinc-kolye",
-    "price": [
-      {
-        "value": "$146.25",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 4899.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "$195.00",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 6532.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "$146.25",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 4899.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "$195.00",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 6532.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Aksesuar Modelleri ve Fiyatları | Rue Les Createurs",
-    "pageURL": "https://www.rueonline.com/kadin-aksesuar",
-    "timestamp": "2025-08-06T08:55:18.639Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Ahşap Saplı Büyük Siyah Çanta  ",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/ahsap-sapli-buyuk-siyah-canta--6-81c4.jpg"
@@ -214,9 +38,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Aksesuar Modelleri ve Fiyatları | Rue Les Createurs",
-    "pageURL": "https://www.rueonline.com/kadin-aksesuar",
-    "timestamp": "2025-08-06T08:55:18.640Z",
+    "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
+    "pageURL": "https://www.rueonline.com/kadin-canta",
+    "timestamp": "2025-08-07T07:38:25.648Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -224,39 +48,87 @@
     "priceValid": true
   },
   {
-    "title": "Doğal Deniz Kabuğu Kolye",
+    "title": "Ahşap Saplı Büyük Camel Çanta  ",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/dogal-deniz-kabugu-kolye-2d2-96.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/ahsap-sapli-buyuk-camel-canta---a2b2-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/dogal-deniz-kabugu-kolye-2d2-96.jpg",
-    "link": "https://www.rueonline.com/dogal-deniz-kabugu-kolye",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/ahsap-sapli-buyuk-camel-canta---a2b2-.jpg",
+    "link": "https://www.rueonline.com/ahsap-sapli-buyuk-camel-canta",
     "price": [
       {
-        "value": "$121.50",
+        "value": "$190.00",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 4070.25,
+        "numericValue": 6365,
         "unsetPrice": false
       },
       {
-        "value": "$162.00",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 5427,
-        "unsetPrice": false
-      },
-      {
-        "value": "$121.50",
+        "value": "$190.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 4070.25,
+        "numericValue": 6365,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#ProductPageProductList.ProductList"
+    },
+    "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
+    "pageURL": "https://www.rueonline.com/kadin-canta",
+    "timestamp": "2025-08-07T07:38:25.650Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Çift Fermuarlı Siyah Mini Deri Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/cift-fermuarli-siyah-mini-deri-canta-a02-89.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/cift-fermuarli-siyah-mini-deri-canta-a02-89.jpg",
+    "link": "https://www.rueonline.com/cift-fermuarli-siyah-mini-deri-canta",
+    "price": [
+      {
+        "value": "$183.40",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 6143.9,
         "unsetPrice": false
       },
       {
-        "value": "$162.00",
+        "value": "$262.00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 8777,
+        "unsetPrice": false
+      },
+      {
+        "value": "$183.40",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 6143.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "$262.00",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
-        "numericValue": 5427,
+        "numericValue": 8777,
         "unsetPrice": false
       }
     ],
@@ -278,9 +150,137 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Aksesuar Modelleri ve Fiyatları | Rue Les Createurs",
-    "pageURL": "https://www.rueonline.com/kadin-aksesuar",
-    "timestamp": "2025-08-06T08:55:18.642Z",
+    "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
+    "pageURL": "https://www.rueonline.com/kadin-canta",
+    "timestamp": "2025-08-07T07:38:25.651Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Şerit Detaylı Askılı Siyah Deri Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/serit-detayli-askili-siyah-deri-canta-c8f6b9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/serit-detayli-askili-siyah-deri-canta-c8f6b9.jpg",
+    "link": "https://www.rueonline.com/serit-detayli-askili-siyah-deri-canta",
+    "price": [
+      {
+        "value": "$145.00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 4857.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "$290.00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 9715,
+        "unsetPrice": false
+      },
+      {
+        "value": "$145.00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 4857.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "$290.00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 9715,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#ProductPageProductList.ProductList"
+    },
+    "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
+    "pageURL": "https://www.rueonline.com/kadin-canta",
+    "timestamp": "2025-08-07T07:38:25.653Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Krokodilli Bordo Suni Deri Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/krokodilli-bordo-suni-deri-canta-75c-49.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=680,quality=95,format=webp/6924/uploads/urunresimleri/buyuk/krokodilli-bordo-suni-deri-canta-75c-49.jpg",
+    "link": "https://www.rueonline.com/krokodilli-bordo-suni-deri-canta",
+    "price": [
+      {
+        "value": "$172.20",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 5768.7,
+        "unsetPrice": false
+      },
+      {
+        "value": "$246.00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 8241,
+        "unsetPrice": false
+      },
+      {
+        "value": "$172.20",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 5768.7,
+        "unsetPrice": false
+      },
+      {
+        "value": "$246.00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 8241,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#ProductPageProductList.ProductList"
+    },
+    "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
+    "pageURL": "https://www.rueonline.com/kadin-canta",
+    "timestamp": "2025-08-07T07:38:25.654Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
