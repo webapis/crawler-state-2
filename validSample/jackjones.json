@@ -1,148 +1,31 @@
 [
   {
-    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
-    "img": [
-      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12274657/4720038/002/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4720038/002/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4720038/002/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12274657/4720038/001/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4720038/001/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4720038/001/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12274657/4720038/006/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4720038/006/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4720038/006/jackjones-jxsuzannewashedcapacc-blue.png?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12274657/4720038/008/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4720038/008/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4720038/008/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_1242_1175842/kep",
-    "price": [
-      {
-        "value": "590,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "innerText",
-        "numericValue": 590,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.plp-products"
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-07T07:50:14.847Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "KADIN RENKLİ HASIR OMUZ ÇANTASI - MIAMI",
-    "img": [
-      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=640&quality=80&key=10-0-3"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=480&quality=80&key=10-0-1",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12251579_221_1108680/kad%C4%B1n-renkli-has%C4%B1r-omuz-cantas%C4%B1-miami",
-    "price": [
-      {
-        "value": "990,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "innerText",
-        "numericValue": 990,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.plp-products"
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-07T07:50:14.848Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
-    "img": [
-      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=640&quality=80&key=10-0-3"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=480&quality=80&key=10-0-1",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_617_1175840/kep",
-    "price": [
-      {
-        "value": "590,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "innerText",
-        "numericValue": 590,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.plp-products"
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-07T07:50:14.848Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "KADIN SUNİ DERİ ÇANTA - ATHENA",
     "img": [
       "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
       "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3"
+      "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/004/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/004/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/004/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/001/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/001/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/001/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/002/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/002/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/002/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/005/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/005/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/005/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/006/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/006/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/006/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/007/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/007/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/007/jackjones-jxathenabagacc-black.png?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3",
+      "https://images.jackjones.com.tr/12274401/4717173/008/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274401/4717173/008/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274401/4717173/008/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=640&quality=80&key=10-0-3"
     ],
     "primaryImg": "https://images.jackjones.com.tr/12274401/4717173/003/jackjones-jxathenabagacc-black.jpg?v=d3b0ab9734f3797fd6c9953b2f623f01&format=webp&width=480&quality=80&key=10-0-1",
     "link": "https://www.jackjones.com.tr/tr-tr/product/12274401_2161/ayarlanabilir-kay%C4%B1%C5%9F-%C3%A7anta",
@@ -172,7 +55,7 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-07T07:50:14.849Z",
+    "timestamp": "2025-08-07T08:23:15.900Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -214,7 +97,133 @@
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
-    "timestamp": "2025-08-07T07:50:14.850Z",
+    "timestamp": "2025-08-07T08:23:15.901Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
+    "img": [
+      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=640&quality=80&key=10-0-3"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274657/4720038/003/jackjones-jxsuzannewashedcapacc-blue.jpg?v=c094139f75c6bc65ea98d36799087891&format=webp&width=480&quality=80&key=10-0-1",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_1242_1175842/kep",
+    "price": [
+      {
+        "value": "590,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "innerText",
+        "numericValue": 590,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
+      "matchedSelector": "article.product-tile__plp",
+      "matchedProductItemSelectorManual": "article.product-tile__plp",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-price__list-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.plp-products"
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-08-07T08:23:15.902Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "KADIN RENKLİ HASIR OMUZ ÇANTASI - MIAMI",
+    "img": [
+      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=640&quality=80&key=10-0-3"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12251579/4493278/003/jackjones-jxmiamibeachbag-white.jpg?v=692a315d5e424d03e428a0e487696ddb&format=webp&width=480&quality=80&key=10-0-1",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12251579_221_1108680/kad%C4%B1n-renkli-has%C4%B1r-omuz-cantas%C4%B1-miami",
+    "price": [
+      {
+        "value": "990,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "innerText",
+        "numericValue": 990,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
+      "matchedSelector": "article.product-tile__plp",
+      "matchedProductItemSelectorManual": "article.product-tile__plp",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-price__list-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.plp-products"
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-08-07T08:23:15.902Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "KADIN NAKIŞLI ŞAPKA - SUZANNE",
+    "img": [
+      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=640&quality=80&key=10-0-3"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12274657/4807600/003/jackjones-jxsuzannewashedcapacc-orange.jpg?v=65b80e29fa78867bc34bd3c4f68dd9dc&format=webp&width=480&quality=80&key=10-0-1",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12274657_617_1175840/kep",
+    "price": [
+      {
+        "value": "590,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "innerText",
+        "numericValue": 590,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
+      "matchedSelector": "article.product-tile__plp",
+      "matchedProductItemSelectorManual": "article.product-tile__plp",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-price__list-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.plp-products"
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/kadin-giyim/aksesuar",
+    "timestamp": "2025-08-07T08:23:15.903Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
