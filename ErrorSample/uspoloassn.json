@@ -54,7 +54,69 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:09:50.897Z",
+    "timestamp": "2025-08-07T10:33:54.629Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Vizon Makyaj Çantası",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://tr.uspoloassn.com/kadin-vizon-canta-50318180-vr052/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.154,97 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1154.97,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.649,95 TL",
+        "selector": ".lone-price",
+        "attribute": "innerText",
+        "numericValue": 1649.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.999,95 TL",
+        "selector": ".product__listing--price del",
+        "attribute": "innerText",
+        "numericValue": 2999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.154,97 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1154.97,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "[poster]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".lone-price",
+        ".product__listing--price del",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
+    "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
+    "timestamp": "2025-08-07T10:34:00.508Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
