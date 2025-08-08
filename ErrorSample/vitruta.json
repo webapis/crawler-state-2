@@ -56,7 +56,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:31:54.226Z",
+    "timestamp": "2025-08-08T10:36:49.833Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -120,7 +120,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:31:54.231Z",
+    "timestamp": "2025-08-08T10:36:49.838Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,7 +184,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:31:54.249Z",
+    "timestamp": "2025-08-08T10:36:49.855Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -248,7 +248,71 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:31:54.262Z",
+    "timestamp": "2025-08-08T10:36:49.868Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false
+  },
+  {
+    "title": "Icon Rolltop Sırt Çantası L",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-222785.jpg?v=1744210189&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-222785.jpg?v=1744210189&width=200"
+    ],
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/sandqvist-icon-rolltop-sirt-cantasi-l",
+    "price": [
+      {
+        "value": "6.042 TL - 12.085 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 0,
+        "unsetPrice": true
+      },
+      {
+        "value": "12.085 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 12085,
+        "unsetPrice": false
+      },
+      {
+        "value": "12.085 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 12085,
+        "unsetPrice": false
+      },
+      {
+        "value": "6.042 TL - 12.085 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .boost-sd__product-link)",
+      "matchedSelector": ".boost-sd__product-item",
+      "matchedProductItemSelectorManual": ".boost-sd__product-item",
+      "titleSelectorMatched": ".boost-sd__product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".boost-sd__format-currency"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".boost-sd__product-list"
+    },
+    "pageTitle": "Kadın Çanta – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=1",
+    "timestamp": "2025-08-08T10:36:59.968Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
