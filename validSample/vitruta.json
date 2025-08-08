@@ -1,5 +1,6 @@
 [
   {
+    "title": "Kånken Classic Sırt Çantası",
     "img": [
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=200",
@@ -15,7 +16,7 @@
       "linkSource": null,
       "matchedSelector": ".boost-sd__product-item",
       "matchedProductItemSelectorManual": ".boost-sd__product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [],
@@ -24,14 +25,15 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:20:46.865Z",
+    "timestamp": "2025-08-08T10:25:07.931Z",
     "imgValid": true,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
+    "title": "Rolltop Rucksack Sırt Çantası",
     "img": [
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200",
@@ -40,30 +42,41 @@
     ],
     "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=700 700w\n                      ",
     "link": null,
-    "price": [],
+    "price": [
+      {
+        "value": "4.107 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 4107,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": null,
       "matchedSelector": ".boost-sd__product-item",
       "matchedProductItemSelectorManual": ".boost-sd__product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".boost-sd__product-price--sale .boost-sd__format-currency"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:20:46.867Z",
+    "timestamp": "2025-08-08T10:25:07.933Z",
     "imgValid": true,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
+    "title": "Icon Rolltop Sırt Çantası L",
     "img": [
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=200",
@@ -72,30 +85,41 @@
     ],
     "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-brown-with-natural-leather-613930.jpg?v=1744210189&width=700 700w\n                      ",
     "link": null,
-    "price": [],
+    "price": [
+      {
+        "value": "6.042 TL - 12.085 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": null,
       "matchedSelector": ".boost-sd__product-item",
       "matchedProductItemSelectorManual": ".boost-sd__product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".boost-sd__product-price--sale .boost-sd__format-currency"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:20:46.868Z",
+    "timestamp": "2025-08-08T10:25:07.934Z",
     "imgValid": true,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
+    "title": "F202 Leland Omuz Çantası",
     "img": [
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=200",
@@ -111,7 +135,7 @@
       "linkSource": null,
       "matchedSelector": ".boost-sd__product-item",
       "matchedProductItemSelectorManual": ".boost-sd__product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [],
@@ -120,14 +144,15 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:20:46.869Z",
+    "timestamp": "2025-08-08T10:25:07.935Z",
     "imgValid": true,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
+    "title": "Tote Bag Mini Omuz Çantası",
     "img": [
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=200",
@@ -136,27 +161,37 @@
     ],
     "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=700 700w\n                      ",
     "link": null,
-    "price": [],
+    "price": [
+      {
+        "value": "2.703 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "innerText",
+        "numericValue": 2703,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": null,
       "matchedSelector": ".boost-sd__product-item",
       "matchedProductItemSelectorManual": ".boost-sd__product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".boost-sd__product-price--sale .boost-sd__format-currency"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-08T10:20:46.871Z",
+    "timestamp": "2025-08-08T10:25:07.936Z",
     "imgValid": true,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   }
 ]
