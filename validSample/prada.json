@@ -1,1 +1,232 @@
-[]
+[
+  {
+    "title": "Prada Explore Büyük Re-Nylon Omuz Çantası",
+    "img": [
+      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+    "link": "https://www.prada.com/tr/tr/p/prada-explore-buyuk-re-nylon-omuz-cantasi/1BD391_RDLN_F0002_V_NOO",
+    "price": [
+      {
+        "value": "95.000 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 95000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Çanta - page 4 | Prada",
+    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR/page/2",
+    "timestamp": "2025-08-08T07:33:41.507Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Prada Explore Re-Nylon Orta Boy Omuz Çantası",
+    "img": [
+      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+    "link": "https://www.prada.com/tr/tr/p/-prada-explore-re-nylon-orta-boy-omuz-cantasi/1BD394_RDLN_F0002_V_NOO",
+    "price": [
+      {
+        "value": "90.000 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 90000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Çanta - page 4 | Prada",
+    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR/page/2",
+    "timestamp": "2025-08-08T07:33:41.507Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Prada Explore Orta Boy Napa Deri Tote Çanta",
+    "img": [
+      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+    "link": "https://www.prada.com/tr/tr/p/prada-explore-orta-boy-napa-deri-tote-canta/1BG596_2DX8_F0002_V_OOO",
+    "price": [
+      {
+        "value": "130.000 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 130000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Çanta - page 4 | Prada",
+    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR/page/2",
+    "timestamp": "2025-08-08T07:33:41.508Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Prada Explore Büyük Napa Deri Çanta",
+    "img": [
+      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+    "link": "https://www.prada.com/tr/tr/p/prada-explore-buyuk-napa-deri-canta/1BC264_2DX8_F0038_V_NOO",
+    "price": [
+      {
+        "value": "130.000 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 130000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Çanta - page 4 | Prada",
+    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR/page/2",
+    "timestamp": "2025-08-08T07:33:41.509Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Prada Explore Orta Boy Napa Deri Omuz Çantası",
+    "img": [
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.800.800.jpg, https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg 2x, https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.2400.2400.jpg 3x",
+    "link": "https://www.prada.com/tr/tr/p/prada-explore-orta-boy-napa-deri-omuz-cantasi/1BD394_2DX8_F0038_V_NOO",
+    "price": [
+      {
+        "value": "134.000 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 134000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Çanta - page 4 | Prada",
+    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR/page/2",
+    "timestamp": "2025-08-08T07:33:41.509Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
