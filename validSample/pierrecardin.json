@@ -43,7 +43,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:10:01.366Z",
+    "timestamp": "2025-08-08T07:52:20.529Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -94,7 +94,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:10:01.368Z",
+    "timestamp": "2025-08-08T07:52:20.531Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -145,7 +145,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:10:01.370Z",
+    "timestamp": "2025-08-08T07:52:20.533Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,7 +196,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:10:01.373Z",
+    "timestamp": "2025-08-08T07:52:20.535Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -204,42 +204,28 @@
     "priceValid": true
   },
   {
-    "title": "Vizon Çapraz Çanta",
+    "title": "Toprak Çapraz Çanta",
     "img": [
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/02/03/1129835/3c808548-0703-4599-ab27-9c4781807e38_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/02/03/1129835/45e9f3ed-fb71-4a5c-92c8-0cfb03f1f229_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/02/03/1129835/1f7274b6-2533-49fc-8432-91642954e351_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1112003/167488c8-7ac9-4dd2-b825-14aa0b7d032c_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1112003/5d94d078-71b7-45a6-86e7-46637e4652cf_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1112003/efd416c3-22fa-486c-97e0-d9349ebbd1d0_size900x1170_quality100_cropCenter.jpg",
       "https://aydinli-pc.a-cdn.akinoncloud.com/cms/2025/08/01/a570a12d-981c-4878-b476-526687bbc0a4.jpg"
     ],
-    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/02/03/1129835/3c808548-0703-4599-ab27-9c4781807e38_size900x1170_quality100_cropCenter.jpg",
-    "link": "https://www.pierrecardin.com.tr/vizon-canta-50305537-vr052/",
+    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1112003/167488c8-7ac9-4dd2-b825-14aa0b7d032c_size900x1170_quality100_cropCenter.jpg",
+    "link": "https://www.pierrecardin.com.tr/kahverengi-canta-50310477-500/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.999,80 TL",
+        "value": "Sepetteki Fiyatı 809,40 TL",
         "selector": ".product__listing--basket-price",
         "attribute": "innerText",
-        "numericValue": 1999.8,
+        "numericValue": 809.4,
         "unsetPrice": false
       },
       {
-        "value": "3.333,00 TL",
-        "selector": ".lone-price",
-        "attribute": "innerText",
-        "numericValue": 3333,
-        "unsetPrice": false
-      },
-      {
-        "value": "7.999,00 TL",
-        "selector": ".product__listing--price del",
-        "attribute": "innerText",
-        "numericValue": 7999,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.999,80 TL",
+        "value": "809,40 TL",
         "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
-        "numericValue": 1999.8,
+        "numericValue": 809.4,
         "unsetPrice": false
       }
     ],
@@ -254,8 +240,6 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product__listing--basket-price",
-        ".lone-price",
-        ".product__listing--price del",
         ".product__listing--basket-price span"
       ],
       "usedFallbackDocument": false,
@@ -263,7 +247,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-07T10:10:01.375Z",
+    "timestamp": "2025-08-08T07:52:20.537Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
