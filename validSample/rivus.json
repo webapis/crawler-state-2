@@ -1,27 +1,36 @@
 [
   {
-    "title": "Deri Püsküllü Çanta - Taba",
+    "title": "Oversize Kruvaze Kesim Ceket - Mavi",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-cc0907..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba--909b4..jpg",
-      "https://rivus.com.tr/canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-7f31cd..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke--7e6f8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke-950f9-.jpg",
+      "https://rivus.com.tr/dis-giyim/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke--2807-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke-7-acbd.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke-c-4d9e.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-taba-cc0907..jpg",
-    "link": "https://rivus.com.tr/deri-puskullu-canta--taba-3029",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-mavi-ceke--7e6f8.jpg",
+    "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ceket-mavi",
     "price": [
       {
-        "value": "$244.67",
+        "value": "$293.94",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       },
       {
-        "value": "$244.67",
+        "value": "$176,36 usd",
+        "selector": ".KatSepetFiyat span",
+        "attribute": "innerText",
+        "numericValue": 5908.06,
+        "unsetPrice": false
+      },
+      {
+        "value": "$293.94",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       }
     ],
@@ -36,14 +45,15 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".KatSepetFiyat span",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
-    "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-07T10:11:24.225Z",
+    "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus",
+    "pageURL": "https://rivus.com.tr/dis-giyim",
+    "timestamp": "2025-08-08T04:50:48.114Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -51,28 +61,37 @@
     "priceValid": true
   },
   {
-    "title": "Deri Püsküllü Çanta - Siyah",
+    "title": "Oversize Kruvaze Kesim Ceket - Gri Çizgili",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-4d7876..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah--de3e0..jpg",
-      "https://rivus.com.tr/canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-6e6292..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi--a23e-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi-4-73a0.jpg",
+      "https://rivus.com.tr/dis-giyim/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi--1a1d-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi-bf3c-8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi-2d4-ea.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-siyah-4d7876..jpg",
-    "link": "https://rivus.com.tr/deri-puskullu-canta--siyah-3030",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ceket-gri-cizgi--a23e-.jpg",
+    "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ceket-gri-cizgili1",
     "price": [
       {
-        "value": "$244.67",
+        "value": "$293.94",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       },
       {
-        "value": "$244.67",
+        "value": "$176,36 usd",
+        "selector": ".KatSepetFiyat span",
+        "attribute": "innerText",
+        "numericValue": 5908.06,
+        "unsetPrice": false
+      },
+      {
+        "value": "$293.94",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       }
     ],
@@ -87,14 +106,15 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".KatSepetFiyat span",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
-    "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-07T10:11:24.227Z",
+    "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus",
+    "pageURL": "https://rivus.com.tr/dis-giyim",
+    "timestamp": "2025-08-08T04:50:48.116Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,27 +122,37 @@
     "priceValid": true
   },
   {
-    "title": "Deri Püsküllü Çanta - Kahve",
+    "title": "Oversize Kruvaze  Kesim İnce Çizgili Ceket - Gri",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-8-b264..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-a1a-c3..jpg",
-      "https://rivus.com.tr/canta/Uploads/images/load.gif"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce-a-8047.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce--e2798.jpg",
+      "https://rivus.com.tr/dis-giyim/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce-d-a136.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce--c3091.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce-9b53c7.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/deri-puskullu-canta-kahve-8-b264..jpg",
-    "link": "https://rivus.com.tr/deri-puskullu-canta--kahve-3031",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/oversize-kruvaze-kesim-ince-cizgili-ce-a-8047.jpg",
+    "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ince-cizgili-ceket-gri",
     "price": [
       {
-        "value": "$244.67",
+        "value": "$293.94",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       },
       {
-        "value": "$244.67",
+        "value": "$176,36 usd",
+        "selector": ".KatSepetFiyat span",
+        "attribute": "innerText",
+        "numericValue": 5908.06,
+        "unsetPrice": false
+      },
+      {
+        "value": "$293.94",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 8196.44,
+        "numericValue": 9846.99,
         "unsetPrice": false
       }
     ],
@@ -137,14 +167,15 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".KatSepetFiyat span",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
-    "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-07T10:11:24.228Z",
+    "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus",
+    "pageURL": "https://rivus.com.tr/dis-giyim",
+    "timestamp": "2025-08-08T04:50:48.117Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -152,44 +183,35 @@
     "priceValid": true
   },
   {
-    "title": "Dokulu Parlak Deri Kemer Çanta - Gold",
+    "title": "Yakası Parlak Saten Krep Özel Tasarım Şık Pelerin Ceket - Ekru",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--49ac-..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-a-57eb..jpg",
-      "https://rivus.com.tr/canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-87-477..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--83ad-..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold-281a1-..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-parlak-saten-krep-ozel-tasarim--1c-bb1.png",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-parlak-saten-krep-ozel-tasarim--c2cc-4.png",
+      "https://rivus.com.tr/dis-giyim/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-parlak-saten-krep-ozel-tasarim--cf3b84.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gold--49ac-..jpg",
-    "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gold-3320",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/yakasi-parlak-saten-krep-ozel-tasarim--1c-bb1.png",
+    "link": "https://rivus.com.tr/yakasi-parlak-saten-krep-ozel-tasarim-sik-pelerin-ceket-ekru",
     "price": [
       {
-        "value": "$10.45",
+        "value": "$220.15",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 350.07,
+        "numericValue": 7375.03,
         "unsetPrice": false
       },
       {
-        "value": "$20.90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "$132,09 usd",
+        "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 700.15,
+        "numericValue": 4425.02,
         "unsetPrice": false
       },
       {
-        "value": "$10.45",
+        "value": "$220.15",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 350.07,
-        "unsetPrice": false
-      },
-      {
-        "value": "$20.90",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 700.15,
+        "numericValue": 7375.03,
         "unsetPrice": false
       }
     ],
@@ -204,16 +226,15 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".KatSepetFiyat span",
+        ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
-    "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-07T10:11:24.229Z",
+    "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus",
+    "pageURL": "https://rivus.com.tr/dis-giyim",
+    "timestamp": "2025-08-08T04:50:48.118Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -221,44 +242,37 @@
     "priceValid": true
   },
   {
-    "title": "Dokulu Parlak Deri Kemer Çanta - Gri",
+    "title": "Vatkalı ve Bağlama Detaylı Crop Ceket - Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-866b-5..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-ebd-73..jpg",
-      "https://rivus.com.tr/canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-4d55-8..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-6-42fc..jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-d9a4d6..jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket--277-42.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket--b-4036.jpg",
+      "https://rivus.com.tr/dis-giyim/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket--7b0-1f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket--2aa29c.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket---4084-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/dokulu-parlak-deri-kemer-canta-gri-866b-5..jpg",
-    "link": "https://rivus.com.tr/dokulu-parlak-deri-kemer-canta--gri-3321",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=435,quality=95,format=webp/59684/uploads/urunresimleri/buyuk/vatkali-ve-baglama-detayli-crop-ceket--277-42.jpg",
+    "link": "https://rivus.com.tr/vatkali-ve-baglama-detayli-crop-ceket-siyah",
     "price": [
       {
-        "value": "$10.45",
+        "value": "$207.85",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
-        "numericValue": 350.07,
+        "numericValue": 6962.97,
         "unsetPrice": false
       },
       {
-        "value": "$20.90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "$124,71 usd",
+        "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 700.15,
+        "numericValue": 4177.78,
         "unsetPrice": false
       },
       {
-        "value": "$10.45",
+        "value": "$207.85",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
-        "numericValue": 350.07,
-        "unsetPrice": false
-      },
-      {
-        "value": "$20.90",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 700.15,
+        "numericValue": 6962.97,
         "unsetPrice": false
       }
     ],
@@ -273,16 +287,15 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".KatSepetFiyat span",
+        ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#ProductPageProductList.ProductList"
     },
-    "pageTitle": "Deri Kadın Çanta Modelleri​ - Rivus",
-    "pageURL": "https://rivus.com.tr/canta",
-    "timestamp": "2025-08-07T10:11:24.231Z",
+    "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus",
+    "pageURL": "https://rivus.com.tr/dis-giyim",
+    "timestamp": "2025-08-08T04:50:48.120Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
