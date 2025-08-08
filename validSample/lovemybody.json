@@ -64,7 +64,80 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-08-07T10:10:32.208Z",
+    "timestamp": "2025-08-08T07:51:40.747Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Gri Çift Kulplu Büyük Boy Çanta",
+    "img": [
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/ecf8d116-9b92-4bac-841a-77e5c544394c_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/acf3f413-c7f6-4bc8-8844-8059fe83d41a_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/94b8aff5-4587-43af-96a6-76f1653a95e3_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/0476bac5-ea35-4aa9-9b91-531d6441c80a_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/22c01c53-5e1d-4ea2-a854-c986d21f3a53_size900x1350_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500051/ecf8d116-9b92-4bac-841a-77e5c544394c_size900x1350_quality100_cropCenter.jpg",
+    "link": "https://www.lovemybody.com.tr/gri-cift-kulplu-buyuk-boy-canta-121l9340000/",
+    "price": [
+      {
+        "value": "1299.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 1299.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1999.95 TL",
+        "selector": ".price__previous_mobile.product-list-price",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1299.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 1299.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1299.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 1299.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1299.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 1299.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-name)",
+      "matchedSelector": ".product-item-box",
+      "matchedProductItemSelectorManual": ".product-item-box",
+      "titleSelectorMatched": "a.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".info .product-discounted-price",
+        ".price__previous_mobile.product-list-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".js-list-products .list-content"
+    },
+    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/canta/",
+    "timestamp": "2025-08-08T07:51:40.748Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -136,7 +209,7 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-08-07T10:10:32.209Z",
+    "timestamp": "2025-08-08T07:51:40.749Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -210,7 +283,7 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-08-07T10:10:32.210Z",
+    "timestamp": "2025-08-08T07:51:40.750Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -282,79 +355,7 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-08-07T10:10:32.211Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Pembe Çift Kulplu Büyük Boy Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500038/d04cb47b-f5e4-4915-b290-95dec4e69504_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500038/0c9bd4d0-a787-4df2-adfe-710d6fe223db_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500038/2663605a-838e-4063-aae0-e0b88d914a45_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500038/62a87f6a-e128-4a54-87a9-d096d8d40b36_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500038/d04cb47b-f5e4-4915-b290-95dec4e69504_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/pembe-cift-kulplu-buyuk-boy-canta-121l9340000/",
-    "price": [
-      {
-        "value": "1299.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1299.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1999.95 TL",
-        "selector": ".price__previous_mobile.product-list-price",
-        "attribute": "innerText",
-        "numericValue": 1999.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1299.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1299.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1299.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1299.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1299.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1299.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-name)",
-      "matchedSelector": ".product-item-box",
-      "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".info .product-discounted-price",
-        ".price__previous_mobile.product-list-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-list-products .list-content"
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-08-07T10:10:32.212Z",
+    "timestamp": "2025-08-08T07:51:40.751Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
