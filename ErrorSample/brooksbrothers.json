@@ -30,7 +30,7 @@
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-07T10:16:08.496Z",
+    "timestamp": "2025-08-08T07:54:43.120Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -68,45 +68,7 @@
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-07T10:16:08.497Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "%100 Pamuk Nakış Detaylı Çizgili Gömlek",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-pembe-beyaz-cizgili-100-pamuk-nakis-detayli-cizgili-gomlek-bbss25fsh010399-p",
-    "price": [
-      {
-        "value": "2.997,50 TL",
-        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
-        "attribute": "innerText",
-        "numericValue": 2997.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
-      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
-      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
-      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".infinite-scroll-component  .grid"
-    },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-07T10:16:08.497Z",
+    "timestamp": "2025-08-08T07:54:43.121Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -144,7 +106,7 @@
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-07T10:16:08.498Z",
+    "timestamp": "2025-08-08T07:54:43.121Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -182,7 +144,45 @@
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-07T10:16:08.499Z",
+    "timestamp": "2025-08-08T07:54:43.122Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "%100 Keten Logo Nakışlı Gömlek",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.brooksbrothers.com.tr/kadin-mavi-melanj-100-keten-logo-nakisli-gomlek-bbss25fsh003261-p",
+    "price": [
+      {
+        "value": "3.497,50 TL",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
+        "attribute": "innerText",
+        "numericValue": 3497.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
+      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
+      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
+      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".infinite-scroll-component  .grid"
+    },
+    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
+    "timestamp": "2025-08-08T07:54:43.123Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
