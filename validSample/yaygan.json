@@ -1,108 +1,10 @@
 [
   {
-    "title": "Coral High Leopar Desenli Omuz Askılı PC Makyaj Çantası 16898",
-    "img": [
-      "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898-3044215-62-K.jpg"
-    ],
-    "primaryImg": "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898-3044215-62-K.jpg",
-    "link": "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898",
-    "price": [
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": ".image-inner img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price-wrapper .current-price",
-        ".current-price .product-price",
-        ".product-discounted-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
-    },
-    "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
-    "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-08T07:49:57.901Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Coral High Renkli Desenli Omuz Askılı PC Makyaj Çantası 16819",
     "img": [
-      "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819-2863543-62-K.jpg"
+      "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819-3049975-62-K.jpg"
     ],
-    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819-2863543-62-K.jpg",
+    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819-3049975-62-K.jpg",
     "link": "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819",
     "price": [
       {
@@ -188,7 +90,7 @@
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-08T07:49:57.903Z",
+    "timestamp": "2025-08-09T03:34:14.199Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -286,7 +188,7 @@
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-08T07:49:57.904Z",
+    "timestamp": "2025-08-09T03:34:14.201Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -384,7 +286,7 @@
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-08T07:49:57.905Z",
+    "timestamp": "2025-08-09T03:34:14.202Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -482,7 +384,105 @@
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-08T07:49:57.907Z",
+    "timestamp": "2025-08-09T03:34:14.204Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Coral High Renkli Desenli Kabin Boy Valiz (50cm) 16539",
+    "img": [
+      "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3050520-61-K.jpg"
+    ],
+    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3050520-61-K.jpg",
+    "link": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539",
+    "price": [
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-price-wrapper .current-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-price-wrapper .current-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": ".current-price .product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": ".current-price .product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-price-wrapper .current-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-discounted-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": ".current-price .product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-price-wrapper .current-price",
+        ".current-price .product-price",
+        ".product-discounted-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
+    "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
+    "timestamp": "2025-08-09T03:34:14.205Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
