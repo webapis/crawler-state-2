@@ -1,1 +1,281 @@
-[]
+[
+  {
+    "title": "Camel Hasır Çanta",
+    "img": [
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/2541fd9d-6f26-4b4b-95fc-8e2b3bafcbf9_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/a8828923-a1ab-4dfe-99a9-a8ee93d2da81_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/05/498564/cbca49c9-ca33-4e9c-b9ae-2a93c7931fa8_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/395ba3ac-b271-4dbf-932b-8100f90389cf_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/7bcfa111-c1de-47a8-bd4a-05185727f566_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/a8828923-a1ab-4dfe-99a9-a8ee93d2da81_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/05/498564/cbca49c9-ca33-4e9c-b9ae-2a93c7931fa8_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/395ba3ac-b271-4dbf-932b-8100f90389cf_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/7bcfa111-c1de-47a8-bd4a-05185727f566_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/2541fd9d-6f26-4b4b-95fc-8e2b3bafcbf9_size900x1350_quality100_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494622/2541fd9d-6f26-4b4b-95fc-8e2b3bafcbf9_size580x870_cropTop.jpg",
+    "link": "https://www.adl.com.tr/kahverengi-hasir-canta-8681927859654/",
+    "price": [
+      {
+        "value": "1999.95 TL",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2999.95 TL",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta, Deri Çanta, Hasır & Kanvas Çanta ve Aksesuar",
+    "pageURL": "https://www.adl.com.tr/canta-aksesuar/",
+    "timestamp": "2025-08-11T08:27:10.517Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Taba Dikiş Detaylı Büyük Çanta",
+    "img": [
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/c2a03cc4-362f-48d1-9293-3da651f77f68_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/384325b3-6256-4eba-ab7c-820ea1bf06f0_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/90763337-97c5-4cfa-88e2-f605d28486f7_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/08f856b7-0b70-492b-890c-119b9b932ee8_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/384325b3-6256-4eba-ab7c-820ea1bf06f0_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/90763337-97c5-4cfa-88e2-f605d28486f7_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/08f856b7-0b70-492b-890c-119b9b932ee8_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/c2a03cc4-362f-48d1-9293-3da651f77f68_size900x1350_quality100_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/04/14/494596/c2a03cc4-362f-48d1-9293-3da651f77f68_size580x870_cropTop.jpg",
+    "link": "https://www.adl.com.tr/kahverengi-dikis-detayli-buyuk-canta-8681927801981/",
+    "price": [
+      {
+        "value": "1299.95 TL",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1299.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1999.95 TL",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta, Deri Çanta, Hasır & Kanvas Çanta ve Aksesuar",
+    "pageURL": "https://www.adl.com.tr/canta-aksesuar/",
+    "timestamp": "2025-08-11T08:27:10.518Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Siyah Hasır Büyük Çanta",
+    "img": [
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/70e597b0-95ab-425c-a1d3-00f23b16a198_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/4a4afe5c-74a3-4c5a-afe0-3f5bb20f9854_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/8398f78d-3ccb-491d-b847-08ab37c86854_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/4a4afe5c-74a3-4c5a-afe0-3f5bb20f9854_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/8398f78d-3ccb-491d-b847-08ab37c86854_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/70e597b0-95ab-425c-a1d3-00f23b16a198_size900x1350_quality100_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494611/70e597b0-95ab-425c-a1d3-00f23b16a198_size580x870_cropTop.jpg",
+    "link": "https://www.adl.com.tr/siyah-hasir-buyuk-canta-8681927859661/",
+    "price": [
+      {
+        "value": "1999.95 TL",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "3499.95 TL",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 3499.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta, Deri Çanta, Hasır & Kanvas Çanta ve Aksesuar",
+    "pageURL": "https://www.adl.com.tr/canta-aksesuar/",
+    "timestamp": "2025-08-11T08:27:10.519Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Empirme Turuncu Kumaş Kaplı Çanta",
+    "img": [
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/499bbfdb-068f-4cd3-ad55-4648832475fd_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/ee1d024e-21e0-40fa-ac26-9e92c6e4882b_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/5386a596-f3ba-4bd7-925f-b89bd0223a14_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/305eb372-05f2-421e-a36e-43442997c9c0_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/5cb33b6a-c8b8-4ee1-9894-77122a9b58cc_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/ee1d024e-21e0-40fa-ac26-9e92c6e4882b_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/5386a596-f3ba-4bd7-925f-b89bd0223a14_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/305eb372-05f2-421e-a36e-43442997c9c0_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/5cb33b6a-c8b8-4ee1-9894-77122a9b58cc_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/499bbfdb-068f-4cd3-ad55-4648832475fd_size900x1350_quality100_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/06/13/505942/499bbfdb-068f-4cd3-ad55-4648832475fd_size580x870_cropTop.jpg",
+    "link": "https://www.adl.com.tr/empirme-turuncu-kumas-kapli-canta-8681927956490/",
+    "price": [
+      {
+        "value": "1999.95 TL",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2999.95 TL",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta, Deri Çanta, Hasır & Kanvas Çanta ve Aksesuar",
+    "pageURL": "https://www.adl.com.tr/canta-aksesuar/",
+    "timestamp": "2025-08-11T08:27:10.520Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Camel Logo Detaylı Çanta",
+    "img": [
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/b95097f9-c9e3-4ab5-8e60-676f556ec5cd_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/9422753a-fc12-48cb-887f-a5954cae519d_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/02/28/495111/8cf323b2-493b-4803-85ba-e85da7da428c_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/778e5e44-2ed1-40c3-b9e8-3c0af768fe40_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/c71f5963-8fad-4ca9-b955-920e2472927b_size580x870_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/9422753a-fc12-48cb-887f-a5954cae519d_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/02/28/495111/8cf323b2-493b-4803-85ba-e85da7da428c_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/778e5e44-2ed1-40c3-b9e8-3c0af768fe40_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/c71f5963-8fad-4ca9-b955-920e2472927b_size900x1350_quality100_cropTop.jpg",
+      "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/b95097f9-c9e3-4ab5-8e60-676f556ec5cd_size900x1350_quality100_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-lmb-adl.a-cdn.akinoncdn.com/products/2025/03/10/494605/b95097f9-c9e3-4ab5-8e60-676f556ec5cd_size580x870_cropTop.jpg",
+    "link": "https://www.adl.com.tr/kahverengi-logo-detayli-canta-8681927806573/",
+    "price": [
+      {
+        "value": "1499.95 TL",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1499.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2299.95 TL",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2299.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta, Deri Çanta, Hasır & Kanvas Çanta ve Aksesuar",
+    "pageURL": "https://www.adl.com.tr/canta-aksesuar/",
+    "timestamp": "2025-08-11T08:27:10.521Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
