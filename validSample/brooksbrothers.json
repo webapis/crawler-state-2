@@ -29,8 +29,8 @@
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-09T03:37:27.209Z",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
+    "timestamp": "2025-08-11T05:29:16.124Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -67,8 +67,8 @@
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-09T03:37:27.210Z",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
+    "timestamp": "2025-08-11T05:29:16.125Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -105,46 +105,8 @@
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-09T03:37:27.210Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Keten Karışımlı Mono Kapama Astarsız Jakarlı Ceket",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-lacivert-keten-karisimli-mono-kapama-astarsiz-jakarli-ceket-bbss25fbl012137-p",
-    "price": [
-      {
-        "value": "11.997,50 TL",
-        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
-        "attribute": "innerText",
-        "numericValue": 11997.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
-      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
-      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
-      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".infinite-scroll-component  .grid"
-    },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-09T03:37:27.211Z",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
+    "timestamp": "2025-08-11T05:29:16.125Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -181,8 +143,46 @@
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
     "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=29",
-    "timestamp": "2025-08-09T03:37:27.212Z",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
+    "timestamp": "2025-08-11T05:29:16.126Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Yün Karışımlı Mono Kapama İnce Yelek",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.brooksbrothers.com.tr/kadin-siyah-yun-karisimli-mono-kapama-ince-yelek-bbss25fvs005112-p",
+    "price": [
+      {
+        "value": "4.997,50 TL",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
+        "attribute": "innerText",
+        "numericValue": 4997.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
+      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
+      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
+      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".infinite-scroll-component  .grid"
+    },
+    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
+    "timestamp": "2025-08-11T05:29:16.127Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
