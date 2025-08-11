@@ -1,15 +1,18 @@
 [
   {
-    "title": "Brooks Brothers Desenli Fermuarlı Triko Ceket",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-kirik-beyaz-brooks-brothers-desenli-fermuarli-triko-ceket-bbss25fko001101-p",
+    "title": "Çapa Aplikeli Yarım Astar Mono Kapama Slim Fit Blazer Ceket",
+    "img": [
+      "https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL008112_1.jpg",
+      "https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL008112_1.jpg"
+    ],
+    "primaryImg": "https://images.brooksbrothers.com.tr/mnresize/16/-/images/BBSS25FBL008112_1.jpg 16w,https://images.brooksbrothers.com.tr/mnresize/32/-/images/BBSS25FBL008112_1.jpg 32w,https://images.brooksbrothers.com.tr/mnresize/48/-/images/BBSS25FBL008112_1.jpg 48w,https://images.brooksbrothers.com.tr/mnresize/64/-/images/BBSS25FBL008112_1.jpg 64w,https://images.brooksbrothers.com.tr/mnresize/96/-/images/BBSS25FBL008112_1.jpg 96w,https://images.brooksbrothers.com.tr/mnresize/128/-/images/BBSS25FBL008112_1.jpg 128w,https://images.brooksbrothers.com.tr/mnresize/256/-/images/BBSS25FBL008112_1.jpg 256w,https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL008112_1.jpg 384w,https://images.brooksbrothers.com.tr/mnresize/640/-/images/BBSS25FBL008112_1.jpg 640w,https://images.brooksbrothers.com.tr/mnresize/750/-/images/BBSS25FBL008112_1.jpg 750w,https://images.brooksbrothers.com.tr/mnresize/828/-/images/BBSS25FBL008112_1.jpg 828w,https://images.brooksbrothers.com.tr/mnresize/1080/-/images/BBSS25FBL008112_1.jpg 1080w,https://images.brooksbrothers.com.tr/mnresize/1200/-/images/BBSS25FBL008112_1.jpg 1200w,https://images.brooksbrothers.com.tr/mnresize/1920/-/images/BBSS25FBL008112_1.jpg 1920w,https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL008112_1.jpg 2048w",
+    "link": "https://www.brooksbrothers.com.tr/kadin-siyah-capa-aplikeli-yarim-astar-mono-kapama-slim-fit-blazer-ceket-bbss25fbl008112-p",
     "price": [
       {
-        "value": "11.995,00 TL",
+        "value": "17.995,00 TL",
         "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
         "attribute": "innerText",
-        "numericValue": 11995,
+        "numericValue": 17995,
         "unsetPrice": false
       }
     ],
@@ -20,7 +23,7 @@
       "matchedSelector": ".infinite-scroll-component  .max-w-xl",
       "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
       "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".lazy-load-image-background img.w-full",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
@@ -28,48 +31,10 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
-    "timestamp": "2025-08-11T05:40:16.920Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "%100 Pamuk Nakış Detaylı Çizgili Gömlek",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-petrol-beyaz-cizgili-100-pamuk-nakis-detayli-cizgili-gomlek-bbss25fsh010329-p",
-    "price": [
-      {
-        "value": "2.997,50 TL",
-        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
-        "attribute": "innerText",
-        "numericValue": 2997.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
-      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
-      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
-      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".infinite-scroll-component  .grid"
-    },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
-    "timestamp": "2025-08-11T05:40:16.921Z",
-    "imgValid": false,
+    "pageTitle": "Kadın Ceket Modelleri ve Fiyatları | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-ceket-c",
+    "timestamp": "2025-08-11T10:11:12.249Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
@@ -77,8 +42,11 @@
   },
   {
     "title": "%100 Keten Kruvaze Kapama Yarım Astar Blazer",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL005154_1.jpg",
+      "https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL005154_1.jpg"
+    ],
+    "primaryImg": "https://images.brooksbrothers.com.tr/mnresize/16/-/images/BBSS25FBL005154_1.jpg 16w,https://images.brooksbrothers.com.tr/mnresize/32/-/images/BBSS25FBL005154_1.jpg 32w,https://images.brooksbrothers.com.tr/mnresize/48/-/images/BBSS25FBL005154_1.jpg 48w,https://images.brooksbrothers.com.tr/mnresize/64/-/images/BBSS25FBL005154_1.jpg 64w,https://images.brooksbrothers.com.tr/mnresize/96/-/images/BBSS25FBL005154_1.jpg 96w,https://images.brooksbrothers.com.tr/mnresize/128/-/images/BBSS25FBL005154_1.jpg 128w,https://images.brooksbrothers.com.tr/mnresize/256/-/images/BBSS25FBL005154_1.jpg 256w,https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL005154_1.jpg 384w,https://images.brooksbrothers.com.tr/mnresize/640/-/images/BBSS25FBL005154_1.jpg 640w,https://images.brooksbrothers.com.tr/mnresize/750/-/images/BBSS25FBL005154_1.jpg 750w,https://images.brooksbrothers.com.tr/mnresize/828/-/images/BBSS25FBL005154_1.jpg 828w,https://images.brooksbrothers.com.tr/mnresize/1080/-/images/BBSS25FBL005154_1.jpg 1080w,https://images.brooksbrothers.com.tr/mnresize/1200/-/images/BBSS25FBL005154_1.jpg 1200w,https://images.brooksbrothers.com.tr/mnresize/1920/-/images/BBSS25FBL005154_1.jpg 1920w,https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL005154_1.jpg 2048w",
     "link": "https://www.brooksbrothers.com.tr/kadin-koyu-mavi-100-keten-kruvaze-kapama-yarim-astar-blazer-bbss25fbl005154-p",
     "price": [
       {
@@ -96,7 +64,7 @@
       "matchedSelector": ".infinite-scroll-component  .max-w-xl",
       "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
       "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".lazy-load-image-background img.w-full",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
@@ -104,20 +72,105 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
-    "timestamp": "2025-08-11T05:40:16.921Z",
-    "imgValid": false,
+    "pageTitle": "Kadın Ceket Modelleri ve Fiyatları | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-ceket-c",
+    "timestamp": "2025-08-11T10:11:12.249Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
-    "title": "%100 Keten Logo Nakışlı Gömlek",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-mavi-melanj-100-keten-logo-nakisli-gomlek-bbss25fsh003261-p",
+    "title": "%100 Keten Metal Düğmeli Mono Blazer",
+    "img": [
+      "https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL002148_1.jpg",
+      "https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL002148_1.jpg"
+    ],
+    "primaryImg": "https://images.brooksbrothers.com.tr/mnresize/16/-/images/BBSS25FBL002148_1.jpg 16w,https://images.brooksbrothers.com.tr/mnresize/32/-/images/BBSS25FBL002148_1.jpg 32w,https://images.brooksbrothers.com.tr/mnresize/48/-/images/BBSS25FBL002148_1.jpg 48w,https://images.brooksbrothers.com.tr/mnresize/64/-/images/BBSS25FBL002148_1.jpg 64w,https://images.brooksbrothers.com.tr/mnresize/96/-/images/BBSS25FBL002148_1.jpg 96w,https://images.brooksbrothers.com.tr/mnresize/128/-/images/BBSS25FBL002148_1.jpg 128w,https://images.brooksbrothers.com.tr/mnresize/256/-/images/BBSS25FBL002148_1.jpg 256w,https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL002148_1.jpg 384w,https://images.brooksbrothers.com.tr/mnresize/640/-/images/BBSS25FBL002148_1.jpg 640w,https://images.brooksbrothers.com.tr/mnresize/750/-/images/BBSS25FBL002148_1.jpg 750w,https://images.brooksbrothers.com.tr/mnresize/828/-/images/BBSS25FBL002148_1.jpg 828w,https://images.brooksbrothers.com.tr/mnresize/1080/-/images/BBSS25FBL002148_1.jpg 1080w,https://images.brooksbrothers.com.tr/mnresize/1200/-/images/BBSS25FBL002148_1.jpg 1200w,https://images.brooksbrothers.com.tr/mnresize/1920/-/images/BBSS25FBL002148_1.jpg 1920w,https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL002148_1.jpg 2048w",
+    "link": "https://www.brooksbrothers.com.tr/kadin-ekru-100-keten-metal-dugmeli-mono-blazer-bbss25fbl002148-p",
+    "price": [
+      {
+        "value": "9.997,50 TL",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
+        "attribute": "innerText",
+        "numericValue": 9997.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
+      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
+      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
+      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
+      "imgSelectorMatched": ".lazy-load-image-background img.w-full",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".infinite-scroll-component  .grid"
+    },
+    "pageTitle": "Kadın Ceket Modelleri ve Fiyatları | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-ceket-c",
+    "timestamp": "2025-08-11T10:11:12.250Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "%100 Keten Kruvaze Yarım Astar Çizgili Ceket",
+    "img": [
+      "https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL013230_1.jpg",
+      "https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL013230_1.jpg"
+    ],
+    "primaryImg": "https://images.brooksbrothers.com.tr/mnresize/16/-/images/BBSS25FBL013230_1.jpg 16w,https://images.brooksbrothers.com.tr/mnresize/32/-/images/BBSS25FBL013230_1.jpg 32w,https://images.brooksbrothers.com.tr/mnresize/48/-/images/BBSS25FBL013230_1.jpg 48w,https://images.brooksbrothers.com.tr/mnresize/64/-/images/BBSS25FBL013230_1.jpg 64w,https://images.brooksbrothers.com.tr/mnresize/96/-/images/BBSS25FBL013230_1.jpg 96w,https://images.brooksbrothers.com.tr/mnresize/128/-/images/BBSS25FBL013230_1.jpg 128w,https://images.brooksbrothers.com.tr/mnresize/256/-/images/BBSS25FBL013230_1.jpg 256w,https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FBL013230_1.jpg 384w,https://images.brooksbrothers.com.tr/mnresize/640/-/images/BBSS25FBL013230_1.jpg 640w,https://images.brooksbrothers.com.tr/mnresize/750/-/images/BBSS25FBL013230_1.jpg 750w,https://images.brooksbrothers.com.tr/mnresize/828/-/images/BBSS25FBL013230_1.jpg 828w,https://images.brooksbrothers.com.tr/mnresize/1080/-/images/BBSS25FBL013230_1.jpg 1080w,https://images.brooksbrothers.com.tr/mnresize/1200/-/images/BBSS25FBL013230_1.jpg 1200w,https://images.brooksbrothers.com.tr/mnresize/1920/-/images/BBSS25FBL013230_1.jpg 1920w,https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FBL013230_1.jpg 2048w",
+    "link": "https://www.brooksbrothers.com.tr/kadin-lacivert-cizgili-100-keten-kruvaze-yarim-astar-cizgili-ceket-bbss25fbl013230-p",
+    "price": [
+      {
+        "value": "10.997,50 TL",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
+        "attribute": "innerText",
+        "numericValue": 10997.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
+      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
+      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
+      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
+      "imgSelectorMatched": ".lazy-load-image-background img.w-full",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".infinite-scroll-component  .grid"
+    },
+    "pageTitle": "Kadın Ceket Modelleri ve Fiyatları | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-ceket-c",
+    "timestamp": "2025-08-11T10:11:12.251Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Polo Yaka Metal Düğmeli Rayon Triko Ceket",
+    "img": [
+      "https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FKJ004101_1.jpg",
+      "https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FKJ004101_1.jpg"
+    ],
+    "primaryImg": "https://images.brooksbrothers.com.tr/mnresize/16/-/images/BBSS25FKJ004101_1.jpg 16w,https://images.brooksbrothers.com.tr/mnresize/32/-/images/BBSS25FKJ004101_1.jpg 32w,https://images.brooksbrothers.com.tr/mnresize/48/-/images/BBSS25FKJ004101_1.jpg 48w,https://images.brooksbrothers.com.tr/mnresize/64/-/images/BBSS25FKJ004101_1.jpg 64w,https://images.brooksbrothers.com.tr/mnresize/96/-/images/BBSS25FKJ004101_1.jpg 96w,https://images.brooksbrothers.com.tr/mnresize/128/-/images/BBSS25FKJ004101_1.jpg 128w,https://images.brooksbrothers.com.tr/mnresize/256/-/images/BBSS25FKJ004101_1.jpg 256w,https://images.brooksbrothers.com.tr/mnresize/384/-/images/BBSS25FKJ004101_1.jpg 384w,https://images.brooksbrothers.com.tr/mnresize/640/-/images/BBSS25FKJ004101_1.jpg 640w,https://images.brooksbrothers.com.tr/mnresize/750/-/images/BBSS25FKJ004101_1.jpg 750w,https://images.brooksbrothers.com.tr/mnresize/828/-/images/BBSS25FKJ004101_1.jpg 828w,https://images.brooksbrothers.com.tr/mnresize/1080/-/images/BBSS25FKJ004101_1.jpg 1080w,https://images.brooksbrothers.com.tr/mnresize/1200/-/images/BBSS25FKJ004101_1.jpg 1200w,https://images.brooksbrothers.com.tr/mnresize/1920/-/images/BBSS25FKJ004101_1.jpg 1920w,https://images.brooksbrothers.com.tr/mnresize/2048/-/images/BBSS25FKJ004101_1.jpg 2048w",
+    "link": "https://www.brooksbrothers.com.tr/kadin-kirik-beyaz-polo-yaka-metal-dugmeli-rayon-triko-ceket-bbss25fkj004101-p",
     "price": [
       {
         "value": "3.497,50 TL",
@@ -134,7 +187,7 @@
       "matchedSelector": ".infinite-scroll-component  .max-w-xl",
       "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
       "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".lazy-load-image-background img.w-full",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
@@ -142,48 +195,10 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
-    "timestamp": "2025-08-11T05:40:16.922Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Yün Karışımlı Mono Kapama İnce Yelek",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.brooksbrothers.com.tr/kadin-siyah-yun-karisimli-mono-kapama-ince-yelek-bbss25fvs005112-p",
-    "price": [
-      {
-        "value": "4.997,50 TL",
-        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
-        "attribute": "innerText",
-        "numericValue": 4997.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h3.text-primary a.inline-block.line-clamp-2)",
-      "matchedSelector": ".infinite-scroll-component  .max-w-xl",
-      "matchedProductItemSelectorManual": ".infinite-scroll-component  .max-w-xl",
-      "titleSelectorMatched": "h3.text-primary a.inline-block.line-clamp-2",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".infinite-scroll-component  .grid"
-    },
-    "pageTitle": "Brooks Brothers Kadın Koleksiyonu | Brooks Brothers",
-    "pageURL": "https://www.brooksbrothers.com.tr/kadin-c?p=28",
-    "timestamp": "2025-08-11T05:40:16.923Z",
-    "imgValid": false,
+    "pageTitle": "Kadın Ceket Modelleri ve Fiyatları | Brooks Brothers",
+    "pageURL": "https://www.brooksbrothers.com.tr/kadin-ceket-c",
+    "timestamp": "2025-08-11T10:11:12.252Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
