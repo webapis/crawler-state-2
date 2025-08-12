@@ -1,56 +1,5 @@
 [
   {
-    "title": "Kadın Krem Keten Karışımlı Desenli Şal",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597612705890.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597525205141.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597612705890.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-krem-keten-karisimli-desenli-canta_166082",
-    "price": [
-      {
-        "value": "649,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "innerText",
-        "numericValue": 649.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.299,99 TL",
-        "selector": ".old-price",
-        "attribute": "innerText",
-        "numericValue": 1299.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item.col",
-      "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:57.487Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Kadın Lacivert Keten Karışımlı Desenli Şal",
     "img": [
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597726144135.jpeg",
@@ -94,7 +43,58 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:57.488Z",
+    "timestamp": "2025-08-12T12:52:18.302Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Krem Keten Karışımlı Desenli Şal",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597612705890.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597525205141.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597612705890.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597525205141.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-keten-karisimli-desenli-canta_166082",
+    "price": [
+      {
+        "value": "649,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "numericValue": 649.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".old-price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".p-item.col",
+      "matchedProductItemSelectorManual": ".p-item.col",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price",
+        ".old-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-12T12:52:18.303Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -145,7 +145,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:57.489Z",
+    "timestamp": "2025-08-12T12:52:18.304Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,7 +196,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:57.490Z",
+    "timestamp": "2025-08-12T12:52:18.304Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -247,7 +247,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:57.490Z",
+    "timestamp": "2025-08-12T12:52:18.305Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
