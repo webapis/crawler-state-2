@@ -43,58 +43,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-12T08:26:09.102Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Siyah Çapraz Çanta",
-    "img": [
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/01/07/1116756/fdd3f565-7ec7-4c0e-b5fa-db1c639b3217_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/01/07/1116756/e04ea79e-a61d-4f45-8fde-4831b7477509_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/01/07/1116756/fc02fc0e-6bd1-46a0-8931-eb07c8df7006_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/cms/2025/08/01/a570a12d-981c-4878-b476-526687bbc0a4.jpg"
-    ],
-    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/01/07/1116756/fdd3f565-7ec7-4c0e-b5fa-db1c639b3217_size900x1170_quality100_cropCenter.jpg",
-    "link": "https://www.pierrecardin.com.tr/siyah-canta-50310480-vr046/",
-    "price": [
-      {
-        "value": "Sepetteki Fiyatı 899,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "numericValue": 899.4,
-        "unsetPrice": false
-      },
-      {
-        "value": "899,40 TL",
-        "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
-        "numericValue": 899.4,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
-      "matchedSelector": ".js-product-list-item",
-      "matchedProductItemSelectorManual": ".js-product-list-item",
-      "titleSelectorMatched": ".product__listing--content h3 a",
-      "imgSelectorMatched": "img.swiper-slide",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list__products--iterative .product__listing"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
-    "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-12T08:26:09.104Z",
+    "timestamp": "2025-08-12T12:52:10.867Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -145,7 +94,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-12T08:26:09.106Z",
+    "timestamp": "2025-08-12T12:52:10.869Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,7 +145,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-12T08:26:09.109Z",
+    "timestamp": "2025-08-12T12:52:10.871Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -247,7 +196,58 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-12T08:26:09.111Z",
+    "timestamp": "2025-08-12T12:52:10.873Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Toprak Çapraz Çanta",
+    "img": [
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b42cd609-cf1f-4d37-8650-3efeb52b8194_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/71dc0fa9-10a0-4a2f-884e-1ad95c271428_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b717446a-9d41-42cf-9533-0e4a62f8f7ea_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/cms/2025/08/01/a570a12d-981c-4878-b476-526687bbc0a4.jpg"
+    ],
+    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b42cd609-cf1f-4d37-8650-3efeb52b8194_size900x1170_quality100_cropCenter.jpg",
+    "link": "https://www.pierrecardin.com.tr/kahverengi-canta-50310476-500/",
+    "price": [
+      {
+        "value": "Sepetteki Fiyatı 1.109,40 TL",
+        "selector": ".product__listing--basket-price",
+        "attribute": "innerText",
+        "numericValue": 1109.4,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.109,40 TL",
+        "selector": ".product__listing--basket-price span",
+        "attribute": "innerText",
+        "numericValue": 1109.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product__listing--content h3 a)",
+      "matchedSelector": ".js-product-list-item",
+      "matchedProductItemSelectorManual": ".js-product-list-item",
+      "titleSelectorMatched": ".product__listing--content h3 a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".list__products--iterative .product__listing"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
+    "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
+    "timestamp": "2025-08-12T12:52:10.875Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
