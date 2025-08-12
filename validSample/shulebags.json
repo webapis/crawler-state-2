@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "title": "Jonie Kilit Detaylı Çapraz Çanta Siyah",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ec17f5b3-a47c-45bf-975b-82a1462eaf32-93-d9b.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ec17f5b3-a47c-45bf-975b-82a1462eaf32-93-d9b.jpg",
+    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-siyah-5205",
+    "price": [
+      {
+        "value": "₺399,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺399,90",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".ProductListContent"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-12T12:09:03.073Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Jonie Kilit Detaylı Çapraz Çanta Krem",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/03fec8f2-4b5d-487e-9858-46415ff54df0-48e-40.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/03fec8f2-4b5d-487e-9858-46415ff54df0-48e-40.jpg",
+    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-krem-5224",
+    "price": [
+      {
+        "value": "₺399,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺399,90",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".ProductListContent"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-12T12:09:03.075Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Jonie Kilit Detaylı Çapraz Çanta Lila",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c71dd873-a93d-40a8-8a20-060e1ef91312-5e3d77.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c71dd873-a93d-40a8-8a20-060e1ef91312-5e3d77.jpg",
+    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-lila-5225",
+    "price": [
+      {
+        "value": "₺399,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺399,90",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".ProductListContent"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-12T12:09:03.076Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Jonie Kilit Detaylı Çapraz Çanta Sarı",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/8d718d36-1df4-4957-8f1a-cd2c562dd564-0eacd5.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/8d718d36-1df4-4957-8f1a-cd2c562dd564-0eacd5.jpg",
+    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-sari-5202",
+    "price": [
+      {
+        "value": "₺399,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺399,90",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺509,90",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 509.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".ProductListContent"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-12T12:09:03.078Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ortega Handmade Mini Hasır Çapraz Çanta Vizon",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2e647405-2bc3-4114-b918-7152d7c84f1f-0e81-a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2e647405-2bc3-4114-b918-7152d7c84f1f-0e81-a.jpg",
+    "link": "https://www.shulebags.com/ortega-handmade-mini-hasir-capraz-canta-vizon-4552",
+    "price": [
+      {
+        "value": "₺399,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺699,80",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 699.8,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺399,90",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 399.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺699,80",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 699.8,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".ProductListContent"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-12T12:09:03.079Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
