@@ -1,11 +1,145 @@
 [
   {
+    "title": "Helina portföy çantalı el çantası",
+    "img": [
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN"
+    ],
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/helina-portfoy-cantali-el-cantasi-yesil/HWBG9640750-CDN.html",
+    "price": [
+      {
+        "value": "3,750.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,750.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
+      "matchedSelector": ".js-tile.product__tile",
+      "matchedProductItemSelectorManual": ".js-tile.product__tile",
+      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
+      "imgSelectorMatched": ".product-grid__image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.value.item-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".aa-product-tile__list"
+    },
+    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=9",
+    "timestamp": "2025-08-12T12:53:16.771Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Yapay elmas taşlı Sofia mini kova çanta",
+    "img": [
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWSFGLP4250-GOL"
+    ],
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWSFGLP4250-GOL",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/clutch-ve-abiye-canta/yapay-elmas-tasli-sofia-mini-kova-canta-altin-rengi/HWSFGLP4250-GOL.html",
+    "price": [
+      {
+        "value": "8,000.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 8000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
+      "matchedSelector": ".js-tile.product__tile",
+      "matchedProductItemSelectorManual": ".js-tile.product__tile",
+      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
+      "imgSelectorMatched": ".product-grid__image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.value.item-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".aa-product-tile__list"
+    },
+    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=9",
+    "timestamp": "2025-08-12T12:53:16.772Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Bramina Saffiano omuz çantası",
+    "img": [
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWZG9636180-BLA"
+    ],
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWZG9636180-BLA",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/bramina-saffiano-omuz-cantasi-siyah/HWZG9636180-BLA.html",
+    "price": [
+      {
+        "value": "3,750.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,750.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
+      "matchedSelector": ".js-tile.product__tile",
+      "matchedProductItemSelectorManual": ".js-tile.product__tile",
+      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
+      "imgSelectorMatched": ".product-grid__image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.value.item-price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".aa-product-tile__list"
+    },
+    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=9",
+    "timestamp": "2025-08-12T12:53:16.773Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
     "title": "Noelle 4G logolu omuz çantası",
     "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9672180-CLO"
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO"
     ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9672180-CLO",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/noelle-4g-logolu-omuz-cantasi-kahverengi/HWBG9672180-CLO.html",
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/noelle-4g-logolu-omuz-cantasi-siyah/HWBG7879180-CLO.html",
     "price": [
       {
         "value": "7,000.00 TL",
@@ -31,8 +165,8 @@
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=17",
-    "timestamp": "2025-08-12T08:31:05.277Z",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=9",
+    "timestamp": "2025-08-12T12:53:16.774Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -40,65 +174,25 @@
     "priceValid": true
   },
   {
-    "title": "Neda 4G ve Peony logolu omuz çantası",
+    "title": "4G logolu brenton eco shopper çanta",
     "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWJP9654170-NLO"
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWEBG839023-CLO"
     ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWJP9654170-NLO",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/neda-4g-ve-peony-logolu-omuz-cantasi-mavi/HWJP9654170-NLO.html",
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWEBG839023-CLO",
+    "link": "https://www.guess.eu/tr-tr/guess/presaless25/4g-logolu-brenton-eco-shopper-canta-siyah/HWEBG839023-CLO.html",
     "price": [
       {
-        "value": "8,000.00 TL",
+        "value": "6,400.00 TL",
         "selector": "span.value.item-price",
         "attribute": "innerText",
-        "numericValue": 8000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
-      "matchedSelector": ".js-tile.product__tile",
-      "matchedProductItemSelectorManual": ".js-tile.product__tile",
-      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
-      "imgSelectorMatched": ".product-grid__image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.value.item-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".aa-product-tile__list"
-    },
-    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=17",
-    "timestamp": "2025-08-12T08:31:05.278Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Beauvoir mücevher detaylı el çantası",
-    "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWE9528750-SPM"
-    ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWE9528750-SPM",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/beauvoir-mucevher-detayli-el-cantasi-mavi/HWWE9528750-SPM.html",
-    "price": [
-      {
-        "value": "8,050.00 TL",
-        "selector": "span.value.item-price",
-        "attribute": "innerText",
-        "numericValue": 8050,
+        "numericValue": 6400,
         "unsetPrice": false
       },
       {
-        "value": "8,050.00 TL",
+        "value": "6,400.00 TL",
         "selector": "span.value.item-price",
         "attribute": "innerText",
-        "numericValue": 8050,
+        "numericValue": 6400,
         "unsetPrice": false
       }
     ],
@@ -118,95 +212,8 @@
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=17",
-    "timestamp": "2025-08-12T08:31:05.279Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Arnela 4G ve Peony logolu omuz çantası",
-    "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWTG9496080-PBO"
-    ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWTG9496080-PBO",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/arnela-4g-ve-peony-logolu-omuz-cantasi-mavi/HWTG9496080-PBO.html",
-    "price": [
-      {
-        "value": "5,600.00 TL",
-        "selector": "span.value.item-price",
-        "attribute": "innerText",
-        "numericValue": 5600,
-        "unsetPrice": false
-      },
-      {
-        "value": "5,600.00 TL",
-        "selector": "span.value.item-price",
-        "attribute": "innerText",
-        "numericValue": 5600,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
-      "matchedSelector": ".js-tile.product__tile",
-      "matchedProductItemSelectorManual": ".js-tile.product__tile",
-      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
-      "imgSelectorMatched": ".product-grid__image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.value.item-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".aa-product-tile__list"
-    },
-    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=17",
-    "timestamp": "2025-08-12T08:31:05.279Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Atalia rafya mini kova çanta",
-    "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWG9647030-NTW"
-    ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWG9647030-NTW",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/atalia-rafya-mini-kova-canta-beyaz/HWWG9647030-NTW.html",
-    "price": [
-      {
-        "value": "8,000.00 TL",
-        "selector": "span.value.item-price",
-        "attribute": "innerText",
-        "numericValue": 8000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
-      "matchedSelector": ".js-tile.product__tile",
-      "matchedProductItemSelectorManual": ".js-tile.product__tile",
-      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
-      "imgSelectorMatched": ".product-grid__image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.value.item-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".aa-product-tile__list"
-    },
-    "pageTitle": "GUESS® İndirimi | Çantalarda -%30'a varan indirim",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=17",
-    "timestamp": "2025-08-12T08:31:05.280Z",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d&page=9",
+    "timestamp": "2025-08-12T12:53:16.775Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
