@@ -15,11 +15,11 @@
         "unsetPrice": false
       },
       {
-        "value": "$133",
+        "value": "NaN TL",
         "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 4455.5,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
         "value": "$190.00",
@@ -44,16 +44,16 @@
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:50.997Z",
+    "timestamp": "2025-08-12T12:51:58.725Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": false
   },
   {
     "title": "Ahşap Saplı Büyük Camel Çanta  ",
@@ -71,11 +71,11 @@
         "unsetPrice": false
       },
       {
-        "value": "$133",
+        "value": "NaN TL",
         "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 4455.5,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
         "value": "$190.00",
@@ -100,16 +100,16 @@
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:50.999Z",
+    "timestamp": "2025-08-12T12:51:58.726Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": false
   },
   {
     "title": "Çift Fermuarlı Siyah Mini Deri Çanta",
@@ -134,11 +134,11 @@
         "unsetPrice": false
       },
       {
-        "value": "$128",
+        "value": "NaN TL",
         "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 4288,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
         "value": "$183.40",
@@ -172,16 +172,16 @@
         ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:51.000Z",
+    "timestamp": "2025-08-12T12:51:58.727Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": false
   },
   {
     "title": "Şerit Detaylı Askılı Siyah Deri Çanta",
@@ -206,11 +206,11 @@
         "unsetPrice": false
       },
       {
-        "value": "$102",
+        "value": "NaN TL",
         "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 3417,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
         "value": "$145.00",
@@ -244,16 +244,16 @@
         ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:51.002Z",
+    "timestamp": "2025-08-12T12:51:58.729Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": false
   },
   {
     "title": "Krokodilli Bordo Suni Deri Çanta",
@@ -278,11 +278,11 @@
         "unsetPrice": false
       },
       {
-        "value": "$121",
+        "value": "NaN TL",
         "selector": ".KatSepetFiyat span",
         "attribute": "innerText",
-        "numericValue": 4053.5,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
         "value": "$172.20",
@@ -316,15 +316,15 @@
         ".productPrice .regularPrice"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T08:27:51.003Z",
+    "timestamp": "2025-08-12T12:51:58.730Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": false
   }
 ]
