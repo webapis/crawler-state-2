@@ -1,25 +1,25 @@
 [
   {
-    "title": "Converse Unisex Yeşil Bel Çantası",
+    "title": "Converse Run Star Hike Unisex Siyah Platform Sneaker",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/dc998ef8-6002-419b-87e1-e7e38d53755c_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/74b98fbf-ea49-440f-850b-5d64c1f7168d_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2022/06/07/11599/edfbac24-d64b-4e4d-a5fb-cb94af7f556f_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/52/26942b54-f078-42a6-ba8f-a1246587a56a_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69883/dc998ef8-6002-419b-87e1-e7e38d53755c_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-unisex-yesil-bel-cantasi/10026645-384/",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2022/06/07/11599/edfbac24-d64b-4e4d-a5fb-cb94af7f556f_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-run-star-hike-unisex-siyah-platform-sneaker/166800c-001-1/",
     "price": [
       {
-        "value": "₺ 1.499",
+        "value": "₺ 3.119",
         "selector": ".price .price__new",
         "attribute": "innerText",
-        "numericValue": 1499,
+        "numericValue": 3119,
         "unsetPrice": false
       },
       {
-        "value": "₺ 1.999",
+        "value": "₺ 4.799",
         "selector": ".price.price--discounted .price__old",
         "attribute": "innerText",
-        "numericValue": 1999,
+        "numericValue": 4799,
         "unsetPrice": false
       }
     ],
@@ -39,9 +39,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-11T05:35:56.344Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri | Converse",
+    "pageURL": "https://www.converse.com.tr/kadin-tum-ayakkabilar/",
+    "timestamp": "2025-08-12T04:02:39.526Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,26 +49,19 @@
     "priceValid": true
   },
   {
-    "title": "Converse Unisex Siyah Bel Çantası",
+    "title": "Converse Run Star Hike Unisex Siyah Platform Sneaker",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/412f5216-eb26-4d1f-a9ec-ecec8a80db75_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/f68ae508-03a9-43b8-99f2-4d276074e39c_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2022/06/07/11600/6398d0ba-3d64-476b-8058-7463b5f36f25_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/244/fe4e4bde-309a-403c-9ff4-9303086f51e6_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/69912/412f5216-eb26-4d1f-a9ec-ecec8a80db75_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-unisex-siyah-bel-cantasi/10026645-001/",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2022/06/07/11600/6398d0ba-3d64-476b-8058-7463b5f36f25_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-run-star-hike-unisex-siyah-platform-sneaker/168816c-001-1/",
     "price": [
       {
-        "value": "₺ 1.499",
+        "value": "₺ 4.999",
         "selector": ".price .price__new",
         "attribute": "innerText",
-        "numericValue": 1499,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺ 1.999",
-        "selector": ".price.price--discounted .price__old",
-        "attribute": "innerText",
-        "numericValue": 1999,
+        "numericValue": 4999,
         "unsetPrice": false
       }
     ],
@@ -82,15 +75,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        ".price .price__new"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-11T05:35:56.345Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri | Converse",
+    "pageURL": "https://www.converse.com.tr/kadin-tum-ayakkabilar/",
+    "timestamp": "2025-08-12T04:02:39.528Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,26 +90,26 @@
     "priceValid": true
   },
   {
-    "title": "Converse Go 2 Unisex Siyah El Çantası",
+    "title": "Converse Run Star Motion Unisex Siyah Platform Sneaker",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/e54200d0-133a-47e4-abe7-f637d89bed06_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/12deffe6-b859-4225-8590-1d1948d10d3d_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/4630/62af241f-4bc5-4f52-9213-9f18056cd798_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/11618/4243e5da-cdaf-4510-b20b-9f82142a770c_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70716/e54200d0-133a-47e4-abe7-f637d89bed06_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-go-2-unisex-siyah-el-cantasi/10027605-001/",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/4630/62af241f-4bc5-4f52-9213-9f18056cd798_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-run-star-motion-unisex-siyah-platform-sneaker/171545c-001-1/",
     "price": [
       {
-        "value": "₺ 1.724",
+        "value": "₺ 3.574",
         "selector": ".price .price__new",
         "attribute": "innerText",
-        "numericValue": 1724,
+        "numericValue": 3574,
         "unsetPrice": false
       },
       {
-        "value": "₺ 2.299",
+        "value": "₺ 5.499",
         "selector": ".price.price--discounted .price__old",
         "attribute": "innerText",
-        "numericValue": 2299,
+        "numericValue": 5499,
         "unsetPrice": false
       }
     ],
@@ -137,9 +129,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-11T05:35:56.346Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri | Converse",
+    "pageURL": "https://www.converse.com.tr/kadin-tum-ayakkabilar/",
+    "timestamp": "2025-08-12T04:02:39.529Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -147,26 +139,26 @@
     "priceValid": true
   },
   {
-    "title": "Converse Go 2 Unisex Lacivert El Çantası",
+    "title": "Converse Run Star Motion Unisex Siyah Platform Sneaker",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/07dd976d-b86e-4473-a436-11349febc949_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/94dfd966-83c4-41fa-82a8-591c24c372ab_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/11/04/7246/a9329355-7997-4f57-9fe6-099c2c3edca5_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/11/04/7246/465d542b-7e83-4b69-bdd8-7e2d61492b69_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2025/01/28/70815/07dd976d-b86e-4473-a436-11349febc949_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-go-2-unisex-lacivert-el-cantasi/10027605-403/",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2024/11/04/7246/a9329355-7997-4f57-9fe6-099c2c3edca5_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-run-star-motion-unisex-siyah-platform-sneaker/172895c-001-1/",
     "price": [
       {
-        "value": "₺ 1.724",
+        "value": "₺ 3.749",
         "selector": ".price .price__new",
         "attribute": "innerText",
-        "numericValue": 1724,
+        "numericValue": 3749,
         "unsetPrice": false
       },
       {
-        "value": "₺ 2.299",
+        "value": "₺ 4.999",
         "selector": ".price.price--discounted .price__old",
         "attribute": "innerText",
-        "numericValue": 2299,
+        "numericValue": 4999,
         "unsetPrice": false
       }
     ],
@@ -186,9 +178,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-11T05:35:56.347Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri | Converse",
+    "pageURL": "https://www.converse.com.tr/kadin-tum-ayakkabilar/",
+    "timestamp": "2025-08-12T04:02:39.530Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,26 +188,19 @@
     "priceValid": true
   },
   {
-    "title": "Converse Unisex Siyah Sırt Çantası",
+    "title": "Converse Chuck 70 Unisex Siyah Sneaker",
     "img": [
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/44e5d3a4-1747-42d2-87ff-b0c1929d7248_size338x422.jpg",
-      "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/b0013a6c-22d4-479b-9ee5-26c250dc6aaf_size338x422.jpg"
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/03/28/15159/13fec5f1-0cec-4b02-b488-360f003cb31c_size338x422.jpg",
+      "https://akn-converse.a-cdn.akinoncloud.com/products/2023/08/29/35/43313e06-ad38-4c26-918d-3fa232e05734_size338x422.jpg"
     ],
-    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2024/07/17/59744/44e5d3a4-1747-42d2-87ff-b0c1929d7248_size338x422.jpg",
-    "link": "https://www.converse.com.tr/urun/converse-unisex-siyah-sirt-cantasi/10026646-001/",
+    "primaryImg": "https://akn-converse.a-cdn.akinoncloud.com/products/2023/03/28/15159/13fec5f1-0cec-4b02-b488-360f003cb31c_size338x422.jpg",
+    "link": "https://www.converse.com.tr/urun/converse-chuck-70-unisex-siyah-sneaker/162050c-001-1/",
     "price": [
       {
-        "value": "₺ 2.999",
+        "value": "₺ 5.299",
         "selector": ".price .price__new",
         "attribute": "innerText",
-        "numericValue": 2999,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺ 3.999",
-        "selector": ".price.price--discounted .price__old",
-        "attribute": "innerText",
-        "numericValue": 3999,
+        "numericValue": 5299,
         "unsetPrice": false
       }
     ],
@@ -229,15 +214,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        ".price .price__new"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
-    "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-11T05:35:56.347Z",
+    "pageTitle": "Kadın Ayakkabı Modelleri | Converse",
+    "pageURL": "https://www.converse.com.tr/kadin-tum-ayakkabilar/",
+    "timestamp": "2025-08-12T04:02:39.531Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
