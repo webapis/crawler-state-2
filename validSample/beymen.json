@@ -45,7 +45,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-12T12:53:22.433Z",
+    "timestamp": "2025-08-13T05:48:25.370Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,7 +90,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-12T12:53:22.435Z",
+    "timestamp": "2025-08-13T05:48:25.372Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -143,7 +143,60 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-12T12:53:22.438Z",
+    "timestamp": "2025-08-13T05:48:25.373Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Naturel Kadın Plaj Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/13qq5524.2gv_IMG_01_2110100230592.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/13qq5524.2gv_IMG_01_2110100230592.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/13qq5524.2gv_IMG_01_2110100230592.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bvwyd1no.qeg_IMG_02_2110100230592.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/5qg0lbkc.zsy_IMG_03_2110100230592.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/by2a4i1o.euv_IMG_04_2110100230592.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/13qq5524.2gv_IMG_01_2110100230592.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/13qq5524.2gv_IMG_01_2110100230592.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_chloe-naturel-kadin-plaj-cantasi_1651975",
+    "price": [
+      {
+        "value": "27.995 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "innerText",
+        "numericValue": 27995,
+        "unsetPrice": false
+      },
+      {
+        "value": "35.950 TL",
+        "selector": ".m-productCard__oldPrice",
+        "attribute": "innerText",
+        "numericValue": 35950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".m-productCard__newPrice",
+        ".m-productCard__oldPrice"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#productList"
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-13T05:48:25.375Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,51 +249,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-12T12:53:22.440Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Capri Lacivert Kadın Plaj Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/cbpeqyqd.wsa_MP_f193660f-4e8e-4725-a34b-716fef54610a_1_42111005553302154034133914759_304.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/cbpeqyqd.wsa_MP_f193660f-4e8e-4725-a34b-716fef54610a_1_42111005553302154034133914759_304.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/cbpeqyqd.wsa_MP_f193660f-4e8e-4725-a34b-716fef54610a_1_42111005553302154034133914759_304.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/b32mqlet.xjw_MP_f1e2b92d-8426-4a18-b283-eb81262a26a5_2_42111005553302154034133914759_304.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/5nw3zlim.nkx_MP_d03c2e5d-b11d-40d1-b524-4437f969ac24_3_42111005553302154034133914759_304.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/cbpeqyqd.wsa_MP_f193660f-4e8e-4725-a34b-716fef54610a_1_42111005553302154034133914759_304.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/cbpeqyqd.wsa_MP_f193660f-4e8e-4725-a34b-716fef54610a_1_42111005553302154034133914759_304.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_jimba-capri-lacivert-kadin-plaj-cantasi_1516163",
-    "price": [
-      {
-        "value": "12.400 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "innerText",
-        "numericValue": 12400,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".m-productCard__newPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#productList"
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-12T12:53:22.442Z",
+    "timestamp": "2025-08-13T05:48:25.377Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
