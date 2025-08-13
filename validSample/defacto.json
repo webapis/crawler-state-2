@@ -33,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
     "pageURL": "https://www.defacto.com.tr/kadin-canta",
-    "timestamp": "2025-08-12T12:50:51.633Z",
+    "timestamp": "2025-08-13T05:48:37.427Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +85,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
     "pageURL": "https://www.defacto.com.tr/kadin-canta",
-    "timestamp": "2025-08-12T12:50:51.634Z",
+    "timestamp": "2025-08-13T05:48:37.428Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,7 +137,52 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
     "pageURL": "https://www.defacto.com.tr/kadin-canta",
-    "timestamp": "2025-08-12T12:50:51.635Z",
+    "timestamp": "2025-08-13T05:48:37.429Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Hasır Omuz Çantası",
+    "img": [
+      "https://dfcdn.defacto.com.tr/480/Z4390AZ_NS_BG33_01_06.jpg",
+      "https://dfcdn.defacto.com.tr/376/Z4390AZ_NS_BG33_01_06.jpg",
+      "https://dfcdn.defacto.com.tr/376/Z4390AZ_NS_BG33_02_02.jpg",
+      "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/ghostImages/productCard.svg",
+      "https://dfcdn.defacto.com.tr/376/Z4390AZ_NS_BG33_03_02.jpg",
+      "https://dfcdn.defacto.com.tr/376/Z4390AZ_NS_BG33_04_02.jpg"
+    ],
+    "primaryImg": "https://dfcdn.defacto.com.tr/376/Z4390AZ_NS_BG33_01_06.jpg 525w,https://dfcdn.defacto.com.tr/480/Z4390AZ_NS_BG33_01_06.jpg 773w,https://dfcdn.defacto.com.tr/768/Z4390AZ_NS_BG33_01_06.jpg 2000w,https://dfcdn.defacto.com.tr/768/Z4390AZ_NS_BG33_01_06.jpg 3000w",
+    "link": "https://www.defacto.com.tr/kadin-hasir-omuz-cantasi-2723358",
+    "price": [
+      {
+        "value": "1299.99 TL",
+        "selector": ".first-line .base-price:not(.campaing-base-price)",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-card",
+      "matchedProductItemSelectorManual": ".product-card",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".first-line .base-price:not(.campaing-base-price)"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "#product-container .catalog-products"
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
+    "pageURL": "https://www.defacto.com.tr/kadin-canta",
+    "timestamp": "2025-08-13T05:48:37.430Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -149,10 +194,10 @@
     "img": [
       "https://dfcdn.defacto.com.tr/480/E3697AX_NS_BE2_01_01.jpg",
       "https://dfcdn.defacto.com.tr/376/E3697AX_NS_BE2_01_01.jpg",
-      "https://dfcdn.defacto.com.tr/376/E3697AX_NS_BE2_02_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E3697AX_NS_BE2_02_01.jpg",
       "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/ghostImages/productCard.svg",
-      "https://dfcdn.defacto.com.tr/376/E3697AX_NS_BE2_03_01.jpg",
-      "https://dfcdn.defacto.com.tr/376/E3697AX_NS_BE2_04_01.jpg"
+      "https://dfcdn.defacto.com.tr/480/E3697AX_NS_BE2_03_01.jpg",
+      "https://dfcdn.defacto.com.tr/480/E3697AX_NS_BE2_04_01.jpg"
     ],
     "primaryImg": "https://dfcdn.defacto.com.tr/376/E3697AX_NS_BE2_01_01.jpg 525w,https://dfcdn.defacto.com.tr/480/E3697AX_NS_BE2_01_01.jpg 773w,https://dfcdn.defacto.com.tr/768/E3697AX_NS_BE2_01_01.jpg 2000w,https://dfcdn.defacto.com.tr/768/E3697AX_NS_BE2_01_01.jpg 3000w",
     "link": "https://www.defacto.com.tr/kadin-jean-omuz-cantasi-3202671",
@@ -182,59 +227,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
     "pageURL": "https://www.defacto.com.tr/kadin-canta",
-    "timestamp": "2025-08-12T12:50:51.636Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Plaj Çantası",
-    "img": [
-      "https://dfcdn.defacto.com.tr/480/X7823AZ_NS_NV28_01_02.jpg",
-      "https://dfcdn.defacto.com.tr/376/X7823AZ_NS_NV28_01_02.jpg",
-      "https://dfcdn.defacto.com.tr/480/X7823AZ_NS_NV28_02_02.jpg",
-      "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/ghostImages/productCard.svg",
-      "https://dfcdn.defacto.com.tr/480/X7823AZ_NS_NV28_03_02.jpg",
-      "https://dfcdn.defacto.com.tr/480/X7823AZ_NS_NV28_04_03.jpg"
-    ],
-    "primaryImg": "https://dfcdn.defacto.com.tr/376/X7823AZ_NS_NV28_01_02.jpg 525w,https://dfcdn.defacto.com.tr/480/X7823AZ_NS_NV28_01_02.jpg 773w,https://dfcdn.defacto.com.tr/768/X7823AZ_NS_NV28_01_02.jpg 2000w,https://dfcdn.defacto.com.tr/768/X7823AZ_NS_NV28_01_02.jpg 3000w",
-    "link": "https://www.defacto.com.tr/kadin-plaj-cantasi-2525674",
-    "price": [
-      {
-        "value": "499.99 TL",
-        "selector": ".second-line .base-price:not(.campaing-base-price)",
-        "attribute": "innerText",
-        "numericValue": 499.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "499.99 TL",
-        "selector": ".second-line .base-price:not(.campaing-base-price)",
-        "attribute": "innerText",
-        "numericValue": 499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".product-card",
-      "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-line .base-price:not(.campaing-base-price)"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-container .catalog-products"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, El Çantaları",
-    "pageURL": "https://www.defacto.com.tr/kadin-canta",
-    "timestamp": "2025-08-12T12:50:51.637Z",
+    "timestamp": "2025-08-13T05:48:37.431Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
