@@ -1,17 +1,63 @@
 [
   {
-    "title": "Prada Explore Büyük Re-Nylon Omuz Çantası",
+    "title": "Eski gabardin mont",
     "img": [
-      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD391/RDLNF0002/1BD391_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+      "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0E18/292318_1716_F0E18_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
     ],
     "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-    "link": "https://www.prada.com/tr/tr/p/prada-explore-buyuk-re-nylon-omuz-cantasi/1BD391_RDLN_F0002_V_NOO",
+    "link": "https://www.prada.com/tr/tr/p/eski-gabardin-mont/292318_1716_F0E18_S_OOO",
+    "price": [
+      {
+        "value": "86.500 TL",
+        "selector": ".product-card__price--new",
+        "attribute": "innerText",
+        "numericValue": 86500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card__link)",
+      "matchedSelector": "article.product-card",
+      "matchedProductItemSelectorManual": "article.product-card",
+      "titleSelectorMatched": "h3.product-card__name",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-card__price--new"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "ol.products-grid"
+    },
+    "pageTitle": "Hazır Giyim - Kadın | PRADA",
+    "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
+    "timestamp": "2025-08-13T04:33:41.729Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Chevron Yün Midi Etek",
+    "img": [
+      "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P13/P136ZG/18DEF0008/P136ZG_18DE_F0008_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+    ],
+    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+    "link": "https://www.prada.com/tr/tr/p/chevron-yun-midi-etek/P136ZG_18DE_F0008_S_OOO",
     "price": [
       {
         "value": "95.000 TL",
@@ -36,9 +82,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
-    "pageTitle": "Çanta - Kadın | PRADA",
-    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR",
-    "timestamp": "2025-08-12T12:53:27.394Z",
+    "pageTitle": "Hazır Giyim - Kadın | PRADA",
+    "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
+    "timestamp": "2025-08-13T04:33:41.730Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -46,24 +92,24 @@
     "priceValid": true
   },
   {
-    "title": "Prada Explore Re-Nylon Orta Boy Omuz Çantası",
+    "title": "Pamuk Gömlek",
     "img": [
-      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/RDLNF0002/1BD394_RDLN_F0002_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+      "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P47/P479I/18OUF0005/P479I_18OU_F0005_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
     ],
     "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-    "link": "https://www.prada.com/tr/tr/p/-prada-explore-re-nylon-orta-boy-omuz-cantasi/1BD394_RDLN_F0002_V_NOO",
+    "link": "https://www.prada.com/tr/tr/p/pamuk-gomlek/P479I_18OU_F0005_S_OOO",
     "price": [
       {
-        "value": "90.000 TL",
+        "value": "81.500 TL",
         "selector": ".product-card__price--new",
         "attribute": "innerText",
-        "numericValue": 90000,
+        "numericValue": 81500,
         "unsetPrice": false
       }
     ],
@@ -82,9 +128,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
-    "pageTitle": "Çanta - Kadın | PRADA",
-    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR",
-    "timestamp": "2025-08-12T12:53:27.395Z",
+    "pageTitle": "Hazır Giyim - Kadın | PRADA",
+    "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
+    "timestamp": "2025-08-13T04:33:41.731Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,24 +138,24 @@
     "priceValid": true
   },
   {
-    "title": "Prada Explore Orta Boy Napa Deri Tote Çanta",
+    "title": "Pamuklu Midi Etek",
     "img": [
-      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BG/1BG596/2DX8F0002/1BG596_2DX8_F0002_V_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+      "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/P/P14/P144ZG/18OUF0934/P144ZG_18OU_F0934_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
     ],
     "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-    "link": "https://www.prada.com/tr/tr/p/prada-explore-orta-boy-napa-deri-tote-canta/1BG596_2DX8_F0002_V_OOO",
+    "link": "https://www.prada.com/tr/tr/p/pamuklu-midi-etek/P144ZG_18OU_F0934_S_OOO",
     "price": [
       {
-        "value": "130.000 TL",
+        "value": "62.500 TL",
         "selector": ".product-card__price--new",
         "attribute": "innerText",
-        "numericValue": 130000,
+        "numericValue": 62500,
         "unsetPrice": false
       }
     ],
@@ -128,9 +174,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
-    "pageTitle": "Çanta - Kadın | PRADA",
-    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR",
-    "timestamp": "2025-08-12T12:53:27.395Z",
+    "pageTitle": "Hazır Giyim - Kadın | PRADA",
+    "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
+    "timestamp": "2025-08-13T04:33:41.731Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,24 +184,24 @@
     "priceValid": true
   },
   {
-    "title": "Prada Explore Büyük Napa Deri Çanta",
+    "title": "Eski gabardin mont",
     "img": [
-      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_MDL.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BC/1BC264/2DX8F0038/1BC264_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
+      "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
+      "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
     ],
-    "primaryImg": "/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-    "link": "https://www.prada.com/tr/tr/p/prada-explore-buyuk-napa-deri-canta/1BC264_2DX8_F0038_V_NOO",
+    "primaryImg": "https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.800.800.jpg, https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg 2x, https://www.prada.com/content/dam/pradabkg_products/2/292/292318/1716F0M10/292318_1716_F0M10_S_OOO_MDF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.2400.2400.jpg 3x",
+    "link": "https://www.prada.com/tr/tr/p/eski-gabardin-mont/292318_1716_F0M10_S_OOO",
     "price": [
       {
-        "value": "130.000 TL",
+        "value": "86.500 TL",
         "selector": ".product-card__price--new",
         "attribute": "innerText",
-        "numericValue": 130000,
+        "numericValue": 86500,
         "unsetPrice": false
       }
     ],
@@ -174,55 +220,9 @@
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
-    "pageTitle": "Çanta - Kadın | PRADA",
-    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR",
-    "timestamp": "2025-08-12T12:53:27.396Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Prada Explore Orta Boy Napa Deri Omuz Çantası",
-    "img": [
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg",
-      "https://www.prada.com/tr/tr/womens/bags/c/10062TR/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1200.1200.jpg",
-      "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLF.jpg/_jcr_content/renditions/cq5dam.web.hebebed.300.300.jpg"
-    ],
-    "primaryImg": "https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.800.800.jpg, https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.1680.1680.jpg 2x, https://www.prada.com/content/dam/pradabkg_products/1/1BD/1BD394/2DX8F0038/1BD394_2DX8_F0038_V_NOO_SLR.jpg/_jcr_content/renditions/cq5dam.web.hebebed.2400.2400.jpg 3x",
-    "link": "https://www.prada.com/tr/tr/p/prada-explore-orta-boy-napa-deri-omuz-cantasi/1BD394_2DX8_F0038_V_NOO",
-    "price": [
-      {
-        "value": "134.000 TL",
-        "selector": ".product-card__price--new",
-        "attribute": "innerText",
-        "numericValue": 134000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-card__link)",
-      "matchedSelector": "article.product-card",
-      "matchedProductItemSelectorManual": "article.product-card",
-      "titleSelectorMatched": "h3.product-card__name",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-card__price--new"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "ol.products-grid"
-    },
-    "pageTitle": "Çanta - Kadın | PRADA",
-    "pageURL": "https://www.prada.com/tr/tr/womens/bags/c/10062TR",
-    "timestamp": "2025-08-12T12:53:27.397Z",
+    "pageTitle": "Hazır Giyim - Kadın | PRADA",
+    "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
+    "timestamp": "2025-08-13T04:33:41.732Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
