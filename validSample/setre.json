@@ -2,9 +2,9 @@
   {
     "title": "Açık Bej Askılı Kemer Detaylı Kol Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-askili-kemer-detayli-kol-7a7cf1.jpg",
     "link": "https://www.setre.com/acik-bej-askili-kemer-detayli-kol-cantasi-40264",
     "price": [
       {
@@ -15,6 +15,13 @@
         "unsetPrice": false
       },
       {
+        "value": "152,00 $",
+        "selector": ".productPrice  .lastprice",
+        "attribute": "innerText",
+        "numericValue": 5092,
+        "unsetPrice": false
+      },
+      {
         "value": "$304.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
@@ -33,6 +40,7 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
@@ -40,7 +48,7 @@
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-12T12:51:05.261Z",
+    "timestamp": "2025-08-13T05:45:12.717Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,9 +58,9 @@
   {
     "title": "Açık Bej Büzgü Detaylı Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-buzgu-detayli-omuz-canta-b32-4b.jpg",
     "link": "https://www.setre.com/acik-bej-buzgu-detayli-omuz-cantasi-40265",
     "price": [
       {
@@ -63,6 +71,13 @@
         "unsetPrice": false
       },
       {
+        "value": "192,00 $",
+        "selector": ".productPrice  .lastprice",
+        "attribute": "innerText",
+        "numericValue": 6432,
+        "unsetPrice": false
+      },
+      {
         "value": "$384.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
@@ -81,6 +96,7 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
@@ -88,7 +104,7 @@
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-12T12:51:05.262Z",
+    "timestamp": "2025-08-13T05:45:12.718Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,9 +114,9 @@
   {
     "title": "Açık Bej Desenli Fermuarlı Portföy Cüzdan",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-desenli-fermuarli-portfo-f5c-41.jpg",
     "link": "https://www.setre.com/acik-bej-desenli-fermuarli-portfoy-canta-40266",
     "price": [
       {
@@ -111,6 +127,13 @@
         "unsetPrice": false
       },
       {
+        "value": "104,00 $",
+        "selector": ".productPrice  .lastprice",
+        "attribute": "innerText",
+        "numericValue": 3484,
+        "unsetPrice": false
+      },
+      {
         "value": "$208.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
@@ -129,6 +152,7 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
@@ -136,7 +160,7 @@
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-12T12:51:05.263Z",
+    "timestamp": "2025-08-13T05:45:12.719Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -146,9 +170,9 @@
   {
     "title": "Açık Bej Fermuar Detaylı Portföy Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-fermuar-detayli-portfoy--4-4d43.jpg",
     "link": "https://www.setre.com/acik-bej-fermuar-detayli-portfoy-canta-40262",
     "price": [
       {
@@ -159,6 +183,13 @@
         "unsetPrice": false
       },
       {
+        "value": "120,00 $",
+        "selector": ".productPrice  .lastprice",
+        "attribute": "innerText",
+        "numericValue": 4020,
+        "unsetPrice": false
+      },
+      {
         "value": "$240.00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
@@ -177,6 +208,7 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
@@ -184,7 +216,7 @@
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-12T12:51:05.265Z",
+    "timestamp": "2025-08-13T05:45:12.721Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -194,9 +226,9 @@
   {
     "title": "Açık Bej Uzun Askı Detaylı Kol Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=1524,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=604,quality=85/4197/uploads/urunresimleri/buyuk/setreacik-bej-uzun-aski-detayli-kol-ca-2ed2-4.jpg",
     "link": "https://www.setre.com/acik-bej-uzun-aski-detayli-kol-cantasi-40263",
     "price": [
       {
@@ -204,6 +236,13 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 12864,
+        "unsetPrice": false
+      },
+      {
+        "value": "192,00 $",
+        "selector": ".productPrice  .lastprice",
+        "attribute": "innerText",
+        "numericValue": 6432,
         "unsetPrice": false
       },
       {
@@ -225,6 +264,7 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
         ".productPrice .discountPrice"
       ],
       "usedFallbackDocument": false,
@@ -232,7 +272,7 @@
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-12T12:51:05.266Z",
+    "timestamp": "2025-08-13T05:45:12.722Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
