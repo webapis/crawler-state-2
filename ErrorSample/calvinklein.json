@@ -1,61 +1,16 @@
 [
   {
-    "title": "Kapat",
+    "title": "kadın ultralight omuz çantası",
     "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917672511131.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917672511131.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917672511131.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917673761068.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917673761068.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917673761068.webp"
+      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg"
     ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917672511131.webp",
-    "link": "javascript:void(0);",
-    "price": [
-      {
-        "value": "5.849,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5849,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item-inside",
-      "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-13T09:59:32.088Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kapat",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826439844983.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826439844983.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826439844983.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826327495942.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826327495942.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826327495942.jpg"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3219gub1-kadin-satin-nylon-small-capraz-canta-638888826439844983.jpg",
-    "link": "javascript:void(0);",
+    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
+    "link": "https://tr.calvinklein.com/kadin-ultralight-omuz-cantasi-p_198366",
     "price": [
       {
         "value": "4.499,00 TL",
@@ -68,10 +23,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".p-item-inside",
       "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -81,145 +36,10 @@
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-13T09:59:32.090Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kapat",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917628604743.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917628604743.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917628604743.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917630167237.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917630167237.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917630167237.webp"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917628604743.webp",
-    "link": "javascript:void(0);",
-    "price": [
-      {
-        "value": "3.599,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3599,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item-inside",
-      "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-13T09:59:32.091Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kapat",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917538292052.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917538292052.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917538292052.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917539542115.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638871917539542115.webp",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638871917539542115.webp"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638871917538292052.webp",
-    "link": "javascript:void(0);",
-    "price": [
-      {
-        "value": "5.849,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5849,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item-inside",
-      "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-13T09:59:32.092Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kapat",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-    "link": "javascript:void(0);",
-    "price": [
-      {
-        "value": "5.849,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5849,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item-inside",
-      "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-13T09:59:32.093Z",
-    "imgValid": true,
-    "linkValid": false,
+    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta?p=2",
+    "timestamp": "2025-08-13T10:05:44.282Z",
+    "imgValid": false,
+    "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
