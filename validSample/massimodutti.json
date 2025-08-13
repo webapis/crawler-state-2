@@ -5,12 +5,12 @@
       "https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988"
     ],
     "primaryImg": "https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=850 850w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1024 1024w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1440 1440w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1920 1920w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=2400 2400w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988 4000w",
-    "link": null,
+    "link": "https://www.massimodutti.com/tr/orgu-napa-deri-shopper-canta-l06906606?pelement=55479578",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-card-figure a)",
       "matchedSelector": ".content-product-card",
       "matchedProductItemSelectorManual": ".content-product-card",
       "titleSelectorMatched": null,
@@ -22,131 +22,175 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T10:55:51.009Z",
+    "timestamp": "2025-08-13T11:03:53.636Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
+    "title": "Napa deri örgü büyük tote çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=1024",
       "https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119"
     ],
     "primaryImg": "https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=200 200w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=400 400w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=850 850w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=1024 1024w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=1440 1440w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=1920 1920w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=2400 2400w, https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119 4000w",
-    "link": null,
-    "price": [],
+    "link": "https://www.massimodutti.com/tr/napa-deri-orgu-buyuk-tote-canta-l06907606?pelement=50422615",
+    "price": [
+      {
+        "value": "17.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "innerText",
+        "numericValue": 17950,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-card-figure a)",
       "matchedSelector": ".content-product-card",
       "matchedProductItemSelectorManual": ".content-product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        "formatted-price-detail div div"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category-grid-container"
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T10:55:51.010Z",
+    "timestamp": "2025-08-13T11:03:53.638Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
+    "title": "Napa deri örgü büyük tote çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=1024",
       "https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132"
     ],
     "primaryImg": "https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=200 200w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=400 400w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=850 850w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=1024 1024w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=1440 1440w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=1920 1920w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132&w=2400 2400w, https://static.massimodutti.net/assets/public/5bfc/a43d/6e3e4828bc1c/87094711f82a/06907606700-o15/06907606700-o15.jpg?ts=1751612921132 4000w",
-    "link": null,
-    "price": [],
+    "link": "https://www.massimodutti.com/tr/napa-deri-orgu-buyuk-tote-canta-l06907606?pelement=50422613",
+    "price": [
+      {
+        "value": "17.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "innerText",
+        "numericValue": 17950,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-card-figure a)",
       "matchedSelector": ".content-product-card",
       "matchedProductItemSelectorManual": ".content-product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        "formatted-price-detail div div"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category-grid-container"
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T10:55:51.011Z",
+    "timestamp": "2025-08-13T11:03:53.639Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
+    "title": "Örgü napa deri shopper çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=1024",
       "https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687"
     ],
     "primaryImg": "https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=200 200w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=400 400w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=850 850w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=1024 1024w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=1440 1440w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=1920 1920w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687&w=2400 2400w, https://static.massimodutti.net/assets/public/bcb7/e335/38a04de2937c/c0b77cb04e94/06906606122-o15/06906606122-o15.jpg?ts=1751267838687 4000w",
-    "link": null,
-    "price": [],
+    "link": "https://www.massimodutti.com/tr/orgu-napa-deri-shopper-canta-l06906606?pelement=50422607",
+    "price": [
+      {
+        "value": "11.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "innerText",
+        "numericValue": 11950,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-card-figure a)",
       "matchedSelector": ".content-product-card",
       "matchedProductItemSelectorManual": ".content-product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        "formatted-price-detail div div"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category-grid-container"
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T10:55:51.012Z",
+    "timestamp": "2025-08-13T11:03:53.640Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
+    "title": "Örgü napa deri shopper çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=1024",
       "https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989"
     ],
     "primaryImg": "https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=200 200w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=400 400w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=850 850w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=1024 1024w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=1440 1440w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=1920 1920w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989&w=2400 2400w, https://static.massimodutti.net/assets/public/a8a3/af69/c25a4d9a816b/06a60e592e3b/06906606700-o15/06906606700-o15.jpg?ts=1750863417989 4000w",
-    "link": null,
-    "price": [],
+    "link": "https://www.massimodutti.com/tr/orgu-napa-deri-shopper-canta-l06906606?pelement=50422608",
+    "price": [
+      {
+        "value": "11.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "innerText",
+        "numericValue": 11950,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .product-card-figure a)",
       "matchedSelector": ".content-product-card",
       "matchedProductItemSelectorManual": ".content-product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        "formatted-price-detail div div"
+      ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category-grid-container"
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T10:55:51.013Z",
+    "timestamp": "2025-08-13T11:03:53.641Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   }
 ]
