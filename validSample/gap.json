@@ -18,21 +18,21 @@
     "price": [
       {
         "value": "1.699,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
       },
       {
         "value": "1.299,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
       },
       {
         "value": "1.699,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
@@ -48,77 +48,14 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-13T05:48:22.856Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "3'lü Crew Çorap Seti",
-    "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size576x832_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/19/726308/035693d4-66b6-45b1-9034-528d115db153.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size384x544_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/19/726308/035693d4-66b6-45b1-9034-528d115db153_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/19/726308/035693d4-66b6-45b1-9034-528d115db153_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/19/726308/035693d4-66b6-45b1-9034-528d115db153_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/19/726308/035693d4-66b6-45b1-9034-528d115db153_size576x832_cropCenter.jpg"
-    ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/03/21/726308/5743dc0a-f1df-4fda-9836-a94ee242011c_size704x1024_cropCenter.jpg",
-    "link": "https://gap.com.tr/3-lu-crew-corap-seti-724917-sari/?prev=/kadin-aksesuar/",
-    "price": [
-      {
-        "value": "599,95 TL",
-        "selector": "pz-price",
-        "attribute": "innerText",
-        "numericValue": 599.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "299,99 TL",
-        "selector": "pz-price",
-        "attribute": "innerText",
-        "numericValue": 299.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "599,95 TL",
-        "selector": "pz-price",
-        "attribute": "innerText",
-        "numericValue": 599.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-item__info-product-name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
-    },
-    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
-    "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-13T05:48:22.857Z",
+    "timestamp": "2025-08-14T10:13:34.317Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -139,21 +76,21 @@
     "price": [
       {
         "value": "599,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
       },
       {
         "value": "399,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 399.99,
         "unsetPrice": false
       },
       {
         "value": "599,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
@@ -169,14 +106,14 @@
       "imgSelectorMatched": "[data-img]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-13T05:48:22.859Z",
+    "timestamp": "2025-08-14T10:13:34.318Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,21 +139,21 @@
     "price": [
       {
         "value": "1.199,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1199.95,
         "unsetPrice": false
       },
       {
         "value": "969,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 969.99,
         "unsetPrice": false
       },
       {
         "value": "1.199,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1199.95,
         "unsetPrice": false
@@ -232,14 +169,14 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-13T05:48:22.860Z",
+    "timestamp": "2025-08-14T10:13:34.320Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -249,37 +186,37 @@
   {
     "title": "3'lü Çorap Seti",
     "img": [
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size704x1024_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size512x736_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size448x640_cropCenter.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size576x832_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size704x1024_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size512x736_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size448x640_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size576x832_cropCenter.jpg",
       "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55.jpg",
-      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size384x544_cropCenter.jpg"
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size384x544_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size576x832_cropCenter.jpg"
     ],
-    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711365/c582f5ae-6b20-451a-a471-8c30729efd55_size704x1024_cropCenter.jpg",
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/07/01/711365/6726d1e7-72d3-45b1-9e95-bbba4df9bf24_size704x1024_cropCenter.jpg",
     "link": "https://gap.com.tr/3-lu-corap-seti-724916-cok-renkli-1/?prev=/kadin-aksesuar/",
     "price": [
       {
         "value": "599,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
       },
       {
         "value": "449,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 449.99,
         "unsetPrice": false
       },
       {
         "value": "599,95 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
@@ -295,14 +232,72 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-13T05:48:22.862Z",
+    "timestamp": "2025-08-14T10:13:34.321Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "3'lü Çorap Seti",
+    "img": [
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113_size704x1024_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113_size512x736_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113_size448x640_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113_size576x832_cropCenter.jpg",
+      "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113.jpg"
+    ],
+    "primaryImg": "https://8f7eaa.a-cdn.akinoncloud.com/products/2025/01/28/711350/1e880a26-7d18-46f5-a130-7bec4dd37113_size704x1024_cropCenter.jpg",
+    "link": "https://gap.com.tr/3-lu-corap-seti-724916-cok-renkli/?prev=/kadin-aksesuar/",
+    "price": [
+      {
+        "value": "599,95 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 599.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "469,99 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 469.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "599,95 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 599.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": ".product-item__info-product-name",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".js-product-list"
+    },
+    "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
+    "pageURL": "https://gap.com.tr/kadin-aksesuar/",
+    "timestamp": "2025-08-14T10:13:34.322Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
