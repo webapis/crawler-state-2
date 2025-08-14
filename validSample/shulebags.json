@@ -1,38 +1,38 @@
 [
   {
-    "title": "Jonie Kilit Detaylı Çapraz Çanta Siyah",
+    "title": "Petre Makyaj Çantalı Omuz Çantası Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ec17f5b3-a47c-45bf-975b-82a1462eaf32-93-d9b.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2978460f-8d2e-46bf-812f-b8687462cb38-5-ac35.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ec17f5b3-a47c-45bf-975b-82a1462eaf32-93-d9b.jpg",
-    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-siyah-5205",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2978460f-8d2e-46bf-812f-b8687462cb38-5-ac35.jpg",
+    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-siyah-4135",
     "price": [
       {
-        "value": "₺399,90",
-        "selector": ".discountPrice .discountPriceSpan",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       },
       {
-        "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".productPrice .regularPrice",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       }
     ],
@@ -46,17 +46,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:54.126Z",
+    "timestamp": "2025-08-14T10:11:10.264Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -64,39 +61,39 @@
     "priceValid": true
   },
   {
-    "title": "Jonie Kilit Detaylı Çapraz Çanta Krem",
+    "title": "Petre Makyaj Çantalı Omuz Çantası Bordo",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/03fec8f2-4b5d-487e-9858-46415ff54df0-48e-40.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/96e44cc8-bc20-44b6-bdf7-e1d05f4f70b0-f61a5b.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/03fec8f2-4b5d-487e-9858-46415ff54df0-48e-40.jpg",
-    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-krem-5224",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/96e44cc8-bc20-44b6-bdf7-e1d05f4f70b0-f61a5b.jpg",
+    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-bordo-4134",
     "price": [
       {
-        "value": "₺399,90",
-        "selector": ".discountPrice .discountPriceSpan",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       },
       {
-        "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".productPrice .regularPrice",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       }
     ],
@@ -110,17 +107,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:54.128Z",
+    "timestamp": "2025-08-14T10:11:10.265Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -128,39 +122,39 @@
     "priceValid": true
   },
   {
-    "title": "Jonie Kilit Detaylı Çapraz Çanta Lila",
+    "title": "Petre Makyaj Çantalı Omuz Çantası Acı Kahve",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c71dd873-a93d-40a8-8a20-060e1ef91312-5e3d77.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/0bbcbdd4-3e7c-4bd6-bc96-6d896ed43de1-039703.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c71dd873-a93d-40a8-8a20-060e1ef91312-5e3d77.jpg",
-    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-lila-5225",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/0bbcbdd4-3e7c-4bd6-bc96-6d896ed43de1-039703.jpg",
+    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-aci-kahve-4133",
     "price": [
       {
-        "value": "₺399,90",
-        "selector": ".discountPrice .discountPriceSpan",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       },
       {
-        "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".productPrice .regularPrice",
+        "value": "₺799,92",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 799.92,
         "unsetPrice": false
       }
     ],
@@ -174,17 +168,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:54.129Z",
+    "timestamp": "2025-08-14T10:11:10.266Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -192,39 +183,39 @@
     "priceValid": true
   },
   {
-    "title": "Jonie Kilit Detaylı Çapraz Çanta Sarı",
+    "title": "Kei Cüzdan  Acı Kahve",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/8d718d36-1df4-4957-8f1a-cd2c562dd564-0eacd5.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/fa5efbbd-5034-4afc-9722-7aed5ae4c181-78cd-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/8d718d36-1df4-4957-8f1a-cd2c562dd564-0eacd5.jpg",
-    "link": "https://www.shulebags.com/jonie-kilit-detayli-capraz-canta-sari-5202",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/fa5efbbd-5034-4afc-9722-7aed5ae4c181-78cd-4.jpg",
+    "link": "https://www.shulebags.com/cok-gozlu-kadin-cuzdan-kei-aci-kahve-4698",
     "price": [
       {
         "value": "₺399,90",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 399.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "₺759,80",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 759.8,
         "unsetPrice": false
       },
       {
         "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 399.9,
         "unsetPrice": false
       },
       {
-        "value": "₺509,90",
-        "selector": ".productPrice .regularPrice",
+        "value": "₺759,80",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 509.9,
+        "numericValue": 759.8,
         "unsetPrice": false
       }
     ],
@@ -238,17 +229,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:54.130Z",
+    "timestamp": "2025-08-14T10:11:10.268Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -256,39 +244,39 @@
     "priceValid": true
   },
   {
-    "title": "Ortega Handmade Mini Hasır Çapraz Çanta Vizon",
+    "title": "Michelle Monogram Omuz Çantası Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2e647405-2bc3-4114-b918-7152d7c84f1f-0e81-a.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e311b8f0-dbf0-4655-a978-c779ac40e302--b14f-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2e647405-2bc3-4114-b918-7152d7c84f1f-0e81-a.jpg",
-    "link": "https://www.shulebags.com/ortega-handmade-mini-hasir-capraz-canta-vizon-4552",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e311b8f0-dbf0-4655-a978-c779ac40e302--b14f-.jpg",
+    "link": "https://www.shulebags.com/desenli-bigger-omuz-cantasi-michelle-siyah-2648",
     "price": [
       {
-        "value": "₺399,90",
-        "selector": ".discountPrice .discountPriceSpan",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺699,80",
-        "selector": ".regularPrice .regularPriceSpan",
+        "value": "₺899,80",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 699.8,
+        "numericValue": 899.8,
         "unsetPrice": false
       },
       {
-        "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
+        "value": "₺499,90",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.9,
+        "numericValue": 499.9,
         "unsetPrice": false
       },
       {
-        "value": "₺699,80",
-        "selector": ".productPrice .regularPrice",
+        "value": "₺899,80",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 699.8,
+        "numericValue": 899.8,
         "unsetPrice": false
       }
     ],
@@ -302,17 +290,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:54.132Z",
+    "timestamp": "2025-08-14T10:11:10.269Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
