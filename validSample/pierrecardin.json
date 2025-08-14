@@ -12,14 +12,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.289,40 TL",
-        "selector": ".product__listing--basket-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1289.4,
         "unsetPrice": false
       },
       {
         "value": "1.289,40 TL",
-        "selector": ".product__listing--basket-price span",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1289.4,
         "unsetPrice": false
@@ -35,15 +35,14 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list__products--iterative .product__listing"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-13T05:44:53.347Z",
+    "timestamp": "2025-08-14T10:13:14.761Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,14 +62,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product__listing--basket-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
       },
       {
         "value": "1.259,40 TL",
-        "selector": ".product__listing--basket-price span",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -86,15 +85,14 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list__products--iterative .product__listing"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-13T05:44:53.349Z",
+    "timestamp": "2025-08-14T10:13:14.763Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,14 +112,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product__listing--basket-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
       },
       {
         "value": "1.259,40 TL",
-        "selector": ".product__listing--basket-price span",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -137,15 +135,14 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list__products--iterative .product__listing"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-13T05:44:53.352Z",
+    "timestamp": "2025-08-14T10:13:14.765Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,14 +162,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 809,40 TL",
-        "selector": ".product__listing--basket-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 809.4,
         "unsetPrice": false
       },
       {
         "value": "809,40 TL",
-        "selector": ".product__listing--basket-price span",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 809.4,
         "unsetPrice": false
@@ -188,15 +185,14 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list__products--iterative .product__listing"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-13T05:44:53.354Z",
+    "timestamp": "2025-08-14T10:13:14.768Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -204,28 +200,28 @@
     "priceValid": true
   },
   {
-    "title": "Toprak Çapraz Çanta",
+    "title": "Vizon Omuz Çantası",
     "img": [
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b42cd609-cf1f-4d37-8650-3efeb52b8194_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/71dc0fa9-10a0-4a2f-884e-1ad95c271428_size900x1170_quality100_cropCenter.jpg",
-      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b717446a-9d41-42cf-9533-0e4a62f8f7ea_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/05/12/1184532/4b033abe-f7c1-4651-a252-47db28eb89bd_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/05/12/1184532/4feaf3dc-829e-4b0c-a769-7542c1ac419b_size900x1170_quality100_cropCenter.jpg",
+      "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/05/12/1184532/8928e3e5-eaae-4347-abea-f971be48fd20_size900x1170_quality100_cropCenter.jpg",
       "https://aydinli-pc.a-cdn.akinoncloud.com/cms/2025/08/01/a570a12d-981c-4878-b476-526687bbc0a4.jpg"
     ],
-    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2024/12/20/1110502/b42cd609-cf1f-4d37-8650-3efeb52b8194_size900x1170_quality100_cropCenter.jpg",
-    "link": "https://www.pierrecardin.com.tr/kahverengi-canta-50310476-500/",
+    "primaryImg": "https://aydinli-pc.a-cdn.akinoncloud.com/products/2025/05/12/1184532/4b033abe-f7c1-4651-a252-47db28eb89bd_size900x1170_quality100_cropCenter.jpg",
+    "link": "https://www.pierrecardin.com.tr/vizon-canta-50318411-vr052/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.109,40 TL",
-        "selector": ".product__listing--basket-price",
+        "value": "Sepetteki Fiyatı 1.559,40 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1109.4,
+        "numericValue": 1559.4,
         "unsetPrice": false
       },
       {
-        "value": "1.109,40 TL",
-        "selector": ".product__listing--basket-price span",
+        "value": "1.559,40 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1109.4,
+        "numericValue": 1559.4,
         "unsetPrice": false
       }
     ],
@@ -239,15 +235,14 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list__products--iterative .product__listing"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-13T05:44:53.356Z",
+    "timestamp": "2025-08-14T10:13:14.770Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
