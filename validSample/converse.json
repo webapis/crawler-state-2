@@ -10,14 +10,14 @@
     "price": [
       {
         "value": "₺ 1.499",
-        "selector": ".price .price__new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
       },
       {
         "value": "₺ 1.999",
-        "selector": ".price.price--discounted .price__old",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1999,
         "unsetPrice": false
@@ -33,15 +33,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-13T05:46:36.548Z",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-14T10:12:45.919Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -59,14 +58,14 @@
     "price": [
       {
         "value": "₺ 1.724",
-        "selector": ".price .price__new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1724,
         "unsetPrice": false
       },
       {
         "value": "₺ 2.299",
-        "selector": ".price.price--discounted .price__old",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2299,
         "unsetPrice": false
@@ -82,15 +81,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-13T05:46:36.549Z",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-14T10:12:45.921Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,14 +106,14 @@
     "price": [
       {
         "value": "₺ 1.724",
-        "selector": ".price .price__new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1724,
         "unsetPrice": false
       },
       {
         "value": "₺ 2.299",
-        "selector": ".price.price--discounted .price__old",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2299,
         "unsetPrice": false
@@ -131,15 +129,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-13T05:46:36.550Z",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-14T10:12:45.922Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -157,14 +154,14 @@
     "price": [
       {
         "value": "₺ 2.999",
-        "selector": ".price .price__new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2999,
         "unsetPrice": false
       },
       {
         "value": "₺ 3.999",
-        "selector": ".price.price--discounted .price__old",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3999,
         "unsetPrice": false
@@ -180,15 +177,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-13T05:46:36.551Z",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-14T10:12:45.923Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,14 +202,14 @@
     "price": [
       {
         "value": "₺ 2.999",
-        "selector": ".price .price__new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2999,
         "unsetPrice": false
       },
       {
         "value": "₺ 3.999",
-        "selector": ".price.price--discounted .price__old",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3999,
         "unsetPrice": false
@@ -229,15 +225,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
-    "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-13T05:46:36.552Z",
+    "pageURL": "https://www.converse.com.tr/kadin-canta/",
+    "timestamp": "2025-08-14T10:12:45.924Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
