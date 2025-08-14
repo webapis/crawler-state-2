@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "1499,90 TL",
-        "selector": ".product-price-content .product-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1499.9,
         "unsetPrice": false
@@ -28,14 +28,14 @@
       "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".module-content.product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-13T05:46:51.998Z",
+    "timestamp": "2025-08-14T10:13:01.219Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -55,7 +55,7 @@
     "price": [
       {
         "value": "1499,90 TL",
-        "selector": ".product-price-content .product-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1499.9,
         "unsetPrice": false
@@ -71,14 +71,14 @@
       "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".module-content.product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-13T05:46:52.000Z",
+    "timestamp": "2025-08-14T10:13:01.221Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,7 +98,7 @@
     "price": [
       {
         "value": "999,90 TL",
-        "selector": ".product-price-content .product-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.9,
         "unsetPrice": false
@@ -114,14 +114,14 @@
       "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".module-content.product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-13T05:46:52.002Z",
+    "timestamp": "2025-08-14T10:13:01.222Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -140,7 +140,7 @@
     "price": [
       {
         "value": "1499,90 TL",
-        "selector": ".product-price-content .product-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1499.9,
         "unsetPrice": false
@@ -156,14 +156,14 @@
       "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".module-content.product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-13T05:46:52.004Z",
+    "timestamp": "2025-08-14T10:13:01.224Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,25 +173,25 @@
   {
     "title": "Kadın Bej Çanta",
     "img": [
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/183302_0.jpeg?v=1753982429",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/187374_0.jpeg?v=1741148930",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/187375_0.jpeg?v=1741148931"
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179682_0.jpeg?v=1741063260",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179684_0.jpeg?v=1741063261",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179685_0.jpeg?v=1741063262"
     ],
-    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/183302_0.jpeg?v=1753982429",
-    "link": "https://www.colins.com.tr/p/kadin-bej-canta-40491",
+    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179682_0.jpeg?v=1741063260",
+    "link": "https://www.colins.com.tr/p/kadin-bej-canta-40492",
     "price": [
       {
         "value": "499,99 TL",
-        "selector": ".product-price-content .product-new-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 499.99,
         "unsetPrice": false
       },
       {
-        "value": "899,90 TL",
-        "selector": ".product-price-content .product-old-price",
+        "value": "699,90 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 899.9,
+        "numericValue": 699.9,
         "unsetPrice": false
       }
     ],
@@ -205,15 +205,14 @@
       "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-new-price",
-        ".product-price-content .product-old-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".module-content.product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-13T05:46:52.006Z",
+    "timestamp": "2025-08-14T10:13:01.226Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
