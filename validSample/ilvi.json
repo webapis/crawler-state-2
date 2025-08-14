@@ -9,28 +9,28 @@
     "price": [
       {
         "value": "250.00$",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "250.00$",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".productPrice .regularPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -46,17 +46,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-13T05:49:13.693Z",
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.ilvi.com/kadin/canta",
+    "timestamp": "2025-08-14T10:14:46.274Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -73,28 +70,28 @@
     "price": [
       {
         "value": "250.00$",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "250.00$",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".productPrice .regularPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -110,17 +107,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-13T05:49:13.694Z",
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.ilvi.com/kadin/canta",
+    "timestamp": "2025-08-14T10:14:46.276Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,28 +131,28 @@
     "price": [
       {
         "value": "225.00$",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
         "value": "225.00$",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".productPrice .regularPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -174,17 +168,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-13T05:49:13.695Z",
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.ilvi.com/kadin/canta",
+    "timestamp": "2025-08-14T10:14:46.277Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -201,28 +192,28 @@
     "price": [
       {
         "value": "225.00$",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
         "value": "225.00$",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".productPrice .regularPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -238,17 +229,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-13T05:49:13.696Z",
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.ilvi.com/kadin/canta",
+    "timestamp": "2025-08-14T10:14:46.278Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -265,14 +253,14 @@
     "price": [
       {
         "value": "275.00$",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".productPrice .discountPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -288,15 +276,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-13T05:49:13.697Z",
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.ilvi.com/kadin/canta",
+    "timestamp": "2025-08-14T10:14:46.279Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
