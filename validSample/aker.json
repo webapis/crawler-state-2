@@ -1,0 +1,429 @@
+[
+  {
+    "title": "Fuşya Çanta",
+    "img": [
+      "https://witcdn.aker.com.tr/fusya-canta-canta-aker-2025-spring-summer-4059746-32-O.jpg",
+      "https://witcdn.aker.com.tr/fusya-canta-canta-aker-2025-spring-summer-4059747-32-O.jpg",
+      "https://aker.com.tr/Data/EditorFiles/192x192%20koza-siyah.png"
+    ],
+    "primaryImg": "https://witcdn.aker.com.tr/fusya-canta-canta-aker-2025-spring-summer-4059746-32-O.jpg",
+    "link": "https://www.aker.com.tr/fusya-canta",
+    "price": [
+      {
+        "value": "1.430,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.430,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.430,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.790,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1790,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.430,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.790,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1790,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.430,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.790,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1790,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.430,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1430,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
+    "pageURL": "https://www.aker.com.tr/kadin-canta",
+    "timestamp": "2025-08-14T10:12:06.165Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Mavi CNT20120 KOT GÖRÜNÜMLÜ TOTE ÇANTA",
+    "img": [
+      "https://witcdn.aker.com.tr/mavi-cnt20120-kot-gorunumlu-tote-canta-canta-aker-2025-spring-summer-4057781-32-O.jpg",
+      "https://witcdn.aker.com.tr/mavi-cnt20120-kot-gorunumlu-tote-canta-canta-aker-2025-spring-summer-4057782-32-O.jpg",
+      "https://aker.com.tr/Data/EditorFiles/192x192%20koza-siyah.png"
+    ],
+    "primaryImg": "https://witcdn.aker.com.tr/mavi-cnt20120-kot-gorunumlu-tote-canta-canta-aker-2025-spring-summer-4057781-32-O.jpg",
+    "link": "https://www.aker.com.tr/mavi-cnt20120-kot-gorunumlu-tote-canta",
+    "price": [
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
+    "pageURL": "https://www.aker.com.tr/kadin-canta",
+    "timestamp": "2025-08-14T10:12:06.167Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Bej CNT20177 EL ÇANTASI",
+    "img": [
+      "https://witcdn.aker.com.tr/bej-cnt20177-el-cantasi-canta-aker-2025-spring-summer-4057775-32-O.jpg",
+      "https://witcdn.aker.com.tr/bej-cnt20177-el-cantasi-canta-aker-2025-spring-summer-4057776-32-O.jpg",
+      "https://aker.com.tr/Data/EditorFiles/192x192%20koza-siyah.png"
+    ],
+    "primaryImg": "https://witcdn.aker.com.tr/bej-cnt20177-el-cantasi-canta-aker-2025-spring-summer-4057775-32-O.jpg",
+    "link": "https://www.aker.com.tr/bej-cnt20177-el-cantasi",
+    "price": [
+      {
+        "value": "2.750,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.750,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.750,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.750,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.750,00 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.499,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.750,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
+    "pageURL": "https://www.aker.com.tr/kadin-canta",
+    "timestamp": "2025-08-14T10:12:06.168Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Siyah CNT20101 SIRT ÇANTASI",
+    "img": [
+      "https://witcdn.aker.com.tr/siyah-cnt20101-sirt-cantasi-canta-aker-2025-spring-summer-4057769-32-O.jpg",
+      "https://witcdn.aker.com.tr/siyah-cnt20101-sirt-cantasi-canta-aker-2025-spring-summer-4057770-32-O.jpg",
+      "https://aker.com.tr/Data/EditorFiles/192x192%20koza-siyah.png"
+    ],
+    "primaryImg": "https://witcdn.aker.com.tr/siyah-cnt20101-sirt-cantasi-canta-aker-2025-spring-summer-4057769-32-O.jpg",
+    "link": "https://www.aker.com.tr/siyah-cnt20101-sirt-cantasi",
+    "price": [
+      {
+        "value": "5.999,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.999,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.999,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.999,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.999,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.999,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5999.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
+    "pageURL": "https://www.aker.com.tr/kadin-canta",
+    "timestamp": "2025-08-14T10:12:06.169Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Lila CNT20051 ASKILI OMUZ ÇANTA",
+    "img": [
+      "https://witcdn.aker.com.tr/lila-cnt20051-askili-omuz-canta-canta-aker-2025-spring-summer-4057763-32-O.jpg",
+      "https://witcdn.aker.com.tr/lila-cnt20051-askili-omuz-canta-canta-aker-2025-spring-summer-4057764-32-O.jpg",
+      "https://aker.com.tr/Data/EditorFiles/192x192%20koza-siyah.png"
+    ],
+    "primaryImg": "https://witcdn.aker.com.tr/lila-cnt20051-askili-omuz-canta-canta-aker-2025-spring-summer-4057763-32-O.jpg",
+    "link": "https://www.aker.com.tr/lila-cnt20051-askili-omuz-canta",
+    "price": [
+      {
+        "value": "5.199,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.199,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.199,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.199,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.199,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "5.199,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 5199.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
+    "pageURL": "https://www.aker.com.tr/kadin-canta",
+    "timestamp": "2025-08-14T10:12:06.170Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  }
+]
