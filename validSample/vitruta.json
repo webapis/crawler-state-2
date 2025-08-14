@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "6.569 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6569,
         "unsetPrice": false
@@ -28,14 +28,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-13T05:44:51.327Z",
+    "timestamp": "2025-08-14T10:11:09.892Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,42 +43,42 @@
     "priceValid": true
   },
   {
-    "title": "MSN Bag Sırt Çantası",
+    "title": "Rolltop Rucksack Sırt Çantası",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-171342.jpg?v=1754635341&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-171342.jpg?v=1754635341&width=200"
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-msn-bag-sirt-cantasi-navy-182868.jpg?v=1754635341&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/rains-msn-bag-sirt-cantasi-1",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-sirt-cantasi-2",
     "price": [
       {
-        "value": "3.223 TL",
-        "selector": ".boost-sd__format-currency",
+        "value": "4.107 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3223,
+        "numericValue": 4107,
         "unsetPrice": false
       },
       {
-        "value": "4.959 TL",
-        "selector": ".boost-sd__format-currency",
+        "value": "6.319 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 4959,
+        "numericValue": 6319,
         "unsetPrice": false
       },
       {
-        "value": "4.959 TL",
-        "selector": ".boost-sd__format-currency",
+        "value": "6.319 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 4959,
+        "numericValue": 6319,
         "unsetPrice": false
       },
       {
-        "value": "3.223 TL",
-        "selector": ".boost-sd__format-currency",
+        "value": "4.107 TL",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3223,
+        "numericValue": 4107,
         "unsetPrice": false
       }
     ],
@@ -92,14 +92,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-13T05:44:51.328Z",
+    "timestamp": "2025-08-14T10:11:09.894Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -119,7 +119,7 @@
     "price": [
       {
         "value": "12.085 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 12085,
         "unsetPrice": false
@@ -135,14 +135,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-13T05:44:51.330Z",
+    "timestamp": "2025-08-14T10:11:09.896Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,7 +162,7 @@
     "price": [
       {
         "value": "14.765 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 14765,
         "unsetPrice": false
@@ -178,14 +178,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-13T05:44:51.331Z",
+    "timestamp": "2025-08-14T10:11:09.899Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -205,28 +205,28 @@
     "price": [
       {
         "value": "2.703 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2703,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4159,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4159,
         "unsetPrice": false
       },
       {
         "value": "2.703 TL",
-        "selector": ".boost-sd__format-currency",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2703,
         "unsetPrice": false
@@ -242,14 +242,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".boost-sd__product-list"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-13T05:44:51.332Z",
+    "timestamp": "2025-08-14T10:11:09.901Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
