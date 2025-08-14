@@ -14,14 +14,14 @@
     "price": [
       {
         "value": "₺449,95",
-        "selector": ".productPrice .newPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 449.95,
         "unsetPrice": false
       },
       {
         "value": "₺899,90",
-        "selector": ".productPrice .oldPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 899.9,
         "unsetPrice": false
@@ -37,15 +37,14 @@
       "imgSelectorMatched": ".ndImage source[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.ts.subCategoryList"
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-13T05:46:54.237Z",
+    "timestamp": "2025-08-14T10:15:19.461Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -67,14 +66,14 @@
     "price": [
       {
         "value": "₺1.199,96",
-        "selector": ".productPrice .newPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1199.96,
         "unsetPrice": false
       },
       {
         "value": "₺2.999,90",
-        "selector": ".productPrice .oldPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2999.9,
         "unsetPrice": false
@@ -90,15 +89,14 @@
       "imgSelectorMatched": ".ndImage source[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.ts.subCategoryList"
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-13T05:46:54.238Z",
+    "timestamp": "2025-08-14T10:15:19.462Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -120,14 +118,14 @@
     "price": [
       {
         "value": "₺1.274,93",
-        "selector": ".productPrice .newPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1274.93,
         "unsetPrice": false
       },
       {
         "value": "₺1.699,90",
-        "selector": ".productPrice .oldPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1699.9,
         "unsetPrice": false
@@ -143,15 +141,14 @@
       "imgSelectorMatched": ".ndImage source[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.ts.subCategoryList"
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-13T05:46:54.239Z",
+    "timestamp": "2025-08-14T10:15:19.463Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,14 +170,14 @@
     "price": [
       {
         "value": "₺1.274,93",
-        "selector": ".productPrice .newPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1274.93,
         "unsetPrice": false
       },
       {
         "value": "₺1.699,90",
-        "selector": ".productPrice .oldPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1699.9,
         "unsetPrice": false
@@ -196,15 +193,14 @@
       "imgSelectorMatched": ".ndImage source[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.ts.subCategoryList"
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-13T05:46:54.240Z",
+    "timestamp": "2025-08-14T10:15:19.464Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -226,14 +222,14 @@
     "price": [
       {
         "value": "₺399,95",
-        "selector": ".productPrice .newPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 399.95,
         "unsetPrice": false
       },
       {
         "value": "₺799,90",
-        "selector": ".productPrice .oldPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.9,
         "unsetPrice": false
@@ -249,15 +245,14 @@
       "imgSelectorMatched": ".ndImage source[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".productPrice .newPrice",
-        ".productPrice .oldPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-grid.ts.subCategoryList"
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-13T05:46:54.241Z",
+    "timestamp": "2025-08-14T10:15:19.465Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
