@@ -9,7 +9,7 @@
     "price": [
       {
         "value": "10390 TL",
-        "selector": ".product-price-content .product-sale-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10390,
         "unsetPrice": false
@@ -25,14 +25,14 @@
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-sale-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T05:44:49.087Z",
+    "timestamp": "2025-08-14T10:11:11.027Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "price": [
       {
         "value": "10390 TL",
-        "selector": ".product-price-content .product-sale-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10390,
         "unsetPrice": false
@@ -65,14 +65,14 @@
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-sale-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T05:44:49.089Z",
+    "timestamp": "2025-08-14T10:11:11.028Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -89,7 +89,7 @@
     "price": [
       {
         "value": "13320 TL",
-        "selector": ".product-price-content .product-sale-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 13320,
         "unsetPrice": false
@@ -105,14 +105,14 @@
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-sale-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T05:44:49.089Z",
+    "timestamp": "2025-08-14T10:11:11.029Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,7 +129,7 @@
     "price": [
       {
         "value": "13320 TL",
-        "selector": ".product-price-content .product-sale-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 13320,
         "unsetPrice": false
@@ -145,14 +145,14 @@
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-sale-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T05:44:49.090Z",
+    "timestamp": "2025-08-14T10:11:11.030Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,7 +169,7 @@
     "price": [
       {
         "value": "10990 TL",
-        "selector": ".product-price-content .product-sale-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10990,
         "unsetPrice": false
@@ -185,14 +185,14 @@
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-price-content .product-sale-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T05:44:49.091Z",
+    "timestamp": "2025-08-14T10:11:11.031Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
