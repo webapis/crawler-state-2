@@ -12,14 +12,14 @@
     "price": [
       {
         "value": "649,99 TL",
-        "selector": ".p-price .one-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
         "value": "1.299,99 TL",
-        "selector": ".old-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -28,22 +28,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".p-item.col",
       "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:59.615Z",
+    "timestamp": "2025-08-14T10:11:16.993Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,14 +62,14 @@
     "price": [
       {
         "value": "649,99 TL",
-        "selector": ".p-price .one-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
         "value": "1.299,99 TL",
-        "selector": ".old-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -79,22 +78,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".p-item.col",
       "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:59.616Z",
+    "timestamp": "2025-08-14T10:11:16.994Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,14 +112,14 @@
     "price": [
       {
         "value": "1.249,99 TL",
-        "selector": ".p-price .one-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1249.99,
         "unsetPrice": false
       },
       {
         "value": "2.499,99 TL",
-        "selector": ".old-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2499.99,
         "unsetPrice": false
@@ -130,73 +128,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".p-item.col",
       "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:59.617Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Ekru İçi Pamuk Delikli Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183061711961.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183033742876.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-ekru-ici-pamuk-delikli-omuz-cantasi_165846",
-    "price": [
-      {
-        "value": "1.249,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "innerText",
-        "numericValue": 1249.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.499,99 TL",
-        "selector": ".old-price",
-        "attribute": "innerText",
-        "numericValue": 2499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".p-item.col",
-      "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:59.618Z",
+    "timestamp": "2025-08-14T10:11:16.995Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -216,14 +162,14 @@
     "price": [
       {
         "value": "1.249,99 TL",
-        "selector": ".p-price .one-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1249.99,
         "unsetPrice": false
       },
       {
         "value": "2.499,99 TL",
-        "selector": ".old-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2499.99,
         "unsetPrice": false
@@ -232,22 +178,71 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: .p-name a)",
       "matchedSelector": ".p-item.col",
       "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".p-price .one-price",
-        ".old-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-13T05:45:59.619Z",
+    "timestamp": "2025-08-14T10:11:16.996Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Ekru İçi Pamuk Delikli Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183061711961.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183033742876.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-ekru-ici-pamuk-delikli-omuz-cantasi_165846",
+    "price": [
+      {
+        "value": "1.249,99 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.499,99 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "matchedProductItemSelectorManual": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-14T10:11:16.997Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
