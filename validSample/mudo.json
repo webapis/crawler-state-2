@@ -1,6 +1,5 @@
 [
   {
-    "title": "ÇİLEK DETAYLI ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585889/00e361a8-9375-49bf-a5ff-5186dfc0b79d_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585889/00e361a8-9375-49bf-a5ff-5186dfc0b79d_size650x650_cropCenter.jpg",
@@ -20,28 +19,28 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
       },
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -50,29 +49,28 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T07:22:37.037Z",
+    "timestamp": "2025-08-14T10:14:36.117Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
-    "title": "DERİ GÖRÜNÜMLÜ EL ÇANTASI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/560712/3b5a18cd-9fcd-41fb-a915-87d5d3dddfc2_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/560712/3b5a18cd-9fcd-41fb-a915-87d5d3dddfc2_size650x650_cropCenter.jpg",
@@ -92,28 +90,28 @@
     "price": [
       {
         "value": "699,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 699.99,
         "unsetPrice": false
       },
       {
         "value": "559,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
       },
       {
         "value": "699,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 699.99,
         "unsetPrice": false
       },
       {
         "value": "559,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
@@ -122,29 +120,28 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T07:22:37.038Z",
+    "timestamp": "2025-08-14T10:14:36.118Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
-    "title": "FULAR GÖRÜNÜMLÜ ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585886/62998901-21dc-4f38-84d5-f5cf723ebfb3_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585886/62998901-21dc-4f38-84d5-f5cf723ebfb3_size650x650_cropCenter.jpg",
@@ -165,28 +162,28 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
       },
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -195,29 +192,28 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T07:22:37.040Z",
+    "timestamp": "2025-08-14T10:14:36.120Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
-    "title": "ASKILI DERİ GÖRÜNÜMLÜ EL ÇANTASI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/561950/65fe820c-de62-445d-a2f7-69ffca7549c9_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/561950/65fe820c-de62-445d-a2f7-69ffca7549c9_size650x650_cropCenter.jpg",
@@ -238,28 +234,28 @@
     "price": [
       {
         "value": "1.299,00 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299,
         "unsetPrice": false
       },
       {
         "value": "899,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
       },
       {
         "value": "1.299,00 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299,
         "unsetPrice": false
       },
       {
         "value": "899,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -268,29 +264,28 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T07:22:37.042Z",
+    "timestamp": "2025-08-14T10:14:36.121Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
-    "title": "FULAR GÖRÜNÜMLÜ ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/02/585888/446c515d-5143-445b-a5ce-aa57b7a78ea1_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/02/585888/446c515d-5143-445b-a5ce-aa57b7a78ea1_size650x650_cropCenter.jpg",
@@ -311,28 +306,28 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
       },
       {
         "value": "999,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": "pz-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -341,24 +336,24 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "pz-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-13T07:22:37.044Z",
+    "timestamp": "2025-08-14T10:14:36.123Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
   }
