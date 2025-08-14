@@ -11,15 +11,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/canta/susane-siyah-canta/p/PYW23A8425IY-500",
     "price": [
       {
-        "value": "₺649,99",
-        "selector": ".prc.prc-last",
+        "value": "₺649.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
-        "value": "₺1.299,99",
-        "selector": ".prc.prc-first",
+        "value": "₺1,299.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -35,15 +35,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".plp-list .products"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-13T05:45:21.537Z",
+    "timestamp": "2025-08-14T10:13:22.627Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -62,15 +61,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/canta/susane-siyah-canta/p/PYW23A8425IY-500",
     "price": [
       {
-        "value": "₺649,99",
-        "selector": ".prc.prc-last",
+        "value": "₺649.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
-        "value": "₺1.299,99",
-        "selector": ".prc.prc-first",
+        "value": "₺1,299.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -86,15 +85,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".plp-list .products"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-13T05:45:21.538Z",
+    "timestamp": "2025-08-14T10:13:22.628Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,15 +112,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/canta/sage-siyah-canta/p/PYB21TY125IY-500",
     "price": [
       {
-        "value": "₺649,99",
-        "selector": ".prc.prc-last",
+        "value": "₺649.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
-        "value": "₺1.299,99",
-        "selector": ".prc.prc-first",
+        "value": "₺1,299.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -138,15 +136,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".plp-list .products"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-13T05:45:21.539Z",
+    "timestamp": "2025-08-14T10:13:22.630Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -166,15 +163,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/canta/sage-siyah-canta/p/PYB21TY125IY-500",
     "price": [
       {
-        "value": "₺649,99",
-        "selector": ".prc.prc-last",
+        "value": "₺649.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 649.99,
         "unsetPrice": false
       },
       {
-        "value": "₺1.299,99",
-        "selector": ".prc.prc-first",
+        "value": "₺1,299.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -190,15 +187,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".plp-list .products"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-13T05:45:21.540Z",
+    "timestamp": "2025-08-14T10:13:22.631Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -217,15 +213,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/canta/mara-canta/p/PY8L84DF25IY-STN",
     "price": [
       {
-        "value": "₺399,99",
-        "selector": ".prc.prc-last",
+        "value": "₺399.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 399.99,
         "unsetPrice": false
       },
       {
-        "value": "₺799,99",
-        "selector": ".prc.prc-first",
+        "value": "₺799.99",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -241,15 +237,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".plp-list .products"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-13T05:45:21.542Z",
+    "timestamp": "2025-08-14T10:13:22.632Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
