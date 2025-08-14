@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "₺ 279.99",
-        "selector": ".sell-price",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 279.99,
         "unsetPrice": false
@@ -26,14 +26,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".sell-price"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".infinite-scroll-component  .grid"
     },
     "pageTitle": "Çanta",
-    "pageURL": "https://morrez.com/canta-1?o=8&page=1",
-    "timestamp": "2025-08-13T05:45:54.077Z",
+    "pageURL": "https://morrez.com/canta-1",
+    "timestamp": "2025-08-14T10:12:07.985Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
