@@ -10,21 +10,21 @@
     "price": [
       {
         "value": "1.799,70TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1799.7,
         "unsetPrice": false
       },
       {
         "value": "1.799,70TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1799.7,
         "unsetPrice": false
       },
       {
         "value": "5.999TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5999,
         "unsetPrice": false
@@ -40,15 +40,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#product-grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-13T05:46:11.624Z",
+    "timestamp": "2025-08-14T10:14:01.244Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,21 +65,21 @@
     "price": [
       {
         "value": "1.999,60TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1999.6,
         "unsetPrice": false
       },
       {
         "value": "1.999,60TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1999.6,
         "unsetPrice": false
       },
       {
         "value": "4.999TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4999,
         "unsetPrice": false
@@ -96,15 +95,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#product-grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-13T05:46:11.626Z",
+    "timestamp": "2025-08-14T10:14:01.246Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,21 +120,21 @@
     "price": [
       {
         "value": "1.799,00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "1.799,00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "5.999TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5999,
         "unsetPrice": false
@@ -152,15 +150,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#product-grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-13T05:46:11.627Z",
+    "timestamp": "2025-08-14T10:14:01.247Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -178,21 +175,21 @@
     "price": [
       {
         "value": "2.499,50TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2499.5,
         "unsetPrice": false
       },
       {
         "value": "2.499,50TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2499.5,
         "unsetPrice": false
       },
       {
         "value": "4.999TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4999,
         "unsetPrice": false
@@ -208,15 +205,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#product-grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-13T05:46:11.629Z",
+    "timestamp": "2025-08-14T10:14:01.248Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -246,7 +242,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-13T05:46:11.629Z",
+    "timestamp": "2025-08-14T10:14:01.249Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
