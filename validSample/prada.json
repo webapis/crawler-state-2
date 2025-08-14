@@ -15,7 +15,7 @@
     "price": [
       {
         "value": "86.500 TL",
-        "selector": ".product-card__price--new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 86500,
         "unsetPrice": false
@@ -31,14 +31,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-card__price--new"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-13T05:48:16.022Z",
+    "timestamp": "2025-08-14T10:15:18.608Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -61,7 +61,7 @@
     "price": [
       {
         "value": "95.000 TL",
-        "selector": ".product-card__price--new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 95000,
         "unsetPrice": false
@@ -77,14 +77,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-card__price--new"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-13T05:48:16.023Z",
+    "timestamp": "2025-08-14T10:15:18.609Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -107,7 +107,7 @@
     "price": [
       {
         "value": "81.500 TL",
-        "selector": ".product-card__price--new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 81500,
         "unsetPrice": false
@@ -123,14 +123,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-card__price--new"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-13T05:48:16.024Z",
+    "timestamp": "2025-08-14T10:15:18.610Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -153,7 +153,7 @@
     "price": [
       {
         "value": "62.500 TL",
-        "selector": ".product-card__price--new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 62500,
         "unsetPrice": false
@@ -169,14 +169,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-card__price--new"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-13T05:48:16.025Z",
+    "timestamp": "2025-08-14T10:15:18.611Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -199,7 +199,7 @@
     "price": [
       {
         "value": "86.500 TL",
-        "selector": ".product-card__price--new",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 86500,
         "unsetPrice": false
@@ -215,14 +215,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-card__price--new"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "ol.products-grid"
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-13T05:48:16.026Z",
+    "timestamp": "2025-08-14T10:15:18.612Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
