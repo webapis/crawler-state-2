@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "1199 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1199,
         "unsetPrice": false
@@ -26,14 +26,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-08-13T05:46:36.432Z",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/",
+    "timestamp": "2025-08-14T10:12:22.039Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -51,7 +51,7 @@
     "price": [
       {
         "value": "699 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 699,
         "unsetPrice": false
@@ -67,14 +67,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-08-13T05:46:36.433Z",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/",
+    "timestamp": "2025-08-14T10:12:22.041Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,7 +92,7 @@
     "price": [
       {
         "value": "999 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999,
         "unsetPrice": false
@@ -108,14 +108,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-08-13T05:46:36.434Z",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/",
+    "timestamp": "2025-08-14T10:12:22.042Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -133,7 +133,7 @@
     "price": [
       {
         "value": "799 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799,
         "unsetPrice": false
@@ -149,14 +149,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-08-13T05:46:36.435Z",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/",
+    "timestamp": "2025-08-14T10:12:22.043Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +174,7 @@
     "price": [
       {
         "value": "799 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799,
         "unsetPrice": false
@@ -190,14 +190,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | OXXO",
-    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/#wd=1&o=3&prc=&ct=306&u=48&p=3",
-    "timestamp": "2025-08-13T05:46:36.435Z",
+    "pageURL": "https://www.oxxo.com.tr/tr/aksesuarlar/cantalar/",
+    "timestamp": "2025-08-14T10:12:22.044Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
