@@ -10,14 +10,14 @@
     "price": [
       {
         "value": "2.396,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2396,
         "unsetPrice": false
       },
       {
         "value": "2.995,00 ₺",
-        "selector": ".discount-price span:nth-child(1)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2995,
         "unsetPrice": false
@@ -33,15 +33,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discount-price span:nth-child(2)",
-        ".discount-price span:nth-child(1)"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category__list__main"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-13T05:48:48.596Z",
+    "timestamp": "2025-08-14T10:11:47.281Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -59,14 +58,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": ".discount-price span:nth-child(1)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -82,15 +81,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discount-price span:nth-child(2)",
-        ".discount-price span:nth-child(1)"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category__list__main"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-13T05:48:48.597Z",
+    "timestamp": "2025-08-14T10:11:47.282Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,14 +106,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": ".discount-price span:nth-child(1)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -131,15 +129,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discount-price span:nth-child(2)",
-        ".discount-price span:nth-child(1)"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category__list__main"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-13T05:48:48.598Z",
+    "timestamp": "2025-08-14T10:11:47.283Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -159,14 +156,14 @@
     "price": [
       {
         "value": "1.036,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1036,
         "unsetPrice": false
       },
       {
         "value": "1.295,00 ₺",
-        "selector": ".discount-price span:nth-child(1)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1295,
         "unsetPrice": false
@@ -182,15 +179,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discount-price span:nth-child(2)",
-        ".discount-price span:nth-child(1)"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category__list__main"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-13T05:48:48.599Z",
+    "timestamp": "2025-08-14T10:11:47.284Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -208,14 +204,14 @@
     "price": [
       {
         "value": "1.836,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1836,
         "unsetPrice": false
       },
       {
         "value": "2.295,00 ₺",
-        "selector": ".discount-price span:nth-child(1)",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2295,
         "unsetPrice": false
@@ -231,15 +227,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discount-price span:nth-child(2)",
-        ".discount-price span:nth-child(1)"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".category__list__main"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-13T05:48:48.600Z",
+    "timestamp": "2025-08-14T10:11:47.285Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
