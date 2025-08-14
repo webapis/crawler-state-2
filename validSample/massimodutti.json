@@ -1,35 +1,5 @@
 [
   {
-    "img": [
-      "https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1440",
-      "https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988"
-    ],
-    "primaryImg": "https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=850 850w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1024 1024w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1440 1440w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=1920 1920w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988&w=2400 2400w, https://static.massimodutti.net/assets/public/5465/6da3/1c1c4d6e806a/f6dcb2e6b43a/0690660670003-w1/0690660670003-w1.jpg?ts=1751885532988 4000w",
-    "link": "https://www.massimodutti.com/tr/orgu-napa-deri-shopper-canta-l06906606?pelement=55479578",
-    "price": [],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card",
-      "matchedProductItemSelectorManual": ".content-product-card",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".category-grid-container"
-    },
-    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
-    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T11:03:53.636Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
     "title": "Napa deri örgü büyük tote çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/2eda/8d87/42264b0ca56f/862c0c7f09aa/06907606724-o15/06907606724-o15.jpg?ts=1747740547119&w=1024",
@@ -50,8 +20,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card",
-      "matchedProductItemSelectorManual": ".content-product-card",
+      "matchedSelector": ".grid-product-list--4B .content-product-card",
+      "matchedProductItemSelectorManual": ".grid-product-list--4B .content-product-card",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -63,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T11:03:53.638Z",
+    "timestamp": "2025-08-14T05:51:45.678Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,8 +61,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card",
-      "matchedProductItemSelectorManual": ".content-product-card",
+      "matchedSelector": ".grid-product-list--4B .content-product-card",
+      "matchedProductItemSelectorManual": ".grid-product-list--4B .content-product-card",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -104,7 +74,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T11:03:53.639Z",
+    "timestamp": "2025-08-14T05:51:45.679Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -132,8 +102,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card",
-      "matchedProductItemSelectorManual": ".content-product-card",
+      "matchedSelector": ".grid-product-list--4B .content-product-card",
+      "matchedProductItemSelectorManual": ".grid-product-list--4B .content-product-card",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -145,7 +115,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T11:03:53.640Z",
+    "timestamp": "2025-08-14T05:51:45.680Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,8 +143,8 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card",
-      "matchedProductItemSelectorManual": ".content-product-card",
+      "matchedSelector": ".grid-product-list--4B .content-product-card",
+      "matchedProductItemSelectorManual": ".grid-product-list--4B .content-product-card",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -186,7 +156,48 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-13T11:03:53.641Z",
+    "timestamp": "2025-08-14T05:51:45.681Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Örgü napa deri shopper çanta",
+    "img": [
+      "https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=1024",
+      "https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066"
+    ],
+    "primaryImg": "https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=200 200w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=400 400w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=850 850w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=1024 1024w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=1440 1440w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=1920 1920w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066&w=2400 2400w, https://static.massimodutti.net/assets/public/389d/bba4/a55341c7ade1/bd96afb3891d/06906606800-o15/06906606800-o15.jpg?ts=1749712762066 4000w",
+    "link": "https://www.massimodutti.com/tr/orgu-napa-deri-shopper-canta-l06906606?pelement=50422609",
+    "price": [
+      {
+        "value": "11.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "innerText",
+        "numericValue": 11950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card-figure a)",
+      "matchedSelector": ".grid-product-list--4B .content-product-card",
+      "matchedProductItemSelectorManual": ".grid-product-list--4B .content-product-card",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "formatted-price-detail div div"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".category-grid-container"
+    },
+    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
+    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
+    "timestamp": "2025-08-14T05:51:45.682Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
