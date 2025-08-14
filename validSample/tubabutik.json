@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".text-sm.font-semibold",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -26,14 +26,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#productList"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-13T05:47:52.786Z",
+    "timestamp": "2025-08-14T10:12:18.325Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -51,7 +51,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".text-sm.font-semibold",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -67,14 +67,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#productList"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-13T05:47:52.787Z",
+    "timestamp": "2025-08-14T10:12:18.326Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,7 +92,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".text-sm.font-semibold",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -108,14 +108,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#productList"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-13T05:47:52.788Z",
+    "timestamp": "2025-08-14T10:12:18.327Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -133,7 +133,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".text-sm.font-semibold",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -149,14 +149,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#productList"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-13T05:47:52.789Z",
+    "timestamp": "2025-08-14T10:12:18.328Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +174,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".text-sm.font-semibold",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -190,14 +190,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#productList"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-13T05:47:52.790Z",
+    "timestamp": "2025-08-14T10:12:18.329Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
