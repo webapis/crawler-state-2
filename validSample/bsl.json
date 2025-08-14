@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "1.199,99 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1199.99,
         "unsetPrice": false
@@ -28,14 +28,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-13T05:46:35.364Z",
+    "timestamp": "2025-08-14T10:14:57.895Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,7 +60,7 @@
     "price": [
       {
         "value": "1.249,99 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1249.99,
         "unsetPrice": false
@@ -76,14 +76,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-13T05:46:35.366Z",
+    "timestamp": "2025-08-14T10:14:57.898Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -105,7 +105,7 @@
     "price": [
       {
         "value": "1.099,99 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1099.99,
         "unsetPrice": false
@@ -121,14 +121,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-13T05:46:35.368Z",
+    "timestamp": "2025-08-14T10:14:57.899Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -148,7 +148,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -164,14 +164,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-13T05:46:35.370Z",
+    "timestamp": "2025-08-14T10:14:57.901Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -191,7 +191,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".PriceArea .PPrice",
+        "selector": "price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -207,14 +207,14 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".PriceArea .PPrice"
+        "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".PrdContainer .Products .ProductList"
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-13T05:46:35.371Z",
+    "timestamp": "2025-08-14T10:14:57.903Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
