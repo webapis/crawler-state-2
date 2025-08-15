@@ -1,55 +1,5 @@
 [
   {
-    "title": "Lara Kanvas ve Hakiki Deri Mini El-Omuz Çantası",
-    "img": [
-      "https://meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=535",
-      "https://meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=1100",
-      "https://meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum-2.jpg?v=1753776313&width=535",
-      "https://meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum-2.jpg?v=1753776313&width=1100"
-    ],
-    "primaryImg": "//meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=165 165w, //meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=360 360w, //meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=535 535w, //meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=750 750w, //meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=940 940w, //meskanto.com/cdn/shop/files/lara-kanvas-ve-hakiki-deri-el-cantasi-model-on-gorunum.jpg?v=1753776325&width=1100 1100w",
-    "link": null,
-    "price": [
-      {
-        "value": "₺1,299.99",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1299.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺1,999.99",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".product-grid-container .grid__item",
-      "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
-    },
-    "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
-    "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:22:24.482Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "img": [
       "https://meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=720",
       "https://meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=533",
@@ -65,7 +15,7 @@
       "https://meskanto.com/cdn/shop/files/12.05.2025_CaptureStudio_Geris_4681.jpg?v=1752742811&width=1100"
     ],
     "primaryImg": "//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=165 165w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=360 360w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=533 533w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=720 720w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=940 940w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=1066 1066w,//meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811 1335w",
-    "link": null,
+    "link": "https://meskanto.com/collections/kadin-canta/products/milano-hakiki-deri-kadin-el-omuz-cantasi",
     "price": [
       {
         "value": "₺2,499.00",
@@ -85,7 +35,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
       "titleSelectorMatched": "img.motion-reduce",
@@ -99,9 +49,9 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:22:24.484Z",
+    "timestamp": "2025-08-15T12:26:17.694Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
@@ -122,7 +72,7 @@
       "https://meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-yan-gorunum.png?v=1752743884&width=1100"
     ],
     "primaryImg": "//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=165 165w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=360 360w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=533 533w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=720 720w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=940 940w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=1066 1066w,//meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884 1502w",
-    "link": null,
+    "link": "https://meskanto.com/collections/kadin-canta/products/monaco-hakiki-deri-askili-el-ve-omuz-cantasi-kopya-2",
     "price": [
       {
         "value": "₺2,399.00",
@@ -142,7 +92,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
       "titleSelectorMatched": "img.motion-reduce",
@@ -156,9 +106,9 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:22:24.485Z",
+    "timestamp": "2025-08-15T12:26:17.695Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
@@ -179,7 +129,7 @@
       "https://meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-yan-gorunum.jpg?v=1752837569&width=1100"
     ],
     "primaryImg": "//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=165 165w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=360 360w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=533 533w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=720 720w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=940 940w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=1066 1066w,//meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569 1502w",
-    "link": null,
+    "link": "https://meskanto.com/collections/kadin-canta/products/mira-hakiki-deri-zincirli-yuvarlak-canta-kopya-2",
     "price": [
       {
         "value": "₺1,999.00",
@@ -199,7 +149,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
       "titleSelectorMatched": "img.motion-reduce",
@@ -213,9 +163,9 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:22:24.486Z",
+    "timestamp": "2025-08-15T12:26:17.696Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
@@ -236,7 +186,7 @@
       "https://meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-yan-gorunum.jpg?v=1752840317&width=1100"
     ],
     "primaryImg": "//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=165 165w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=360 360w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=533 533w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=720 720w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=940 940w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=1066 1066w,//meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317 1502w",
-    "link": null,
+    "link": "https://meskanto.com/collections/kadin-canta/products/hilton-hakiki-deri-zincir-askili-kutu-canta-kopya",
     "price": [
       {
         "value": "₺1,899.00",
@@ -256,7 +206,7 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
       "titleSelectorMatched": "img.motion-reduce",
@@ -270,9 +220,66 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:22:24.488Z",
+    "timestamp": "2025-08-15T12:26:17.698Z",
     "imgValid": true,
-    "linkValid": false,
+    "linkValid": true,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "img": [
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=720",
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=533",
+      "https://meskanto.com/cdn/shop/files/buket-canta-siyah-on-gorunum.jpg?v=1752759206&width=720",
+      "https://meskanto.com/cdn/shop/files/buket-canta-siyah-on-gorunum.jpg?v=1752759206&width=533",
+      "https://meskanto.com/cdn/shop/files/buket-canta-kahve-onden-gorunum.jpg?v=1752759206&width=720",
+      "https://meskanto.com/cdn/shop/files/buket-canta-kahve-onden-gorunum.jpg?v=1752759206&width=533",
+      "https://meskanto.com/cdn/shop/files/buket-lacivert-canta-on-gorunum.jpg?v=1752759206&width=720",
+      "https://meskanto.com/cdn/shop/files/buket-lacivert-canta-on-gorunum.jpg?v=1752759206&width=533",
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=535",
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=1100",
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-detay-gorunum.jpg?v=1752758932&width=535",
+      "https://meskanto.com/cdn/shop/files/buket-canta-floater-taba-detay-gorunum.jpg?v=1752758932&width=1100"
+    ],
+    "primaryImg": "//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=165 165w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=360 360w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=533 533w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=720 720w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=940 940w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932&width=1066 1066w,//meskanto.com/cdn/shop/files/buket-canta-floater-taba-on-gorunum.jpg?v=1752758932 1502w",
+    "link": "https://meskanto.com/collections/kadin-canta/products/buket-hakiki-deri-askili-el-ve-omuz-cantasi-kopya-1",
+    "price": [
+      {
+        "value": "₺1,999.00",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1999,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺2,999.00",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".product-grid-container .grid__item",
+      "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "div.grid"
+    },
+    "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
+    "pageURL": "https://meskanto.com/collections/kadin-canta",
+    "timestamp": "2025-08-15T12:26:17.699Z",
+    "imgValid": true,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true
