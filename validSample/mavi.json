@@ -7,7 +7,22 @@
     ],
     "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913093-620_image_1.jpg",
     "link": "https://www.mavi.com/beyaz-bucket-canta/p/1913093-620",
-    "price": [],
+    "price": [
+      {
+        "value": "779,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 779.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .nodiscount-price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -17,18 +32,21 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-pricing .price",
+        ".product-pricing .nodiscount-price"
+      ],
       "usedFallbackDocument": true,
       "matchedPageSelector": null
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-15T10:21:04.866Z",
+    "timestamp": "2025-08-15T10:32:30.075Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Beyaz Bucket Çanta",
@@ -38,7 +56,22 @@
     ],
     "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913093-620_image_1.jpg",
     "link": "https://www.mavi.com/beyaz-bucket-canta/p/1913093-620",
-    "price": [],
+    "price": [
+      {
+        "value": "779,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 779.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .nodiscount-price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -48,18 +81,21 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-pricing .price",
+        ".product-pricing .nodiscount-price"
+      ],
       "usedFallbackDocument": true,
       "matchedPageSelector": null
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-15T10:21:04.867Z",
+    "timestamp": "2025-08-15T10:32:30.076Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Renkli Hasır Omuz Çantası",
@@ -69,7 +105,22 @@
     ],
     "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
     "link": "https://www.mavi.com/renkli-hasir-omuz-cantasi/p/1911324-70202",
-    "price": [],
+    "price": [
+      {
+        "value": "779,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 779.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .nodiscount-price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -79,18 +130,21 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-pricing .price",
+        ".product-pricing .nodiscount-price"
+      ],
       "usedFallbackDocument": true,
       "matchedPageSelector": null
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-15T10:21:04.868Z",
+    "timestamp": "2025-08-15T10:32:30.077Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Renkli Hasır Omuz Çantası",
@@ -100,7 +154,22 @@
     ],
     "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
     "link": "https://www.mavi.com/renkli-hasir-omuz-cantasi/p/1911324-70202",
-    "price": [],
+    "price": [
+      {
+        "value": "779,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 779.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .nodiscount-price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -110,18 +179,21 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-pricing .price",
+        ".product-pricing .nodiscount-price"
+      ],
       "usedFallbackDocument": true,
       "matchedPageSelector": null
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-15T10:21:04.869Z",
+    "timestamp": "2025-08-15T10:32:30.078Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Denim Omuz Çantası",
@@ -130,7 +202,15 @@
     ],
     "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913105-70872_image_1.jpg",
     "link": "https://www.mavi.com/denim-omuz-cantasi/p/1913105-70872",
-    "price": [],
+    "price": [
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -140,17 +220,19 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
+      "priceSelectorsMatched": [
+        ".product-pricing .price"
+      ],
       "usedFallbackDocument": true,
       "matchedPageSelector": null
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-15T10:21:04.870Z",
+    "timestamp": "2025-08-15T10:32:30.079Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   }
 ]
