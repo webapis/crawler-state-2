@@ -39,113 +39,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": ".grid#AjaxinateLoop"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-14T10:27:41.040Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Bej Hologram Desenli Sırt Çantası",
-    "img": [
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=360"
-    ],
-    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=1200\n  1200w 1800h",
-    "link": "https://derimod.com.tr/products/kadin-bej-hologram-desenli-sirt-cantasi-25sbd25526f-5637145525",
-    "price": [
-      {
-        "value": "1,799.99TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1799.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-grid-item__title)",
-      "matchedSelector": ".ProductCard.mb-2.w-full",
-      "matchedProductItemSelectorManual": ".ProductCard.mb-2.w-full",
-      "titleSelectorMatched": ".product-grid-item__title",
-      "imgSelectorMatched": "[data-bgset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".grid#AjaxinateLoop"
-    },
-    "pageTitle": "Kadın Çanta",
-    "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-14T10:27:41.042Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Siyah Aksesuar Detaylı Çapraz Çanta",
-    "img": [
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_2.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_3.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_4.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_2.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_3.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_4.jpg?v=1754527986&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_2.jpg?v=1754527986&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_3.jpg?v=1754527986&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_4.jpg?v=1754527986&width=360"
-    ],
-    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD275614_5637145339_1.jpg?v=1754527986&width=1200\n  1200w 1800h",
-    "link": "https://derimod.com.tr/products/kadin-siyah-aksesuar-detayli-capraz-canta-25sbd275614",
-    "price": [
-      {
-        "value": "899.99TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 899.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-grid-item__title)",
-      "matchedSelector": ".ProductCard.mb-2.w-full",
-      "matchedProductItemSelectorManual": ".ProductCard.mb-2.w-full",
-      "titleSelectorMatched": ".product-grid-item__title",
-      "imgSelectorMatched": "[data-bgset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".grid#AjaxinateLoop"
-    },
-    "pageTitle": "Kadın Çanta",
-    "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-14T10:27:41.044Z",
+    "timestamp": "2025-08-15T10:00:16.177Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -192,11 +90,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": ".grid#AjaxinateLoop"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-14T10:27:41.045Z",
+    "timestamp": "2025-08-15T10:00:16.178Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -204,29 +102,29 @@
     "priceValid": true
   },
   {
-    "title": "Kadın Siyah Örgülü Çapraz Çanta",
+    "title": "Kadın Bej Hologram Desenli Sırt Çantası",
     "img": [
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_2.jpg?v=1754527963&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_3.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_4.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_2.jpg?v=1754527963&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_3.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_4.jpg?v=1754527964&width=720",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_2.jpg?v=1754527963&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_3.jpg?v=1754527964&width=360",
-      "https://derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_4.jpg?v=1754527964&width=360"
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_2.jpg?v=1755072252&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_3.jpg?v=1755072252&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_4.jpg?v=1755072252&width=360"
     ],
-    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD293129_5637145339_1.jpg?v=1754527964&width=1200\n  1200w 1800h",
-    "link": "https://derimod.com.tr/products/kadin-siyah-orgulu-capraz-canta-25sbd293129",
+    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD25526F_5637145525_1.jpg?v=1755072255&width=1200\n  1200w 1800h",
+    "link": "https://derimod.com.tr/products/kadin-bej-hologram-desenli-sirt-cantasi-25sbd25526f-5637145525",
     "price": [
       {
-        "value": "999.99TL",
+        "value": "1,799.99TL",
         "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 999.99,
+        "numericValue": 1799.99,
         "unsetPrice": false
       }
     ],
@@ -243,11 +141,113 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": ".grid#AjaxinateLoop"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-14T10:27:41.047Z",
+    "timestamp": "2025-08-15T10:00:16.180Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Siyah Uzun Askılı Klasik Omuz Çantası",
+    "img": [
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_3.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_4.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_5.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_3.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_4.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_5.jpg?v=1751531958&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_3.jpg?v=1751531958&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_4.jpg?v=1751531958&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_5.jpg?v=1751531958&width=360"
+    ],
+    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD211218_5637145339_2.jpg?v=1751531958&width=1200\n  1200w 1800h",
+    "link": "https://derimod.com.tr/products/kadin-siyah-uzun-askili-klasik-omuz-cantasi-25sbd211218",
+    "price": [
+      {
+        "value": "2,699.99TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2699.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-grid-item__title)",
+      "matchedSelector": ".ProductCard.mb-2.w-full",
+      "matchedProductItemSelectorManual": ".ProductCard.mb-2.w-full",
+      "titleSelectorMatched": ".product-grid-item__title",
+      "imgSelectorMatched": "[data-bgset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "div.grid"
+    },
+    "pageTitle": "Kadın Çanta",
+    "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
+    "timestamp": "2025-08-15T10:00:16.181Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Siyah Sırt Çantası",
+    "img": [
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_2.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_3.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_4.jpg?v=1754527577&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_2.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_3.jpg?v=1754527574&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_4.jpg?v=1754527577&width=720",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_2.jpg?v=1754527574&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_3.jpg?v=1754527574&width=360",
+      "https://derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_4.jpg?v=1754527577&width=360"
+    ],
+    "primaryImg": "//derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=180 180w 270h,\n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=360 360w 540h,\n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=540 540w 810h,\n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=720 720w 1080h,\n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=900 900w 1350h,\n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=1080 1080w 1620h,\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  //derimod.com.tr/cdn/shop/files/25SBD255118_5637145339_1.jpg?v=1754527574&width=1200\n  1200w 1800h",
+    "link": "https://derimod.com.tr/products/kadin-siyah-sirt-cantasi-25sbd255118-5637145339",
+    "price": [
+      {
+        "value": "1,999.99TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-grid-item__title)",
+      "matchedSelector": ".ProductCard.mb-2.w-full",
+      "matchedProductItemSelectorManual": ".ProductCard.mb-2.w-full",
+      "titleSelectorMatched": ".product-grid-item__title",
+      "imgSelectorMatched": "[data-bgset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "div.grid"
+    },
+    "pageTitle": "Kadın Çanta",
+    "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
+    "timestamp": "2025-08-15T10:00:16.183Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
