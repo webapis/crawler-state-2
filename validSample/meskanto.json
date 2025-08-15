@@ -28,10 +28,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "linkSource": "titleElement (matched: .card-information__text.h4)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
+      "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -42,7 +42,7 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:26:17.693Z",
+    "timestamp": "2025-08-15T12:29:02.087Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +50,7 @@
     "priceValid": true
   },
   {
+    "title": "Milano Hakiki Deri Kadın El Omuz Çantası",
     "img": [
       "https://meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=720",
       "https://meskanto.com/cdn/shop/files/milano-hakiki-deri-kadin-canta-siyah-on-gorunum.jpg?v=1752742811&width=533",
@@ -85,10 +86,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "linkSource": "titleElement (matched: .card-information__text.h4)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
+      "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -99,14 +100,15 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:26:17.694Z",
+    "timestamp": "2025-08-15T12:29:02.089Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "Monaco Hakiki Deri Askılı El ve Omuz Çantası (Bordo)",
     "img": [
       "https://meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=720",
       "https://meskanto.com/cdn/shop/files/monaco-hakiki-deri-kadin-canta-bordo-on-gorunum.png?v=1752743884&width=533",
@@ -142,10 +144,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "linkSource": "titleElement (matched: .card-information__text.h4)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
+      "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -156,14 +158,15 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:26:17.695Z",
+    "timestamp": "2025-08-15T12:29:02.090Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "Mira Hakiki Deri Zincirli Yuvarlak Çanta (Krem)",
     "img": [
       "https://meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=720",
       "https://meskanto.com/cdn/shop/files/mira-hakiki-deri-kadin-cantasi-krem-on-gorunum.jpg?v=1752837569&width=533",
@@ -199,10 +202,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "linkSource": "titleElement (matched: .card-information__text.h4)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
+      "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -213,14 +216,15 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:26:17.696Z",
+    "timestamp": "2025-08-15T12:29:02.092Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "Hilton Hakiki Deri Zincir Askılı Kutu Çanta (Haki Yeşil)",
     "img": [
       "https://meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=720",
       "https://meskanto.com/cdn/shop/files/hilton-hakiki-deri-kadin-el-ve-omuz-cantasi-yesil-on-gorunum.jpg?v=1752840317&width=533",
@@ -256,10 +260,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "linkSource": "titleElement (matched: .card-information__text.h4)",
       "matchedSelector": ".product-grid-container .grid__item",
       "matchedProductItemSelectorManual": ".product-grid-container .grid__item",
-      "titleSelectorMatched": "img.motion-reduce",
+      "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -270,10 +274,10 @@
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T12:26:17.698Z",
+    "timestamp": "2025-08-15T12:29:02.093Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   }
