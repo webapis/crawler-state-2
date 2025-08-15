@@ -1,285 +1,55 @@
 [
   {
-    "title": "Siyah Straplez Kol Detaylı Abiye Tulum",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setresiyah-straplez-kol-detayli-abiye--c-4376.jpg",
-      "https://static.ticimax.cloud/4197/Uploads/Images/load.gif"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setresiyah-straplez-kol-detayli-abiye--c-4376.jpg",
-    "link": "https://www.setre.com/siyah-straplez-kol-detayli-abiye-tulum-43677",
-    "price": [
-      {
-        "value": "$1,000.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      },
-      {
-        "value": "Na $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$1,000.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      }
-    ],
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
+      "linkSource": null,
+      "matchedSelector": ".product",
+      "matchedProductItemSelectorManual": ".product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
+      "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com - Sayfa 10",
-    "pageURL": "https://www.setre.com/kadin-giyim?sayfa=10",
-    "timestamp": "2025-08-06T08:59:30.409Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-15T10:03:29.672Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
-    "title": "Vizon Asimetrik Omuz, Belden Detaylı Tam Kalıp Uzun Abiye Elbise",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrevizon-asimetrik-omuz-belden-detay-c-b179.jpg",
-      "https://static.ticimax.cloud/4197/Uploads/Images/load.gif"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrevizon-asimetrik-omuz-belden-detay-c-b179.jpg",
-    "link": "https://www.setre.com/vizon-asimetrik-omuz-belden-detayli-tam-kalip-uzun-abiye-elbise-43430",
-    "price": [
-      {
-        "value": "$1,000.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      },
-      {
-        "value": "Na $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$1,000.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      }
-    ],
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
+      "linkSource": null,
+      "matchedSelector": ".product",
+      "matchedProductItemSelectorManual": ".product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
+      "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
+      "matchedPageSelector": ".ProductListContent"
     },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com - Sayfa 11",
-    "pageURL": "https://www.setre.com/kadin-giyim?sayfa=11",
-    "timestamp": "2025-08-06T08:59:35.782Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
-    "title": "Taş Straplez Kol Detaylı Abiye Tulum",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setretas-straplez-kol-detayli-abiye-tu-b953fa.jpg",
-      "https://static.ticimax.cloud/4197/Uploads/Images/load.gif"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setretas-straplez-kol-detayli-abiye-tu-b953fa.jpg",
-    "link": "https://www.setre.com/tas-straplez-kol-detayli-abiye-tulum-43676",
-    "price": [
-      {
-        "value": "$1,000.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      },
-      {
-        "value": "Na $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$1,000.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com - Sayfa 18",
-    "pageURL": "https://www.setre.com/kadin-giyim?sayfa=18",
-    "timestamp": "2025-08-06T09:00:16.122Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
-    "title": "Taş Asimetrik Omuz, Belden Detaylı Tam Kalıp Uzun Abiye Elbise",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setretas-asimetrik-omuz-belden-detayli-0-915c.jpg",
-      "https://static.ticimax.cloud/4197/Uploads/Images/load.gif"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setretas-asimetrik-omuz-belden-detayli-0-915c.jpg",
-    "link": "https://www.setre.com/tas-asimetrik-omuz-belden-detayli-tam-kalip-uzun-abiye-elbise-44075",
-    "price": [
-      {
-        "value": "$1,000.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      },
-      {
-        "value": "Na $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$1,000.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 33500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com - Sayfa 18",
-    "pageURL": "https://www.setre.com/kadin-giyim?sayfa=18",
-    "timestamp": "2025-08-06T09:00:16.149Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
-    "title": "Lila Düşük Omuz Ve Belden Gül Detaylı Desenli Uzun Abiye Elbise",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrelila-dusuk-omuz-ve-belden-gul-det-c4421b.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=764,quality=85/4197/uploads/urunresimleri/buyuk/setrelila-dusuk-omuz-ve-belden-gul-det-c4421b.jpg",
-    "link": "https://www.setre.com/lila-dusuk-omuz-ve-belden-gul-detayli-desenli-uzun-abiye-elbise-44218",
-    "price": [
-      {
-        "value": "$1,024.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "numericValue": 34304,
-        "unsetPrice": false
-      },
-      {
-        "value": "Na $",
-        "selector": ".productPrice  .lastprice",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$1,024.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 34304,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice  .lastprice",
-        ".productPrice .discountPrice"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductPageProductList.ProductList"
-    },
-    "pageTitle": "Kadın Giyim Modelleri - Setre ile Şıklığı Keşfedin | Setre.com - Sayfa 19",
-    "pageURL": "https://www.setre.com/kadin-giyim?sayfa=19",
-    "timestamp": "2025-08-06T09:00:21.684Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
+    "pageURL": "https://www.setre.com/canta-modelleri",
+    "timestamp": "2025-08-15T10:03:29.672Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   }
