@@ -1,603 +1,82 @@
 [
   {
-    "title": "Soft Leather Bag - Burgundy",
-    "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30940-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30942-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30542-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30941-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30940-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30942-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30542-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30941-69-O.webp"
-    ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-burgundy-25yg-shoulder-bag-gusto-30541-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-burgundy-25yg",
-    "price": [
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      }
-    ],
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": ".image-inner img",
+      "linkSource": null,
+      "matchedSelector": ".showcase",
+      "matchedProductItemSelectorManual": ".showcase",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.fw-semibold",
-        ".product-discounted-price.text-black.fw-regular",
-        ".current-price .product-price"
-      ],
+      "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
     "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-04T05:50:28.858Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "pageURL": "https://gustoeshop.com/canta",
+    "timestamp": "2025-08-15T10:00:44.154Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
-    "title": "Soft Leather Bag - Beige",
-    "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30939-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30937-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30540-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30938-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30939-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30937-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30540-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30938-69-O.webp"
-    ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-beige-25yg-shoulder-bag-gusto-30539-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-beige-25yg",
-    "price": [
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      }
-    ],
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": ".image-inner img",
+      "linkSource": null,
+      "matchedSelector": ".showcase",
+      "matchedProductItemSelectorManual": ".showcase",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.fw-semibold",
-        ".product-discounted-price.text-black.fw-regular",
-        ".current-price .product-price"
-      ],
+      "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-04T05:50:28.859Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "pageTitle": "Kadin Çanta Modelleri ve Fiyatları | Gusto",
+    "pageURL": "https://gustoeshop.com/canta?ps=1",
+    "timestamp": "2025-08-15T10:00:48.090Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   },
   {
-    "title": "Soft Leather Bag - Black",
-    "img": [
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31381-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31382-69-O.jpg",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31381-69-O.webp",
-      "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31382-69-O.webp"
-    ],
-    "primaryImg": "https://witcdn.gustoeshop.com/ensoft-leather-bag-black-25yg-faux-leather-bag-gusto-31380-69-O.jpg",
-    "link": "https://gustoeshop.com/en/soft-leather-bag-black-25yg",
-    "price": [
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "144,63 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "86,78",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 86.78,
-        "unsetPrice": false
-      }
-    ],
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": ".image-inner img",
+      "linkSource": null,
+      "matchedSelector": ".showcase",
+      "matchedProductItemSelectorManual": ".showcase",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.fw-semibold",
-        ".product-discounted-price.text-black.fw-regular",
-        ".current-price .product-price"
-      ],
+      "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
       "matchedPageSelector": "#catalog-list"
     },
-    "pageTitle": "Bag Models and Prices | Gusto",
+    "pageTitle": "Kadin Çanta Modelleri ve Fiyatları | Gusto",
     "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-04T05:50:28.860Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
-    "title": "Leather Bag with Long Handles - Black",
-    "img": [
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28587-68-O.jpg",
-      "https://gustoeshop.com/canta/theme/standart/images/lazy_load_yukleniyor.gif",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28588-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28589-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28590-68-O.jpg",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28587-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28588-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28589-68-O.webp",
-      "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28590-68-O.webp"
-    ],
-    "primaryImg": "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.jpg",
-    "link": "https://gustoeshop.com/en/leather-bag-with-long-handles-black-25yg",
-    "price": [
-      {
-        "value": "106,85 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "178,09 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 106.85,
-        "unsetPrice": false
-      },
-      {
-        "value": "178,09 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 106.85,
-        "unsetPrice": false
-      },
-      {
-        "value": "178,09 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "178,09 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "106,85",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 106.85,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": ".image-inner img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.fw-semibold",
-        ".product-discounted-price.text-black.fw-regular",
-        ".current-price .product-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#catalog-list"
-    },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-04T05:50:28.861Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false
-  },
-  {
-    "title": "Lock Buckle Long Strap Mini Leather Bag - Brown",
-    "img": [
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28584-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28585-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28586-67-O.jpg",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28584-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28585-67-O.webp",
-      "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28586-67-O.webp"
-    ],
-    "primaryImg": "https://witcdn.gustoeshop.com/enlock-buckle-long-strap-mini-leather-bag-brown-25yg-faux-leather-bag-gusto-28602-67-O.jpg",
-    "link": "https://gustoeshop.com/en/lock-buckle-long-strap-mini-leather-bag-brown-25yg",
-    "price": [
-      {
-        "value": "85,48 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "142,47 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 85.48,
-        "unsetPrice": false
-      },
-      {
-        "value": "142,47 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 85.48,
-        "unsetPrice": false
-      },
-      {
-        "value": "142,47 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48 EUR",
-        "selector": ".current-price.fw-semibold",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "142,47 EUR",
-        "selector": ".product-discounted-price.text-black.fw-regular",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "85,48",
-        "selector": ".current-price .product-price",
-        "attribute": "innerText",
-        "numericValue": 85.48,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": ".image-inner img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.fw-semibold",
-        ".product-discounted-price.text-black.fw-regular",
-        ".current-price .product-price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#catalog-list"
-    },
-    "pageTitle": "Bag Models and Prices | Gusto",
-    "pageURL": "https://gustoeshop.com/canta?ps=2",
-    "timestamp": "2025-08-04T05:50:28.862Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "timestamp": "2025-08-15T10:00:48.106Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false
   }
