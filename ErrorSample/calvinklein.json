@@ -36,53 +36,8 @@
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-14T10:14:42.499Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "kadın ultralight omuz çantası",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689787367103jpg"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3131gfup-kadin-ultralight-omuz-cantasi-638894689760179504jpg",
-    "link": "https://tr.calvinklein.com/kadin-ultralight-omuz-cantasi-p_198366",
-    "price": [
-      {
-        "value": "4.499,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item-inside",
-      "matchedProductItemSelectorManual": ".p-item-inside",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-14T10:14:46.095Z",
+    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta?p=2",
+    "timestamp": "2025-08-15T10:03:11.318Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
