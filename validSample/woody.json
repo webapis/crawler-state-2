@@ -1,161 +1,5 @@
 [
   {
-    "title": "Ayrıntıları göster Velsoft Çanta-Wba - 480-Şeker Pembesi",
-    "img": [
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_200.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
-    "link": "https://www.woody.com.tr/velsoft-canta-wba-480-seker-pembesi_242-10-wba-m-unidin121",
-    "price": [
-      {
-        "value": "₺399,95",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,90",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 799.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.ts.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | Çanta",
-    "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-15T10:00:13.292Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Ayrıntıları göster Velsoft Çanta-Wba - 127-Krem",
-    "img": [
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f86b62c99283ec36f61_velsoft-anta-wba-127-krem_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f86b62c99283ec36f61_velsoft-anta-wba-127-krem_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f86b62c99283ec36f61_velsoft-anta-wba-127-krem_200.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f80b62c99283ec36eea_velsoft-anta-wba-127-krem_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f80b62c99283ec36eea_velsoft-anta-wba-127-krem_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/66c88f80b62c99283ec36eea_velsoft-anta-wba-127-krem_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/66c88f86b62c99283ec36f61_velsoft-anta-wba-127-krem_1000.jpeg",
-    "link": "https://www.woody.com.tr/velsoft-canta-wba-127-krem_242-10-wba-m-unidin118",
-    "price": [
-      {
-        "value": "₺399,95",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,90",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 799.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.ts.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | Çanta",
-    "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-15T10:00:13.293Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Ayrıntıları göster Havlu Çanta-Wbc - 845-Mavi",
-    "img": [
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_200.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_1000.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_300.jpeg",
-      "https://www.woody.com.tr/canta-2/content/images/thumbs/6893083dc52c2c097868107f_havlu-anta-wbc-845-mavi_200.jpeg"
-    ],
-    "primaryImg": "/content/images/thumbs/6893083ec52c2c09786815d9_havlu-anta-wbc-845-mavi_1000.jpeg",
-    "link": "https://www.woody.com.tr/havlu-canta-wbc-845-mavi_251-10-wbc-bdck106",
-    "price": [
-      {
-        "value": "₺449,95",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 449.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺899,90",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 899.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ndImage source[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-grid.ts.subCategoryList"
-    },
-    "pageTitle": "Woody Türkiye | Çanta",
-    "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-15T10:00:13.294Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Ayrıntıları göster Terry Havlu Kol Çantası-Hba - 953-Mavi Beyaz Çizgili",
     "img": [
       "https://www.woody.com.tr/canta-2/content/images/thumbs/67d94c579521a24d51b56594_terry-havlu-kol-antas-hba-953-mavi-beyaz-izgili_1000.jpeg",
@@ -200,7 +44,7 @@
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-15T10:00:13.295Z",
+    "timestamp": "2025-08-15T10:15:20.382Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -252,7 +96,163 @@
     },
     "pageTitle": "Woody Türkiye | Çanta",
     "pageURL": "https://www.woody.com.tr/canta-2",
-    "timestamp": "2025-08-15T10:00:13.296Z",
+    "timestamp": "2025-08-15T10:15:20.383Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Velsoft Çanta-Wbh - 020-Dinozor Temalı Lacivert",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66fd064bb62c99283ea5b6bd_velsoft-anta-wbh-020-ak-yeil_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/66fd064bb62c99283ea5ce7d_velsoft-anta-wbh-020-ak-yeil_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wbh-020-acik-yesil_242-10-wbh-m-unidin101",
+    "price": [
+      {
+        "value": "₺1.274,93",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1274.93,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.699,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1699.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.ts.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-15T10:15:20.384Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Velsoft Çanta-Wba - 719-Mint Yeşili",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41118b62c99283e634407_velsoft-anta-wba-719-mint-yeili_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/66f41119b62c99283e6344ab_velsoft-anta-wba-719-mint-yeili_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wba-719-mint-yesili_242-10-wba-m-uniduc102",
+    "price": [
+      {
+        "value": "₺399,95",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺799,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.ts.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-15T10:15:20.385Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Ayrıntıları göster Velsoft Çanta-Wba - 480-Şeker Pembesi",
+    "img": [
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_200.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_300.jpeg",
+      "https://www.woody.com.tr/canta-2/content/images/thumbs/66f41121b62c99283e6361f0_velsoft-anta-wba-480-eker-pembesi_200.jpeg"
+    ],
+    "primaryImg": "/content/images/thumbs/66f41122b62c99283e63638f_velsoft-anta-wba-480-eker-pembesi_1000.jpeg",
+    "link": "https://www.woody.com.tr/velsoft-canta-wba-480-seker-pembesi_242-10-wba-m-unidin121",
+    "price": [
+      {
+        "value": "₺399,95",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺799,90",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem",
+      "matchedProductItemSelectorManual": ".productItem",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ndImage source[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-grid.ts.subCategoryList"
+    },
+    "pageTitle": "Woody Türkiye | Çanta",
+    "pageURL": "https://www.woody.com.tr/canta-2",
+    "timestamp": "2025-08-15T10:15:20.385Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
