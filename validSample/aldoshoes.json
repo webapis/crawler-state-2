@@ -43,11 +43,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-grid"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-14T10:14:01.244Z",
+    "timestamp": "2025-08-15T10:03:13.564Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,11 +98,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-grid"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-14T10:14:01.246Z",
+    "timestamp": "2025-08-15T10:03:13.565Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -153,11 +153,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-grid"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-14T10:14:01.247Z",
+    "timestamp": "2025-08-15T10:03:13.566Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,33 +165,33 @@
     "priceValid": true
   },
   {
-    "title": "Kadın Lacivert Çapraz Çanta-1",
+    "title": "Kadın Siyah Omuz Ve El Çantası-1",
     "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=533"
+      "https://www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=533"
     ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/ABINGER-459-002-029_1.jpg?v=1747136265 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/lacivert-canta-p-abinger-459-002-029",
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-eile-001-002-029",
     "price": [
       {
-        "value": "2.499,50TL",
+        "value": "2.099,70TL",
         "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 2499.5,
+        "numericValue": 2099.7,
         "unsetPrice": false
       },
       {
-        "value": "2.499,50TL",
+        "value": "2.099,70TL",
         "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 2499.5,
+        "numericValue": 2099.7,
         "unsetPrice": false
       },
       {
-        "value": "4.999TL",
+        "value": "6.999TL",
         "selector": "price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 4999,
+        "numericValue": 6999,
         "unsetPrice": false
       }
     ],
@@ -208,11 +208,11 @@
         "price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-grid"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-14T10:14:01.248Z",
+    "timestamp": "2025-08-15T10:03:13.567Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -238,11 +238,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [],
       "usedFallbackDocument": false,
-      "matchedPageSelector": "#product-grid"
+      "matchedPageSelector": "div.grid"
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-14T10:14:01.249Z",
+    "timestamp": "2025-08-15T10:03:13.568Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
