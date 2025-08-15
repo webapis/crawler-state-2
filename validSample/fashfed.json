@@ -1,59 +1,5 @@
 [
   {
-    "title": "Kadın Kahverengi Hasır Omuz Çantası",
-    "img": [
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/fb616e6c-baeb-4f48-9bc6-8150406bd2f4_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/2725e7ed-0a1a-463b-9e62-cddf4c095f59_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/25247d0e-f12a-493b-82fd-87c8e048c8dc_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/fdde2ca7-e991-48c2-ac75-25bbc26c7e07_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/fb616e6c-baeb-4f48-9bc6-8150406bd2f4_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/2725e7ed-0a1a-463b-9e62-cddf4c095f59_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/25247d0e-f12a-493b-82fd-87c8e048c8dc_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/fdde2ca7-e991-48c2-ac75-25bbc26c7e07_size650_cropTop.jpg"
-    ],
-    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/29/141647637/fb616e6c-baeb-4f48-9bc6-8150406bd2f4_size375_cropTop.jpg",
-    "link": "https://www.fashfed.com/urun/kadin-kahverengi-hasir-omuz-cantasi-03cah311620a/",
-    "price": [
-      {
-        "value": "₺ 2.249,50",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2249.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺ 4.499,00",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".products .products__items"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
-    "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-14T10:11:43.840Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Lacoste Anna Kadın Çift Taraflı Haki Omuz Çantası",
     "img": [
       "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/04/15/127662990/f90fb5b1-90bd-49c5-b958-21a112b0de43_size375_cropTop.jpg",
@@ -97,7 +43,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-14T10:11:43.841Z",
+    "timestamp": "2025-08-15T10:01:05.045Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -142,7 +88,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-14T10:11:43.843Z",
+    "timestamp": "2025-08-15T10:01:05.046Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,7 +142,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-14T10:11:43.844Z",
+    "timestamp": "2025-08-15T10:01:05.048Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -251,7 +197,61 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-14T10:11:43.846Z",
+    "timestamp": "2025-08-15T10:01:05.049Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Guess Sebina Bucket Kadın Turuncu Omuz Çantası",
+    "img": [
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/6be5c5fe-8f70-432c-b134-3d4b9799e2dd_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/b1c0e495-8b70-47c5-9e1a-ecff40c71208_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/ab216959-7da5-4f50-a9ee-710695ab27ee_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/6be5c5fe-8f70-432c-b134-3d4b9799e2dd_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/b1c0e495-8b70-47c5-9e1a-ecff40c71208_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/ab216959-7da5-4f50-a9ee-710695ab27ee_size650_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size375_cropTop.jpg",
+    "link": "https://www.fashfed.com/urun/guess-sebina-bucket-kadin-turuncu-omuz-cantasi-hwag9524030/",
+    "price": [
+      {
+        "value": "₺ 4.400,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 4400,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 8.000,00",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 8000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".products .products__items"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
+    "pageURL": "https://www.fashfed.com/kadin-canta/",
+    "timestamp": "2025-08-15T10:01:05.050Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
