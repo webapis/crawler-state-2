@@ -2,6 +2,49 @@
   {
     "title": "Kadın Bej Çanta",
     "img": [
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289065_0.jpeg?v=1748445740",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289066_0.jpeg?v=1748445744",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289067_0.jpeg?v=1748445749",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289068_0.jpeg?v=1748445753"
+    ],
+    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289065_0.jpeg?v=1748445740",
+    "link": "https://www.colins.com.tr/p/kadin-bej-canta-46995",
+    "price": [
+      {
+        "value": "999,90 TL",
+        "selector": "price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 999.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-name)",
+      "matchedSelector": ".productCartMain",
+      "matchedProductItemSelectorManual": ".productCartMain",
+      "titleSelectorMatched": "a.product-name",
+      "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".module-content.product-list"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
+    "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
+    "timestamp": "2025-08-15T10:02:33.250Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Bej Çanta",
+    "img": [
       "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289077_0.jpeg?v=1753985223",
       "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289078_0.jpeg?v=1748446156",
       "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289079_0.jpeg?v=1748446161",
@@ -35,7 +78,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-14T10:13:01.219Z",
+    "timestamp": "2025-08-15T10:02:33.251Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -78,7 +121,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-14T10:13:01.221Z",
+    "timestamp": "2025-08-15T10:02:33.252Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -121,7 +164,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-14T10:13:01.222Z",
+    "timestamp": "2025-08-15T10:02:33.253Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -163,56 +206,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-14T10:13:01.224Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Bej Çanta",
-    "img": [
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179682_0.jpeg?v=1741063260",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179684_0.jpeg?v=1741063261",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179685_0.jpeg?v=1741063262"
-    ],
-    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/179682_0.jpeg?v=1741063260",
-    "link": "https://www.colins.com.tr/p/kadin-bej-canta-40492",
-    "price": [
-      {
-        "value": "499,99 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 499.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "699,90 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 699.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-name)",
-      "matchedSelector": ".productCartMain",
-      "matchedProductItemSelectorManual": ".productCartMain",
-      "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": "[id^=\"product_image\"] .lazy-image img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".module-content.product-list"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
-    "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-14T10:13:01.226Z",
+    "timestamp": "2025-08-15T10:02:33.254Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
