@@ -2,56 +2,6 @@
   {
     "title": "AÇIK MAVİ ÇANTA",
     "img": [
-      "https://cdn.vakko.com/mnresize/534/800/8683821675392-01.jpg?v=1747827007310",
-      "https://cdn.vakko.com/mnresize/534/800/8683821675392-02.jpg?v=1747827007313",
-      "https://cdn.vakko.com/mnresize/534/800/8683821675392-03.jpg?v=1747827007313",
-      "https://cdn.vakko.com/mnresize/534/800/8683821675392-04.jpg?v=1747827007313"
-    ],
-    "primaryImg": "https://cdn.vakko.com/mnresize/534/800/8683821675392-01.jpg?v=1747827007310",
-    "link": "https://www.vakko.com/el-cantasi/acik-mavi-canta-p-M401795818-0047",
-    "price": [
-      {
-        "value": "₺ 55.475",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 55475,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺ 110.950",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 110950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-item-content__info h3",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-wrapper"
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-15T10:14:33.590Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "AÇIK MAVİ ÇANTA",
-    "img": [
       "https://cdn.vakko.com/mnresize/534/800/8683821675439-01.jpg?v=1741699212894",
       "https://cdn.vakko.com/mnresize/534/800/8683821675439-02.jpg?v=1741699212894",
       "https://cdn.vakko.com/mnresize/534/800/8683821675439-03.jpg?v=1741698915105",
@@ -62,14 +12,14 @@
     "price": [
       {
         "value": "₺ 39.975",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 39975,
         "unsetPrice": false
       },
       {
         "value": "₺ 79.950",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 79950,
         "unsetPrice": false
@@ -85,14 +35,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-wrapper"
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-15T10:14:33.591Z",
+    "timestamp": "2025-08-16T03:44:37.674Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,14 +62,14 @@
     "price": [
       {
         "value": "₺ 12.975",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 12975,
         "unsetPrice": false
       },
       {
         "value": "₺ 25.950",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 25950,
         "unsetPrice": false
@@ -135,14 +85,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-wrapper"
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-15T10:14:33.592Z",
+    "timestamp": "2025-08-16T03:44:37.676Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,14 +112,14 @@
     "price": [
       {
         "value": "₺ 45.475",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 45475,
         "unsetPrice": false
       },
       {
         "value": "₺ 90.950",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 90950,
         "unsetPrice": false
@@ -185,14 +135,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-wrapper"
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-15T10:14:33.594Z",
+    "timestamp": "2025-08-16T03:44:37.677Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -212,14 +162,14 @@
     "price": [
       {
         "value": "₺ 55.475",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 55475,
         "unsetPrice": false
       },
       {
         "value": "₺ 110.950",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 110950,
         "unsetPrice": false
@@ -235,14 +185,64 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-wrapper"
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-15T10:14:33.595Z",
+    "timestamp": "2025-08-16T03:44:37.678Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "BEJ SÜET ÇANTA",
+    "img": [
+      "https://cdn.vakko.com/mnresize/534/800/8683822052697-01.jpg?v=1747827007313",
+      "https://cdn.vakko.com/mnresize/534/800/8683822052697-02.jpg?v=1747827007313",
+      "https://cdn.vakko.com/mnresize/534/800/8683822052697-03.jpg?v=1747827007313",
+      "https://cdn.vakko.com/mnresize/534/800/8683822052697-04.jpg?v=1747827007313"
+    ],
+    "primaryImg": "https://cdn.vakko.com/mnresize/534/800/8683822052697-01.jpg?v=1747827007313",
+    "link": "https://www.vakko.com/el-cantasi/bej-suet-canta-p-M402298130-0021",
+    "price": [
+      {
+        "value": "₺ 45.475",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 45475,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 90.950",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 90950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": ".product-item-content__info h3",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list-wrapper"
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
+    "timestamp": "2025-08-16T03:44:37.679Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
