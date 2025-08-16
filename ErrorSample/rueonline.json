@@ -9,21 +9,21 @@
     "price": [
       {
         "value": "$190.00",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6365,
         "unsetPrice": false
       },
       {
-        "value": "NaN TL",
-        "selector": ".KatSepetFiyat span",
+        "value": "$13300.000",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$190.00",
-        "selector": ".productPrice .discountPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6365,
         "unsetPrice": false
@@ -39,16 +39,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T12:51:58.725Z",
+    "timestamp": "2025-08-16T03:36:23.910Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -65,21 +63,21 @@
     "price": [
       {
         "value": "$190.00",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6365,
         "unsetPrice": false
       },
       {
-        "value": "NaN TL",
-        "selector": ".KatSepetFiyat span",
+        "value": "$13300.000",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$190.00",
-        "selector": ".productPrice .discountPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6365,
         "unsetPrice": false
@@ -95,16 +93,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T12:51:58.726Z",
+    "timestamp": "2025-08-16T03:36:23.911Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -121,35 +117,35 @@
     "price": [
       {
         "value": "$183.40",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6143.9,
         "unsetPrice": false
       },
       {
         "value": "$262.00",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8777,
         "unsetPrice": false
       },
       {
-        "value": "NaN TL",
-        "selector": ".KatSepetFiyat span",
+        "value": "$12800.000",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$183.40",
-        "selector": ".productPrice .discountPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6143.9,
         "unsetPrice": false
       },
       {
         "value": "$262.00",
-        "selector": ".productPrice .regularPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8777,
         "unsetPrice": false
@@ -165,18 +161,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T12:51:58.727Z",
+    "timestamp": "2025-08-16T03:36:23.912Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -193,35 +185,35 @@
     "price": [
       {
         "value": "$145.00",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4857.5,
         "unsetPrice": false
       },
       {
         "value": "$290.00",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9715,
         "unsetPrice": false
       },
       {
-        "value": "NaN TL",
-        "selector": ".KatSepetFiyat span",
+        "value": "$10200.000",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$145.00",
-        "selector": ".productPrice .discountPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4857.5,
         "unsetPrice": false
       },
       {
         "value": "$290.00",
-        "selector": ".productPrice .regularPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9715,
         "unsetPrice": false
@@ -237,18 +229,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T12:51:58.729Z",
+    "timestamp": "2025-08-16T03:36:23.914Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -265,35 +253,35 @@
     "price": [
       {
         "value": "$172.20",
-        "selector": ".discountPrice .discountPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5768.7,
         "unsetPrice": false
       },
       {
         "value": "$246.00",
-        "selector": ".regularPrice .regularPriceSpan",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8241,
         "unsetPrice": false
       },
       {
-        "value": "NaN TL",
-        "selector": ".KatSepetFiyat span",
+        "value": "$12100.000",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$172.20",
-        "selector": ".productPrice .discountPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5768.7,
         "unsetPrice": false
       },
       {
         "value": "$246.00",
-        "selector": ".productPrice .regularPrice",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8241,
         "unsetPrice": false
@@ -309,18 +297,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "Çanta Modelleri ve Fiyatları | Rue Les Createurs",
     "pageURL": "https://www.rueonline.com/kadin-canta",
-    "timestamp": "2025-08-12T12:51:58.730Z",
+    "timestamp": "2025-08-16T03:36:23.915Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
