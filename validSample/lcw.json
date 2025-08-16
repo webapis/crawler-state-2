@@ -9,7 +9,7 @@
     "price": [
       {
         "value": "629,99 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 629.99,
         "unsetPrice": false
@@ -25,14 +25,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-container .product-list"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-15T10:12:57.842Z",
+    "timestamp": "2025-08-16T03:46:32.460Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -41,15 +41,15 @@
   },
   {
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-qpx-79-59-87-177_5.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-qpx-79-59-87-177_5.jpg"
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-qpx-79-59-87-177_5.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-qpx-79-59-87-177_5.jpg 500w",
-    "link": "https://www.lcw.com/hasir-kadin-plaj-cantasi-kahverengi-o-4392266",
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg 500w",
+    "link": "https://www.lcw.com/hasir-kadin-plaj-cantasi-ekru-o-4392265",
     "price": [
       {
         "value": "799,99 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -65,14 +65,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-container .product-list"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-15T10:12:57.843Z",
+    "timestamp": "2025-08-16T03:46:32.461Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -81,17 +81,17 @@
   },
   {
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7982301/v1/l_20251-s5ki72z8-cvl-87-63-90-180_5.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7982301/v1/l_20251-s5ki72z8-cvl-87-63-90-180_5.jpg"
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7982301/v1/l_20251-s5ki72z8-cvl-87-63-90-180_5.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7982301/v1/l_20251-s5ki72z8-cvl-87-63-90-180_5.jpg 500w",
-    "link": "https://www.lcw.com/cikarilabilir-askili-kadin-omuz-cantasi-siyah-o-4470827",
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg 500w",
+    "link": "https://www.lcw.com/cit-cit-kapamali-kadin-hasir-plaj-cantasi-ekru-o-4392264",
     "price": [
       {
-        "value": "399,99 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "799,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 399.99,
+        "numericValue": 799.99,
         "unsetPrice": false
       }
     ],
@@ -105,14 +105,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-container .product-list"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-15T10:12:57.844Z",
+    "timestamp": "2025-08-16T03:46:32.462Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -129,7 +129,7 @@
     "price": [
       {
         "value": "599,99 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 599.99,
         "unsetPrice": false
@@ -145,14 +145,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-container .product-list"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-15T10:12:57.845Z",
+    "timestamp": "2025-08-16T03:46:32.463Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -161,17 +161,17 @@
   },
   {
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7715322/v1/l_20251-s5cr07z8-cr8_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7715322/v1/l_20251-s5cr07z8-cr8_a.jpg"
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7715322/v1/l_20251-s5cr07z8-cr8_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7715322/v1/l_20251-s5cr07z8-cr8_a.jpg 500w",
-    "link": "https://www.lcw.com/hasir-kadin-plaj-cantasi-bej-o-4392249",
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg 500w",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-pembe-o-4415187",
     "price": [
       {
-        "value": "719,99 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "599,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 719.99,
+        "numericValue": 599.99,
         "unsetPrice": false
       }
     ],
@@ -185,14 +185,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list-container .product-list"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-15T10:12:57.846Z",
+    "timestamp": "2025-08-16T03:46:32.464Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
