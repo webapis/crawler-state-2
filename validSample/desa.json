@@ -5,11 +5,11 @@
       "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/05/286133/3ed336a1-b533-4e13-b9c3-72719662608f_size917x917_cropCenter.jpg"
     ],
     "primaryImg": "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/05/286133/3ed336a1-b533-4e13-b9c3-72719662608f_size917x917_cropCenter.jpg",
-    "link": "https://www.desa.com.tr/kirmizi-kadin-kirmizi-deri-omuz-cantasi-1010039666/",
+    "link": "https://www.desa.com.tr/kadin-canta/#",
     "price": [
       {
         "value": "10390 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10390,
         "unsetPrice": false
@@ -18,21 +18,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .js-product-wrapper a)",
       "matchedSelector": ".product-item-box",
       "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:54.131Z",
+    "timestamp": "2025-08-16T03:33:17.577Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -45,11 +45,11 @@
       "https://akn-desa.a-cdn.akinoncloud.com/products/2025/04/07/286135/25008a3c-cd6d-44f2-8912-f6036521c71e_size917x917_cropCenter.jpg"
     ],
     "primaryImg": "https://akn-desa.a-cdn.akinoncloud.com/products/2025/04/07/286135/25008a3c-cd6d-44f2-8912-f6036521c71e_size917x917_cropCenter.jpg",
-    "link": "https://www.desa.com.tr/beyaz-kadin-beyaz-deri-omuz-cantasi-1010039663/",
+    "link": "https://www.desa.com.tr/kadin-canta/#",
     "price": [
       {
         "value": "10390 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10390,
         "unsetPrice": false
@@ -58,21 +58,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .js-product-wrapper a)",
       "matchedSelector": ".product-item-box",
       "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:54.132Z",
+    "timestamp": "2025-08-16T03:33:17.578Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,11 +85,11 @@
       "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/27/269380/7f03c33e-4476-42a5-8d93-e9f87edce8d1_size917x917_cropCenter.jpg"
     ],
     "primaryImg": "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/27/269380/7f03c33e-4476-42a5-8d93-e9f87edce8d1_size917x917_cropCenter.jpg",
-    "link": "https://www.desa.com.tr/vizon-kadin-vizon-deri-canta-aksesuarli-buyuk-omuz-cantasi-1010039261/",
+    "link": "https://www.desa.com.tr/kadin-canta/#",
     "price": [
       {
         "value": "13320 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 13320,
         "unsetPrice": false
@@ -98,21 +98,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .js-product-wrapper a)",
       "matchedSelector": ".product-item-box",
       "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:54.133Z",
+    "timestamp": "2025-08-16T03:33:17.579Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,11 +125,11 @@
       "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/09/269388/09116eb4-6e29-481c-b61c-a19d61367304_size917x917_cropCenter.jpg"
     ],
     "primaryImg": "https://akn-desa.a-cdn.akinoncloud.com/products/2025/05/09/269388/09116eb4-6e29-481c-b61c-a19d61367304_size917x917_cropCenter.jpg",
-    "link": "https://www.desa.com.tr/taba-kadin-taba-deri-canta-aksesuarli-buyuk-omuz-cantasi-1010039261/",
+    "link": "https://www.desa.com.tr/kadin-canta/#",
     "price": [
       {
         "value": "13320 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 13320,
         "unsetPrice": false
@@ -138,21 +138,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .js-product-wrapper a)",
       "matchedSelector": ".product-item-box",
       "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:54.133Z",
+    "timestamp": "2025-08-16T03:33:17.580Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,11 +165,11 @@
       "https://akn-desa.a-cdn.akinoncloud.com/products/2025/04/16/286157/0b4a1684-0d76-41f3-b4de-d6201f17b64c_size917x917_cropCenter.jpg"
     ],
     "primaryImg": "https://akn-desa.a-cdn.akinoncloud.com/products/2025/04/16/286157/0b4a1684-0d76-41f3-b4de-d6201f17b64c_size917x917_cropCenter.jpg",
-    "link": "https://www.desa.com.tr/mavi-limited-edition-mavi-kadin-yaprak-detayli-deri-omuz-cantasi-1010039658/",
+    "link": "https://www.desa.com.tr/kadin-canta/#",
     "price": [
       {
         "value": "10990 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10990,
         "unsetPrice": false
@@ -178,21 +178,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .js-product-wrapper a)",
       "matchedSelector": ".product-item-box",
       "matchedProductItemSelectorManual": ".product-item-box",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".js-list-products .list-content"
     },
     "pageTitle": "Kadin Deri Çanta Modelleri ve Fiyatları | DESA",
     "pageURL": "https://www.desa.com.tr/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:54.134Z",
+    "timestamp": "2025-08-16T03:33:17.581Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
