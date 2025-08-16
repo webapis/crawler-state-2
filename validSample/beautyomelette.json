@@ -9,14 +9,14 @@
     "price": [
       {
         "value": "₺4.500,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4500,
         "unsetPrice": false
       },
       {
         "value": "₺4.500,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4500,
         "unsetPrice": false
@@ -32,14 +32,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "ÇANTA",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772",
-    "timestamp": "2025-08-15T10:12:54.464Z",
+    "timestamp": "2025-08-16T03:34:24.468Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,14 +56,14 @@
     "price": [
       {
         "value": "₺4.500,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4500,
         "unsetPrice": false
       },
       {
         "value": "₺4.500,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4500,
         "unsetPrice": false
@@ -79,14 +79,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "ÇANTA",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772",
-    "timestamp": "2025-08-15T10:12:54.465Z",
+    "timestamp": "2025-08-16T03:34:24.469Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,14 +103,14 @@
     "price": [
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
       },
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
@@ -126,14 +126,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "ÇANTA",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772",
-    "timestamp": "2025-08-15T10:12:54.466Z",
+    "timestamp": "2025-08-16T03:34:24.470Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,14 +150,14 @@
     "price": [
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
       },
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
@@ -173,14 +173,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "ÇANTA",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772",
-    "timestamp": "2025-08-15T10:12:54.466Z",
+    "timestamp": "2025-08-16T03:34:24.471Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -197,14 +197,14 @@
     "price": [
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
       },
       {
         "value": "₺5.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5400,
         "unsetPrice": false
@@ -220,14 +220,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "ÇANTA",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772",
-    "timestamp": "2025-08-15T10:12:54.467Z",
+    "timestamp": "2025-08-16T03:34:24.472Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
