@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "6.569 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6569,
         "unsetPrice": false
@@ -28,14 +28,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T10:14:16.137Z",
+    "timestamp": "2025-08-16T03:45:55.503Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -55,28 +55,28 @@
     "price": [
       {
         "value": "4.107 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4107,
         "unsetPrice": false
       },
       {
         "value": "6.319 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6319,
         "unsetPrice": false
       },
       {
         "value": "6.319 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6319,
         "unsetPrice": false
       },
       {
         "value": "4.107 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4107,
         "unsetPrice": false
@@ -92,14 +92,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T10:14:16.138Z",
+    "timestamp": "2025-08-16T03:45:55.504Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -119,7 +119,7 @@
     "price": [
       {
         "value": "12.085 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 12085,
         "unsetPrice": false
@@ -135,14 +135,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T10:14:16.139Z",
+    "timestamp": "2025-08-16T03:45:55.505Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,7 +162,7 @@
     "price": [
       {
         "value": "14.765 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 14765,
         "unsetPrice": false
@@ -178,14 +178,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T10:14:16.141Z",
+    "timestamp": "2025-08-16T03:45:55.507Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -205,28 +205,28 @@
     "price": [
       {
         "value": "2.703 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2703,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4159,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4159,
         "unsetPrice": false
       },
       {
         "value": "2.703 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2703,
         "unsetPrice": false
@@ -242,14 +242,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-15T10:14:16.142Z",
+    "timestamp": "2025-08-16T03:45:55.508Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
