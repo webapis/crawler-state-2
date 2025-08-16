@@ -9,14 +9,14 @@
     "price": [
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
@@ -32,14 +32,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-15T10:12:50.460Z",
+    "timestamp": "2025-08-16T03:35:13.345Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,14 +56,14 @@
     "price": [
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
@@ -79,14 +79,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-15T10:12:50.461Z",
+    "timestamp": "2025-08-16T03:35:13.346Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,14 +103,14 @@
     "price": [
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
@@ -126,14 +126,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-15T10:12:50.462Z",
+    "timestamp": "2025-08-16T03:35:13.347Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,14 +150,14 @@
     "price": [
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
@@ -173,14 +173,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-15T10:12:50.463Z",
+    "timestamp": "2025-08-16T03:35:13.348Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -197,14 +197,14 @@
     "price": [
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
       },
       {
         "value": "$0.00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 0,
         "unsetPrice": true
@@ -220,14 +220,14 @@
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".ProductListContent"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-15T10:12:50.464Z",
+    "timestamp": "2025-08-16T03:35:13.349Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
