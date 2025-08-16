@@ -7,28 +7,28 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.154,97 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1154.97,
         "unsetPrice": false
       },
       {
         "value": "1.649,95 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1649.95,
         "unsetPrice": false
       },
       {
         "value": "2.999,95 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2999.95,
         "unsetPrice": false
       },
       {
         "value": "1.154,97 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1154.97,
         "unsetPrice": false
@@ -44,14 +44,14 @@
       "imgSelectorMatched": "[poster]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-15T10:12:49.456Z",
+    "timestamp": "2025-08-16T03:39:16.771Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -66,28 +66,28 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.154,97 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1154.97,
         "unsetPrice": false
       },
       {
         "value": "1.649,95 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1649.95,
         "unsetPrice": false
       },
       {
         "value": "2.999,95 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2999.95,
         "unsetPrice": false
       },
       {
         "value": "1.154,97 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1154.97,
         "unsetPrice": false
@@ -103,14 +103,14 @@
       "imgSelectorMatched": "[poster]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-15T10:12:56.710Z",
+    "timestamp": "2025-08-16T03:39:24.753Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
