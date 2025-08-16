@@ -1,53 +1,5 @@
 [
   {
-    "title": "Gold Rengi El Çantası",
-    "img": [
-      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_360.webp",
-      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_3840.webp"
-    ],
-    "primaryImg": "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 16w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 32w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 48w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 64w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 96w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 128w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 180w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_180.webp 256w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_360.webp 360w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_360.webp 384w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_540.webp 540w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_720.webp 720w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_900.webp 900w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_1080.webp 1080w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_1296.webp 1296w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_1512.webp 1512w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_1728.webp 1728w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_1950.webp 1950w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_2560.webp 2560w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/69732bc8-76da-4625-a30e-5b6a124f3a88/image_3840.webp 3840w",
-    "link": "https://olegcassini.com.tr/gold-rengi-el-cantasi",
-    "price": [
-      {
-        "value": "2.396,00 ₺",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2396,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.995,00 ₺",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2995,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "containerElement (m)",
-      "matchedSelector": ".category__list__main div.grid a",
-      "matchedProductItemSelectorManual": ".category__list__main div.grid a",
-      "titleSelectorMatched": "h2.product-name",
-      "imgSelectorMatched": "img.category-products-image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
-    },
-    "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
-    "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-15T10:14:05.593Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Siyah Renk Abiye Portföy Çanta",
     "img": [
       "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a1a7d15d-f1d0-496b-a3b2-694b4585ecd3/image_360.webp",
@@ -58,14 +10,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -81,14 +33,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-15T10:14:05.594Z",
+    "timestamp": "2025-08-16T03:42:41.923Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -106,14 +58,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -129,14 +81,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-15T10:14:05.595Z",
+    "timestamp": "2025-08-16T03:42:41.923Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -154,14 +106,14 @@
     "price": [
       {
         "value": "1.836,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1836,
         "unsetPrice": false
       },
       {
         "value": "2.295,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2295,
         "unsetPrice": false
@@ -177,14 +129,14 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-15T10:14:05.596Z",
+    "timestamp": "2025-08-16T03:42:41.924Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,14 +154,14 @@
     "price": [
       {
         "value": "2.396,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2396,
         "unsetPrice": false
       },
       {
         "value": "2.995,00 ₺",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2995,
         "unsetPrice": false
@@ -225,14 +177,62 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": "div.grid"
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-15T10:14:05.597Z",
+    "timestamp": "2025-08-16T03:42:41.925Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Gold Rengi Süsleme Detaylı Abiye Çantası",
+    "img": [
+      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_360.webp",
+      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_3840.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 16w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 32w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 48w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 64w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 96w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 128w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 180w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_180.webp 256w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_360.webp 360w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_360.webp 384w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_540.webp 540w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_720.webp 720w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_900.webp 900w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_1080.webp 1080w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_1296.webp 1296w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_1512.webp 1512w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_1728.webp 1728w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_1950.webp 1950w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_2560.webp 2560w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/a3b89992-cd8a-4adf-95a2-273d87662614/image_3840.webp 3840w",
+    "link": "https://olegcassini.com.tr/gold-rengi-susleme-detayli-abiye-cantasi",
+    "price": [
+      {
+        "value": "2.396,00 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2396,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.995,00 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2995,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "matchedProductItemSelectorManual": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": "div.grid"
+    },
+    "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
+    "pageURL": "https://olegcassini.com.tr/abiye-canta",
+    "timestamp": "2025-08-16T03:42:41.926Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
