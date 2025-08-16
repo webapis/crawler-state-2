@@ -9,63 +9,63 @@
     "price": [
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
@@ -81,14 +81,14 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".folder-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-15T10:16:09.717Z",
+    "timestamp": "2025-08-16T03:48:11.303Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -105,63 +105,63 @@
     "price": [
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
@@ -177,110 +177,14 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".folder-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-15T10:16:09.718Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Sarı Print Kadın Omuz Çantası - S25Y1PR09168-S7S",
-    "img": [
-      "https://witcdn.tergan.com.tr/sari-print-kadin-omuz-cantasi-s25y1pr09168-s7s-sari-kadin-omuz-cantasi-tergan-2025-yaz-144419-65-K.jpg"
-    ],
-    "primaryImg": "https://witcdn.tergan.com.tr/sari-print-kadin-omuz-cantasi-s25y1pr09168-s7s-sari-kadin-omuz-cantasi-tergan-2025-yaz-144419-65-K.jpg",
-    "link": "https://www.tergan.com.tr/sari-print-kadin-omuz-cantasi-s25y1pr09168-s7s-sari",
-    "price": [
-      {
-        "value": "1.554,50 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.554,50 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.554,50",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.109,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3109,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.554,50",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.109,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3109,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.554,50 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.109,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3109,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.554,50",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1554.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": ".image-inner img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
-    "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-15T10:16:09.719Z",
+    "timestamp": "2025-08-16T03:48:11.304Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -297,63 +201,63 @@
     "price": [
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
       },
       {
         "value": "3.179,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3179,
         "unsetPrice": false
       },
       {
         "value": "1.589,50",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1589.5,
         "unsetPrice": false
@@ -369,14 +273,14 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".folder-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-15T10:16:09.720Z",
+    "timestamp": "2025-08-16T03:48:11.305Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -384,74 +288,74 @@
     "priceValid": true
   },
   {
-    "title": "Kahve Print Kadın Omuz Çantası - S25Y1PR09170-R1P",
+    "title": "Siyah Deri Kadın Omuz Çantası - S25Y1BC80429-A41",
     "img": [
-      "https://witcdn.tergan.com.tr/kahve-print-kadin-omuz-cantasi-s25y1pr09170-r1p-kahve-kadin-omuz-cantasi-tergan-2025-yaz-143924-65-K.jpg"
+      "https://witcdn.tergan.com.tr/siyah-deri-kadin-omuz-cantasi-s25y1bc80429-a41-kadin-omuz-cantasi-tergan-2025-yaz-148835-66-K.jpg"
     ],
-    "primaryImg": "https://witcdn.tergan.com.tr/kahve-print-kadin-omuz-cantasi-s25y1pr09170-r1p-kahve-kadin-omuz-cantasi-tergan-2025-yaz-143924-65-K.jpg",
-    "link": "https://www.tergan.com.tr/kahve-print-kadin-omuz-cantasi-s25y1pr09170-r1p-kahve",
+    "primaryImg": "https://witcdn.tergan.com.tr/siyah-deri-kadin-omuz-cantasi-s25y1bc80429-a41-kadin-omuz-cantasi-tergan-2025-yaz-148835-66-K.jpg",
+    "link": "https://www.tergan.com.tr/siyah-deri-kadin-omuz-cantasi-s25y1bc80429-a41",
     "price": [
       {
-        "value": "1.774,50 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       },
       {
-        "value": "1.774,50 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       },
       {
-        "value": "1.774,50",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       },
       {
-        "value": "3.549,00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "14.589,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3549,
+        "numericValue": 14589.99,
         "unsetPrice": false
       },
       {
-        "value": "1.774,50",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       },
       {
-        "value": "3.549,00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "14.589,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3549,
+        "numericValue": 14589.99,
         "unsetPrice": false
       },
       {
-        "value": "1.774,50 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       },
       {
-        "value": "3.549,00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "14.589,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3549,
+        "numericValue": 14589.99,
         "unsetPrice": false
       },
       {
-        "value": "1.774,50",
-        "selector": "price-element::shadow::.price",
+        "value": "7.294,99",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 1774.5,
+        "numericValue": 7294.99,
         "unsetPrice": false
       }
     ],
@@ -465,14 +369,110 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".folder-product-list"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-15T10:16:09.721Z",
+    "timestamp": "2025-08-16T03:48:11.306Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Yeşil Deri Kadın Omuz Çantası - S25Y1BC79121-G8Z",
+    "img": [
+      "https://witcdn.tergan.com.tr/yesil-deri-kadin-omuz-cantasi-s25y1bc79121-g8z-yesil-kadin-omuz-cantasi-tergan-2025-yaz-152790-64-K.jpg"
+    ],
+    "primaryImg": "https://witcdn.tergan.com.tr/yesil-deri-kadin-omuz-cantasi-s25y1bc79121-g8z-yesil-kadin-omuz-cantasi-tergan-2025-yaz-152790-64-K.jpg",
+    "link": "https://www.tergan.com.tr/yesil-deri-kadin-omuz-cantasi-s25y1bc79121-g8z-yesil",
+    "price": [
+      {
+        "value": "7.094,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "7.094,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "7.094,99",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "14.189,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 14189.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "7.094,99",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "14.189,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 14189.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "7.094,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "14.189,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 14189.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "7.094,99",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 7094.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".folder-product-list"
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
+    "pageURL": "https://www.tergan.com.tr/kadin-canta",
+    "timestamp": "2025-08-16T03:48:11.308Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
