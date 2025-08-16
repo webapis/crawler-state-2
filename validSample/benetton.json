@@ -42,7 +42,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-16T04:21:25.217Z",
+    "timestamp": "2025-08-16T06:35:28.489Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,7 +92,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-16T04:21:25.218Z",
+    "timestamp": "2025-08-16T06:35:28.490Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -142,57 +142,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-16T04:21:25.219Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Kadın Ekru İçi Pamuk Delikli Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183061711961.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183033742876.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-ekru-ici-pamuk-delikli-omuz-cantasi_165846",
-    "price": [
-      {
-        "value": "1.249,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1249.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.499,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "matchedProductItemSelectorManual": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.js-customize"
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-16T04:21:25.220Z",
+    "timestamp": "2025-08-16T06:35:28.491Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -242,7 +192,57 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-16T04:21:25.221Z",
+    "timestamp": "2025-08-16T06:35:28.492Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kadın Ekru İçi Pamuk Delikli Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183061711961.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183033742876.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-ekru-ici-pamuk-delikli-omuz-cantasi_165846",
+    "price": [
+      {
+        "value": "1.249,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.499,99 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "matchedProductItemSelectorManual": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.js-customize"
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-16T06:35:28.492Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
