@@ -9,7 +9,7 @@
     "price": [
       {
         "value": "2.490,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2490,
         "unsetPrice": false
@@ -25,14 +25,14 @@
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-15T10:13:54.784Z",
+    "timestamp": "2025-08-16T03:39:40.368Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "price": [
       {
         "value": "2.490,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2490,
         "unsetPrice": false
@@ -65,14 +65,14 @@
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-15T10:13:54.785Z",
+    "timestamp": "2025-08-16T03:39:40.369Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -89,7 +89,7 @@
     "price": [
       {
         "value": "2.490,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2490,
         "unsetPrice": false
@@ -105,14 +105,14 @@
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-15T10:13:54.786Z",
+    "timestamp": "2025-08-16T03:39:40.370Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,7 +129,7 @@
     "price": [
       {
         "value": "2.490,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2490,
         "unsetPrice": false
@@ -145,14 +145,14 @@
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-15T10:13:54.787Z",
+    "timestamp": "2025-08-16T03:39:40.371Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,7 +169,7 @@
     "price": [
       {
         "value": "2.490,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2490,
         "unsetPrice": false
@@ -185,14 +185,14 @@
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".message_box"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-15T10:13:54.787Z",
+    "timestamp": "2025-08-16T03:39:40.372Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
