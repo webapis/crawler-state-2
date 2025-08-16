@@ -1,54 +1,5 @@
 [
   {
-    "title": "BRIGANABIG 5FX Naturel Kadın Omuz Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/102014023_f1-1737624175.JPG?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=80"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-briganabig-5fx-naturel-kadin-omuz-cantasi-102014122",
-    "price": [
-      {
-        "value": "2.999,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2999,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.799,00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3799,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "matchedProductItemSelectorManual": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list.product-grid.product-lists"
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-15T10:12:55.465Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "JOSTONE 5FX Siyah Kadın Clutch",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983151_f1.jpg?w=500",
@@ -60,14 +11,14 @@
     "price": [
       {
         "value": "1.799,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "2.299,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2299,
         "unsetPrice": false
@@ -83,14 +34,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-15T10:12:55.466Z",
+    "timestamp": "2025-08-16T03:43:46.287Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,20 +49,20 @@
     "priceValid": true
   },
   {
-    "title": "BRIGANACLTCH 5FX Siyah Kadın Clutch",
+    "title": "BANDEBIG 5FX Siyah Kadın Omuz Çantası",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=80"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986851_f1.jpg?w=80"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-briganacltch-5fx-siyah-kadin-clutch-102014025",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101976886_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-bandebig-5fx-siyah-kadin-omuz-cantasi-101976886",
     "price": [
       {
-        "value": "2.299,00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "3.299,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 2299,
+        "numericValue": 3299,
         "unsetPrice": false
       }
     ],
@@ -125,14 +76,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-15T10:12:55.467Z",
+    "timestamp": "2025-08-16T03:43:46.288Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -151,14 +102,14 @@
     "price": [
       {
         "value": "2.199,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2199,
         "unsetPrice": false
       },
       {
         "value": "3.299,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3299,
         "unsetPrice": false
@@ -174,14 +125,56 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-15T10:12:55.468Z",
+    "timestamp": "2025-08-16T03:43:46.290Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "BRIGANACLTCH 5FX Siyah Kadın Clutch",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/05/102014024_f1.JPG?w=80"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014025_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-briganacltch-5fx-siyah-kadin-clutch-102014025",
+    "price": [
+      {
+        "value": "2.299,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "matchedProductItemSelectorManual": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".product-list.product-grid.product-lists"
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta",
+    "timestamp": "2025-08-16T03:43:46.291Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -200,7 +193,7 @@
     "price": [
       {
         "value": "2.799,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2799,
         "unsetPrice": false
@@ -216,14 +209,14 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.product-grid.product-lists"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-15T10:12:55.469Z",
+    "timestamp": "2025-08-16T03:43:46.292Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
