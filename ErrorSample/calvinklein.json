@@ -14,7 +14,7 @@
     "price": [
       {
         "value": "4.499,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4499,
         "unsetPrice": false
@@ -30,14 +30,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".product-list.js-customize"
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta?p=2",
-    "timestamp": "2025-08-15T10:13:10.254Z",
+    "timestamp": "2025-08-16T03:49:42.901Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
