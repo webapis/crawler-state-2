@@ -9,7 +9,7 @@
     "price": [
       {
         "value": "10300 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 10300,
         "unsetPrice": false
@@ -18,21 +18,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-name a)",
       "matchedSelector": ".padding-lg.list-content-product-item",
       "matchedProductItemSelectorManual": ".padding-lg.list-content-product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-container__products"
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-15T10:14:42.726Z",
+    "timestamp": "2025-08-16T03:39:11.748Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "price": [
       {
         "value": "2600 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2600,
         "unsetPrice": false
@@ -58,21 +58,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-name a)",
       "matchedSelector": ".padding-lg.list-content-product-item",
       "matchedProductItemSelectorManual": ".padding-lg.list-content-product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-container__products"
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-15T10:14:42.727Z",
+    "timestamp": "2025-08-16T03:39:11.749Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -89,7 +89,7 @@
     "price": [
       {
         "value": "3000 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3000,
         "unsetPrice": false
@@ -98,21 +98,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-name a)",
       "matchedSelector": ".padding-lg.list-content-product-item",
       "matchedProductItemSelectorManual": ".padding-lg.list-content-product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-container__products"
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-15T10:14:42.728Z",
+    "timestamp": "2025-08-16T03:39:11.750Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,14 +129,14 @@
     "price": [
       {
         "value": "6223.50 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 6223.5,
         "unsetPrice": false
       },
       {
         "value": "20745 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 20745,
         "unsetPrice": false
@@ -145,21 +145,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-name a)",
       "matchedSelector": ".padding-lg.list-content-product-item",
       "matchedProductItemSelectorManual": ".padding-lg.list-content-product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-container__products"
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-15T10:14:42.728Z",
+    "timestamp": "2025-08-16T03:39:11.751Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,7 +176,7 @@
     "price": [
       {
         "value": "2600 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 2600,
         "unsetPrice": false
@@ -185,21 +185,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-name a)",
       "matchedSelector": ".padding-lg.list-content-product-item",
       "matchedProductItemSelectorManual": ".padding-lg.list-content-product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".product-item-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-container__products"
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-15T10:14:42.729Z",
+    "timestamp": "2025-08-16T03:39:11.751Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
