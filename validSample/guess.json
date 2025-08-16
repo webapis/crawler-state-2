@@ -1,24 +1,24 @@
 [
   {
-    "title": "Helina portföy çantalı el çantası",
+    "title": "Isotta taş detaylı hobo çanta",
     "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN"
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWW9660010-NAT"
     ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/helina-portfoy-cantali-el-cantasi-yesil/HWBG9640750-CDN.html",
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWWW9660010-NAT",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/el-cantasi/isotta-tas-detayli-hobo-canta-bej/HWWW9660010-NAT.html",
     "price": [
       {
-        "value": "3,750.00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7,000.00 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3750,
+        "numericValue": 7000,
         "unsetPrice": false
       },
       {
-        "value": "3,750.00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7,000.00 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3750,
+        "numericValue": 7000,
         "unsetPrice": false
       }
     ],
@@ -32,14 +32,14 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-15T10:15:06.431Z",
+    "timestamp": "2025-08-16T03:43:46.164Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,7 +56,7 @@
     "price": [
       {
         "value": "8,000.00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8000,
         "unsetPrice": false
@@ -72,14 +72,61 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-15T10:15:06.432Z",
+    "timestamp": "2025-08-16T03:43:46.166Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Helina portföy çantalı el çantası",
+    "img": [
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN"
+    ],
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG9640750-CDN",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/helina-portfoy-cantali-el-cantasi-yesil/HWBG9640750-CDN.html",
+    "price": [
+      {
+        "value": "3,750.00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,750.00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 3750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
+      "matchedSelector": ".js-tile.product__tile",
+      "matchedProductItemSelectorManual": ".js-tile.product__tile",
+      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
+      "imgSelectorMatched": ".product-grid__image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ],
+      "usedFallbackDocument": false,
+      "matchedPageSelector": ".aa-product-tile__list"
+    },
+    "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
+    "timestamp": "2025-08-16T03:43:46.167Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -96,14 +143,14 @@
     "price": [
       {
         "value": "3,750.00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3750,
         "unsetPrice": false
       },
       {
         "value": "3,750.00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 3750,
         "unsetPrice": false
@@ -119,14 +166,14 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-15T10:15:06.433Z",
+    "timestamp": "2025-08-16T03:43:46.168Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,25 +181,18 @@
     "priceValid": true
   },
   {
-    "title": "4G logolu brenton eco shopper çanta",
+    "title": "Noelle 4G logolu omuz çantası",
     "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWEBG839023-CLO"
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO"
     ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWEBG839023-CLO",
-    "link": "https://www.guess.eu/tr-tr/guess/presaless25/4g-logolu-brenton-eco-shopper-canta-siyah/HWEBG839023-CLO.html",
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/noelle-4g-logolu-omuz-cantasi-siyah/HWBG7879180-CLO.html",
     "price": [
       {
-        "value": "6,400.00 TL",
-        "selector": "price-element::shadow::.price",
+        "value": "7,000.00 TL",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 6400,
-        "unsetPrice": false
-      },
-      {
-        "value": "6,400.00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 6400,
+        "numericValue": 7000,
         "unsetPrice": false
       }
     ],
@@ -166,61 +206,14 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".aa-product-tile__list"
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-15T10:15:06.434Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Giully kapitoneli çapraz çanta",
-    "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWYQ8748200-BLA"
-    ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWYQ8748200-BLA",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/i%CC%87ndirim/canta/giully-kapitoneli-capraz-canta-siyah/HWYQ8748200-BLA.html",
-    "price": [
-      {
-        "value": "5,250.00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5250,
-        "unsetPrice": false
-      },
-      {
-        "value": "5,250.00 TL",
-        "selector": "price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5250,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
-      "matchedSelector": ".js-tile.product__tile",
-      "matchedProductItemSelectorManual": ".js-tile.product__tile",
-      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
-      "imgSelectorMatched": ".product-grid__image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".aa-product-tile__list"
-    },
-    "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-15T10:15:06.435Z",
+    "timestamp": "2025-08-16T03:43:46.169Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
