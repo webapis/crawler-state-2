@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "1.499 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
@@ -21,21 +21,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-15T10:14:58.116Z",
+    "timestamp": "2025-08-16T03:44:58.866Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -55,7 +55,7 @@
     "price": [
       {
         "value": "999 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999,
         "unsetPrice": false
@@ -64,21 +64,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-15T10:14:58.118Z",
+    "timestamp": "2025-08-16T03:44:58.867Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -99,10 +99,10 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [],
@@ -111,7 +111,7 @@
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-15T10:14:58.119Z",
+    "timestamp": "2025-08-16T03:44:58.868Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,7 +131,7 @@
     "price": [
       {
         "value": "799 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 799,
         "unsetPrice": false
@@ -140,21 +140,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-15T10:14:58.120Z",
+    "timestamp": "2025-08-16T03:44:58.869Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +174,7 @@
     "price": [
       {
         "value": "999 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 999,
         "unsetPrice": false
@@ -183,21 +183,21 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".list-product.js-list-products"
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-15T10:14:58.121Z",
+    "timestamp": "2025-08-16T03:44:58.870Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
