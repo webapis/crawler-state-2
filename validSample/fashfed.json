@@ -20,7 +20,7 @@
     "price": [
       {
         "value": "₺ 7.199,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 7199,
         "unsetPrice": false
@@ -36,14 +36,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:34.118Z",
+    "timestamp": "2025-08-16T03:49:58.683Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -65,7 +65,7 @@
     "price": [
       {
         "value": "₺ 9.500,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 9500,
         "unsetPrice": false
@@ -81,14 +81,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:34.119Z",
+    "timestamp": "2025-08-16T03:49:58.684Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,14 +112,14 @@
     "price": [
       {
         "value": "₺ 5.599,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5599,
         "unsetPrice": false
       },
       {
         "value": "₺ 8.000,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8000,
         "unsetPrice": false
@@ -135,14 +135,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:34.121Z",
+    "timestamp": "2025-08-16T03:49:58.685Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -167,14 +167,14 @@
     "price": [
       {
         "value": "₺ 4.232,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4232,
         "unsetPrice": false
       },
       {
         "value": "₺ 5.290,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 5290,
         "unsetPrice": false
@@ -190,14 +190,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:34.122Z",
+    "timestamp": "2025-08-16T03:49:58.687Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -221,14 +221,14 @@
     "price": [
       {
         "value": "₺ 4.400,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 4400,
         "unsetPrice": false
       },
       {
         "value": "₺ 8.000,00",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 8000,
         "unsetPrice": false
@@ -244,14 +244,14 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
+        ".product-info price-element::shadow::.price"
       ],
       "usedFallbackDocument": false,
       "matchedPageSelector": ".products .products__items"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-15T10:14:34.123Z",
+    "timestamp": "2025-08-16T03:49:58.688Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
