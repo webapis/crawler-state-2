@@ -18,21 +18,21 @@
     "price": [
       {
         "value": "1.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
       },
       {
         "value": "1.299,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
       },
       {
         "value": "1.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
@@ -48,12 +48,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-18T05:43:11.745Z",
+    "timestamp": "2025-08-18T06:47:54.137Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -74,21 +74,21 @@
     "price": [
       {
         "value": "599,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
       },
       {
         "value": "399,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 399.99,
         "unsetPrice": false
       },
       {
         "value": "599,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
@@ -104,12 +104,12 @@
       "imgSelectorMatched": "[data-img]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-18T05:43:11.747Z",
+    "timestamp": "2025-08-18T06:47:54.138Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -135,21 +135,21 @@
     "price": [
       {
         "value": "1.199,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1199.95,
         "unsetPrice": false
       },
       {
         "value": "969,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 969.99,
         "unsetPrice": false
       },
       {
         "value": "1.199,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1199.95,
         "unsetPrice": false
@@ -165,12 +165,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-18T05:43:11.750Z",
+    "timestamp": "2025-08-18T06:47:54.139Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -196,28 +196,28 @@
     "price": [
       {
         "value": "1.299,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1299.99,
         "unsetPrice": false
       },
       {
         "value": "1.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
       },
       {
         "value": "1.099,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1099.99,
         "unsetPrice": false
       },
       {
         "value": "1.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1699.95,
         "unsetPrice": false
@@ -233,12 +233,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-18T05:43:11.752Z",
+    "timestamp": "2025-08-18T06:47:54.140Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -264,21 +264,21 @@
     "price": [
       {
         "value": "599,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
       },
       {
         "value": "449,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 449.99,
         "unsetPrice": false
       },
       {
         "value": "599,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 599.95,
         "unsetPrice": false
@@ -294,12 +294,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Aksesuar Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-aksesuar/",
-    "timestamp": "2025-08-18T05:43:11.754Z",
+    "timestamp": "2025-08-18T06:47:54.141Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
