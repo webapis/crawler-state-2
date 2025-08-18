@@ -19,28 +19,14 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "1.899,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1899.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 999.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.899,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1899.95,
         "unsetPrice": false
@@ -56,12 +42,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-08-18T05:45:14.136Z",
+    "timestamp": "2025-08-18T06:50:06.998Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,14 +71,7 @@
     "price": [
       {
         "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 649.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 649.95,
         "unsetPrice": false
@@ -108,12 +87,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-08-18T05:45:14.137Z",
+    "timestamp": "2025-08-18T06:50:07.000Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,14 +116,7 @@
     "price": [
       {
         "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 649.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 649.95,
         "unsetPrice": false
@@ -160,12 +132,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-08-18T05:45:14.138Z",
+    "timestamp": "2025-08-18T06:50:07.000Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -192,42 +164,21 @@
     "price": [
       {
         "value": "2.199,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 2199.99,
         "unsetPrice": false
       },
       {
         "value": "2.499,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 2499.99,
         "unsetPrice": false
       },
       {
         "value": "3.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3699.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.199,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2199.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.499,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2499.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.699,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 3699.95,
         "unsetPrice": false
@@ -243,12 +194,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-08-18T05:45:14.140Z",
+    "timestamp": "2025-08-18T06:50:07.001Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -272,14 +223,7 @@
     "price": [
       {
         "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 649.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "649,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 649.95,
         "unsetPrice": false
@@ -295,12 +239,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta, Askılı & Omuz Çantası Modelleri | Marks & Spencer",
     "pageURL": "https://www.marksandspencer.com.tr/kadin-cantalar/",
-    "timestamp": "2025-08-18T05:45:14.141Z",
+    "timestamp": "2025-08-18T06:50:07.002Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
