@@ -25,79 +25,16 @@
       },
       {
         "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
         "numericValue": 3120.68,
         "unsetPrice": false
       },
       {
         "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
         "unsetPrice": false
       }
     ],
@@ -112,12 +49,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".current-price.fw-semibold",
+        ".product-discounted-price.text-black.fw-regular"
       ]
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-18T05:39:55.242Z",
+    "timestamp": "2025-08-18T06:44:19.379Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,79 +88,16 @@
       },
       {
         "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
         "numericValue": 3120.68,
         "unsetPrice": false
       },
       {
         "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
         "unsetPrice": false
       }
     ],
@@ -237,12 +112,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".current-price.fw-semibold",
+        ".product-discounted-price.text-black.fw-regular"
       ]
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-18T05:39:55.243Z",
+    "timestamp": "2025-08-18T06:44:19.380Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -271,79 +147,16 @@
       },
       {
         "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
         "numericValue": 3120.68,
         "unsetPrice": false
       },
       {
         "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3120.68,
-        "unsetPrice": false
-      },
-      {
-        "value": "140,54 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5201.39,
-        "unsetPrice": false
-      },
-      {
-        "value": "84,32",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 84.32,
         "unsetPrice": false
       }
     ],
@@ -358,12 +171,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".current-price.fw-semibold",
+        ".product-discounted-price.text-black.fw-regular"
       ]
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-18T05:39:55.244Z",
+    "timestamp": "2025-08-18T06:44:19.381Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -376,9 +190,9 @@
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.jpg",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.jpg",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28587-68-O.jpg",
-      "https://gustoeshop.com/canta/theme/standart/images/lazy_load_yukleniyor.gif",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28588-68-O.jpg",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28589-68-O.jpg",
+      "https://gustoeshop.com/canta/theme/standart/images/lazy_load_yukleniyor.gif",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28590-68-O.jpg",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28603-68-O.webp",
       "https://witcdn.gustoeshop.com/enleather-bag-with-long-handles-black-25yg-faux-leather-bag-gusto-28604-68-O.webp",
@@ -399,79 +213,16 @@
       },
       {
         "value": "103,83 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
         "numericValue": 3842.75,
         "unsetPrice": false
       },
       {
         "value": "173,06 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "numericValue": 6404.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3842.75,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3842.75,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 103.83,
-        "unsetPrice": false
-      },
-      {
-        "value": "173,06 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 6404.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 103.83,
-        "unsetPrice": false
-      },
-      {
-        "value": "173,06 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 6404.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3842.75,
-        "unsetPrice": false
-      },
-      {
-        "value": "173,06 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 6404.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "103,83",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 103.83,
         "unsetPrice": false
       }
     ],
@@ -486,12 +237,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".current-price.fw-semibold",
+        ".product-discounted-price.text-black.fw-regular"
       ]
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-18T05:39:55.245Z",
+    "timestamp": "2025-08-18T06:44:19.382Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -522,79 +274,16 @@
       },
       {
         "value": "83,07 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".current-price.fw-semibold",
         "attribute": "innerText",
         "numericValue": 3074.42,
         "unsetPrice": false
       },
       {
         "value": "138,44 EUR",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "numericValue": 5123.66,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3074.42,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3074.42,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 83.07,
-        "unsetPrice": false
-      },
-      {
-        "value": "138,44 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5123.66,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 83.07,
-        "unsetPrice": false
-      },
-      {
-        "value": "138,44 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5123.66,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3074.42,
-        "unsetPrice": false
-      },
-      {
-        "value": "138,44 EUR",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5123.66,
-        "unsetPrice": false
-      },
-      {
-        "value": "83,07",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 83.07,
         "unsetPrice": false
       }
     ],
@@ -609,12 +298,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".current-price.fw-semibold",
+        ".product-discounted-price.text-black.fw-regular"
       ]
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-18T05:39:55.246Z",
+    "timestamp": "2025-08-18T06:44:19.383Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
