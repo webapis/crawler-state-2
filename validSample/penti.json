@@ -11,15 +11,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/aqua-mavi-canta/p/PY7PAGQS25IY-B18",
     "price": [
       {
-        "value": "₺160,20",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺160.20",
+        "selector": ".prc.prc-last",
         "attribute": "innerText",
         "numericValue": 160.2,
         "unsetPrice": false
       },
       {
-        "value": "₺533,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺533.99",
+        "selector": ".prc.prc-first",
         "attribute": "innerText",
         "numericValue": 533.99,
         "unsetPrice": false
@@ -35,12 +35,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".prc.prc-last",
+        ".prc.prc-first"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-18T05:42:32.394Z",
+    "timestamp": "2025-08-18T06:47:18.833Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -59,15 +60,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/marget-ekru-canta/p/PY3JWM5X25IY-EC2",
     "price": [
       {
-        "value": "₺560,10",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺560.10",
+        "selector": ".prc.prc-last",
         "attribute": "innerText",
         "numericValue": 560.1,
         "unsetPrice": false
       },
       {
-        "value": "₺1.866,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺1,866.99",
+        "selector": ".prc.prc-first",
         "attribute": "innerText",
         "numericValue": 1866.99,
         "unsetPrice": false
@@ -83,12 +84,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".prc.prc-last",
+        ".prc.prc-first"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-18T05:42:32.395Z",
+    "timestamp": "2025-08-18T06:47:18.833Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -106,15 +108,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/papilla-canta/p/PYHWD64X25IY-134",
     "price": [
       {
-        "value": "₺140,10",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺140.10",
+        "selector": ".prc.prc-last",
         "attribute": "innerText",
         "numericValue": 140.1,
         "unsetPrice": false
       },
       {
-        "value": "₺466,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺466.99",
+        "selector": ".prc.prc-first",
         "attribute": "innerText",
         "numericValue": 466.99,
         "unsetPrice": false
@@ -130,12 +132,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".prc.prc-last",
+        ".prc.prc-first"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-18T05:42:32.396Z",
+    "timestamp": "2025-08-18T06:47:18.834Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -153,15 +156,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/papilla-sari-canta/p/PYT2LDZF25IY-YL2",
     "price": [
       {
-        "value": "₺140,10",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺140.10",
+        "selector": ".prc.prc-last",
         "attribute": "innerText",
         "numericValue": 140.1,
         "unsetPrice": false
       },
       {
-        "value": "₺466,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺466.99",
+        "selector": ".prc.prc-first",
         "attribute": "innerText",
         "numericValue": 466.99,
         "unsetPrice": false
@@ -177,12 +180,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".prc.prc-last",
+        ".prc.prc-first"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-18T05:42:32.397Z",
+    "timestamp": "2025-08-18T06:47:18.835Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,15 +206,15 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/evelyn-naturel-canta/p/PYKLKW2325IY-NAT",
     "price": [
       {
-        "value": "₺640,19",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺640.19",
+        "selector": ".prc.prc-last",
         "attribute": "innerText",
         "numericValue": 640.19,
         "unsetPrice": false
       },
       {
-        "value": "₺1.066,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "₺1,066.99",
+        "selector": ".prc.prc-first",
         "attribute": "innerText",
         "numericValue": 1066.99,
         "unsetPrice": false
@@ -226,12 +230,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".prc.prc-last",
+        ".prc.prc-first"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-18T05:42:32.398Z",
+    "timestamp": "2025-08-18T06:47:18.836Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
