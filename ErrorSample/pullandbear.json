@@ -1,5 +1,6 @@
 [
   {
+    "title": null,
     "img": [
       "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=888&f=auto"
     ],
@@ -8,7 +9,7 @@
     "price": [
       {
         "value": "1.690,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1690,
         "unsetPrice": false
@@ -24,21 +25,22 @@
       "imgSelectorMatched": "img.image-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductsByCategory"
+        ".product-info price-element::shadow::.price"
+      ]
     },
     "pageTitle": "Kadın çanta modelleri | PULL&BEAR",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-08-13T08:32:19.165Z",
+    "timestamp": "2025-08-18T09:32:47.388Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
+    "title": null,
     "img": [
       "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=888&f=auto"
     ],
@@ -47,7 +49,7 @@
     "price": [
       {
         "value": "1.690,00 TL",
-        "selector": "price-element::shadow::.price",
+        "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
         "numericValue": 1690,
         "unsetPrice": false
@@ -63,18 +65,18 @@
       "imgSelectorMatched": "img.image-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        "price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "#ProductsByCategory"
+        ".product-info price-element::shadow::.price"
+      ]
     },
     "pageTitle": "Kadın çanta modelleri | PULL&BEAR",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-08-13T08:32:19.165Z",
+    "timestamp": "2025-08-18T09:32:47.389Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
