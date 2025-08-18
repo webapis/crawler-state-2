@@ -1,125 +1,5 @@
 [
   {
-    "title": "Matraş Kadın Makyaj Çantası Kahve 0HH-1027",
-    "img": [
-      "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22"
-    ],
-    "primaryImg": "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22",
-    "link": "https://www.matras.com/urun/0hh-10270001000200_matras-kadin-makyaj-cantasi-kahve-0hh-1027",
-    "price": [
-      {
-        "value": "1.950,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product_image a)",
-      "matchedSelector": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "matchedProductItemSelectorManual": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "titleSelectorMatched": ".product_image img",
-      "imgSelectorMatched": ".product_image img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".message_box"
-    },
-    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
-    "pageURL": "https://www.matras.com/canta-modelleri?page=11",
-    "timestamp": "2025-08-18T05:28:25.039Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Matraş Kadın Makyaj Çantası Kahve 0HH-1027",
-    "img": [
-      "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22"
-    ],
-    "primaryImg": "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22",
-    "link": "https://www.matras.com/urun/0hh-10270001000200_matras-kadin-makyaj-cantasi-kahve-0hh-1027",
-    "price": [
-      {
-        "value": "1.950,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product_image a)",
-      "matchedSelector": ".product_box.sm-product-list",
-      "matchedProductItemSelectorManual": ".product_box.sm-product-list",
-      "titleSelectorMatched": ".product_image img",
-      "imgSelectorMatched": ".product_image img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".message_box"
-    },
-    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
-    "pageURL": "https://www.matras.com/canta-modelleri?page=11",
-    "timestamp": "2025-08-18T05:28:25.039Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Matraş Erkek Deri Evrak Çantası Taba 0EE-1020",
-    "img": [
-      "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-7741-0EE-10200026000300-1726044309-6.peg?v22"
-    ],
-    "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-7741-0EE-10200026000300-1726044309-6.peg?v22",
-    "link": "https://www.matras.com/urun/0ee-10200026000300_matras-erkek-deri-evrak-cantasi-taba-0ee-1020",
-    "price": [
-      {
-        "value": "12.550,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 12550,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product_image a)",
-      "matchedSelector": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "matchedProductItemSelectorManual": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "titleSelectorMatched": ".product_image img",
-      "imgSelectorMatched": ".product_image img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".message_box"
-    },
-    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
-    "pageURL": "https://www.matras.com/canta-modelleri?page=12",
-    "timestamp": "2025-08-18T05:28:27.322Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "Matraş Erkek Deri Evrak Çantası Taba 0EE-1020",
     "img": [
       "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-465-7741-0EE-10200026000300-1726044309-6.peg?v22"
@@ -146,13 +26,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".message_box"
+      ]
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=12",
-    "timestamp": "2025-08-18T05:28:27.323Z",
+    "timestamp": "2025-08-18T05:44:35.019Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -179,20 +57,94 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product_image a)",
-      "matchedSelector": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "matchedProductItemSelectorManual": ".col-md-3.col-sm-3.col-xs-6.wow",
+      "matchedSelector": ".product_box.sm-product-list",
+      "matchedProductItemSelectorManual": ".product_box.sm-product-list",
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".message_box"
+      ]
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=12",
-    "timestamp": "2025-08-18T05:28:27.325Z",
+    "timestamp": "2025-08-18T05:44:35.021Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Matraş Kadın Makyaj Çantası Kahve 0HH-1027",
+    "img": [
+      "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22"
+    ],
+    "primaryImg": "https://img.matras.com/resim/urun_liste/aksesuar/matras-212-497-7793-0HH-10270001000200-1728294900-1.peg?v22",
+    "link": "https://www.matras.com/urun/0hh-10270001000200_matras-kadin-makyaj-cantasi-kahve-0hh-1027",
+    "price": [
+      {
+        "value": "1.950,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product_image a)",
+      "matchedSelector": ".product_box.sm-product-list",
+      "matchedProductItemSelectorManual": ".product_box.sm-product-list",
+      "titleSelectorMatched": ".product_image img",
+      "imgSelectorMatched": ".product_image img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
+    "pageURL": "https://www.matras.com/canta-modelleri?page=11",
+    "timestamp": "2025-08-18T05:44:35.092Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Matraş Kadın Askılı El ve Omuz Çantası  Nar Çiçeği 9BB-1083",
+    "img": [
+      "https://img.matras.com/resim/urun_liste/canta/matras-16-460-4091-9BB-10830003000900-1691063542-6.peg?v22"
+    ],
+    "primaryImg": "https://img.matras.com/resim/urun_liste/canta/matras-16-460-4091-9BB-10830003000900-1691063542-6.peg?v22",
+    "link": "https://www.matras.com/urun/9bb-10830003000900_matras-kadin-askili-el-ve-omuz-cantasi--nar-cicegi-9bb-1083",
+    "price": [
+      {
+        "value": "4.100,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerHTML",
+        "numericValue": 4100,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product_image a)",
+      "matchedSelector": ".product_box.sm-product-list",
+      "matchedProductItemSelectorManual": ".product_box.sm-product-list",
+      "titleSelectorMatched": ".product_image img",
+      "imgSelectorMatched": ".product_image img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
+    "pageURL": "https://www.matras.com/canta-modelleri?page=19",
+    "timestamp": "2025-08-18T05:44:43.895Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
