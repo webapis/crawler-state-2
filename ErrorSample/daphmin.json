@@ -39,7 +39,56 @@
     },
     "pageTitle": "DAPHMIN - Hakiki Deri Cüzdan ve Çanta Koleksiyonu",
     "pageURL": "https://www.daphmin.com/",
-    "timestamp": "2025-08-18T09:32:22.166Z",
+    "timestamp": "2025-08-18T09:36:19.332Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Daphmin Hediye Kartı",
+    "img": [
+      "https://www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=533",
+      "https://www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=533"
+    ],
+    "primaryImg": "//www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=165 165w,//www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=360 360w,//www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=533 533w,//www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049&width=720 720w,//www.daphmin.com/cdn/shop/files/GoldandWhiteGiftCardVoucher_720x1080px_-Front.png?v=1739898049 720w\n                ",
+    "link": "https://www.daphmin.com/products/daphmin-hediye-karti",
+    "price": [
+      {
+        "value": "Başlangıç fiyatı: 500.00TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "innerText",
+        "numericValue": 0,
+        "unsetPrice": true
+      },
+      {
+        "value": "Başlangıç fiyatı: 500.00TL",
+        "selector": ".price-item.price-item--regular",
+        "attribute": "innerText",
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "matchedProductItemSelectorManual": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
+      ]
+    },
+    "pageTitle": "DAPHMIN - Hakiki Deri Cüzdan ve Çanta Koleksiyonu",
+    "pageURL": "https://www.daphmin.com/?page=1",
+    "timestamp": "2025-08-18T09:36:21.827Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
