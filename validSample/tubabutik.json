@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".text-sm.font-semibold",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -26,12 +26,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".text-sm.font-semibold"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-18T05:46:21.822Z",
+    "timestamp": "2025-08-18T06:51:11.688Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".text-sm.font-semibold",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -65,12 +65,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".text-sm.font-semibold"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-18T05:46:21.823Z",
+    "timestamp": "2025-08-18T06:51:11.689Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,7 +88,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".text-sm.font-semibold",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -104,12 +104,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".text-sm.font-semibold"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-18T05:46:21.823Z",
+    "timestamp": "2025-08-18T06:51:11.689Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -127,7 +127,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".text-sm.font-semibold",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -143,12 +143,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".text-sm.font-semibold"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-18T05:46:21.824Z",
+    "timestamp": "2025-08-18T06:51:11.690Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -166,7 +166,7 @@
     "price": [
       {
         "value": "250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".text-sm.font-semibold",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -182,12 +182,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".text-sm.font-semibold"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-18T05:46:21.825Z",
+    "timestamp": "2025-08-18T06:51:11.691Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
