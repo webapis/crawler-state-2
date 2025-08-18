@@ -15,7 +15,7 @@
     "price": [
       {
         "value": "86.500 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-card__price--new",
         "attribute": "innerText",
         "numericValue": 86500,
         "unsetPrice": false
@@ -31,12 +31,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-card__price--new"
       ]
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-18T05:48:35.358Z",
+    "timestamp": "2025-08-18T06:53:29.208Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -59,7 +59,7 @@
     "price": [
       {
         "value": "95.000 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-card__price--new",
         "attribute": "innerText",
         "numericValue": 95000,
         "unsetPrice": false
@@ -75,12 +75,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-card__price--new"
       ]
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-18T05:48:35.359Z",
+    "timestamp": "2025-08-18T06:53:29.209Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,7 +103,7 @@
     "price": [
       {
         "value": "81.500 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-card__price--new",
         "attribute": "innerText",
         "numericValue": 81500,
         "unsetPrice": false
@@ -119,12 +119,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-card__price--new"
       ]
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-18T05:48:35.360Z",
+    "timestamp": "2025-08-18T06:53:29.209Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -147,7 +147,7 @@
     "price": [
       {
         "value": "62.500 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-card__price--new",
         "attribute": "innerText",
         "numericValue": 62500,
         "unsetPrice": false
@@ -163,12 +163,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-card__price--new"
       ]
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-18T05:48:35.361Z",
+    "timestamp": "2025-08-18T06:53:29.210Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -191,7 +191,7 @@
     "price": [
       {
         "value": "86.500 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-card__price--new",
         "attribute": "innerText",
         "numericValue": 86500,
         "unsetPrice": false
@@ -207,12 +207,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-card__price--new"
       ]
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-18T05:48:35.362Z",
+    "timestamp": "2025-08-18T06:53:29.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
