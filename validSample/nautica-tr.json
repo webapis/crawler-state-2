@@ -29,13 +29,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-16T06:36:21.361Z",
+    "timestamp": "2025-08-18T04:59:58.207Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -72,13 +70,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-16T06:36:21.362Z",
+    "timestamp": "2025-08-18T04:59:58.208Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -95,7 +91,15 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/04/25/77160/d47e644a-1929-4b43-848d-7353dd4e9c3d_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-siyah-v-yaka-kolsuz-elbise-55d411t/",
-    "price": [],
+    "price": [
+      {
+        "value": "3.299 TL",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 3299,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -105,18 +109,18 @@
       "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      "priceSelectorsMatched": [
+        "span.product-price"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-16T06:36:21.363Z",
+    "timestamp": "2025-08-18T04:59:58.209Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Beyaz Regular Fit Baskılı T-Shirt",
@@ -148,13 +152,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-16T06:36:21.364Z",
+    "timestamp": "2025-08-18T04:59:58.210Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -191,13 +193,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-16T06:36:21.365Z",
+    "timestamp": "2025-08-18T04:59:58.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
