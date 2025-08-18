@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "6.569 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 6569,
         "unsetPrice": false
@@ -28,12 +28,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".boost-sd__format-currency"
       ]
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-18T05:50:03.179Z",
+    "timestamp": "2025-08-18T06:55:36.521Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -53,30 +53,23 @@
     "price": [
       {
         "value": "4.107 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 4107,
         "unsetPrice": false
       },
       {
         "value": "6.319 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 6319,
         "unsetPrice": false
       },
       {
         "value": "6.319 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 6319,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.107 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4107,
         "unsetPrice": false
       }
     ],
@@ -90,12 +83,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".boost-sd__format-currency"
       ]
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-18T05:50:03.181Z",
+    "timestamp": "2025-08-18T06:55:36.523Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -115,7 +108,7 @@
     "price": [
       {
         "value": "12.085 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 12085,
         "unsetPrice": false
@@ -131,12 +124,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".boost-sd__format-currency"
       ]
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-18T05:50:03.183Z",
+    "timestamp": "2025-08-18T06:55:36.524Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -156,7 +149,7 @@
     "price": [
       {
         "value": "14.765 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 14765,
         "unsetPrice": false
@@ -172,12 +165,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".boost-sd__format-currency"
       ]
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-18T05:50:03.185Z",
+    "timestamp": "2025-08-18T06:55:36.526Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -187,40 +180,33 @@
   {
     "title": "Tote Bag Mini Omuz Çantası",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-455516.jpg?v=1753362163&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-455516.jpg?v=1753362163&width=200"
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-397417.jpg?v=1755497630&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-397417.jpg?v=1755497630&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-black-5229999.jpg?v=1753472811&width=700 700w\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-tote-bag-mini-omuz-cantasi-2",
     "price": [
       {
         "value": "2.703 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 2703,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 4159,
         "unsetPrice": false
       },
       {
         "value": "4.159 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".boost-sd__format-currency",
         "attribute": "innerText",
         "numericValue": 4159,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.703 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2703,
         "unsetPrice": false
       }
     ],
@@ -234,12 +220,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".boost-sd__format-currency"
       ]
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-18T05:50:03.187Z",
+    "timestamp": "2025-08-18T06:55:36.527Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
