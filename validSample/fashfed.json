@@ -1,5 +1,64 @@
 [
   {
+    "title": "Nike Gym Club Kadın Mavi Spor Çantası",
+    "img": [
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/cc9ae0fe-f4a5-41f8-a7aa-7d4ce8dfa583_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/68f28772-0dc8-467b-815b-4afbc65c3d83_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/e25023c0-e1f6-438d-b64d-c24a809fc690_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/f88fe5aa-2ad1-4068-a8ad-b0aee99ec958_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/10decb82-382e-4364-9efc-1badb0dbbeed_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/256a5274-20c8-46cb-b37c-c68245f85251_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/d323436a-631e-4956-b70a-b9c41486dda7_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/02892d23-6d42-4caf-966a-3796a2de7bf6_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/ff9a4af3-5a22-4c58-a71d-86170cbfb9d7_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/4ae07fde-7166-467b-825e-1e69f34d8a84_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/cc9ae0fe-f4a5-41f8-a7aa-7d4ce8dfa583_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/68f28772-0dc8-467b-815b-4afbc65c3d83_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/e25023c0-e1f6-438d-b64d-c24a809fc690_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/f88fe5aa-2ad1-4068-a8ad-b0aee99ec958_size650_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/05/12/130672741/cc9ae0fe-f4a5-41f8-a7aa-7d4ce8dfa583_size375_cropTop.jpg",
+    "link": "https://www.fashfed.com/urun/nike-gym-club-kadin-mavi-spor-cantasi-dh6863/",
+    "price": [
+      {
+        "value": "₺ 1.759,20",
+        "selector": ".price .price__new",
+        "attribute": "innerText",
+        "numericValue": 1759.2,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 2.199,00",
+        "selector": ".price.price--discounted .price__old",
+        "attribute": "innerText",
+        "numericValue": 2199,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".price .price__new",
+        ".price.price--discounted .price__old"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
+    "pageURL": "https://www.fashfed.com/kadin-canta/",
+    "timestamp": "2025-08-18T07:01:05.112Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
     "title": "Lacoste Anna Kadın Çift Taraflı Haki Omuz Çantası",
     "img": [
       "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/04/15/127662990/f90fb5b1-90bd-49c5-b958-21a112b0de43_size375_cropTop.jpg",
@@ -20,7 +79,7 @@
     "price": [
       {
         "value": "₺ 7.199,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price .price__new",
         "attribute": "innerText",
         "numericValue": 7199,
         "unsetPrice": false
@@ -36,12 +95,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price .price__new"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:53:16.535Z",
+    "timestamp": "2025-08-18T07:01:05.113Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,7 +122,7 @@
     "price": [
       {
         "value": "₺ 9.500,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price .price__new",
         "attribute": "innerText",
         "numericValue": 9500,
         "unsetPrice": false
@@ -79,12 +138,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price .price__new"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:53:16.536Z",
+    "timestamp": "2025-08-18T07:01:05.114Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,14 +167,14 @@
     "price": [
       {
         "value": "₺ 5.599,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price .price__new",
         "attribute": "innerText",
         "numericValue": 5599,
         "unsetPrice": false
       },
       {
         "value": "₺ 8.000,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price.price--discounted .price__old",
         "attribute": "innerText",
         "numericValue": 8000,
         "unsetPrice": false
@@ -131,12 +190,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price .price__new",
+        ".price.price--discounted .price__old"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:53:16.538Z",
+    "timestamp": "2025-08-18T07:01:05.114Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -161,14 +221,14 @@
     "price": [
       {
         "value": "₺ 4.232,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price .price__new",
         "attribute": "innerText",
         "numericValue": 4232,
         "unsetPrice": false
       },
       {
         "value": "₺ 5.290,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price.price--discounted .price__old",
         "attribute": "innerText",
         "numericValue": 5290,
         "unsetPrice": false
@@ -184,64 +244,13 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price .price__new",
+        ".price.price--discounted .price__old"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:53:16.539Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Guess Sebina Bucket Kadın Turuncu Omuz Çantası",
-    "img": [
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/6be5c5fe-8f70-432c-b134-3d4b9799e2dd_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/b1c0e495-8b70-47c5-9e1a-ecff40c71208_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/ab216959-7da5-4f50-a9ee-710695ab27ee_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/6be5c5fe-8f70-432c-b134-3d4b9799e2dd_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/b1c0e495-8b70-47c5-9e1a-ecff40c71208_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/ab216959-7da5-4f50-a9ee-710695ab27ee_size650_cropTop.jpg"
-    ],
-    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/03/12/120196874/7f74c48a-9668-4865-9bcc-448289d84768_size375_cropTop.jpg",
-    "link": "https://www.fashfed.com/urun/guess-sebina-bucket-kadin-turuncu-omuz-cantasi-hwag9524030/",
-    "price": [
-      {
-        "value": "₺ 4.400,00",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4400,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺ 8.000,00",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 8000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
-    "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:53:16.540Z",
+    "timestamp": "2025-08-18T07:01:05.115Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
