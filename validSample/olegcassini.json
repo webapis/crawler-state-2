@@ -10,14 +10,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -33,12 +33,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-18T05:47:26.607Z",
+    "timestamp": "2025-08-18T06:52:20.572Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,14 +57,14 @@
     "price": [
       {
         "value": "1.996,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 1996,
         "unsetPrice": false
       },
       {
         "value": "2.495,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 2495,
         "unsetPrice": false
@@ -79,12 +80,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-18T05:47:26.608Z",
+    "timestamp": "2025-08-18T06:52:20.573Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,14 +104,14 @@
     "price": [
       {
         "value": "1.836,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 1836,
         "unsetPrice": false
       },
       {
         "value": "2.295,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 2295,
         "unsetPrice": false
@@ -125,12 +127,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-18T05:47:26.609Z",
+    "timestamp": "2025-08-18T06:52:20.573Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -148,14 +151,14 @@
     "price": [
       {
         "value": "2.396,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 2396,
         "unsetPrice": false
       },
       {
         "value": "2.995,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 2995,
         "unsetPrice": false
@@ -171,12 +174,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-18T05:47:26.610Z",
+    "timestamp": "2025-08-18T06:52:20.574Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -194,14 +198,14 @@
     "price": [
       {
         "value": "2.396,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 2396,
         "unsetPrice": false
       },
       {
         "value": "2.995,00 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 2995,
         "unsetPrice": false
@@ -217,12 +221,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-08-18T05:47:26.610Z",
+    "timestamp": "2025-08-18T06:52:20.575Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
