@@ -23,7 +23,7 @@
     "price": [
       {
         "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price__list-price",
         "attribute": "innerText",
         "numericValue": 270,
         "unsetPrice": false
@@ -39,12 +39,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-price__list-price"
       ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:46:20.169Z",
+    "timestamp": "2025-08-18T06:51:11.554Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,7 +63,7 @@
     "price": [
       {
         "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price__list-price",
         "attribute": "innerText",
         "numericValue": 270,
         "unsetPrice": false
@@ -79,12 +79,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-price__list-price"
       ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:46:20.170Z",
+    "timestamp": "2025-08-18T06:51:11.555Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,7 +103,7 @@
     "price": [
       {
         "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price__list-price",
         "attribute": "innerText",
         "numericValue": 270,
         "unsetPrice": false
@@ -119,12 +119,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-price__list-price"
       ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:46:20.170Z",
+    "timestamp": "2025-08-18T06:51:11.556Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -143,7 +143,7 @@
     "price": [
       {
         "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price__list-price",
         "attribute": "innerText",
         "numericValue": 270,
         "unsetPrice": false
@@ -159,12 +159,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-price__list-price"
       ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:46:20.171Z",
+    "timestamp": "2025-08-18T06:51:11.556Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,7 +183,7 @@
     "price": [
       {
         "value": "250,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price__list-price",
         "attribute": "innerText",
         "numericValue": 250,
         "unsetPrice": false
@@ -199,12 +199,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-price__list-price"
       ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:46:20.172Z",
+    "timestamp": "2025-08-18T06:51:11.557Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
