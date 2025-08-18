@@ -1,5 +1,6 @@
 [
   {
+    "title": "ÇİLEK DETAYLI ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585889/00e361a8-9375-49bf-a5ff-5186dfc0b79d_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585889/00e361a8-9375-49bf-a5ff-5186dfc0b79d_size650x650_cropCenter.jpg",
@@ -49,28 +50,27 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "linkSource": "titleElement (matched: a.product-item__name)",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title span",
+      "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-16T06:40:57.458Z",
+    "timestamp": "2025-08-18T04:53:54.174Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "DERİ GÖRÜNÜMLÜ EL ÇANTASI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/560712/3b5a18cd-9fcd-41fb-a915-87d5d3dddfc2_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/560712/3b5a18cd-9fcd-41fb-a915-87d5d3dddfc2_size650x650_cropCenter.jpg",
@@ -120,28 +120,27 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "linkSource": "titleElement (matched: a.product-item__name)",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title span",
+      "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-16T06:40:57.459Z",
+    "timestamp": "2025-08-18T04:53:54.175Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "FULAR GÖRÜNÜMLÜ ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585886/62998901-21dc-4f38-84d5-f5cf723ebfb3_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/01/585886/62998901-21dc-4f38-84d5-f5cf723ebfb3_size650x650_cropCenter.jpg",
@@ -192,28 +191,27 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "linkSource": "titleElement (matched: a.product-item__name)",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title span",
+      "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-16T06:40:57.461Z",
+    "timestamp": "2025-08-18T04:53:54.176Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "ASKILI DERİ GÖRÜNÜMLÜ EL ÇANTASI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/561950/65fe820c-de62-445d-a2f7-69ffca7549c9_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/03/17/561950/65fe820c-de62-445d-a2f7-69ffca7549c9_size650x650_cropCenter.jpg",
@@ -264,28 +262,27 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "linkSource": "titleElement (matched: a.product-item__name)",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title span",
+      "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-16T06:40:57.462Z",
+    "timestamp": "2025-08-18T04:53:54.178Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "FULAR GÖRÜNÜMLÜ ÇANTA CHARMI",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/02/585888/446c515d-5143-445b-a5ce-aa57b7a78ea1_size700x700_cropCenter.jpg",
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/02/585888/446c515d-5143-445b-a5ce-aa57b7a78ea1_size650x650_cropCenter.jpg",
@@ -336,24 +333,22 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "linkSource": "titleElement (matched: a.product-item__name)",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-title span",
+      "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".js-product-list"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-16T06:40:57.463Z",
+    "timestamp": "2025-08-18T04:53:54.179Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   }
