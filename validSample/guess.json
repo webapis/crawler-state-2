@@ -9,14 +9,7 @@
     "price": [
       {
         "value": "3,750.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3750,
-        "unsetPrice": false
-      },
-      {
-        "value": "3,750.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.value.item-price",
         "attribute": "innerText",
         "numericValue": 3750,
         "unsetPrice": false
@@ -32,12 +25,12 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "span.value.item-price"
       ]
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-18T05:48:14.438Z",
+    "timestamp": "2025-08-18T06:53:08.231Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -54,14 +47,7 @@
     "price": [
       {
         "value": "3,750.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3750,
-        "unsetPrice": false
-      },
-      {
-        "value": "3,750.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.value.item-price",
         "attribute": "innerText",
         "numericValue": 3750,
         "unsetPrice": false
@@ -77,12 +63,12 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "span.value.item-price"
       ]
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-18T05:48:14.439Z",
+    "timestamp": "2025-08-18T06:53:08.232Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -99,7 +85,7 @@
     "price": [
       {
         "value": "8,000.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.value.item-price",
         "attribute": "innerText",
         "numericValue": 8000,
         "unsetPrice": false
@@ -115,50 +101,12 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "span.value.item-price"
       ]
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-18T05:48:14.440Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Noelle 4G logolu omuz çantası",
-    "img": [
-      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO"
-    ],
-    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO",
-    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/noelle-4g-logolu-omuz-cantasi-siyah/HWBG7879180-CLO.html",
-    "price": [
-      {
-        "value": "7,000.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 7000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
-      "matchedSelector": ".js-tile.product__tile",
-      "matchedProductItemSelectorManual": ".js-tile.product__tile",
-      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
-      "imgSelectorMatched": ".product-grid__image",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ]
-    },
-    "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
-    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-18T05:48:14.441Z",
+    "timestamp": "2025-08-18T06:53:08.233Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -175,14 +123,7 @@
     "price": [
       {
         "value": "4,250.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4250,
-        "unsetPrice": false
-      },
-      {
-        "value": "4,250.00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.value.item-price",
         "attribute": "innerText",
         "numericValue": 4250,
         "unsetPrice": false
@@ -198,12 +139,50 @@
       "imgSelectorMatched": ".product-grid__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "span.value.item-price"
       ]
     },
     "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
     "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
-    "timestamp": "2025-08-18T05:48:14.442Z",
+    "timestamp": "2025-08-18T06:53:08.234Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Noelle 4G logolu omuz çantası",
+    "img": [
+      "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO"
+    ],
+    "primaryImg": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,e_sharpen:50,,w_800,c_scale/v1/EU/Style/ECOMM/HWBG7879180-CLO",
+    "link": "https://www.guess.eu/tr-tr/guess/kadin/canta/omuz-cantasi/noelle-4g-logolu-omuz-cantasi-siyah/HWBG7879180-CLO.html",
+    "price": [
+      {
+        "value": "7,000.00 TL",
+        "selector": "span.value.item-price",
+        "attribute": "innerText",
+        "numericValue": 7000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .js-aa-pdp-href.aa-pdp-href)",
+      "matchedSelector": ".js-tile.product__tile",
+      "matchedProductItemSelectorManual": ".js-tile.product__tile",
+      "titleSelectorMatched": ".js-aa-pdp-href.aa-pdp-href",
+      "imgSelectorMatched": ".product-grid__image",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "span.value.item-price"
+      ]
+    },
+    "pageTitle": "GUESS® Kadın Çantaları - Yeni İY25 Koleksiyonunu Keşfet",
+    "pageURL": "https://www.guess.eu/tr-tr/guess/kadin/canta?subcategory=Guess-Women-Bags%23882895f9-08c8-479f-b343-e721f51b749d",
+    "timestamp": "2025-08-18T06:53:08.235Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
