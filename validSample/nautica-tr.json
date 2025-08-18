@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "1.499 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-item-info-prices .product-sale-price",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
@@ -28,12 +28,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-item-info-prices .product-sale-price"
       ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:49:14.837Z",
+    "timestamp": "2025-08-18T06:54:42.571Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -53,7 +53,7 @@
     "price": [
       {
         "value": "999 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-item-info-prices .product-sale-price",
         "attribute": "innerText",
         "numericValue": 999,
         "unsetPrice": false
@@ -69,12 +69,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-item-info-prices .product-sale-price"
       ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:49:14.838Z",
+    "timestamp": "2025-08-18T06:54:42.572Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -115,7 +115,7 @@
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:49:14.839Z",
+    "timestamp": "2025-08-18T06:54:42.573Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -135,7 +135,7 @@
     "price": [
       {
         "value": "799 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-item-info-prices .product-sale-price",
         "attribute": "innerText",
         "numericValue": 799,
         "unsetPrice": false
@@ -151,12 +151,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-item-info-prices .product-sale-price"
       ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:49:14.840Z",
+    "timestamp": "2025-08-18T06:54:42.573Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,7 +176,7 @@
     "price": [
       {
         "value": "999 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-item-info-prices .product-sale-price",
         "attribute": "innerText",
         "numericValue": 999,
         "unsetPrice": false
@@ -192,12 +192,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-item-info-prices .product-sale-price"
       ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:49:14.841Z",
+    "timestamp": "2025-08-18T06:54:42.574Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
