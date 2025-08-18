@@ -34,7 +34,9 @@
         "unsetPrice": false
       }
     ],
-    "videos": [],
+    "videos": [
+      "https://25d163.a-cdn.akinoncloud.com/product_videos/2025/05/20/2204bf7f-feee-4fb9-907d-c12cb6d66e0d.mp4"
+    ],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product__listing--content h3 a)",
@@ -42,7 +44,7 @@
       "matchedProductItemSelectorManual": ".js-product-list-item",
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "[poster]",
-      "videoSelectorMatched": null,
+      "videoSelectorMatched": ".js-video-play.js-video-play-mobile source",
       "priceSelectorsMatched": [
         ".product__listing--basket-price",
         ".lone-price",
@@ -52,7 +54,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T06:48:54.003Z",
+    "timestamp": "2025-08-18T07:02:16.935Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -94,7 +96,9 @@
         "unsetPrice": false
       }
     ],
-    "videos": [],
+    "videos": [
+      "https://25d163.a-cdn.akinoncloud.com/product_videos/2025/05/20/2204bf7f-feee-4fb9-907d-c12cb6d66e0d.mp4"
+    ],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product__listing--content h3 a)",
@@ -102,7 +106,7 @@
       "matchedProductItemSelectorManual": ".js-product-list-item",
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "[poster]",
-      "videoSelectorMatched": null,
+      "videoSelectorMatched": ".js-video-play.js-video-play-mobile source",
       "priceSelectorsMatched": [
         ".product__listing--basket-price",
         ".lone-price",
@@ -112,7 +116,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T06:49:01.716Z",
+    "timestamp": "2025-08-18T07:02:24.663Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
