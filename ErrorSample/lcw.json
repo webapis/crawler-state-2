@@ -1,17 +1,18 @@
 [
   {
+    "title": "Çok Bölmeli Kadın Sırt Çantası ASC001",
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7715287/v1/l_20251-s5cr01z8-m0t_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7715287/v1/l_20251-s5cr01z8-m0t_a.jpg"
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515",
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7715287/v1/l_20251-s5cr01z8-m0t_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7715287/v1/l_20251-s5cr01z8-m0t_a.jpg 500w",
-    "link": "https://www.lcw.com/ayarlanabilir-askili-kadin-omuz-cantasi-karisik-o-4392258",
+    "primaryImg": "blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515 300w",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-asc001-gri-o-3391470",
     "price": [
       {
-        "value": "629,99 TL",
+        "value": "499,90 TL",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 629.99,
+        "numericValue": 499.9,
         "unsetPrice": false
       }
     ],
@@ -21,37 +22,36 @@
       "linkSource": "linkElement (matched: .link.link__element)",
       "matchedSelector": ".product-card",
       "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-container .product-list"
+      ]
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-16T06:37:52.414Z",
-    "imgValid": true,
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 10",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=10",
+    "timestamp": "2025-08-18T04:13:11.743Z",
+    "imgValid": false,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "Çok Bölmeli Kadın Sırt Çantası ASC001",
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg"
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515",
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832168/v2/l_20251-s5h886z8-eew_a.jpg 500w",
-    "link": "https://www.lcw.com/hasir-kadin-plaj-cantasi-ekru-o-4392265",
+    "primaryImg": "blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515 300w",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-asc001-gri-o-3391470",
     "price": [
       {
-        "value": "799,99 TL",
+        "value": "499,90 TL",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 799.99,
+        "numericValue": 499.9,
         "unsetPrice": false
       }
     ],
@@ -61,37 +61,36 @@
       "linkSource": "linkElement (matched: .link.link__element)",
       "matchedSelector": ".product-card",
       "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-container .product-list"
+      ]
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-16T06:37:52.415Z",
-    "imgValid": true,
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 15",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=15",
+    "timestamp": "2025-08-18T04:13:26.125Z",
+    "imgValid": false,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   },
   {
+    "title": "Çok Bölmeli Kadın Sırt Çantası ASC001",
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg"
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515",
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/7832164/v1/l_20251-s5h885z8-eew-83-60-86-172_5.jpg 500w",
-    "link": "https://www.lcw.com/cit-cit-kapamali-kadin-hasir-plaj-cantasi-ekru-o-4392264",
+    "primaryImg": "blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515 300w",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-asc001-gri-o-3391470",
     "price": [
       {
-        "value": "799,99 TL",
+        "value": "499,90 TL",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 799.99,
+        "numericValue": 499.9,
         "unsetPrice": false
       }
     ],
@@ -101,101 +100,19 @@
       "linkSource": "linkElement (matched: .link.link__element)",
       "matchedSelector": ".product-card",
       "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-container .product-list"
+      ]
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-16T06:37:52.416Z",
-    "imgValid": true,
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 14",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=14",
+    "timestamp": "2025-08-18T04:13:26.502Z",
+    "imgValid": false,
     "linkValid": true,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20201/7746727/v1/l_20201-s5ef72z8-cwl_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7746727/v1/l_20201-s5ef72z8-cwl_a.jpg"
-    ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20201/7746727/v1/l_20201-s5ef72z8-cwl_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7746727/v1/l_20201-s5ef72z8-cwl_a.jpg 500w",
-    "link": "https://www.lcw.com/bavul-ici-organizer-set-5li-gri-o-4443466",
-    "price": [
-      {
-        "value": "599,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 599.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .link.link__element)",
-      "matchedSelector": ".product-card",
-      "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-container .product-list"
-    },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-16T06:37:52.417Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg"
-    ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/7625616/v1/l_20252-w4ip94z8-jz2_a.jpg 500w",
-    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-pembe-o-4415187",
-    "price": [
-      {
-        "value": "599,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 599.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .link.link__element)",
-      "matchedSelector": ".product-card",
-      "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".product-list-container .product-list"
-    },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-16T06:37:52.418Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true
   }
