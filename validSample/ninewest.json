@@ -11,14 +11,14 @@
     "price": [
       {
         "value": "1.799,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-one__price",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "2.299,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-two span",
         "attribute": "innerText",
         "numericValue": 2299,
         "unsetPrice": false
@@ -34,12 +34,13 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-pricing-one__price",
+        ".product-pricing-two span"
       ]
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-18T05:47:57.503Z",
+    "timestamp": "2025-08-18T06:52:43.347Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -58,7 +59,7 @@
     "price": [
       {
         "value": "2.499,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-one__price",
         "attribute": "innerText",
         "numericValue": 2499,
         "unsetPrice": false
@@ -74,12 +75,12 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-pricing-one__price"
       ]
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-18T05:47:57.504Z",
+    "timestamp": "2025-08-18T06:52:43.348Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,14 +98,14 @@
     "price": [
       {
         "value": "1.599,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-one__price",
         "attribute": "innerText",
         "numericValue": 1599,
         "unsetPrice": false
       },
       {
         "value": "1.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-two span",
         "attribute": "innerText",
         "numericValue": 1999,
         "unsetPrice": false
@@ -120,12 +121,13 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-pricing-one__price",
+        ".product-pricing-two span"
       ]
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-18T05:47:57.505Z",
+    "timestamp": "2025-08-18T06:52:43.349Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -144,7 +146,7 @@
     "price": [
       {
         "value": "2.299,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-one__price",
         "attribute": "innerText",
         "numericValue": 2299,
         "unsetPrice": false
@@ -160,12 +162,12 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-pricing-one__price"
       ]
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-18T05:47:57.506Z",
+    "timestamp": "2025-08-18T06:52:43.350Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,7 +186,7 @@
     "price": [
       {
         "value": "3.299,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-pricing-one__price",
         "attribute": "innerText",
         "numericValue": 3299,
         "unsetPrice": false
@@ -200,12 +202,12 @@
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-pricing-one__price"
       ]
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-08-18T05:47:57.507Z",
+    "timestamp": "2025-08-18T06:52:43.351Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
