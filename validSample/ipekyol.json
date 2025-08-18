@@ -12,6 +12,13 @@
     "link": "https://www.ipekyol.com.tr/urun/ekru-artisan-tote-canta",
     "price": [
       {
+        "value": "2.099,70 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2099.7,
+        "unsetPrice": false
+      },
+      {
         "value": "2.799,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
@@ -19,17 +26,10 @@
         "unsetPrice": false
       },
       {
-        "value": "4.899,30 ₺",
+        "value": "2.799,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 4899.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.899,30 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4899.3,
+        "numericValue": 2799.6,
         "unsetPrice": false
       }
     ],
@@ -50,7 +50,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-16T06:27:10.505Z",
+    "timestamp": "2025-08-18T05:29:18.840Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,6 +70,13 @@
     "link": "https://www.ipekyol.com.tr/urun/ekru-artisan-tote-canta",
     "price": [
       {
+        "value": "2.099,70 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2099.7,
+        "unsetPrice": false
+      },
+      {
         "value": "2.799,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
@@ -77,17 +84,10 @@
         "unsetPrice": false
       },
       {
-        "value": "4.899,30 ₺",
+        "value": "2.799,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 4899.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.899,30 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 4899.3,
+        "numericValue": 2799.6,
         "unsetPrice": false
       }
     ],
@@ -108,7 +108,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-16T06:27:10.506Z",
+    "timestamp": "2025-08-18T05:29:18.842Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -166,7 +166,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-16T06:27:10.507Z",
+    "timestamp": "2025-08-18T05:29:18.843Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -224,7 +224,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-16T06:27:10.508Z",
+    "timestamp": "2025-08-18T05:29:18.844Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -232,36 +232,36 @@
     "priceValid": true
   },
   {
-    "title": "Çiçek aplikeli hasır çanta",
+    "title": "Metal saplı deri görünümlü çanta",
     "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052076023.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052076023_1.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052108074.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052108074_1.JPG",
       "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052076023_2.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052076023_3.JPG"
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052108074_2.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052108074_3.JPG"
     ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052076023.JPG",
-    "link": "https://www.ipekyol.com.tr/urun/bej-cicek-aplikeli-hasir-canta",
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052108074.JPG",
+    "link": "https://www.ipekyol.com.tr/urun/kahverengi-metal-sapli-deri-gorunumlu-canta",
     "price": [
       {
-        "value": "2.239,60 ₺",
+        "value": "1.199,70 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 2239.6,
+        "numericValue": 1199.7,
         "unsetPrice": false
       },
       {
-        "value": "3.919,30 ₺",
+        "value": "1.599,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3919.3,
+        "numericValue": 1599.6,
         "unsetPrice": false
       },
       {
-        "value": "3.919,30 ₺",
+        "value": "1.599,60 ₺",
         "selector": ".product-info price-element::shadow::.price",
         "attribute": "innerText",
-        "numericValue": 3919.3,
+        "numericValue": 1599.6,
         "unsetPrice": false
       }
     ],
@@ -282,7 +282,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-16T06:27:10.510Z",
+    "timestamp": "2025-08-18T05:29:18.845Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
