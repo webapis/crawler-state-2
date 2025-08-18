@@ -9,17 +9,17 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-2",
     "price": [
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       },
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       }
     ],
@@ -38,12 +38,14 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-18T06:52:13.489Z",
+    "timestamp": "2025-08-18T09:21:22.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "HANDMADE TASSEL BAG",
@@ -55,17 +57,17 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-puskullu-canta",
     "price": [
       {
-        "value": "$383.98 USD",
+        "value": "$383.68 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 12863.33,
+        "numericValue": 12853.28,
         "unsetPrice": false
       },
       {
-        "value": "$383.98 USD",
+        "value": "$383.68 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 12863.33,
+        "numericValue": 12853.28,
         "unsetPrice": false
       }
     ],
@@ -84,12 +86,14 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-18T06:52:13.490Z",
+    "timestamp": "2025-08-18T09:21:22.212Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "HANDMADE EMBROIDERED BAG",
@@ -101,17 +105,17 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-1",
     "price": [
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       },
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       }
     ],
@@ -130,12 +134,14 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-18T06:52:13.491Z",
+    "timestamp": "2025-08-18T09:21:22.213Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "HANDMADE EMBROIDERED BAG",
@@ -147,17 +153,17 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta",
     "price": [
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       },
       {
-        "value": "$485.03 USD",
+        "value": "$484.65 USD",
         "selector": ".grid-product__price span",
         "attribute": "innerText",
-        "numericValue": 16248.5,
+        "numericValue": 16235.77,
         "unsetPrice": false
       }
     ],
@@ -176,11 +182,13 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-18T06:52:13.491Z",
+    "timestamp": "2025-08-18T09:21:22.214Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
