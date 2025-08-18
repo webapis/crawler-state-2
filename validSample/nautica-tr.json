@@ -21,21 +21,19 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:30:07.831Z",
+    "timestamp": "2025-08-18T05:49:14.837Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -64,21 +62,19 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:30:07.832Z",
+    "timestamp": "2025-08-18T05:49:14.838Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -95,28 +91,36 @@
     ],
     "primaryImg": "https://akn-nautica.a-cdn.akinoncloud.com/products/2025/04/25/77160/d47e644a-1929-4b43-848d-7353dd4e9c3d_size600x600_quality100_cropCenter.jpg",
     "link": "https://www.nautica-tr.com/nautica-kadin-siyah-v-yaka-kolsuz-elbise-55d411t/",
-    "price": [],
+    "price": [
+      {
+        "value": "3.299 TL",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 3299,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      "priceSelectorsMatched": [
+        "span.product-price"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:30:07.834Z",
+    "timestamp": "2025-08-18T05:49:14.839Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false
+    "priceValid": true
   },
   {
     "title": "Nautica Kadın Beyaz Regular Fit Baskılı T-Shirt",
@@ -140,21 +144,19 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:30:07.835Z",
+    "timestamp": "2025-08-18T05:49:14.840Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,21 +185,19 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-name a)",
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": ".product-name a",
+      "titleSelectorMatched": "p.product-name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".list-product.js-list-products"
+      ]
     },
     "pageTitle": "Kadın Giyim Koleksiyonu | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-giyim/",
-    "timestamp": "2025-08-18T05:30:07.836Z",
+    "timestamp": "2025-08-18T05:49:14.841Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
