@@ -20,7 +20,7 @@
     "price": [
       {
         "value": "1,149.99TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-grid-item__price__new",
         "attribute": "innerText",
         "numericValue": 1149.99,
         "unsetPrice": false
@@ -36,12 +36,12 @@
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-grid-item__price__new"
       ]
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-18T05:50:18.006Z",
+    "timestamp": "2025-08-18T06:55:55.034Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -69,7 +69,7 @@
     "price": [
       {
         "value": "1,799.99TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-grid-item__price__new",
         "attribute": "innerText",
         "numericValue": 1799.99,
         "unsetPrice": false
@@ -85,12 +85,12 @@
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-grid-item__price__new"
       ]
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-18T05:50:18.008Z",
+    "timestamp": "2025-08-18T06:55:55.035Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -118,7 +118,7 @@
     "price": [
       {
         "value": "749.99TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-grid-item__price__new",
         "attribute": "innerText",
         "numericValue": 749.99,
         "unsetPrice": false
@@ -134,12 +134,12 @@
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-grid-item__price__new"
       ]
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-18T05:50:18.009Z",
+    "timestamp": "2025-08-18T06:55:55.036Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -167,7 +167,7 @@
     "price": [
       {
         "value": "1,999.99TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-grid-item__price__new",
         "attribute": "innerText",
         "numericValue": 1999.99,
         "unsetPrice": false
@@ -183,12 +183,12 @@
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-grid-item__price__new"
       ]
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-18T05:50:18.011Z",
+    "timestamp": "2025-08-18T06:55:55.037Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -216,7 +216,7 @@
     "price": [
       {
         "value": "2,699.99TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-grid-item__price__new",
         "attribute": "innerText",
         "numericValue": 2699.99,
         "unsetPrice": false
@@ -232,12 +232,12 @@
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product-grid-item__price__new"
       ]
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-18T05:50:18.012Z",
+    "timestamp": "2025-08-18T06:55:55.038Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
