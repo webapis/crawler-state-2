@@ -1,5 +1,6 @@
 [
   {
+    "title": null,
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-c-aksesuar-478e-8.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-c-aksesuar--988b-.jpg",
@@ -11,21 +12,21 @@
     "price": [
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "<span class=\"regularPriceSpan\">\n                                                    \n                                                </span>\n                                                <span class=\"regularKdv\">\n                                                    KDV Dahil\n                                                </span>",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerHTML",
         "numericValue": 0,
         "unsetPrice": true
@@ -41,12 +42,15 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-18T05:38:09.242Z",
+    "timestamp": "2025-08-18T06:23:27.132Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
@@ -54,6 +58,7 @@
     "priceValid": false
   },
   {
+    "title": null,
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-o-aksesuar-2f68-2.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-o-aksesuar--841b-.jpg",
@@ -65,21 +70,21 @@
     "price": [
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "<span class=\"regularPriceSpan\">\n                                                    \n                                                </span>\n                                                <span class=\"regularKdv\">\n                                                    KDV Dahil\n                                                </span>",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerHTML",
         "numericValue": 0,
         "unsetPrice": true
@@ -95,12 +100,15 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-18T05:38:09.243Z",
+    "timestamp": "2025-08-18T06:23:27.133Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
@@ -108,6 +116,7 @@
     "priceValid": false
   },
   {
+    "title": null,
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-t-aksesuar-8df1-2.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-t-aksesuar-e-f93c.jpg",
@@ -119,21 +128,21 @@
     "price": [
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "<span class=\"regularPriceSpan\">\n                                                    \n                                                </span>\n                                                <span class=\"regularKdv\">\n                                                    KDV Dahil\n                                                </span>",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerHTML",
         "numericValue": 0,
         "unsetPrice": true
@@ -149,12 +158,15 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-18T05:38:09.244Z",
+    "timestamp": "2025-08-18T06:23:27.134Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
@@ -162,6 +174,7 @@
     "priceValid": false
   },
   {
+    "title": null,
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-w-aksesuar-1f9a03.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-w-aksesuar-f4-b49.jpg",
@@ -173,21 +186,21 @@
     "price": [
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "<span class=\"regularPriceSpan\">\n                                                    \n                                                </span>\n                                                <span class=\"regularKdv\">\n                                                    KDV Dahil\n                                                </span>",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerHTML",
         "numericValue": 0,
         "unsetPrice": true
@@ -203,12 +216,15 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-18T05:38:09.245Z",
+    "timestamp": "2025-08-18T06:23:27.135Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
@@ -216,6 +232,7 @@
     "priceValid": false
   },
   {
+    "title": null,
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-v-aksesuar-4f1c-6.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/Uploads/UrunResimleri/gold-v-aksesuar-2-1f63.jpg",
@@ -227,21 +244,21 @@
     "price": [
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 199.9,
         "unsetPrice": false
       },
       {
         "value": "<span class=\"regularPriceSpan\">\n                                                    \n                                                </span>\n                                                <span class=\"regularKdv\">\n                                                    KDV Dahil\n                                                </span>",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerHTML",
         "numericValue": 0,
         "unsetPrice": true
@@ -257,12 +274,15 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-18T05:38:09.246Z",
+    "timestamp": "2025-08-18T06:23:27.135Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
