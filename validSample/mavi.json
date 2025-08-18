@@ -39,12 +39,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-18T06:59:19.232Z",
+    "timestamp": "2025-08-18T09:30:51.696Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Renkli Hasır Omuz Çantası",
@@ -86,21 +88,64 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-18T06:59:19.233Z",
+    "timestamp": "2025-08-18T09:30:51.697Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
-    "title": "Lacivert Sırt Çantası",
+    "title": "Zebra Desenli Çanta",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1911686-83097_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1913508-20933_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911686-83097_image_1.jpg",
-    "link": "https://www.mavi.com/lacivert-sirt-cantasi/p/1911686-83097",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913508-20933_image_1.jpg",
+    "link": "https://www.mavi.com/zebra-desenli-canta/p/1913508-20933",
+    "price": [
+      {
+        "value": "1.699,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "numericValue": 1699.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-pricing .price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-08-18T09:30:51.698Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kahverengi Çapraz Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1913487-29871_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913487-29871_image_1.jpg",
+    "link": "https://www.mavi.com/kahverengi-capraz-canta/p/1913487-29871",
     "price": [
       {
         "value": "999,99 TL",
@@ -125,27 +170,29 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-18T06:59:19.234Z",
+    "timestamp": "2025-08-18T09:30:51.698Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
-    "title": "Bej Spor Çantası",
+    "title": "Bej Tote Çanta",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1911665-70185_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1912081-32322_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911665-70185_image_1.jpg",
-    "link": "https://www.mavi.com/bej-spor-cantasi/p/1911665-70185",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912081-32322_image_1.jpg",
+    "link": "https://www.mavi.com/bej-tote-canta/p/1912081-32322",
     "price": [
       {
-        "value": "1.499,99 TL",
+        "value": "1.299,99 TL",
         "selector": ".product-pricing .price",
         "attribute": "innerText",
-        "numericValue": 1499.99,
+        "numericValue": 1299.99,
         "unsetPrice": false
       }
     ],
@@ -164,50 +211,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-18T06:59:19.235Z",
+    "timestamp": "2025-08-18T09:30:51.699Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Lacivert Çanta",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913496-30717_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913496-30717_image_1.jpg",
-    "link": "https://www.mavi.com/lacivert-canta/p/1913496-30717",
-    "price": [
-      {
-        "value": "1.499,99 TL",
-        "selector": ".product-pricing .price",
-        "attribute": "innerText",
-        "numericValue": 1499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "matchedProductItemSelectorManual": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing .price"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-18T06:59:19.236Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
