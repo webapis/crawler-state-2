@@ -30,12 +30,14 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=11",
-    "timestamp": "2025-08-18T06:49:25.811Z",
+    "timestamp": "2025-08-18T09:18:01.063Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Matraş Erkek Deri Evrak Çantası Taba 0EE-1020",
@@ -68,12 +70,14 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=12",
-    "timestamp": "2025-08-18T06:49:28.723Z",
+    "timestamp": "2025-08-18T09:18:01.538Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Matraş Erkek Deri Evrak Çantası Siyah 0EE-1020",
@@ -106,12 +110,14 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=12",
-    "timestamp": "2025-08-18T06:49:28.724Z",
+    "timestamp": "2025-08-18T09:18:01.539Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Matraş Kadın Askılı El ve Omuz Çantası  Nar Çiçeği 9BB-1083",
@@ -124,7 +130,7 @@
       {
         "value": "4.100,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "innerHTML",
         "numericValue": 4100,
         "unsetPrice": false
       }
@@ -144,11 +150,13 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri?page=19",
-    "timestamp": "2025-08-18T06:49:35.593Z",
+    "timestamp": "2025-08-18T09:18:10.285Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
