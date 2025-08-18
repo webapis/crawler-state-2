@@ -18,65 +18,16 @@
       },
       {
         "value": "1.430,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1430,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.430,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1430,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.430,00",
-        "selector": "span.product-price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 1430,
         "unsetPrice": false
       },
       {
         "value": "1.790,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 1790,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.430,00",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1430,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.790,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1790,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.430,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1430,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.790,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1790,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.430,00",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1430,
         "unsetPrice": false
       }
     ],
@@ -91,12 +42,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-18T05:53:19.155Z",
+    "timestamp": "2025-08-18T07:01:24.587Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,42 +74,7 @@
       },
       {
         "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90",
-        "selector": "span.product-price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 5499.9,
         "unsetPrice": false
@@ -174,12 +91,12 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price"
       ]
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-18T05:53:19.156Z",
+    "timestamp": "2025-08-18T07:01:24.588Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -205,65 +122,16 @@
       },
       {
         "value": "2.750,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2750,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.750,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2750,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.750,00",
-        "selector": "span.product-price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 2750,
         "unsetPrice": false
       },
       {
         "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.750,00",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2750,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.750,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2750,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.499,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.750,00",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2750,
         "unsetPrice": false
       }
     ],
@@ -278,12 +146,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-18T05:53:19.158Z",
+    "timestamp": "2025-08-18T07:01:24.589Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -309,42 +178,7 @@
       },
       {
         "value": "5.999,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.999,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.999,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.999,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.999,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.999,90",
-        "selector": "span.product-price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 5999.9,
         "unsetPrice": false
@@ -361,12 +195,12 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price"
       ]
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-18T05:53:19.159Z",
+    "timestamp": "2025-08-18T07:01:24.589Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -392,42 +226,7 @@
       },
       {
         "value": "5.199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5199.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5199.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.199,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5199.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.199,90",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 5199.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.199,90 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 5199.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.199,90",
-        "selector": "span.product-price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 5199.9,
         "unsetPrice": false
@@ -444,12 +243,12 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price"
       ]
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-18T05:53:19.161Z",
+    "timestamp": "2025-08-18T07:01:24.590Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
