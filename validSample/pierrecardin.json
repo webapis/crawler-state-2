@@ -12,14 +12,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.289,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price",
         "attribute": "innerText",
         "numericValue": 1289.4,
         "unsetPrice": false
       },
       {
         "value": "1.289,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
         "numericValue": 1289.4,
         "unsetPrice": false
@@ -35,12 +35,13 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T05:48:08.711Z",
+    "timestamp": "2025-08-18T06:53:13.410Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,14 +61,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 899,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price",
         "attribute": "innerText",
         "numericValue": 899.4,
         "unsetPrice": false
       },
       {
         "value": "899,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
         "numericValue": 899.4,
         "unsetPrice": false
@@ -83,12 +84,13 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T05:48:08.712Z",
+    "timestamp": "2025-08-18T06:53:13.411Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,14 +110,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
       },
       {
         "value": "1.259,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -131,12 +133,13 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T05:48:08.713Z",
+    "timestamp": "2025-08-18T06:53:13.412Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -156,14 +159,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
       },
       {
         "value": "1.259,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -179,12 +182,13 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T05:48:08.714Z",
+    "timestamp": "2025-08-18T06:53:13.413Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -204,14 +208,14 @@
     "price": [
       {
         "value": "Sepetteki Fiyatı 1.559,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price",
         "attribute": "innerText",
         "numericValue": 1559.4,
         "unsetPrice": false
       },
       {
         "value": "1.559,40 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__listing--basket-price span",
         "attribute": "innerText",
         "numericValue": 1559.4,
         "unsetPrice": false
@@ -227,12 +231,13 @@
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__listing--basket-price",
+        ".product__listing--basket-price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-18T05:48:08.715Z",
+    "timestamp": "2025-08-18T06:53:13.413Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
