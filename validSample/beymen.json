@@ -1,55 +1,5 @@
 [
   {
-    "title": "Large Leopar Desenli Kadın Tote Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/gjb5b2r3.3a2_IMG_01_2110100125942.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/gjb5b2r3.3a2_IMG_01_2110100125942.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/gjb5b2r3.3a2_IMG_01_2110100125942.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/4otu1fvb.vld_IMG_02_2110100125942.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/vxriy2p3.5aa_IMG_03_2110100125942.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/i3jri1wc.g5d_IMG_04_2110100125942.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/gjb5b2r3.3a2_IMG_01_2110100125942.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/gjb5b2r3.3a2_IMG_01_2110100125942.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_marc-jacobs-large-leopar-desenli-kadin-tote-canta_1655862",
-    "price": [
-      {
-        "value": "10.495 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 10495,
-        "unsetPrice": false
-      },
-      {
-        "value": "17.250 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 17250,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ]
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-18T05:42:54.728Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
     "title": "The Turnlock Ekru Kadın Deri Çanta",
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/g4wimawn.fyv_IMG_01_2110100124006.jpg",
@@ -64,14 +14,14 @@
     "price": [
       {
         "value": "24.795 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__newPrice",
         "attribute": "innerText",
         "numericValue": 24795,
         "unsetPrice": false
       },
       {
         "value": "31.950 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__oldPrice",
         "attribute": "innerText",
         "numericValue": 31950,
         "unsetPrice": false
@@ -87,12 +37,13 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".m-productCard__newPrice",
+        ".m-productCard__oldPrice"
       ]
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-18T05:42:54.729Z",
+    "timestamp": "2025-08-18T06:47:48.033Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,7 +65,7 @@
     "price": [
       {
         "value": "41.450 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__newPrice",
         "attribute": "innerText",
         "numericValue": 41450,
         "unsetPrice": false
@@ -130,12 +81,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".m-productCard__newPrice"
       ]
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-18T05:42:54.730Z",
+    "timestamp": "2025-08-18T06:47:48.035Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -157,14 +108,14 @@
     "price": [
       {
         "value": "11.495 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__newPrice",
         "attribute": "innerText",
         "numericValue": 11495,
         "unsetPrice": false
       },
       {
         "value": "17.250 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__oldPrice",
         "attribute": "innerText",
         "numericValue": 17250,
         "unsetPrice": false
@@ -180,12 +131,13 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".m-productCard__newPrice",
+        ".m-productCard__oldPrice"
       ]
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-18T05:42:54.731Z",
+    "timestamp": "2025-08-18T06:47:48.035Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -207,7 +159,7 @@
     "price": [
       {
         "value": "21.450 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".m-productCard__newPrice",
         "attribute": "innerText",
         "numericValue": 21450,
         "unsetPrice": false
@@ -223,12 +175,55 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".m-productCard__newPrice"
       ]
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-18T05:42:54.732Z",
+    "timestamp": "2025-08-18T06:47:48.036Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Tabby Vizon Kadın Deri Omuz Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/av4qfu45.hqp_IMG_01_2110100906718.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/av4qfu45.hqp_IMG_01_2110100906718.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/av4qfu45.hqp_IMG_01_2110100906718.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/t4dqkld3.1k0_IMG_02_2110100906718.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/32tfujdq.vqj_IMG_03_2110100906718.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ucga1dhi.wro_IMG_04_2110100906718.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/av4qfu45.hqp_IMG_01_2110100906718.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/av4qfu45.hqp_IMG_01_2110100906718.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_coach-tabby-vizon-kadin-deri-omuz-cantasi_1679137",
+    "price": [
+      {
+        "value": "30.450 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "innerText",
+        "numericValue": 30450,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "matchedProductItemSelectorManual": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".m-productCard__newPrice"
+      ]
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-18T06:47:48.037Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
