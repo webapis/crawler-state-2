@@ -10,14 +10,14 @@
     "price": [
       {
         "value": "₺ 499.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 499.99,
         "unsetPrice": false
       },
       {
         "value": "₺ 919.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 919.99,
         "unsetPrice": false
@@ -33,12 +33,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Çapraz Çanta",
     "pageURL": "https://zunastudio.co/capraz-canta",
-    "timestamp": "2025-08-18T05:54:21.699Z",
+    "timestamp": "2025-08-18T07:02:13.988Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,14 +57,14 @@
     "price": [
       {
         "value": "₺ 499.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 499.99,
         "unsetPrice": false
       },
       {
         "value": "₺ 919.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 919.99,
         "unsetPrice": false
@@ -79,12 +80,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Çapraz Çanta",
     "pageURL": "https://zunastudio.co/capraz-canta",
-    "timestamp": "2025-08-18T05:54:21.700Z",
+    "timestamp": "2025-08-18T07:02:13.989Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,14 +104,14 @@
     "price": [
       {
         "value": "₺ 559.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
       },
       {
         "value": "₺ 939.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 939.99,
         "unsetPrice": false
@@ -125,12 +127,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Çapraz Çanta",
     "pageURL": "https://zunastudio.co/capraz-canta",
-    "timestamp": "2025-08-18T05:54:21.701Z",
+    "timestamp": "2025-08-18T07:02:13.990Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -148,14 +151,14 @@
     "price": [
       {
         "value": "₺ 559.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
       },
       {
         "value": "₺ 939.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 939.99,
         "unsetPrice": false
@@ -171,12 +174,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Çapraz Çanta",
     "pageURL": "https://zunastudio.co/capraz-canta",
-    "timestamp": "2025-08-18T05:54:21.703Z",
+    "timestamp": "2025-08-18T07:02:13.991Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -194,14 +198,14 @@
     "price": [
       {
         "value": "₺ 559.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
       },
       {
         "value": "₺ 939.99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discount-price span:nth-child(1)",
         "attribute": "innerText",
         "numericValue": 939.99,
         "unsetPrice": false
@@ -217,12 +221,13 @@
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discount-price span:nth-child(2)",
+        ".discount-price span:nth-child(1)"
       ]
     },
     "pageTitle": "Çapraz Çanta",
     "pageURL": "https://zunastudio.co/capraz-canta",
-    "timestamp": "2025-08-18T05:54:21.704Z",
+    "timestamp": "2025-08-18T07:02:13.991Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
