@@ -33,12 +33,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-18T06:46:45.283Z",
+    "timestamp": "2025-08-18T09:14:55.410Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Kadın Bej Çanta",
@@ -74,12 +76,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-18T06:46:45.284Z",
+    "timestamp": "2025-08-18T09:14:55.411Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Kadın Bordo Çanta",
@@ -115,12 +119,14 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-18T06:46:45.285Z",
+    "timestamp": "2025-08-18T09:14:55.412Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Kadın Ekru Çanta",
@@ -156,29 +162,31 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-18T06:46:45.286Z",
+    "timestamp": "2025-08-18T09:14:55.413Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   },
   {
     "title": "Kadın Siyah Çanta",
     "img": [
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289073_0.jpeg?v=1753985202",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289074_0.jpeg?v=1748445966",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289075_0.jpeg?v=1748445970",
-      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289076_0.jpeg?v=1748445975"
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/290467_0.jpeg?v=1750928965",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/290468_0.jpeg?v=1750928974",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/290469_0.jpeg?v=1750928979",
+      "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/290470_0.jpeg?v=1750928983"
     ],
-    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/289073_0.jpeg?v=1753985202",
-    "link": "https://www.colins.com.tr/p/kadin-siyah-canta-47148",
+    "primaryImg": "https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/290467_0.jpeg?v=1750928965",
+    "link": "https://www.colins.com.tr/p/kadin-siyah-canta-47145",
     "price": [
       {
-        "value": "1499,90 TL",
+        "value": "999,90 TL",
         "selector": "span.product-price",
         "attribute": "innerText",
-        "numericValue": 1499.9,
+        "numericValue": 999.9,
         "unsetPrice": false
       }
     ],
@@ -197,11 +205,13 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Colin's",
     "pageURL": "https://www.colins.com.tr/c/kadin-canta-159",
-    "timestamp": "2025-08-18T06:46:45.287Z",
+    "timestamp": "2025-08-18T09:14:55.414Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
