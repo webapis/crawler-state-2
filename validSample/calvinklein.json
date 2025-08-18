@@ -14,7 +14,7 @@
     "price": [
       {
         "value": "5.849,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 5849,
         "unsetPrice": false
@@ -30,12 +30,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-18T05:53:08.116Z",
+    "timestamp": "2025-08-18T07:00:37.765Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -57,7 +57,7 @@
     "price": [
       {
         "value": "3.599,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 3599,
         "unsetPrice": false
@@ -73,12 +73,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-18T05:53:08.117Z",
+    "timestamp": "2025-08-18T07:00:37.766Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -100,7 +100,7 @@
     "price": [
       {
         "value": "4.499,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 4499,
         "unsetPrice": false
@@ -116,12 +116,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-18T05:53:08.118Z",
+    "timestamp": "2025-08-18T07:00:37.767Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -143,7 +143,7 @@
     "price": [
       {
         "value": "5.849,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 5849,
         "unsetPrice": false
@@ -159,12 +159,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-18T05:53:08.119Z",
+    "timestamp": "2025-08-18T07:00:37.767Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -186,7 +186,7 @@
     "price": [
       {
         "value": "5.849,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 5849,
         "unsetPrice": false
@@ -202,12 +202,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-18T05:53:08.120Z",
+    "timestamp": "2025-08-18T07:00:37.768Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
