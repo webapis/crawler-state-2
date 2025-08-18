@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "4.997,50 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
         "attribute": "innerText",
         "numericValue": 4997.5,
         "unsetPrice": false
@@ -26,12 +26,12 @@
       "imgSelectorMatched": ".lazy-load-image-background img.w-full",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-canta-c",
-    "timestamp": "2025-08-18T05:41:55.326Z",
+    "timestamp": "2025-08-18T06:46:20.646Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "price": [
       {
         "value": "5.997,50 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
         "attribute": "innerText",
         "numericValue": 5997.5,
         "unsetPrice": false
@@ -65,12 +65,12 @@
       "imgSelectorMatched": ".lazy-load-image-background img.w-full",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "div.flex.flex-wrap.items-center.gap-2 span.text-primary"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Brooks Brothers",
     "pageURL": "https://www.brooksbrothers.com.tr/kadin-canta-c",
-    "timestamp": "2025-08-18T05:41:55.327Z",
+    "timestamp": "2025-08-18T06:46:20.647Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
