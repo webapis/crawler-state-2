@@ -9,28 +9,28 @@
     "price": [
       {
         "value": "250.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "250.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -40,18 +40,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.ilvi.com/kadin/canta",
-    "timestamp": "2025-08-18T05:42:24.781Z",
+    "timestamp": "2025-08-18T06:47:06.784Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -68,28 +71,28 @@
     "price": [
       {
         "value": "250.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "250.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 8375,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -99,18 +102,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.ilvi.com/kadin/canta",
-    "timestamp": "2025-08-18T05:42:24.783Z",
+    "timestamp": "2025-08-18T06:47:06.785Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -127,28 +133,28 @@
     "price": [
       {
         "value": "225.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
         "value": "225.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -158,18 +164,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.ilvi.com/kadin/canta",
-    "timestamp": "2025-08-18T05:42:24.784Z",
+    "timestamp": "2025-08-18T06:47:06.786Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -186,28 +195,28 @@
     "price": [
       {
         "value": "225.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
       },
       {
         "value": "225.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 7537.5,
         "unsetPrice": false
       },
       {
         "value": "238.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 7973,
         "unsetPrice": false
@@ -217,18 +226,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.ilvi.com/kadin/canta",
-    "timestamp": "2025-08-18T05:42:24.785Z",
+    "timestamp": "2025-08-18T06:47:06.786Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -245,14 +257,14 @@
     "price": [
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
       },
       {
         "value": "275.00$",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 9212.5,
         "unsetPrice": false
@@ -262,18 +274,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.ilvi.com/kadin/canta",
-    "timestamp": "2025-08-18T05:42:24.786Z",
+    "timestamp": "2025-08-18T06:47:06.787Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
