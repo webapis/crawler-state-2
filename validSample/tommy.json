@@ -14,7 +14,7 @@
     "price": [
       {
         "value": "3.599,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 3599,
         "unsetPrice": false
@@ -30,12 +30,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-18T05:49:49.961Z",
+    "timestamp": "2025-08-18T06:55:12.792Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -57,7 +57,7 @@
     "price": [
       {
         "value": "5.849,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".old-price",
         "attribute": "innerText",
         "numericValue": 5849,
         "unsetPrice": false
@@ -73,12 +73,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".old-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-18T05:49:49.962Z",
+    "timestamp": "2025-08-18T06:55:12.793Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,7 +97,7 @@
     "price": [
       {
         "value": "7.199,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 7199,
         "unsetPrice": false
@@ -113,12 +113,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-18T05:49:49.963Z",
+    "timestamp": "2025-08-18T06:55:12.794Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -140,7 +140,7 @@
     "price": [
       {
         "value": "4.499,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
         "numericValue": 4499,
         "unsetPrice": false
@@ -156,12 +156,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-18T05:49:49.964Z",
+    "timestamp": "2025-08-18T06:55:12.795Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,23 +169,23 @@
     "priceValid": true
   },
   {
-    "title": "Unisex TH Summer Tote Çanta",
+    "title": "Kadın TH Jacquard Satchel Çanta",
     "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463074141263.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463074141263.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463074141263.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463075859987.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463075859987.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463075859987.webp"
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463211328993.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463211328993.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463211328993.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463213047747.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463213047747.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463213047747.webp"
     ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463074141263.webp",
-    "link": "https://tr.tommy.com/unisex-th-summer-tote-canta_201041",
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463211328993.webp",
+    "link": "https://tr.tommy.com/kadin-th-jacquard-satchel-canta_201044",
     "price": [
       {
-        "value": "5.849,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "7.199,00 TL",
+        "selector": ".p-price .one-price",
         "attribute": "innerText",
-        "numericValue": 5849,
+        "numericValue": 7199,
         "unsetPrice": false
       }
     ],
@@ -199,12 +199,12 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".p-price .one-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-18T05:49:49.965Z",
+    "timestamp": "2025-08-18T06:55:12.796Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
