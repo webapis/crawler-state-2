@@ -9,21 +9,21 @@
     "price": [
       {
         "value": "$304.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 10184,
         "unsetPrice": false
       },
       {
         "value": "152,00 $",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice  .lastprice",
         "attribute": "innerText",
         "numericValue": 5092,
         "unsetPrice": false
       },
       {
         "value": "$304.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 10184,
         "unsetPrice": false
@@ -33,18 +33,20 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.589Z",
+    "timestamp": "2025-08-18T06:45:37.237Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -61,21 +63,21 @@
     "price": [
       {
         "value": "$384.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 12864,
         "unsetPrice": false
       },
       {
         "value": "192,00 $",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice  .lastprice",
         "attribute": "innerText",
         "numericValue": 6432,
         "unsetPrice": false
       },
       {
         "value": "$384.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 12864,
         "unsetPrice": false
@@ -85,18 +87,20 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.590Z",
+    "timestamp": "2025-08-18T06:45:37.238Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -113,21 +117,21 @@
     "price": [
       {
         "value": "$208.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 6968,
         "unsetPrice": false
       },
       {
         "value": "104,00 $",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice  .lastprice",
         "attribute": "innerText",
         "numericValue": 3484,
         "unsetPrice": false
       },
       {
         "value": "$208.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 6968,
         "unsetPrice": false
@@ -137,18 +141,20 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.591Z",
+    "timestamp": "2025-08-18T06:45:37.239Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,21 +171,21 @@
     "price": [
       {
         "value": "$240.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 8040,
         "unsetPrice": false
       },
       {
         "value": "120,00 $",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice  .lastprice",
         "attribute": "innerText",
         "numericValue": 4020,
         "unsetPrice": false
       },
       {
         "value": "$240.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 8040,
         "unsetPrice": false
@@ -189,18 +195,20 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.592Z",
+    "timestamp": "2025-08-18T06:45:37.240Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -217,21 +225,21 @@
     "price": [
       {
         "value": "$384.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 12864,
         "unsetPrice": false
       },
       {
         "value": "192,00 $",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice  .lastprice",
         "attribute": "innerText",
         "numericValue": 6432,
         "unsetPrice": false
       },
       {
         "value": "$384.00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 12864,
         "unsetPrice": false
@@ -241,18 +249,20 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".productPrice  .lastprice",
+        ".productPrice .discountPrice"
       ]
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.593Z",
+    "timestamp": "2025-08-18T06:45:37.241Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
