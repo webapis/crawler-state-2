@@ -33,14 +33,7 @@
     "price": [
       {
         "value": "3.599,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 3599,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.599,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.-actual.h4",
         "attribute": "innerText",
         "numericValue": 3599,
         "unsetPrice": false
@@ -56,12 +49,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__price.-actual.h4"
       ]
     },
     "pageTitle": "Kadın Çanta Renk ve Modelleri | Divarese",
     "pageURL": "https://www.divarese.com.tr/canta-155",
-    "timestamp": "2025-08-18T05:38:08.021Z",
+    "timestamp": "2025-08-18T06:42:38.738Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,14 +95,7 @@
     "price": [
       {
         "value": "2.799,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2799,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.799,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.-actual.h4",
         "attribute": "innerText",
         "numericValue": 2799,
         "unsetPrice": false
@@ -125,12 +111,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__price.-actual.h4"
       ]
     },
     "pageTitle": "Kadın Çanta Renk ve Modelleri | Divarese",
     "pageURL": "https://www.divarese.com.tr/canta-155",
-    "timestamp": "2025-08-18T05:38:08.023Z",
+    "timestamp": "2025-08-18T06:42:38.739Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -171,14 +157,7 @@
     "price": [
       {
         "value": "2.399,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.-actual.h4",
         "attribute": "innerText",
         "numericValue": 2399,
         "unsetPrice": false
@@ -194,12 +173,12 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__price.-actual.h4"
       ]
     },
     "pageTitle": "Kadın Çanta Renk ve Modelleri | Divarese",
     "pageURL": "https://www.divarese.com.tr/canta-155",
-    "timestamp": "2025-08-18T05:38:08.024Z",
+    "timestamp": "2025-08-18T06:42:38.740Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -248,21 +227,14 @@
     "price": [
       {
         "value": "2.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2999,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.-actual.h4",
         "attribute": "innerText",
         "numericValue": 2999,
         "unsetPrice": false
       },
       {
         "value": "2.399,60 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__campaignFeaturedArea.-seperated",
         "attribute": "innerText",
         "numericValue": 2399.6,
         "unsetPrice": false
@@ -278,12 +250,13 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__price.-actual.h4",
+        ".product__campaignFeaturedArea.-seperated"
       ]
     },
     "pageTitle": "Kadın Çanta Renk ve Modelleri | Divarese",
     "pageURL": "https://www.divarese.com.tr/canta-155",
-    "timestamp": "2025-08-18T05:38:08.026Z",
+    "timestamp": "2025-08-18T06:42:38.742Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -324,37 +297,23 @@
     "price": [
       {
         "value": "6.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.-actual.h4",
         "attribute": "innerText",
         "numericValue": 6999,
         "unsetPrice": false
       },
       {
         "value": "9.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__price.h5.-label.-old.-size",
         "attribute": "innerText",
         "numericValue": 9999,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 6999,
         "unsetPrice": false
       },
       {
         "value": "3.999,60 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product__campaignFeaturedArea.-seperated",
         "attribute": "innerText",
         "numericValue": 3999.6,
-        "unsetPrice": false
-      },
-      {
-        "value": "9.999,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 9999,
         "unsetPrice": false
       }
     ],
@@ -368,12 +327,14 @@
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".product__price.-actual.h4",
+        ".product__price.h5.-label.-old.-size",
+        ".product__campaignFeaturedArea.-seperated"
       ]
     },
     "pageTitle": "Kadın Çanta Renk ve Modelleri | Divarese",
     "pageURL": "https://www.divarese.com.tr/canta-155",
-    "timestamp": "2025-08-18T05:38:08.027Z",
+    "timestamp": "2025-08-18T06:42:38.743Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
