@@ -11,7 +11,7 @@
     "price": [
       {
         "value": "949,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 949.99,
         "unsetPrice": false
@@ -27,12 +27,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:38:09.952Z",
+    "timestamp": "2025-08-18T06:08:54.802Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -51,7 +51,7 @@
     "price": [
       {
         "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -67,12 +67,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:38:09.953Z",
+    "timestamp": "2025-08-18T06:08:54.803Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,7 +91,7 @@
     "price": [
       {
         "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -107,12 +107,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:38:09.954Z",
+    "timestamp": "2025-08-18T06:08:54.804Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,7 +131,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -147,12 +147,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:38:09.955Z",
+    "timestamp": "2025-08-18T06:08:54.805Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,7 +172,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -188,12 +188,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-08-18T05:38:09.957Z",
+    "timestamp": "2025-08-18T06:08:54.806Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
