@@ -33,60 +33,6 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
-    },
-    "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:29:56.599Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "ERKEK LOGO DETAYLI 3'LÜ ÇORAP PAKETİ",
-    "img": [
-      "https://images.jackjones.com.tr/12280171/4788465/003/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788465/003/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788465/003/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12280171/4788465/004/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788465/004/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788465/004/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12280171/4788465/001/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788465/001/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788465/001/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12280171/4788465/002/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788465/002/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788465/002/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=640&quality=80&key=10-0-3",
-      "https://images.jackjones.com.tr/12280171/4788465/005/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788465/005/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788465/005/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=640&quality=80&key=10-0-3"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12280171/4788465/003/jackjones-jaclucashorttennissocks3packnoos-white.png?v=8127e17f3c9a1cd28bed9f5302bcd898&format=webp&width=480&quality=80&key=10-0-1",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12280171_2206_1196088/%C3%A7oraplar",
-    "price": [
-      {
-        "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 270,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-tile-info__link)",
       "matchedSelector": "article.product-tile-core",
       "matchedProductItemSelectorManual": "article.product-tile-core",
       "titleSelectorMatched": ".product-tile-info__title",
@@ -94,55 +40,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
+      ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:29:56.600Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "ERKEK LOGO DETAYLI 3'LÜ ÇORAP PAKETİ",
-    "img": [
-      "https://images.jackjones.com.tr/12280171/4788467/003/jackjones-jaclucashorttennissocks3packnoos-black.png?v=50d3b0ebec9ee0685b52f4e14a589eda&format=webp&width=480&quality=80&key=10-0-1",
-      "https://images.jackjones.com.tr/12280171/4788467/003/jackjones-jaclucashorttennissocks3packnoos-black.png?v=50d3b0ebec9ee0685b52f4e14a589eda&format=webp&width=512&quality=80&key=10-0-2",
-      "https://images.jackjones.com.tr/12280171/4788467/003/jackjones-jaclucashorttennissocks3packnoos-black.png?v=50d3b0ebec9ee0685b52f4e14a589eda&format=webp&width=640&quality=80&key=10-0-3"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12280171/4788467/003/jackjones-jaclucashorttennissocks3packnoos-black.png?v=50d3b0ebec9ee0685b52f4e14a589eda&format=webp&width=480&quality=80&key=10-0-1",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12280171_2161_1196090/%C3%A7oraplar",
-    "price": [
-      {
-        "value": "270,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 270,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
-    },
-    "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:29:56.601Z",
+    "timestamp": "2025-08-18T05:46:20.169Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -178,13 +80,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
+      ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:29:56.602Z",
+    "timestamp": "2025-08-18T05:46:20.170Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -213,20 +113,98 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-tile-info__link)",
-      "matchedSelector": "article.product-tile__plp",
-      "matchedProductItemSelectorManual": "article.product-tile__plp",
+      "matchedSelector": "article.product-tile-core",
+      "matchedProductItemSelectorManual": "article.product-tile-core",
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": "div.grid"
+      ]
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-18T05:29:56.603Z",
+    "timestamp": "2025-08-18T05:46:20.170Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "LOGOLU 3'LÜ PAKET ÇORAP - TRAVİS",
+    "img": [
+      "https://images.jackjones.com.tr/12260082/4540124/003/jackjones-jactravistennissock3packnoos-white.png?v=e474c881aded59a6faf117810b30db1c&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12260082/4540124/003/jackjones-jactravistennissock3packnoos-white.png?v=e474c881aded59a6faf117810b30db1c&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12260082/4540124/003/jackjones-jactravistennissock3packnoos-white.png?v=e474c881aded59a6faf117810b30db1c&format=webp&width=640&quality=80&key=10-0-3"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12260082/4540124/003/jackjones-jactravistennissock3packnoos-white.png?v=e474c881aded59a6faf117810b30db1c&format=webp&width=480&quality=80&key=10-0-1",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12260082_2206_1123265/%C3%A7oraplar",
+    "price": [
+      {
+        "value": "270,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 270,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
+      "matchedSelector": "article.product-tile-core",
+      "matchedProductItemSelectorManual": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
+    "timestamp": "2025-08-18T05:46:20.171Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "ERKEK 3'LÜ ÇORAP PAKETİ - LEON",
+    "img": [
+      "https://images.jackjones.com.tr/12257150/4501178/003/jackjones-jacleonshorttennissocks3packsn-black.png?v=edd79f8a2fc40e4aad76d1bb79b74d90&format=webp&width=480&quality=80&key=10-0-1",
+      "https://images.jackjones.com.tr/12257150/4501178/003/jackjones-jacleonshorttennissocks3packsn-black.png?v=edd79f8a2fc40e4aad76d1bb79b74d90&format=webp&width=512&quality=80&key=10-0-2",
+      "https://images.jackjones.com.tr/12257150/4501178/003/jackjones-jacleonshorttennissocks3packsn-black.png?v=edd79f8a2fc40e4aad76d1bb79b74d90&format=webp&width=640&quality=80&key=10-0-3"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12257150/4501178/003/jackjones-jacleonshorttennissocks3packsn-black.png?v=edd79f8a2fc40e4aad76d1bb79b74d90&format=webp&width=480&quality=80&key=10-0-1",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12257150_2161_1110602/%C3%A7oraplar",
+    "price": [
+      {
+        "value": "250,00 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-tile-info__link)",
+      "matchedSelector": "article.product-tile-core",
+      "matchedProductItemSelectorManual": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
+    "timestamp": "2025-08-18T05:46:20.172Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
