@@ -12,7 +12,7 @@
     "price": [
       {
         "value": "1.199,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".PriceArea .PPrice",
         "attribute": "innerText",
         "numericValue": 1199.99,
         "unsetPrice": false
@@ -28,12 +28,12 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".PriceArea .PPrice"
       ]
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-18T05:39:00.862Z",
+    "timestamp": "2025-08-18T06:43:32.547Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -58,7 +58,7 @@
     "price": [
       {
         "value": "1.249,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".PriceArea .PPrice",
         "attribute": "innerText",
         "numericValue": 1249.99,
         "unsetPrice": false
@@ -74,12 +74,12 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".PriceArea .PPrice"
       ]
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-18T05:39:00.863Z",
+    "timestamp": "2025-08-18T06:43:32.548Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -101,7 +101,7 @@
     "price": [
       {
         "value": "1.099,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".PriceArea .PPrice",
         "attribute": "innerText",
         "numericValue": 1099.99,
         "unsetPrice": false
@@ -117,12 +117,12 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".PriceArea .PPrice"
       ]
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-18T05:39:00.864Z",
+    "timestamp": "2025-08-18T06:43:32.549Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -142,7 +142,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".PriceArea .PPrice",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -158,12 +158,12 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".PriceArea .PPrice"
       ]
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-18T05:39:00.865Z",
+    "timestamp": "2025-08-18T06:43:32.549Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,7 +183,7 @@
     "price": [
       {
         "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".PriceArea .PPrice",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -199,12 +199,12 @@
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".PriceArea .PPrice"
       ]
     },
     "pageTitle": "Kadın Aksesuar, Şapka, Kemer ve Çanta Modelleri | BSL",
     "pageURL": "https://www.bsl.com.tr/tr/aksesuar/",
-    "timestamp": "2025-08-18T05:39:00.866Z",
+    "timestamp": "2025-08-18T06:43:32.550Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
