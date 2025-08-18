@@ -29,52 +29,15 @@
         ".current-price"
       ]
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 14",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=14",
-    "timestamp": "2025-08-18T06:57:07.052Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Çok Bölmeli Kadın Sırt Çantası ASC001",
-    "img": [
-      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515",
-      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515"
-    ],
-    "primaryImg": "blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515 300w",
-    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-asc001-gri-o-3391470",
-    "price": [
-      {
-        "value": "499,90 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "numericValue": 499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .link.link__element)",
-      "matchedSelector": ".product-card",
-      "matchedProductItemSelectorManual": ".product-card",
-      "titleSelectorMatched": ".product-description.product-card-info__description",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
-    },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 15",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=15",
-    "timestamp": "2025-08-18T06:57:07.543Z",
+    "timestamp": "2025-08-18T09:27:42.269Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
   }
 ]
