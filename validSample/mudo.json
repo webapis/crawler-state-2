@@ -20,28 +20,14 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 799.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 999.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -57,12 +43,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-18T05:52:07.348Z",
+    "timestamp": "2025-08-18T07:00:10.304Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,28 +76,14 @@
     "price": [
       {
         "value": "699,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 699.99,
         "unsetPrice": false
       },
       {
         "value": "559,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 559.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "699,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 699.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "559,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 559.99,
         "unsetPrice": false
@@ -127,12 +99,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-18T05:52:07.350Z",
+    "timestamp": "2025-08-18T07:00:10.305Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -161,28 +133,14 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 799.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 999.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -198,12 +156,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-18T05:52:07.351Z",
+    "timestamp": "2025-08-18T07:00:10.306Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -232,28 +190,14 @@
     "price": [
       {
         "value": "1.299,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 1299,
         "unsetPrice": false
       },
       {
         "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 899.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.299,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1299,
-        "unsetPrice": false
-      },
-      {
-        "value": "899,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 899.99,
         "unsetPrice": false
@@ -269,12 +213,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-18T05:52:07.352Z",
+    "timestamp": "2025-08-18T07:00:10.307Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -303,28 +247,14 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
       },
       {
         "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 799.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 999.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "799,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "pz-price",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -340,12 +270,12 @@
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "pz-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-18T05:52:07.354Z",
+    "timestamp": "2025-08-18T07:00:10.308Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
