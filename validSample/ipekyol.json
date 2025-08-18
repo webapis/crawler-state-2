@@ -37,64 +37,6 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd",
-      "matchedProductItemSelectorManual": ".prd",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
-    },
-    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
-    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-18T05:29:18.840Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Artisan tote çanta",
-    "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052112082.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052112082_1.JPG",
-      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052112082_2.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052112082_3.JPG"
-    ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052112082.JPG",
-    "link": "https://www.ipekyol.com.tr/urun/ekru-artisan-tote-canta",
-    "price": [
-      {
-        "value": "2.099,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2099.7,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.799,60 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2799.6,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.799,60 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2799.6,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
       "matchedSelector": ".product-item",
       "matchedProductItemSelectorManual": ".product-item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
@@ -102,71 +44,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
+      ]
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-18T05:29:18.842Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true
-  },
-  {
-    "title": "Deri görünümlü kol çantası",
-    "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052012001.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052012001_1.jpg",
-      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052012001_3.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052012001_4.JPG"
-    ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052012001.JPG",
-    "link": "https://www.ipekyol.com.tr/urun/siyah-deri-gorunumlu-kol-cantasi",
-    "price": [
-      {
-        "value": "1.379,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1379.7,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.299,50 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2299.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.299,50 ₺",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2299.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd",
-      "matchedProductItemSelectorManual": ".prd",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
-    },
-    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
-    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-18T05:29:18.843Z",
+    "timestamp": "2025-08-18T05:39:53.568Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -218,13 +100,11 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
+      ]
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-18T05:29:18.844Z",
+    "timestamp": "2025-08-18T05:39:53.570Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -269,20 +149,130 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".prd",
-      "matchedProductItemSelectorManual": ".prd",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".prd-list .product-list-grid"
+      ]
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-18T05:29:18.845Z",
+    "timestamp": "2025-08-18T05:39:53.571Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Metal tokalı çapraz askılı çanta",
+    "img": [
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052122089.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052122089_1.JPG",
+      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052122089_3.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052122089_4.JPG"
+    ],
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052122089.JPG",
+    "link": "https://www.ipekyol.com.tr/urun/mavi-metal-tokali-capraz-askili-canta",
+    "price": [
+      {
+        "value": "1.199,70 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1199.7,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.599,60 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1599.6,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.599,60 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1599.6,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
+    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
+    "timestamp": "2025-08-18T05:39:53.573Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true
+  },
+  {
+    "title": "Kontrast askılı maksi çanta",
+    "img": [
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052104023.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052104023_1.jpg",
+      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052104023_3.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052104023_4.JPG"
+    ],
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/SS25/Stillife/IS1250052104023.JPG",
+    "link": "https://www.ipekyol.com.tr/urun/bej-kontrast-askili-maksi-canta",
+    "price": [
+      {
+        "value": "2.099,70 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2099.7,
+        "unsetPrice": false
+      },
+      {
+        "value": "3.499,50 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 3499.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "3.499,50 ₺",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 3499.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "matchedProductItemSelectorManual": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-info price-element::shadow::.price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
+    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
+    "timestamp": "2025-08-18T05:39:53.574Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
