@@ -9,28 +9,28 @@
     "price": [
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
       },
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
@@ -40,18 +40,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-18T05:50:33.714Z",
+    "timestamp": "2025-08-18T06:56:44.611Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -68,28 +71,28 @@
     "price": [
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
       },
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
@@ -99,18 +102,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-18T05:50:33.715Z",
+    "timestamp": "2025-08-18T06:56:44.612Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -127,28 +133,28 @@
     "price": [
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
       },
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺799,92",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 799.92,
         "unsetPrice": false
@@ -158,18 +164,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-18T05:50:33.716Z",
+    "timestamp": "2025-08-18T06:56:44.613Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -186,28 +195,28 @@
     "price": [
       {
         "value": "₺399,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 399.9,
         "unsetPrice": false
       },
       {
         "value": "₺759,80",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 759.8,
         "unsetPrice": false
       },
       {
         "value": "₺399,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 399.9,
         "unsetPrice": false
       },
       {
         "value": "₺759,80",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 759.8,
         "unsetPrice": false
@@ -217,18 +226,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-18T05:50:33.717Z",
+    "timestamp": "2025-08-18T06:56:44.614Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -245,28 +257,28 @@
     "price": [
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".discountPrice .discountPriceSpan",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺899,80",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".regularPrice .regularPriceSpan",
         "attribute": "innerText",
         "numericValue": 899.8,
         "unsetPrice": false
       },
       {
         "value": "₺499,90",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 499.9,
         "unsetPrice": false
       },
       {
         "value": "₺899,80",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 899.8,
         "unsetPrice": false
@@ -276,18 +288,21 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-18T05:50:33.719Z",
+    "timestamp": "2025-08-18T06:56:44.614Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
