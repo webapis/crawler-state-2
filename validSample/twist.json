@@ -13,7 +13,7 @@
     "price": [
       {
         "value": "1.379,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".urunListe_satisFiyat",
         "attribute": "innerText",
         "numericValue": 1379.7,
         "unsetPrice": false
@@ -29,12 +29,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".urunListe_satisFiyat"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.433Z",
+    "timestamp": "2025-08-18T06:46:11.968Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -55,7 +55,7 @@
     "price": [
       {
         "value": "1.379,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".urunListe_satisFiyat",
         "attribute": "innerText",
         "numericValue": 1379.7,
         "unsetPrice": false
@@ -71,12 +71,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".urunListe_satisFiyat"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.434Z",
+    "timestamp": "2025-08-18T06:46:11.969Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,7 +97,7 @@
     "price": [
       {
         "value": "989,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".urunListe_satisFiyat",
         "attribute": "innerText",
         "numericValue": 989.7,
         "unsetPrice": false
@@ -113,12 +113,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".urunListe_satisFiyat"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.435Z",
+    "timestamp": "2025-08-18T06:46:11.970Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -139,7 +139,7 @@
     "price": [
       {
         "value": "1.079,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".urunListe_satisFiyat",
         "attribute": "innerText",
         "numericValue": 1079.7,
         "unsetPrice": false
@@ -155,12 +155,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".urunListe_satisFiyat"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.436Z",
+    "timestamp": "2025-08-18T06:46:11.971Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -181,7 +181,7 @@
     "price": [
       {
         "value": "1.379,70 ₺",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".urunListe_satisFiyat",
         "attribute": "innerText",
         "numericValue": 1379.7,
         "unsetPrice": false
@@ -197,12 +197,12 @@
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".urunListe_satisFiyat"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-18T05:41:35.438Z",
+    "timestamp": "2025-08-18T06:46:11.972Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
