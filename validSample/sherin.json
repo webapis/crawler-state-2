@@ -1,1 +1,256 @@
-[]
+[
+  {
+    "title": "Gri Triko Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/gri-triko-omuz-cantasi-07f-a1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/gri-triko-omuz-cantasi-da87b2.jpg",
+      "https://www.sherin.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/gri-triko-omuz-cantasi-4119-9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/gri-triko-omuz-cantasi-07f-a1.jpg",
+    "link": "https://www.sherin.com.tr/gri-triko-omuz-cantasi-3508",
+    "price": [
+      {
+        "value": "€195,39",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      },
+      {
+        "value": "€195,39",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Çanta | Sherin",
+    "pageURL": "https://www.sherin.com.tr/canta",
+    "timestamp": "2025-08-18T12:22:28.948Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Lacivert Triko El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/lacivert-triko-el-cantasi-1a-a28.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/lacivert-triko-el-cantasi-cf0-22.jpg",
+      "https://www.sherin.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/lacivert-triko-el-cantasi--a2f5-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/lacivert-triko-el-cantasi-66c94a.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/lacivert-triko-el-cantasi-1a-a28.jpg",
+    "link": "https://www.sherin.com.tr/lacivert-triko-el-cantasi-3513",
+    "price": [
+      {
+        "value": "€191,84",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7100,
+        "unsetPrice": false
+      },
+      {
+        "value": "€191,84",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7100,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Çanta | Sherin",
+    "pageURL": "https://www.sherin.com.tr/canta",
+    "timestamp": "2025-08-18T12:22:28.949Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Siyah Triko El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-triko-el-cantasi-47b6-a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-triko-el-cantasi-2900a8.jpg",
+      "https://www.sherin.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-triko-el-cantasi-4-4d08.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-triko-el-cantasi--4713-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/siyah-triko-el-cantasi-47b6-a.jpg",
+    "link": "https://www.sherin.com.tr/siyah-triko-el-cantasi-3515",
+    "price": [
+      {
+        "value": "€195,39",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      },
+      {
+        "value": "€195,39",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Çanta | Sherin",
+    "pageURL": "https://www.sherin.com.tr/canta",
+    "timestamp": "2025-08-18T12:22:28.950Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Bordo Triko El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/bordo-triko-el-cantasi-57-6a9.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/bordo-triko-el-cantasi-851-7d.jpg",
+      "https://www.sherin.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/bordo-triko-el-cantasi-b2a3-6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/bordo-triko-el-cantasi-6-4bbb.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/bordo-triko-el-cantasi-57-6a9.jpg",
+    "link": "https://www.sherin.com.tr/bordo-triko-el-cantasi-3517",
+    "price": [
+      {
+        "value": "€191,84",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7100,
+        "unsetPrice": false
+      },
+      {
+        "value": "€191,84",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7100,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Çanta | Sherin",
+    "pageURL": "https://www.sherin.com.tr/canta",
+    "timestamp": "2025-08-18T12:22:28.951Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kahverengi Triko El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/kahverengi-triko-el-cantasi--1ee2-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/kahverengi-triko-el-cantasi--91f7c.jpg",
+      "https://www.sherin.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/kahverengi-triko-el-cantasi-10864d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/kahverengi-triko-el-cantasi-4fb-ba.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=345,quality=99,format=webp/37443/uploads/urunresimleri/buyuk/kahverengi-triko-el-cantasi--1ee2-.jpg",
+    "link": "https://www.sherin.com.tr/kahverengi-triko-el-cantasi-3521",
+    "price": [
+      {
+        "value": "€195,39",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      },
+      {
+        "value": "€195,39",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 7231.38,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Çanta | Sherin",
+    "pageURL": "https://www.sherin.com.tr/canta",
+    "timestamp": "2025-08-18T12:22:28.952Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
