@@ -10,21 +10,21 @@
     "price": [
       {
         "value": "1.799,70TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 1799.7,
         "unsetPrice": false
       },
       {
         "value": "1.799,70TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 1799.7,
         "unsetPrice": false
       },
       {
         "value": "5.999TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 5999,
         "unsetPrice": false
@@ -40,12 +40,13 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-18T05:47:30.061Z",
+    "timestamp": "2025-08-18T06:52:18.224Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,21 +64,21 @@
     "price": [
       {
         "value": "1.999,60TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 1999.6,
         "unsetPrice": false
       },
       {
         "value": "1.999,60TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 1999.6,
         "unsetPrice": false
       },
       {
         "value": "4.999TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 4999,
         "unsetPrice": false
@@ -93,12 +94,13 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-18T05:47:30.062Z",
+    "timestamp": "2025-08-18T06:52:18.225Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -116,21 +118,21 @@
     "price": [
       {
         "value": "1.799,00TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "1.799,00TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 1799,
         "unsetPrice": false
       },
       {
         "value": "5.999TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 5999,
         "unsetPrice": false
@@ -146,12 +148,13 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-18T05:47:30.063Z",
+    "timestamp": "2025-08-18T06:52:18.226Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,21 +172,21 @@
     "price": [
       {
         "value": "1.499,00TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
       },
       {
         "value": "1.499,00TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
       },
       {
         "value": "5.999TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 5999,
         "unsetPrice": false
@@ -199,12 +202,13 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-18T05:47:30.064Z",
+    "timestamp": "2025-08-18T06:52:18.227Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -222,21 +226,21 @@
     "price": [
       {
         "value": "2.099,70TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 2099.7,
         "unsetPrice": false
       },
       {
         "value": "2.099,70TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 2099.7,
         "unsetPrice": false
       },
       {
         "value": "6.999TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".price-item.price-item--regular",
         "attribute": "innerText",
         "numericValue": 6999,
         "unsetPrice": false
@@ -252,12 +256,13 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".price-item.price-item--sale.price-item--last",
+        ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-18T05:47:30.065Z",
+    "timestamp": "2025-08-18T06:52:18.227Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
