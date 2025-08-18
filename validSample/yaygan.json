@@ -8,43 +8,8 @@
     "link": "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898",
     "price": [
       {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
         "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -65,7 +30,49 @@
       },
       {
         "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
         "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -81,14 +88,13 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "span.product-price",
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
+      ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:28:44.613Z",
+    "timestamp": "2025-08-18T05:46:03.490Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -104,43 +110,8 @@
     "link": "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819",
     "price": [
       {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
         "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -161,7 +132,49 @@
       },
       {
         "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
         "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -177,14 +190,13 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "span.product-price",
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
+      ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:28:44.614Z",
+    "timestamp": "2025-08-18T05:46:03.491Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -200,43 +212,8 @@
     "link": "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16809",
     "price": [
       {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
         "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -257,7 +234,49 @@
       },
       {
         "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
         "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 1219.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.219,95",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -273,14 +292,13 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "span.product-price",
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
+      ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:28:44.615Z",
+    "timestamp": "2025-08-18T05:46:03.492Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -296,43 +314,8 @@
     "link": "https://www.yaygan.com/coral-high-kamuflaj-desenli-kabin-boy-valiz-50cm-16544",
     "price": [
       {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
         "value": "2.399,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -353,7 +336,49 @@
       },
       {
         "value": "2.399,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
         "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -369,14 +394,13 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "span.product-price",
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
+      ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:28:44.616Z",
+    "timestamp": "2025-08-18T05:46:03.493Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -392,43 +416,8 @@
     "link": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539",
     "price": [
       {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
         "value": "2.399,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -449,7 +438,49 @@
       },
       {
         "value": "2.399,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
         "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": "span.product-price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-info price-element::shadow::.price",
+        "attribute": "innerText",
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.399,95",
+        "selector": "span.product-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -465,14 +496,13 @@
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        "span.product-price",
         ".product-info price-element::shadow::.price"
-      ],
-      "usedFallbackDocument": false,
-      "matchedPageSelector": ".folder-product-list"
+      ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:28:44.617Z",
+    "timestamp": "2025-08-18T05:46:03.494Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
