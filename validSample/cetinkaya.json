@@ -10,14 +10,14 @@
     "price": [
       {
         "value": "₺639,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 639.99,
         "unsetPrice": false
       },
       {
         "value": "₺799,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 799.99,
         "unsetPrice": false
@@ -27,18 +27,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-18T05:54:46.519Z",
+    "timestamp": "2025-08-18T07:02:30.082Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -62,14 +63,14 @@
     "price": [
       {
         "value": "₺1.719,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 1719.99,
         "unsetPrice": false
       },
       {
         "value": "₺2.149,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 2149.99,
         "unsetPrice": false
@@ -79,18 +80,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-18T05:54:46.520Z",
+    "timestamp": "2025-08-18T07:02:30.084Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,14 +114,14 @@
     "price": [
       {
         "value": "₺900,00",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 900,
         "unsetPrice": false
       },
       {
         "value": "₺1.799,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 1799.99,
         "unsetPrice": false
@@ -129,18 +131,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-18T05:54:46.521Z",
+    "timestamp": "2025-08-18T07:02:30.085Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -160,14 +163,14 @@
     "price": [
       {
         "value": "₺1.529,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 1529.99,
         "unsetPrice": false
       },
       {
         "value": "₺3.049,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 3049.99,
         "unsetPrice": false
@@ -177,18 +180,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-18T05:54:46.522Z",
+    "timestamp": "2025-08-18T07:02:30.086Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -210,14 +214,14 @@
     "price": [
       {
         "value": "₺1.259,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
         "numericValue": 1259.99,
         "unsetPrice": false
       },
       {
         "value": "₺2.499,99",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
         "numericValue": 2499.99,
         "unsetPrice": false
@@ -227,18 +231,19 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-18T05:54:46.523Z",
+    "timestamp": "2025-08-18T07:02:30.087Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
