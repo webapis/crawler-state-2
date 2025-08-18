@@ -9,7 +9,7 @@
     "price": [
       {
         "value": "1 249,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
         "numericValue": 1249,
         "unsetPrice": false
@@ -25,12 +25,12 @@
       "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "[data-articlecode] div div p span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T05:45:34.433Z",
+    "timestamp": "2025-08-18T06:50:02.338Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -47,7 +47,7 @@
     "price": [
       {
         "value": "1 249,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
         "numericValue": 1249,
         "unsetPrice": false
@@ -63,12 +63,12 @@
       "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "[data-articlecode] div div p span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T05:45:34.434Z",
+    "timestamp": "2025-08-18T06:50:02.339Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +85,7 @@
     "price": [
       {
         "value": "1 499,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
         "numericValue": 1499,
         "unsetPrice": false
@@ -101,12 +101,12 @@
       "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "[data-articlecode] div div p span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T05:45:34.435Z",
+    "timestamp": "2025-08-18T06:50:02.340Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -123,7 +123,7 @@
     "price": [
       {
         "value": "1 649,00 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
         "numericValue": 1649,
         "unsetPrice": false
@@ -139,12 +139,12 @@
       "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "[data-articlecode] div div p span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T05:45:34.436Z",
+    "timestamp": "2025-08-18T06:50:02.341Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -161,7 +161,7 @@
     "price": [
       {
         "value": "999,99 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
         "numericValue": 999.99,
         "unsetPrice": false
@@ -177,12 +177,12 @@
       "imgSelectorMatched": "[data-testid='next-image'] img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        "[data-articlecode] div div p span"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T05:45:34.437Z",
+    "timestamp": "2025-08-18T06:50:02.341Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
