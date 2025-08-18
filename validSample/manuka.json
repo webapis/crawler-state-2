@@ -10,10 +10,10 @@
     "link": "https://www.manuka.com.tr/rua-kutu-canta-black-truffle",
     "price": [
       {
-        "value": "1.349,91 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
         "attribute": "innerText",
-        "numericValue": 1349.91,
+        "numericValue": 1499.9,
         "unsetPrice": false
       }
     ],
@@ -21,18 +21,18 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".priceWrapper .currentPrice"
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-08-18T05:50:39.922Z",
+    "timestamp": "2025-08-18T06:59:42.414Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,10 +50,10 @@
     "link": "https://www.manuka.com.tr/luna-tote-canta-petrol",
     "price": [
       {
-        "value": "1.349,91 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
         "attribute": "innerText",
-        "numericValue": 1349.91,
+        "numericValue": 1499.9,
         "unsetPrice": false
       }
     ],
@@ -61,18 +61,18 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".priceWrapper .currentPrice"
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-08-18T05:50:39.923Z",
+    "timestamp": "2025-08-18T06:59:42.415Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,10 +90,10 @@
     "link": "https://www.manuka.com.tr/rua-kutu-canta-macaron",
     "price": [
       {
-        "value": "1.349,91 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
         "attribute": "innerText",
-        "numericValue": 1349.91,
+        "numericValue": 1499.9,
         "unsetPrice": false
       }
     ],
@@ -101,18 +101,18 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".priceWrapper .currentPrice"
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-08-18T05:50:39.924Z",
+    "timestamp": "2025-08-18T06:59:42.415Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,10 +130,10 @@
     "link": "https://www.manuka.com.tr/rua-kutu-canta-vanilla",
     "price": [
       {
-        "value": "1.349,91 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
         "attribute": "innerText",
-        "numericValue": 1349.91,
+        "numericValue": 1499.9,
         "unsetPrice": false
       }
     ],
@@ -141,18 +141,18 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".priceWrapper .currentPrice"
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-08-18T05:50:39.925Z",
+    "timestamp": "2025-08-18T06:59:42.416Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -170,10 +170,10 @@
     "link": "https://www.manuka.com.tr/rua-kutu-canta-sage",
     "price": [
       {
-        "value": "1.349,91 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
         "attribute": "innerText",
-        "numericValue": 1349.91,
+        "numericValue": 1499.9,
         "unsetPrice": false
       }
     ],
@@ -181,18 +181,18 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem",
-      "matchedProductItemSelectorManual": ".productItem",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedProductItemSelectorManual": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-info price-element::shadow::.price"
+        ".priceWrapper .currentPrice"
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-08-18T05:50:39.926Z",
+    "timestamp": "2025-08-18T06:59:42.417Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
