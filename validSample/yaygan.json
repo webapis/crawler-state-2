@@ -16,63 +16,14 @@
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -89,12 +40,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:46:03.490Z",
+    "timestamp": "2025-08-18T06:50:57.319Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -118,63 +70,14 @@
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -191,12 +94,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:46:03.491Z",
+    "timestamp": "2025-08-18T06:50:57.321Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -220,63 +124,14 @@
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
       },
       {
         "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.219,95",
-        "selector": "span.product-price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 1219.95,
         "unsetPrice": false
@@ -293,12 +148,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:46:03.492Z",
+    "timestamp": "2025-08-18T06:50:57.322Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -322,63 +178,14 @@
       },
       {
         "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
       },
       {
         "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -395,12 +202,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:46:03.493Z",
+    "timestamp": "2025-08-18T06:50:57.323Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -424,63 +232,14 @@
       },
       {
         "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
+        "selector": ".product-price-wrapper .current-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
       },
       {
         "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95 TL",
-        "selector": ".product-info price-element::shadow::.price",
-        "attribute": "innerText",
-        "numericValue": 2399.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.399,95",
-        "selector": "span.product-price",
+        "selector": ".product-discounted-price",
         "attribute": "innerText",
         "numericValue": 2399.95,
         "unsetPrice": false
@@ -497,12 +256,13 @@
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         "span.product-price",
-        ".product-info price-element::shadow::.price"
+        ".product-price-wrapper .current-price",
+        ".product-discounted-price"
       ]
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-18T05:46:03.494Z",
+    "timestamp": "2025-08-18T06:50:57.324Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
