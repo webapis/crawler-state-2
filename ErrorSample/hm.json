@@ -29,7 +29,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T12:27:33.452Z",
+    "timestamp": "2025-08-19T05:59:02.316Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -68,46 +68,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T12:27:33.452Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Dikdörtgen Çapraz Çanta",
-    "img": [
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-    ],
-    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "link": "https://www2.hm.com/tr_tr/productpage.1293458001.html",
-    "price": [
-      {
-        "value": "1 499,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "innerText",
-        "numericValue": 1499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": "article[data-category]",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "[data-articlecode] div div p span"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T12:27:33.453Z",
+    "timestamp": "2025-08-19T05:59:02.317Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -146,7 +107,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T12:27:33.454Z",
+    "timestamp": "2025-08-19T05:59:02.318Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -156,12 +117,12 @@
     "mediaType": "image"
   },
   {
-    "title": "Birbirine Bağlı Parçalı Omuz Çantası",
+    "title": "Keseli Shopper Çanta",
     "img": [
       "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
     ],
     "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "link": "https://www2.hm.com/tr_tr/productpage.1294740001.html",
+    "link": "https://www2.hm.com/tr_tr/productpage.1278242009.html",
     "price": [
       {
         "value": "1 649,00 TL",
@@ -185,7 +146,46 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-18T12:27:33.455Z",
+    "timestamp": "2025-08-19T05:59:02.319Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "U Şeklinde Omuz Çantası",
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "link": "https://www2.hm.com/tr_tr/productpage.1289639005.html",
+    "price": [
+      {
+        "value": "1 499,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "innerText",
+        "numericValue": 1499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": "article[data-category]",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-articlecode] div div p span"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-08-19T05:59:02.320Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
