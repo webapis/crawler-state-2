@@ -1,0 +1,218 @@
+[
+  {
+    "title": "BORDO DERİ KÜÇÜK TANGOSO ÇANTA",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/bordo-deri-kucuk-tangoso-canta/",
+    "price": [
+      {
+        "value": "₺ 19.500,00",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "numericValue": 19500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T03:29:49.156Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "BORDO JANET OMUZ ÇANTASI",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2023/08/01/6407/7fdf101a-5dba-4e26-afe8-65eefd9350ca_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2023/08/01/6407/7fdf101a-5dba-4e26-afe8-65eefd9350ca_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2023/08/01/6407/7fdf101a-5dba-4e26-afe8-65eefd9350ca_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/bordo-janet-omuz-cantasi/",
+    "price": [
+      {
+        "value": "₺ 19.500,00",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "numericValue": 19500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T03:29:49.157Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "BORDO YZA OMUZ ÇANTASI",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718897/ef5a6bc7-4a58-4131-9732-b79725553a3a_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718897/ef5a6bc7-4a58-4131-9732-b79725553a3a_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718897/ef5a6bc7-4a58-4131-9732-b79725553a3a_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/bordo-yza-omuz-cantasi/",
+    "price": [
+      {
+        "value": "₺ 13.650,00",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "numericValue": 13650,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 19.500,00",
+        "selector": "pz-price",
+        "attribute": "innerText",
+        "numericValue": 19500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]",
+        "pz-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T03:29:49.158Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "BORDO DERİ YZA PORTFÖY ÇANTA",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718902/8534aa1e-bb14-462c-a84f-5e737a97747d_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718902/8534aa1e-bb14-462c-a84f-5e737a97747d_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718902/8534aa1e-bb14-462c-a84f-5e737a97747d_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/bordo-deri-yza-portfoy-canta/",
+    "price": [
+      {
+        "value": "₺ 11.137,00",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "numericValue": 11137,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺ 15.910,00",
+        "selector": "pz-price",
+        "attribute": "innerText",
+        "numericValue": 15910,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]",
+        "pz-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T03:29:49.159Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "SÜET GEÇİŞLİ BÜYÜK TANGOSO ÇANTA",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718905/b5e0816d-8359-41d1-8c65-3784e28d4730_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718905/b5e0816d-8359-41d1-8c65-3784e28d4730_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/07/16/718905/b5e0816d-8359-41d1-8c65-3784e28d4730_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/suet-gecisli-buyuk-tangoso-canta/",
+    "price": [
+      {
+        "value": "₺ 23.100,00",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "numericValue": 23100,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T03:29:49.159Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
