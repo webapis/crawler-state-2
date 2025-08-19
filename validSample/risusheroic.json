@@ -1,6 +1,6 @@
 [
   {
-    "title": null,
+    "title": "SİYAH KIRMIZI ÇİÇEK DESENLİ TOTE ÇANTA",
     "img": [
       "https://risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1050",
       "https://risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1946",
@@ -9,30 +9,47 @@
     ],
     "primaryImg": "//risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=300 300w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=450 450w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=600 600w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=750 750w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=900 900w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1050 1050w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1200 1200w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1350 1350w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1500 1500w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1650 1650w, //risusheroic.com/cdn/shop/files/PUP06105.jpg?v=1747671814&width=1800 1800w",
     "link": "https://risusheroic.com/products/siyah-kirmizi-cicek-desenli-tote-canta?variant=46379263557859",
-    "price": [],
+    "price": [
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card__link)",
       "matchedSelector": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "[class*=\"__product_title_\"] p",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "product-price .price"
+      ]
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-19T03:22:06.407Z",
+    "timestamp": "2025-08-19T03:28:34.363Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "KIRMIZI MAVİ ÇİÇEK DESENLİ TOTE ÇANTA",
     "img": [
       "https://risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1050",
       "https://risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1946",
@@ -43,30 +60,47 @@
     ],
     "primaryImg": "//risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=300 300w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=450 450w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=600 600w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=750 750w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=900 900w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1050 1050w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1200 1200w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1350 1350w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1500 1500w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1650 1650w, //risusheroic.com/cdn/shop/files/kirmizi-mavi_on.jpg?v=1747659172&width=1800 1800w",
     "link": "https://risusheroic.com/products/kirmizi-mavi-cicek-desenli-tote-canta?variant=46142469701859",
-    "price": [],
+    "price": [
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card__link)",
       "matchedSelector": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "[class*=\"__product_title_\"] p",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "product-price .price"
+      ]
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-19T03:22:06.408Z",
+    "timestamp": "2025-08-19T03:28:34.364Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "MOR KIRMIZI ÇİÇEK DESENLİ TOTE ÇANTA",
     "img": [
       "https://risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1050",
       "https://risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1946",
@@ -77,30 +111,47 @@
     ],
     "primaryImg": "//risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=300 300w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=450 450w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=600 600w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=750 750w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=900 900w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1050 1050w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1200 1200w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1350 1350w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1500 1500w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1650 1650w, //risusheroic.com/cdn/shop/files/kirmizi-mor_on.jpg?v=1751323366&width=1800 1800w",
     "link": "https://risusheroic.com/products/mor-kirmizi-cicek-desenli-tote-canta?variant=46142465114339",
-    "price": [],
+    "price": [
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card__link)",
       "matchedSelector": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "[class*=\"__product_title_\"] p",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "product-price .price"
+      ]
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-19T03:22:06.408Z",
+    "timestamp": "2025-08-19T03:28:34.364Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "TURUNCU LACİVERT ÇİÇEK DESENLİ TOTE ÇANTA",
     "img": [
       "https://risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1050",
       "https://risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1946",
@@ -113,30 +164,47 @@
     ],
     "primaryImg": "//risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=300 300w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=450 450w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=600 600w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=750 750w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=900 900w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1050 1050w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1200 1200w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1350 1350w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1500 1500w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1650 1650w, //risusheroic.com/cdn/shop/files/PUP06103.jpg?v=1747671816&width=1800 1800w",
     "link": "https://risusheroic.com/products/turuncu-lacivert-cicek-desenli-tote-canta?variant=46142450827491",
-    "price": [],
+    "price": [
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card__link)",
       "matchedSelector": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "[class*=\"__product_title_\"] p",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "product-price .price"
+      ]
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-19T03:22:06.409Z",
+    "timestamp": "2025-08-19T03:28:34.365Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "SARI MOR ÇİÇEK DESENLİ TOTE ÇANTA",
     "img": [
       "https://risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1050",
       "https://risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1946",
@@ -149,25 +217,42 @@
     ],
     "primaryImg": "//risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=300 300w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=450 450w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=600 600w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=750 750w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=900 900w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1050 1050w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1200 1200w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1350 1350w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1500 1500w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1650 1650w, //risusheroic.com/cdn/shop/files/sari-mor_on.jpg?v=1751320220&width=1800 1800w",
     "link": "https://risusheroic.com/products/sari-mor-cicek-desenli-tote-canta?variant=46365397418211",
-    "price": [],
+    "price": [
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,400.00TL",
+        "selector": "product-price .price",
+        "attribute": "innerText",
+        "numericValue": 2400,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card__link)",
       "matchedSelector": ".product-card",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "[class*=\"__product_title_\"] p",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "product-price .price"
+      ]
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-19T03:22:06.410Z",
+    "timestamp": "2025-08-19T03:28:34.366Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
