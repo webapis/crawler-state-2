@@ -16,6 +16,7 @@
         "value": "₺900,00",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 900,
         "unsetPrice": false
       },
@@ -23,6 +24,7 @@
         "value": "₺1.799,99",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1799.99,
         "unsetPrice": false
       }
@@ -42,7 +44,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-19T06:13:11.802Z",
+    "timestamp": "2025-08-19T08:36:13.591Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -68,6 +70,7 @@
         "value": "₺1.259,99",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1259.99,
         "unsetPrice": false
       },
@@ -75,6 +78,7 @@
         "value": "₺2.499,99",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 2499.99,
         "unsetPrice": false
       }
@@ -94,63 +98,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-19T06:13:11.803Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Mıyamıra Shk109 Sıyah Kadın Omuz Cantası",
-    "img": [
-      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
-      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-efc3c-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-efc3c-.jpg",
-      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-0-483d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-0-483d.jpg",
-      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-46-7f1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-46-7f1.jpg",
-      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-b4e-47.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-b4e-47.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
-    "link": "https://www.cetinkaya.com.tr/miyamira-shk109-siyah-kadin-omuz-cantasi-144360?_sgm_campaign=scn_c6022a56a8000&_sgm_source=144360&_sgm_action=click",
-    "price": [
-      {
-        "value": "₺314,99",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "numericValue": 314.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺549,99",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "numericValue": 549.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.swiper-slide",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
-    "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-19T06:13:11.804Z",
+    "timestamp": "2025-08-19T08:36:13.593Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -180,6 +128,7 @@
         "value": "₺314,99",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 314.99,
         "unsetPrice": false
       },
@@ -187,6 +136,7 @@
         "value": "₺549,99",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 549.99,
         "unsetPrice": false
       }
@@ -206,7 +156,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-19T06:13:11.805Z",
+    "timestamp": "2025-08-19T08:36:13.595Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -234,6 +184,7 @@
         "value": "₺1.619,99",
         "selector": ".productPrice .discountPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1619.99,
         "unsetPrice": false
       },
@@ -241,6 +192,7 @@
         "value": "₺3.249,99",
         "selector": ".productPrice .regularPrice",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 3249.99,
         "unsetPrice": false
       }
@@ -260,7 +212,65 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
     "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
-    "timestamp": "2025-08-19T06:13:11.806Z",
+    "timestamp": "2025-08-19T08:36:13.596Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Mıyamıra Shk109 Sıyah Kadın Omuz Cantası",
+    "img": [
+      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
+      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-efc3c-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-efc3c-.jpg",
+      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-0-483d.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-0-483d.jpg",
+      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-46-7f1.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-46-7f1.jpg",
+      "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-b4e-47.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=85/55900/uploads/urunresimleri/buyuk/miyamira-shk109-siyah-kadin-omuz-canta-b4e-47.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/55900/Uploads/UrunResimleri/miyamira-shk109-siyah-kadin-omuz-canta-6-c66a.jpg",
+    "link": "https://www.cetinkaya.com.tr/miyamira-shk109-siyah-kadin-omuz-cantasi-144360?_sgm_campaign=scn_c6022a56a8000&_sgm_source=144360&_sgm_action=click",
+    "price": [
+      {
+        "value": "₺314,99",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 314.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺549,99",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 549.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.swiper-slide",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Çetinkaya",
+    "pageURL": "https://www.cetinkaya.com.tr/kadin-canta-1222",
+    "timestamp": "2025-08-19T08:36:13.598Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
