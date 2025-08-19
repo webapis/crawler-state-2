@@ -14,6 +14,7 @@
         "value": "10.499 TL",
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 10499,
         "unsetPrice": false
       }
@@ -32,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-19T06:11:59.335Z",
+    "timestamp": "2025-08-19T08:35:05.502Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -68,6 +69,7 @@
         "value": "6.599 TL",
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 6599,
         "unsetPrice": false
       }
@@ -86,7 +88,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-19T06:11:59.336Z",
+    "timestamp": "2025-08-19T08:35:05.504Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -120,6 +122,7 @@
         "value": "6.499 TL",
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 6499,
         "unsetPrice": false
       }
@@ -138,7 +141,64 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-19T06:11:59.336Z",
+    "timestamp": "2025-08-19T08:35:05.505Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Lacoste Small L.12.12 Kadın Lacivert Omuz Çantası",
+    "img": [
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/03/12/7011/bebbb441-4fee-49c4-ad1a-c71fb363222c_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/03/12/7011/bebbb441-4fee-49c4-ad1a-c71fb363222c_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/03/12/7011/dffa916f-df23-4043-b676-83652af09fd9_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/03/12/7011/dffa916f-df23-4043-b676-83652af09fd9_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/5eaa72ae-97ff-40d0-9c31-b6696d1f8145_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/5eaa72ae-97ff-40d0-9c31-b6696d1f8145_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/cb7cfa22-22fc-42b2-b03b-5f0d363d3218_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/cb7cfa22-22fc-42b2-b03b-5f0d363d3218_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/8047f167-269b-4e01-bb12-5a7c21fd2820_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/8047f167-269b-4e01-bb12-5a7c21fd2820_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/10b76a02-8406-4f51-8117-7d3d501cc184_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/10b76a02-8406-4f51-8117-7d3d501cc184_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/b5f838aa-ede7-402c-a056-0cdf3aaaffb9_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/b5f838aa-ede7-402c-a056-0cdf3aaaffb9_size3840x3840_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/dfac6d3f-8efb-480a-9c0b-e3b9a8604bfa_size384x384_cropCenter.jpg",
+      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/dfac6d3f-8efb-480a-9c0b-e3b9a8604bfa_size3840x3840_cropCenter.jpg"
+    ],
+    "primaryImg": "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size16x16_cropCenter.jpg 16w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size32x32_cropCenter.jpg 32w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size48x48_cropCenter.jpg 48w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size64x64_cropCenter.jpg 64w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size96x96_cropCenter.jpg 96w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size128x128_cropCenter.jpg 128w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size256x256_cropCenter.jpg 256w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size384x384_cropCenter.jpg 384w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size640x640_cropCenter.jpg 640w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size750x750_cropCenter.jpg 750w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size828x828_cropCenter.jpg 828w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size1080x1080_cropCenter.jpg 1080w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size1200x1200_cropCenter.jpg 1200w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size1920x1920_cropCenter.jpg 1920w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size2048x2048_cropCenter.jpg 2048w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/7011/70c6d3a5-ec96-48ca-9663-7b9fd0214e68_size3840x3840_cropCenter.jpg 3840w",
+    "link": "https://www.lacoste.com.tr/urun/kadin-lacivert-canta-nf2037po-023/",
+    "price": [
+      {
+        "value": "5.999 TL",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 5999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h3 a.block.text-primary.text-xs)",
+      "matchedSelector": ".text-sm.text-left.flex.flex-col",
+      "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-testid=\"product-price\"]"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Lacoste",
+    "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
+    "timestamp": "2025-08-19T08:35:05.507Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -178,6 +238,7 @@
         "value": "5.999 TL",
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 5999,
         "unsetPrice": false
       }
@@ -196,65 +257,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-19T06:11:59.337Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Lacoste Anna Kadın Çift Taraflı Siyah Omuz Çantası",
-    "img": [
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/7a73a20f-abee-4cda-86e7-2211ef919b81_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/7a73a20f-abee-4cda-86e7-2211ef919b81_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/faf1d500-c619-4c3c-bff7-fd315c32b918_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/faf1d500-c619-4c3c-bff7-fd315c32b918_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/105ad1a1-e3f2-4e69-a385-d906268357d3_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/105ad1a1-e3f2-4e69-a385-d906268357d3_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/bbd69ca6-39fa-47f9-86fd-85e4cfc62c9e_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/bbd69ca6-39fa-47f9-86fd-85e4cfc62c9e_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dcf63964-c24b-437c-b5c8-3a7ae2e56aaa_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dcf63964-c24b-437c-b5c8-3a7ae2e56aaa_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/ae54a865-2d59-4380-87db-3f8980cd1d37_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/ae54a865-2d59-4380-87db-3f8980cd1d37_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/b0af81aa-b50f-4c76-93ba-647830d1f274_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/b0af81aa-b50f-4c76-93ba-647830d1f274_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/e5112e1a-4b70-4b23-b385-d5a9b12329da_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/e5112e1a-4b70-4b23-b385-d5a9b12329da_size3840x3840_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/69ade2cf-aab0-486d-bda7-c02dd0415174_size384x384_cropCenter.jpg",
-      "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/69ade2cf-aab0-486d-bda7-c02dd0415174_size3840x3840_cropCenter.jpg"
-    ],
-    "primaryImg": "https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size16x16_cropCenter.jpg 16w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size32x32_cropCenter.jpg 32w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size48x48_cropCenter.jpg 48w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size64x64_cropCenter.jpg 64w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size96x96_cropCenter.jpg 96w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size128x128_cropCenter.jpg 128w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size256x256_cropCenter.jpg 256w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size384x384_cropCenter.jpg 384w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size640x640_cropCenter.jpg 640w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size750x750_cropCenter.jpg 750w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size828x828_cropCenter.jpg 828w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size1080x1080_cropCenter.jpg 1080w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size1200x1200_cropCenter.jpg 1200w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size1920x1920_cropCenter.jpg 1920w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size2048x2048_cropCenter.jpg 2048w, https://akn-lacoste.a-cdn.akinoncloud.com/products/2025/01/24/6479/dd848a20-1812-4a0f-89bb-806a1e584366_size3840x3840_cropCenter.jpg 3840w",
-    "link": "https://www.lacoste.com.tr/urun/kadin-siyah-canta-nf2142aa-012/",
-    "price": [
-      {
-        "value": "7.999 TL",
-        "selector": "[data-testid=\"product-price\"]",
-        "attribute": "innerText",
-        "numericValue": 7999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h3 a.block.text-primary.text-xs)",
-      "matchedSelector": ".text-sm.text-left.flex.flex-col",
-      "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "[data-testid=\"product-price\"]"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri - Lacoste",
-    "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-19T06:11:59.338Z",
+    "timestamp": "2025-08-19T08:35:05.508Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
