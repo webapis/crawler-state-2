@@ -13,7 +13,15 @@
     ],
     "primaryImg": "//semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=150 150w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=200 200w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=240 240w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=280 280w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=300 300w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=360 360w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=400 400w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=450 450w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=500 500w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=550 550w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=600 600w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=650 650w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=700 700w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=750 750w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=800 800w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=850 850w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=900 900w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=950 950w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=1000 1000w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=1100 1100w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=1200 1200w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=1300 1300w, //semenderleather.com/cdn/shop/files/monabag-kahve1_6ed6fcc3-c692-4923-a9ab-920d4b5b5d68.webp?v=1747185388&width=1400 1400w",
     "link": "https://semenderleather.com/products/monabag",
-    "price": [],
+    "price": [
+      {
+        "value": "2,679.92₺",
+        "selector": "span.wpDiscountPriceBlock",
+        "attribute": "innerText",
+        "numericValue": 2679.92,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -22,16 +30,18 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "span.wpDiscountPriceBlock"
+      ]
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-19T03:38:49.803Z",
+    "timestamp": "2025-08-19T03:43:20.766Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -51,7 +61,15 @@
     ],
     "primaryImg": "//semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=150 150w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=200 200w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=240 240w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=280 280w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=300 300w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=360 360w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=400 400w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=450 450w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=500 500w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=550 550w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=600 600w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=650 650w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=700 700w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=750 750w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=800 800w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=850 850w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=900 900w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=950 950w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=1000 1000w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=1100 1100w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=1200 1200w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=1300 1300w, //semenderleather.com/cdn/shop/files/frenchbag-lacivert1.webp?v=1750604505&width=1400 1400w",
     "link": "https://semenderleather.com/products/frenchbag",
-    "price": [],
+    "price": [
+      {
+        "value": "2,167.92₺",
+        "selector": "span.wpDiscountPriceBlock",
+        "attribute": "innerText",
+        "numericValue": 2167.92,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -60,16 +78,18 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "span.wpDiscountPriceBlock"
+      ]
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-19T03:38:49.805Z",
+    "timestamp": "2025-08-19T03:43:20.767Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -87,7 +107,15 @@
     ],
     "primaryImg": "//semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=150 150w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=200 200w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=240 240w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=280 280w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=300 300w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=360 360w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=400 400w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=450 450w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=500 500w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=550 550w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=600 600w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=650 650w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=700 700w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=750 750w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=800 800w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=850 850w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=900 900w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=950 950w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=1000 1000w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=1100 1100w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=1200 1200w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=1300 1300w, //semenderleather.com/cdn/shop/files/mini-lawbag-kahve_7fd29de4-ff4e-4f09-a215-fa8c7c338a88.webp?v=1747185679&width=1400 1400w",
     "link": "https://semenderleather.com/products/mini-lawbag",
-    "price": [],
+    "price": [
+      {
+        "value": "3,527.92₺",
+        "selector": "span.wpDiscountPriceBlock",
+        "attribute": "innerText",
+        "numericValue": 3527.92,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -96,16 +124,18 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "span.wpDiscountPriceBlock"
+      ]
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-19T03:38:49.805Z",
+    "timestamp": "2025-08-19T03:43:20.768Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -129,7 +159,15 @@
     ],
     "primaryImg": "//semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=150 150w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=200 200w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=240 240w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=280 280w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=300 300w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=360 360w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=400 400w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=450 450w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=500 500w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=550 550w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=600 600w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=650 650w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=700 700w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=750 750w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=800 800w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=850 850w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=900 900w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=950 950w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=1000 1000w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=1100 1100w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=1200 1200w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=1300 1300w, //semenderleather.com/cdn/shop/files/sunnybag-zeytin-yesili.webp?v=1747143281&width=1400 1400w",
     "link": "https://semenderleather.com/products/sunnybag",
-    "price": [],
+    "price": [
+      {
+        "value": "1,471.92₺",
+        "selector": "span.wpDiscountPriceBlock",
+        "attribute": "innerText",
+        "numericValue": 1471.92,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -138,16 +176,18 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "span.wpDiscountPriceBlock"
+      ]
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-19T03:38:49.806Z",
+    "timestamp": "2025-08-19T03:43:20.770Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -169,7 +209,15 @@
     ],
     "primaryImg": "//semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=150 150w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=200 200w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=240 240w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=280 280w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=300 300w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=360 360w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=400 400w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=450 450w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=500 500w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=550 550w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=600 600w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=650 650w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=700 700w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=750 750w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=800 800w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=850 850w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=900 900w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=950 950w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=1000 1000w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=1100 1100w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=1200 1200w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=1300 1300w, //semenderleather.com/cdn/shop/files/hamperbag-mavi1.webp?v=1750604990&width=1400 1400w",
     "link": "https://semenderleather.com/products/hamperbag",
-    "price": [],
+    "price": [
+      {
+        "value": "2,207.92₺",
+        "selector": "span.wpDiscountPriceBlock",
+        "attribute": "innerText",
+        "numericValue": 2207.92,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -178,16 +226,18 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        "span.wpDiscountPriceBlock"
+      ]
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-19T03:38:49.807Z",
+    "timestamp": "2025-08-19T03:43:20.771Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
