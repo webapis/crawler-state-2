@@ -11,6 +11,14 @@
     "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/nasbag-saten-el-cantasi-ve-capraz-canta-ns1062",
     "price": [
       {
+        "value": "2,699.90 TL",
+        "selector": ".grid-product__price--original",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2699.9,
+        "unsetPrice": false
+      },
+      {
         "value": "1,999.90 TL",
         "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         "attribute": "textContent",
@@ -25,14 +33,6 @@
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "2,699.90 TL",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2699.9,
-        "unsetPrice": false
       },
       {
         "value": "İndirimli Fiyat",
@@ -52,13 +52,14 @@
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".grid-product__price--original",
         "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         ".grid-product__price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T07:55:00.101Z",
+    "timestamp": "2025-08-19T07:58:46.718Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -79,6 +80,14 @@
     "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/nasbag-saten-kadin-sirt-cantasi-ns1051",
     "price": [
       {
+        "value": "2,699.90 TL",
+        "selector": ".grid-product__price--original",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2699.9,
+        "unsetPrice": false
+      },
+      {
         "value": "1,999.90 TL",
         "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         "attribute": "textContent",
@@ -93,14 +102,6 @@
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "2,699.90 TL",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2699.9,
-        "unsetPrice": false
       },
       {
         "value": "İndirimli Fiyat",
@@ -120,13 +121,14 @@
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".grid-product__price--original",
         "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         ".grid-product__price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T07:55:00.102Z",
+    "timestamp": "2025-08-19T07:58:46.719Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -147,6 +149,14 @@
     "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/nola-isiltili-kadin-omuz-cantasi-ns1030",
     "price": [
       {
+        "value": "2,399.90 TL",
+        "selector": ".grid-product__price--original",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2399.9,
+        "unsetPrice": false
+      },
+      {
         "value": "1,999.90 TL",
         "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         "attribute": "textContent",
@@ -161,14 +171,6 @@
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "2,399.90 TL",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2399.9,
-        "unsetPrice": false
       },
       {
         "value": "İndirimli Fiyat",
@@ -188,13 +190,14 @@
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".grid-product__price--original",
         "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         ".grid-product__price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T07:55:00.103Z",
+    "timestamp": "2025-08-19T07:58:46.720Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -215,6 +218,14 @@
     "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/taba-kadin-omuz-cantasi-ve-capraz-askili-canta",
     "price": [
       {
+        "value": "2,999.90 TL",
+        "selector": ".grid-product__price--original",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2999.9,
+        "unsetPrice": false
+      },
+      {
         "value": "1,999.90 TL",
         "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         "attribute": "textContent",
@@ -229,14 +240,6 @@
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "2,999.90 TL",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2999.9,
-        "unsetPrice": false
       },
       {
         "value": "İndirimli Fiyat",
@@ -256,13 +259,14 @@
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".grid-product__price--original",
         "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         ".grid-product__price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T07:55:00.104Z",
+    "timestamp": "2025-08-19T07:58:46.721Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -283,6 +287,14 @@
     "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/lenglet-kadin-bodybag-canta",
     "price": [
       {
+        "value": "2,309.90 TL",
+        "selector": ".grid-product__price--original",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2309.9,
+        "unsetPrice": false
+      },
+      {
         "value": "1,999.90 TL",
         "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         "attribute": "textContent",
@@ -297,14 +309,6 @@
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "2,309.90 TL",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2309.9,
-        "unsetPrice": false
       },
       {
         "value": "İndirimli Fiyat",
@@ -324,13 +328,14 @@
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".grid-product__price--original",
         "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
         ".grid-product__price span"
       ]
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T07:55:00.105Z",
+    "timestamp": "2025-08-19T07:58:46.722Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
