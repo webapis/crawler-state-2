@@ -1,8 +1,106 @@
 [
   {
+    "title": "Kapitone Omuz Çantası",
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E",
+    "link": "https://www.tchibo.com.tr/products/137855901593/kapitone-omuz-cantasi?article_id=133834786715",
+    "price": [
+      {
+        "value": "999,00",
+        "selector": ".tp-price-number",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": ".tp-image img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".tp-price-number"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
+    "timestamp": "2025-08-19T10:27:46.465Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Mini Çanta",
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E",
+    "link": "https://www.tchibo.com.tr/products/174972527425/mini-canta?article_id=124150771215",
+    "price": [
+      {
+        "value": "699,00",
+        "selector": ".tp-price-number",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 699,
+        "unsetPrice": false
+      },
+      {
+        "value": "299,00",
+        "selector": ".tp-price-number",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 299,
+        "unsetPrice": false
+      },
+      {
+        "value": "299,00",
+        "selector": ".tp-price-number",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": ".tp-image img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".tp-price-number"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
+    "timestamp": "2025-08-19T10:27:46.466Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Tamamı Baskılı Plaj Çantası",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E",
     "link": "https://www.tchibo.com.tr/products/128857171466/tamami-baskili-plaj-cantasi?article_id=159307339244",
     "price": [
       {
@@ -20,7 +118,7 @@
       "linkSource": "linkElement (matched: a.product-title-container)",
       "matchedSelector": "[id*=product-tile-wrapper-]",
       "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".tp-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".tp-price-number"
@@ -28,7 +126,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
-    "timestamp": "2025-08-19T10:24:34.280Z",
+    "timestamp": "2025-08-19T10:27:46.467Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -39,8 +137,10 @@
   },
   {
     "title": "3 Adet Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E",
     "link": "https://www.tchibo.com.tr/products/100608311025/3-adet-canta?article_id=199778213770",
     "price": [
       {
@@ -66,7 +166,7 @@
       "linkSource": "linkElement (matched: a.product-title-container)",
       "matchedSelector": "[id*=product-tile-wrapper-]",
       "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".tp-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".tp-price-number"
@@ -74,7 +174,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
-    "timestamp": "2025-08-19T10:24:34.281Z",
+    "timestamp": "2025-08-19T10:27:46.468Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -85,8 +185,10 @@
   },
   {
     "title": "Saydam Yüzeyli Çok İşlevli Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 0 0 '%3E%3C/svg%3E",
     "link": "https://www.tchibo.com.tr/products/192651730254/saydam-yuzeyli-cok-islevli-canta?article_id=106013124414",
     "price": [
       {
@@ -120,7 +222,7 @@
       "linkSource": "linkElement (matched: a.product-title-container)",
       "matchedSelector": "[id*=product-tile-wrapper-]",
       "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".tp-image img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
         ".tp-price-number"
@@ -128,99 +230,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
     "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
-    "timestamp": "2025-08-19T10:24:34.282Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Yalıtımlı Akıllı Telefon Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.tchibo.com.tr/products/145801086904/yalitimli-akilli-telefon-cantasi?article_id=126403200030",
-    "price": [
-      {
-        "value": "799,00",
-        "selector": ".tp-price-number",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799,
-        "unsetPrice": false
-      },
-      {
-        "value": "499,00",
-        "selector": ".tp-price-number",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499,
-        "unsetPrice": false
-      },
-      {
-        "value": "499,00",
-        "selector": ".tp-price-number",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".tp-price-number"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
-    "timestamp": "2025-08-19T10:24:34.283Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Spor Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.tchibo.com.tr/products/117126467641/spor-cantasi?article_id=137318990956",
-    "price": [
-      {
-        "value": "1.299,00",
-        "selector": ".tp-price-number",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1299,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.product-title-container)",
-      "matchedSelector": "[id*=product-tile-wrapper-]",
-      "titleSelectorMatched": ".tp-body.product-title",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".tp-price-number"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
-    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=1&sort=relevance",
-    "timestamp": "2025-08-19T10:24:34.284Z",
+    "timestamp": "2025-08-19T10:27:46.469Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
