@@ -8,7 +8,16 @@
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638851560734936474.jpg",
     "link": "https://www.brandroom.com.tr/3d-beyaz-capraz-canta-s_600055",
-    "price": [],
+    "price": [
+      {
+        "value": "30.495,00",
+        "selector": ".pricebox .oneprice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 30495,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -17,16 +26,18 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".pricebox .oneprice"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T11:10:55.748Z",
+    "timestamp": "2025-08-19T11:15:37.442Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -39,7 +50,16 @@
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638851560774155565.jpg",
     "link": "https://www.brandroom.com.tr/3d-beyaz-el-cantasi-xs_600053",
-    "price": [],
+    "price": [
+      {
+        "value": "32.695,00",
+        "selector": ".pricebox .oneprice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 32695,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -48,16 +68,18 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".pricebox .oneprice"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T11:10:55.749Z",
+    "timestamp": "2025-08-19T11:15:37.443Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -70,7 +92,16 @@
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638846322883877981.jpg",
     "link": "https://www.brandroom.com.tr/3d-kahverengi-capraz-canta-s_600054",
-    "price": [],
+    "price": [
+      {
+        "value": "30.325,00",
+        "selector": ".pricebox .oneprice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 30325,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -79,16 +110,18 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".pricebox .oneprice"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T11:10:55.750Z",
+    "timestamp": "2025-08-19T11:15:37.444Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -101,7 +134,16 @@
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638846322832471682.jpg",
     "link": "https://www.brandroom.com.tr/3d-naturel-canta-s_600052",
-    "price": [],
+    "price": [
+      {
+        "value": "38.275,00",
+        "selector": ".pricebox .oneprice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 38275,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -110,16 +152,18 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".pricebox .oneprice"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T11:10:55.751Z",
+    "timestamp": "2025-08-19T11:15:37.445Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -132,7 +176,16 @@
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638869695787764743.jpg",
     "link": "https://www.brandroom.com.tr/abacus-artificial-crystal-mini-ust-sapli-canta_600750",
-    "price": [],
+    "price": [
+      {
+        "value": "10.525,00",
+        "selector": ".pricebox .oneprice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 10525,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -141,16 +194,18 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".pricebox .oneprice"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-19T11:10:55.752Z",
+    "timestamp": "2025-08-19T11:15:37.447Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
