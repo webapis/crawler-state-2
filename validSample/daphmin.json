@@ -12,14 +12,14 @@
     "price": [
       {
         "value": "2,400.00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": ".price__regular span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 2400,
         "unsetPrice": false
       },
       {
         "value": "2,400.00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 2400,
         "unsetPrice": false
@@ -34,13 +34,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".price__regular span:nth-child(2)",
         ".price-item.price-item--sale.price-item--last",
         ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "Kadın Hakiki Deri Cüzdan ve Çanta – DAPHMIN",
     "pageURL": "https://www.daphmin.com/collections/kadin-hakiki-deri-cuzdan-ve-canta",
-    "timestamp": "2025-08-18T12:43:01.555Z",
+    "timestamp": "2025-08-19T06:13:07.648Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -62,14 +63,14 @@
     "price": [
       {
         "value": "5,250.00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": ".price__regular span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 5250,
         "unsetPrice": false
       },
       {
         "value": "5,250.00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 5250,
         "unsetPrice": false
@@ -84,13 +85,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".price__regular span:nth-child(2)",
         ".price-item.price-item--sale.price-item--last",
         ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "Kadın Hakiki Deri Cüzdan ve Çanta – DAPHMIN",
     "pageURL": "https://www.daphmin.com/collections/kadin-hakiki-deri-cuzdan-ve-canta",
-    "timestamp": "2025-08-18T12:43:01.555Z",
+    "timestamp": "2025-08-19T06:13:07.649Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,14 +114,14 @@
     "price": [
       {
         "value": "2,800.00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": ".price__regular span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 2800,
         "unsetPrice": false
       },
       {
         "value": "2,800.00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 2800,
         "unsetPrice": false
@@ -134,13 +136,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".price__regular span:nth-child(2)",
         ".price-item.price-item--sale.price-item--last",
         ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "Kadın Hakiki Deri Cüzdan ve Çanta – DAPHMIN",
     "pageURL": "https://www.daphmin.com/collections/kadin-hakiki-deri-cuzdan-ve-canta",
-    "timestamp": "2025-08-18T12:43:01.556Z",
+    "timestamp": "2025-08-19T06:13:07.650Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,14 +165,14 @@
     "price": [
       {
         "value": "5,450.00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": ".price__regular span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 5450,
         "unsetPrice": false
       },
       {
         "value": "5,450.00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 5450,
         "unsetPrice": false
@@ -184,13 +187,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".price__regular span:nth-child(2)",
         ".price-item.price-item--sale.price-item--last",
         ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "Kadın Hakiki Deri Cüzdan ve Çanta – DAPHMIN",
     "pageURL": "https://www.daphmin.com/collections/kadin-hakiki-deri-cuzdan-ve-canta",
-    "timestamp": "2025-08-18T12:43:01.557Z",
+    "timestamp": "2025-08-19T06:13:07.650Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -212,14 +216,14 @@
     "price": [
       {
         "value": "5,250.00TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
+        "selector": ".price__regular span:nth-child(2)",
         "attribute": "innerText",
         "numericValue": 5250,
         "unsetPrice": false
       },
       {
         "value": "5,250.00TL",
-        "selector": ".price-item.price-item--regular",
+        "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "innerText",
         "numericValue": 5250,
         "unsetPrice": false
@@ -234,13 +238,14 @@
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
+        ".price__regular span:nth-child(2)",
         ".price-item.price-item--sale.price-item--last",
         ".price-item.price-item--regular"
       ]
     },
     "pageTitle": "Kadın Hakiki Deri Cüzdan ve Çanta – DAPHMIN",
     "pageURL": "https://www.daphmin.com/collections/kadin-hakiki-deri-cuzdan-ve-canta",
-    "timestamp": "2025-08-18T12:43:01.557Z",
+    "timestamp": "2025-08-19T06:13:07.651Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
