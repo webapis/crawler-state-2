@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Armine 406 Bayan Çanta Bordo Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-bordo-pia-e6a4-8.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-bordo-pia-e6a4-8.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-bordo-pia",
+    "price": [
+      {
+        "value": "₺550,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺550,00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-19T03:36:58.604Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Armine 406 Bayan Çanta Vizon Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-vizon-pia-c-9972.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-vizon-pia-c-9972.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-vizon-pia",
+    "price": [
+      {
+        "value": "₺550,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺550,00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-19T03:36:58.605Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Armine 406 Bayan Çanta Kahve Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-kahve-pia-0c2917.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-kahve-pia-0c2917.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-kahve-pia",
+    "price": [
+      {
+        "value": "₺550,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺550,00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-19T03:36:58.606Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Armine 406 Bayan Çanta Taba Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-taba-pia-04e2bf.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-taba-pia-04e2bf.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-taba-pia",
+    "price": [
+      {
+        "value": "₺550,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺550,00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 550,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺660,00",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 660,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-19T03:36:58.607Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Armine 408 Bayan Çanta Taba Örgü",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-408-bayan-canta-taba-orgu-387dab.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-408-bayan-canta-taba-orgu-387dab.jpg",
+    "link": "https://www.furkangiyim.com/armine-408-bayan-canta-taba-orgu",
+    "price": [
+      {
+        "value": "₺1.300,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 1300,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.499,90",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "numericValue": 1499.9,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.300,00",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "numericValue": 1300,
+        "unsetPrice": false
+      },
+      {
+        "value": "₺1.499,90",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "numericValue": 1499.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-19T03:36:58.608Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
