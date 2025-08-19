@@ -5,12 +5,13 @@
       "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
     ],
     "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "link": "https://www2.hm.com/tr_tr/productpage.1289654001.html",
+    "link": "https://www2.hm.com/tr_tr/productpage.1274320005.html",
     "price": [
       {
         "value": "1 249,00 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1249,
         "unsetPrice": false
       }
@@ -29,7 +30,47 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-19T05:59:02.316Z",
+    "timestamp": "2025-08-19T08:22:03.930Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Hasır Tote Çanta",
+    "img": [
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    ],
+    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "link": "https://www2.hm.com/tr_tr/productpage.1269047001.html",
+    "price": [
+      {
+        "value": "999,99 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "matchedSelector": "article[data-category]",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        "[data-articlecode] div div p span"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-08-19T08:22:03.932Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +91,7 @@
         "value": "1 499,00 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1499,
         "unsetPrice": false
       }
@@ -68,46 +110,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-19T05:59:02.317Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Hasır El Çantası",
-    "img": [
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-    ],
-    "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "link": "https://www2.hm.com/tr_tr/productpage.1269288002.html",
-    "price": [
-      {
-        "value": "1 499,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "innerText",
-        "numericValue": 1499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": "article[data-category]",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "[data-articlecode] div div p span"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-19T05:59:02.318Z",
+    "timestamp": "2025-08-19T08:22:03.933Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -128,6 +131,7 @@
         "value": "1 649,00 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
+        "isJavaScript": false,
         "numericValue": 1649,
         "unsetPrice": false
       }
@@ -146,7 +150,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-19T05:59:02.319Z",
+    "timestamp": "2025-08-19T08:22:03.935Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -156,18 +160,19 @@
     "mediaType": "image"
   },
   {
-    "title": "U Şeklinde Omuz Çantası",
+    "title": "Çapraz Hasır Çanta",
     "img": [
       "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
     ],
     "primaryImg": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-    "link": "https://www2.hm.com/tr_tr/productpage.1289639005.html",
+    "link": "https://www2.hm.com/tr_tr/productpage.1287848003.html",
     "price": [
       {
-        "value": "1 499,00 TL",
+        "value": "999,99 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "innerText",
-        "numericValue": 1499,
+        "isJavaScript": false,
+        "numericValue": 999.99,
         "unsetPrice": false
       }
     ],
@@ -185,7 +190,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-08-19T05:59:02.320Z",
+    "timestamp": "2025-08-19T08:22:03.937Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
