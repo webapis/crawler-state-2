@@ -21,7 +21,7 @@
       {
         "value": "1,149.99TL",
         "selector": ".product-grid-item__price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1149.99,
         "unsetPrice": false
@@ -35,13 +35,11 @@
       "titleSelectorMatched": ".product-grid-item__title",
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-grid-item__price__new"
-      ]
+      "bestPriceSelector": ".product-grid-item__price__new"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-20T08:08:14.152Z",
+    "timestamp": "2025-08-20T11:25:37.188Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -72,7 +70,7 @@
       {
         "value": "749.99TL",
         "selector": ".product-grid-item__price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 749.99,
         "unsetPrice": false
@@ -86,13 +84,11 @@
       "titleSelectorMatched": ".product-grid-item__title",
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-grid-item__price__new"
-      ]
+      "bestPriceSelector": ".product-grid-item__price__new"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-20T08:08:14.154Z",
+    "timestamp": "2025-08-20T11:25:37.191Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,7 +119,7 @@
       {
         "value": "2,699.99TL",
         "selector": ".product-grid-item__price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2699.99,
         "unsetPrice": false
@@ -137,13 +133,11 @@
       "titleSelectorMatched": ".product-grid-item__title",
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-grid-item__price__new"
-      ]
+      "bestPriceSelector": ".product-grid-item__price__new"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-20T08:08:14.156Z",
+    "timestamp": "2025-08-20T11:25:37.193Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +168,7 @@
       {
         "value": "1,999.99TL",
         "selector": ".product-grid-item__price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999.99,
         "unsetPrice": false
@@ -188,13 +182,11 @@
       "titleSelectorMatched": ".product-grid-item__title",
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-grid-item__price__new"
-      ]
+      "bestPriceSelector": ".product-grid-item__price__new"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-20T08:08:14.158Z",
+    "timestamp": "2025-08-20T11:25:37.195Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -225,7 +217,7 @@
       {
         "value": "899.99TL",
         "selector": ".product-grid-item__price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 899.99,
         "unsetPrice": false
@@ -239,13 +231,11 @@
       "titleSelectorMatched": ".product-grid-item__title",
       "imgSelectorMatched": "[data-bgset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-grid-item__price__new"
-      ]
+      "bestPriceSelector": ".product-grid-item__price__new"
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-08-20T08:08:14.159Z",
+    "timestamp": "2025-08-20T11:25:37.198Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
