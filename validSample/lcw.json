@@ -11,7 +11,7 @@
       {
         "value": "719,99 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 719.99,
         "unsetPrice": false
@@ -25,13 +25,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-20T08:08:50.753Z",
+    "timestamp": "2025-08-20T11:25:53.357Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,7 +50,7 @@
       {
         "value": "719,99 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 719.99,
         "unsetPrice": false
@@ -66,13 +64,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-20T08:08:50.755Z",
+    "timestamp": "2025-08-20T11:25:53.359Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -93,7 +89,7 @@
       {
         "value": "1.675,87 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1675.87,
         "unsetPrice": false
@@ -107,13 +103,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-20T08:08:50.757Z",
+    "timestamp": "2025-08-20T11:25:53.362Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +128,7 @@
       {
         "value": "359,99 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 359.99,
         "unsetPrice": false
@@ -148,13 +142,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-20T08:08:50.759Z",
+    "timestamp": "2025-08-20T11:25:53.364Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -175,7 +167,7 @@
       {
         "value": "249,99 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 249.99,
         "unsetPrice": false
@@ -189,13 +181,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126",
-    "timestamp": "2025-08-20T08:08:50.760Z",
+    "timestamp": "2025-08-20T11:25:53.366Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
