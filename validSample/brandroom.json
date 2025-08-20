@@ -12,7 +12,7 @@
       {
         "value": "30.495,00",
         "selector": ".pricebox .oneprice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 30495,
         "unsetPrice": false
@@ -26,13 +26,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".pricebox .oneprice"
-      ]
+      "bestPriceSelector": ".pricebox .oneprice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:20:59.921Z",
+    "timestamp": "2025-08-20T11:36:03.877Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -54,7 +52,7 @@
       {
         "value": "32.695,00",
         "selector": ".pricebox .oneprice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 32695,
         "unsetPrice": false
@@ -68,13 +66,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".pricebox .oneprice"
-      ]
+      "bestPriceSelector": ".pricebox .oneprice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:20:59.922Z",
+    "timestamp": "2025-08-20T11:36:03.879Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -96,7 +92,7 @@
       {
         "value": "30.325,00",
         "selector": ".pricebox .oneprice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 30325,
         "unsetPrice": false
@@ -110,13 +106,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".pricebox .oneprice"
-      ]
+      "bestPriceSelector": ".pricebox .oneprice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:20:59.924Z",
+    "timestamp": "2025-08-20T11:36:03.881Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,7 +132,7 @@
       {
         "value": "38.275,00",
         "selector": ".pricebox .oneprice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 38275,
         "unsetPrice": false
@@ -152,13 +146,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".pricebox .oneprice"
-      ]
+      "bestPriceSelector": ".pricebox .oneprice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:20:59.925Z",
+    "timestamp": "2025-08-20T11:36:03.883Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -171,8 +163,8 @@
     "title": "Abacus Artificial Crystal Mini Üst Saplı Çanta",
     "img": [
       "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638869695787764743.jpg",
-      "https://stn-brandroom.mncdn.com/Content/img/placeholder2.jpg",
-      "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638869695794639665.jpg"
+      "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638869695794639665.jpg",
+      "https://stn-brandroom.mncdn.com/Content/img/placeholder2.jpg"
     ],
     "primaryImg": "https://stn-brandroom.mncdn.com/mnresize/264/427/Content/media/ProductImg/original/638869695787764743.jpg",
     "link": "https://www.brandroom.com.tr/abacus-artificial-crystal-mini-ust-sapli-canta_600750",
@@ -180,7 +172,7 @@
       {
         "value": "10.525,00",
         "selector": ".pricebox .oneprice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 10525,
         "unsetPrice": false
@@ -194,13 +186,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".pricebox .oneprice"
-      ]
+      "bestPriceSelector": ".pricebox .oneprice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Brandroom",
     "pageURL": "https://www.brandroom.com.tr/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:20:59.926Z",
+    "timestamp": "2025-08-20T11:36:03.885Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
