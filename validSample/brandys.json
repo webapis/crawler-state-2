@@ -14,33 +14,9 @@
       {
         "value": "4.386,75 TL",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4386.75,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.849,00 TL",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5849,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.386,75 TL",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4386.75,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.849,00 TL",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5849,
         "unsetPrice": false
       }
     ],
@@ -52,16 +28,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, Bel | Brandys",
     "pageURL": "https://www.brandys.com.tr/canta-4039",
-    "timestamp": "2025-08-20T08:21:11.227Z",
+    "timestamp": "2025-08-20T11:36:53.860Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,33 +56,9 @@
       {
         "value": "5.039,30 TL",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5039.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "7.199,00 TL",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7199,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.039,30 TL",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5039.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "7.199,00 TL",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7199,
         "unsetPrice": false
       }
     ],
@@ -123,16 +70,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, Bel | Brandys",
     "pageURL": "https://www.brandys.com.tr/canta-4039",
-    "timestamp": "2025-08-20T08:21:11.229Z",
+    "timestamp": "2025-08-20T11:36:53.862Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -156,33 +98,9 @@
       {
         "value": "3.149,30 TL",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3149.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.499,00 TL",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4499,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.149,30 TL",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3149.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.499,00 TL",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4499,
         "unsetPrice": false
       }
     ],
@@ -194,16 +112,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, Bel | Brandys",
     "pageURL": "https://www.brandys.com.tr/canta-4039",
-    "timestamp": "2025-08-20T08:21:11.230Z",
+    "timestamp": "2025-08-20T11:36:53.865Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -227,33 +140,9 @@
       {
         "value": "3.149,30 TL",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3149.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.499,00 TL",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4499,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.149,30 TL",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3149.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.499,00 TL",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4499,
         "unsetPrice": false
       }
     ],
@@ -265,16 +154,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, Bel | Brandys",
     "pageURL": "https://www.brandys.com.tr/canta-4039",
-    "timestamp": "2025-08-20T08:21:11.232Z",
+    "timestamp": "2025-08-20T11:36:53.867Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -298,33 +182,9 @@
       {
         "value": "4.724,30 TL",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4724.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.749,00 TL",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 6749,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.724,30 TL",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4724.3,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.749,00 TL",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 6749,
         "unsetPrice": false
       }
     ],
@@ -336,16 +196,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri | Omuz, Sırt, Bel | Brandys",
     "pageURL": "https://www.brandys.com.tr/canta-4039",
-    "timestamp": "2025-08-20T08:21:11.233Z",
+    "timestamp": "2025-08-20T11:36:53.869Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
