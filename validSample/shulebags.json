@@ -1,42 +1,18 @@
 [
   {
-    "title": "Petre Makyaj Çantalı Omuz Çantası Siyah",
+    "title": "Lior Kapaklı Omuz Çanta Fındık Kabuğu",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2978460f-8d2e-46bf-812f-b8687462cb38-5-ac35.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e271fa58-6cc8-41e6-a2fd-f7f67dc64765-54e-b0.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/2978460f-8d2e-46bf-812f-b8687462cb38-5-ac35.jpg",
-    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-siyah-4135",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e271fa58-6cc8-41e6-a2fd-f7f67dc64765-54e-b0.jpg",
+    "link": "https://www.shulebags.com/lior-kapakli-omuz-canta-findik-kabugu-5206",
     "price": [
       {
-        "value": "₺499,90",
+        "value": "₺389,90",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺499,90",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
+        "numericValue": 389.9,
         "unsetPrice": false
       }
     ],
@@ -48,16 +24,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-20T08:08:59.520Z",
+    "timestamp": "2025-08-20T11:26:01.162Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -67,43 +38,19 @@
     "mediaType": "image"
   },
   {
-    "title": "Petre Makyaj Çantalı Omuz Çantası Bordo",
+    "title": "Lior Kapaklı Omuz Çanta Krem",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/96e44cc8-bc20-44b6-bdf7-e1d05f4f70b0-f61a5b.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/5bdbf814-7a17-4b9d-b2f4-b0f9e39c643c-7c67-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/96e44cc8-bc20-44b6-bdf7-e1d05f4f70b0-f61a5b.jpg",
-    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-bordo-4134",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/5bdbf814-7a17-4b9d-b2f4-b0f9e39c643c-7c67-4.jpg",
+    "link": "https://www.shulebags.com/lior-kapakli-omuz-canta-krem-5207",
     "price": [
       {
-        "value": "₺499,90",
+        "value": "₺389,90",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺499,90",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
+        "numericValue": 389.9,
         "unsetPrice": false
       }
     ],
@@ -115,16 +62,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-20T08:08:59.521Z",
+    "timestamp": "2025-08-20T11:26:01.165Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,43 +76,19 @@
     "mediaType": "image"
   },
   {
-    "title": "Petre Makyaj Çantalı Omuz Çantası Acı Kahve",
+    "title": "Lior Kapaklı Omuz Çanta Sarı",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/0bbcbdd4-3e7c-4bd6-bc96-6d896ed43de1-039703.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/cfe2ef5d-4e09-496a-95b2-bb6583f3bb75-20d1dd.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/0bbcbdd4-3e7c-4bd6-bc96-6d896ed43de1-039703.jpg",
-    "link": "https://www.shulebags.com/petre-makyaj-cantali-omuz-cantasi-aci-kahve-4133",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/cfe2ef5d-4e09-496a-95b2-bb6583f3bb75-20d1dd.jpg",
+    "link": "https://www.shulebags.com/lior-kapakli-omuz-canta-sari-5208",
     "price": [
       {
-        "value": "₺499,90",
+        "value": "₺389,90",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺499,90",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,92",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.92,
+        "numericValue": 389.9,
         "unsetPrice": false
       }
     ],
@@ -182,16 +100,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-20T08:08:59.523Z",
+    "timestamp": "2025-08-20T11:26:01.168Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -201,43 +114,19 @@
     "mediaType": "image"
   },
   {
-    "title": "Kei Cüzdan  Acı Kahve",
+    "title": "Lior Kapaklı Omuz Çanta Kahverengi",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/fa5efbbd-5034-4afc-9722-7aed5ae4c181-78cd-4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e8fc2a62-6a10-474f-9c73-51a03a3a222b-5b-b07.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/fa5efbbd-5034-4afc-9722-7aed5ae4c181-78cd-4.jpg",
-    "link": "https://www.shulebags.com/cok-gozlu-kadin-cuzdan-kei-aci-kahve-4698",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e8fc2a62-6a10-474f-9c73-51a03a3a222b-5b-b07.jpg",
+    "link": "https://www.shulebags.com/lior-kapakli-omuz-canta-kahve-5209",
     "price": [
       {
-        "value": "₺399,90",
+        "value": "₺389,90",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 399.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,90",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺399,90",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 399.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺799,90",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.9,
+        "numericValue": 389.9,
         "unsetPrice": false
       }
     ],
@@ -249,16 +138,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-20T08:08:59.525Z",
+    "timestamp": "2025-08-20T11:26:01.171Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -268,43 +152,19 @@
     "mediaType": "image"
   },
   {
-    "title": "Michelle Monogram Omuz Çantası Siyah",
+    "title": "Lior Kapaklı Omuz Çanta Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e311b8f0-dbf0-4655-a978-c779ac40e302--b14f-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/388cd72d-4a5e-43a1-823f-9866b680e5ec-d69d70.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/e311b8f0-dbf0-4655-a978-c779ac40e302--b14f-.jpg",
-    "link": "https://www.shulebags.com/desenli-bigger-omuz-cantasi-michelle-siyah-2648",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/388cd72d-4a5e-43a1-823f-9866b680e5ec-d69d70.jpg",
+    "link": "https://www.shulebags.com/lior-kapakli-omuz-canta-siyah-5210",
     "price": [
       {
-        "value": "₺499,90",
+        "value": "₺389,90",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺899,90",
-        "selector": ".regularPrice .regularPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 899.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺499,90",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺899,90",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 899.9,
+        "numericValue": 389.9,
         "unsetPrice": false
       }
     ],
@@ -316,16 +176,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".regularPrice .regularPriceSpan",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-20T08:08:59.526Z",
+    "timestamp": "2025-08-20T11:26:01.173Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
