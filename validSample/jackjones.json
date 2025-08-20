@@ -24,7 +24,7 @@
       {
         "value": "270,00 TL",
         "selector": ".product-price__list-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 270,
         "unsetPrice": false
@@ -38,13 +38,11 @@
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ]
+      "bestPriceSelector": ".product-price__list-price"
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-20T08:00:45.303Z",
+    "timestamp": "2025-08-20T11:19:19.679Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,7 +64,7 @@
       {
         "value": "250,00 TL",
         "selector": ".product-price__list-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 250,
         "unsetPrice": false
@@ -80,13 +78,11 @@
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ]
+      "bestPriceSelector": ".product-price__list-price"
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-20T08:00:45.305Z",
+    "timestamp": "2025-08-20T11:19:19.681Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,7 +104,7 @@
       {
         "value": "270,00 TL",
         "selector": ".product-price__list-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 270,
         "unsetPrice": false
@@ -122,13 +118,11 @@
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ]
+      "bestPriceSelector": ".product-price__list-price"
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-20T08:00:45.306Z",
+    "timestamp": "2025-08-20T11:19:19.684Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,7 +144,7 @@
       {
         "value": "270,00 TL",
         "selector": ".product-price__list-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 270,
         "unsetPrice": false
@@ -164,13 +158,11 @@
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ]
+      "bestPriceSelector": ".product-price__list-price"
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-20T08:00:45.307Z",
+    "timestamp": "2025-08-20T11:19:19.686Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -192,7 +184,7 @@
       {
         "value": "270,00 TL",
         "selector": ".product-price__list-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 270,
         "unsetPrice": false
@@ -206,13 +198,11 @@
       "titleSelectorMatched": ".product-tile-info__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-price__list-price"
-      ]
+      "bestPriceSelector": ".product-price__list-price"
     },
     "pageTitle": "Erkek Aksesuar Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim/aksesuar",
-    "timestamp": "2025-08-20T08:00:45.308Z",
+    "timestamp": "2025-08-20T11:19:19.688Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
