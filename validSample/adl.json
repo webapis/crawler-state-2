@@ -13,17 +13,9 @@
       {
         "value": "1.999,95 TL",
         "selector": ".second-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.999,95 TL",
-        "selector": ".first-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2999.95,
         "unsetPrice": false
       }
     ],
@@ -35,14 +27,11 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-price",
-        ".first-price"
-      ]
+      "bestPriceSelector": ".second-price"
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T07:51:14.836Z",
+    "timestamp": "2025-08-20T11:12:28.630Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -65,17 +54,9 @@
       {
         "value": "1.299,95 TL",
         "selector": ".second-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1299.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.999,95 TL",
-        "selector": ".first-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1999.95,
         "unsetPrice": false
       }
     ],
@@ -87,14 +68,11 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-price",
-        ".first-price"
-      ]
+      "bestPriceSelector": ".second-price"
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T07:51:14.837Z",
+    "timestamp": "2025-08-20T11:12:28.632Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -116,17 +94,9 @@
       {
         "value": "1.999,95 TL",
         "selector": ".second-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.499,95 TL",
-        "selector": ".first-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3499.95,
         "unsetPrice": false
       }
     ],
@@ -138,14 +108,11 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-price",
-        ".first-price"
-      ]
+      "bestPriceSelector": ".second-price"
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T07:51:14.839Z",
+    "timestamp": "2025-08-20T11:12:28.635Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,17 +135,9 @@
       {
         "value": "1.999,95 TL",
         "selector": ".second-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.999,95 TL",
-        "selector": ".first-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2999.95,
         "unsetPrice": false
       }
     ],
@@ -190,14 +149,11 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-price",
-        ".first-price"
-      ]
+      "bestPriceSelector": ".second-price"
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T07:51:14.840Z",
+    "timestamp": "2025-08-20T11:12:28.637Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -220,17 +176,9 @@
       {
         "value": "1.299,95 TL",
         "selector": ".second-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1299.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.799,95 TL",
-        "selector": ".first-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1799.95,
         "unsetPrice": false
       }
     ],
@@ -242,14 +190,11 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".second-price",
-        ".first-price"
-      ]
+      "bestPriceSelector": ".second-price"
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T07:51:14.841Z",
+    "timestamp": "2025-08-20T11:12:28.638Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
