@@ -8,27 +8,11 @@
     "link": "https://www.tergan.com.tr/siyah-print-kadin-omuz-cantasi-s25y1pr09166-t0e-siyah",
     "price": [
       {
-        "value": "1.589,50",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1589.5,
-        "unsetPrice": false
-      },
-      {
         "value": "1.589,50 TL",
         "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1589.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "3.179,00 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3179,
         "unsetPrice": false
       }
     ],
@@ -40,15 +24,11 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.product-price",
-        ".product-price-wrapper .current-price",
-        ".product-discounted-price"
-      ]
+      "bestPriceSelector": ".product-price-wrapper .current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T08:10:11.246Z",
+    "timestamp": "2025-08-20T11:26:36.640Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,27 +46,11 @@
     "link": "https://www.tergan.com.tr/siyah-deri-kadin-omuz-cantasi-s25y1bc80429-a41",
     "price": [
       {
-        "value": "7.294,99",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7294.99,
-        "unsetPrice": false
-      },
-      {
         "value": "7.294,99 TL",
         "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7294.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "14.589,99 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 14589.99,
         "unsetPrice": false
       }
     ],
@@ -98,15 +62,11 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.product-price",
-        ".product-price-wrapper .current-price",
-        ".product-discounted-price"
-      ]
+      "bestPriceSelector": ".product-price-wrapper .current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T08:10:11.248Z",
+    "timestamp": "2025-08-20T11:26:36.642Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -124,27 +84,11 @@
     "link": "https://www.tergan.com.tr/yesil-deri-kadin-omuz-cantasi-s25y1bc79121-g8z-yesil",
     "price": [
       {
-        "value": "7.094,99",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7094.99,
-        "unsetPrice": false
-      },
-      {
         "value": "7.094,99 TL",
         "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7094.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "14.189,99 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 14189.99,
         "unsetPrice": false
       }
     ],
@@ -156,15 +100,11 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.product-price",
-        ".product-price-wrapper .current-price",
-        ".product-discounted-price"
-      ]
+      "bestPriceSelector": ".product-price-wrapper .current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T08:10:11.249Z",
+    "timestamp": "2025-08-20T11:26:36.644Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -182,27 +122,11 @@
     "link": "https://www.tergan.com.tr/bronz-print-kadin-omuz-cantasi-s25y1pr09172-r7p",
     "price": [
       {
-        "value": "2.329,50",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2329.5,
-        "unsetPrice": false
-      },
-      {
         "value": "2.329,50 TL",
         "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2329.5,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.659,00 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4659,
         "unsetPrice": false
       }
     ],
@@ -214,15 +138,11 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.product-price",
-        ".product-price-wrapper .current-price",
-        ".product-discounted-price"
-      ]
+      "bestPriceSelector": ".product-price-wrapper .current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T08:10:11.251Z",
+    "timestamp": "2025-08-20T11:26:36.645Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -240,27 +160,11 @@
     "link": "https://www.tergan.com.tr/bordo-deri-kadin-omuz-cantasi-s25y1bc78868-m71",
     "price": [
       {
-        "value": "6.049,99",
-        "selector": "span.product-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 6049.99,
-        "unsetPrice": false
-      },
-      {
         "value": "6.049,99 TL",
         "selector": ".product-price-wrapper .current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 6049.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "12.099,99 TL",
-        "selector": ".product-discounted-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 12099.99,
         "unsetPrice": false
       }
     ],
@@ -272,15 +176,11 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.product-price",
-        ".product-price-wrapper .current-price",
-        ".product-discounted-price"
-      ]
+      "bestPriceSelector": ".product-price-wrapper .current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T08:10:11.252Z",
+    "timestamp": "2025-08-20T11:26:36.647Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
