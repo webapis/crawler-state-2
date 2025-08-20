@@ -2,23 +2,15 @@
   {
     "title": "Metal Aksesuarlı Çanta Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-466eea.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-466eea.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-466eea.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-466eea.jpg",
     "link": "https://www.birelin.com/metal-aksesuarli-canta-siyah",
     "price": [
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -32,14 +24,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-20T07:52:29.238Z",
+    "timestamp": "2025-08-20T11:13:34.450Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -51,23 +40,15 @@
   {
     "title": "Gold Zincirli Çanta Kahverengi",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-kahverengi-04066-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-kahverengi-04066-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-kahverengi-04066-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-kahverengi-04066-.jpg",
     "link": "https://www.birelin.com/gold-zincirli-canta-kahverengi",
     "price": [
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -81,14 +62,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-20T07:52:29.239Z",
+    "timestamp": "2025-08-20T11:13:34.452Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -100,23 +78,15 @@
   {
     "title": "Boyun Askılı Çanta Krem",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-krem--4fa2-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-krem--4fa2-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-krem--4fa2-.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-krem--4fa2-.jpg",
     "link": "https://www.birelin.com/boyun-askili-canta-krem",
     "price": [
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -130,14 +100,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-20T07:52:29.241Z",
+    "timestamp": "2025-08-20T11:13:34.454Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -149,23 +116,15 @@
   {
     "title": "Boyun Askılı Çanta Lacivert",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-lacivert-e86e-4.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-lacivert-e86e-4.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-lacivert-e86e-4.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-lacivert-e86e-4.jpg",
     "link": "https://www.birelin.com/boyun-askili-canta-lacivert",
     "price": [
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -179,14 +138,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-20T07:52:29.242Z",
+    "timestamp": "2025-08-20T11:13:34.457Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -198,23 +154,15 @@
   {
     "title": "Gold Zincirli Çanta Siyah",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-1abeb1.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-1abeb1.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=440,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-1abeb1.jpg",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=840,quality=99/38769/uploads/urunresimleri/buyuk/bag-siyah-1abeb1.jpg",
     "link": "https://www.birelin.com/gold-zincirli-canta-siyah1",
     "price": [
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -228,14 +176,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "AKSESUAR",
     "pageURL": "https://www.birelin.com/aksesuar",
-    "timestamp": "2025-08-20T07:52:29.243Z",
+    "timestamp": "2025-08-20T11:13:34.459Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
