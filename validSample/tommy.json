@@ -35,7 +35,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T03:55:31.860Z",
+    "timestamp": "2025-08-20T06:42:06.499Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,7 +80,49 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T03:55:31.862Z",
+    "timestamp": "2025-08-20T06:42:06.501Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kadın TH Distinct Tote Çanta",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463551173523.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463551173523.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
+    "link": "https://tr.tommy.com/kadin-th-distinct-tote-canta_201052",
+    "price": [
+      {
+        "value": "7.199,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7199,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col-6",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".p-price .one-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-08-20T06:42:06.502Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,49 +167,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T03:55:31.863Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Kadın TH Distinct Tote Çanta",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463551173523.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463551173523.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
-    "link": "https://tr.tommy.com/kadin-th-distinct-tote-canta_201052",
-    "price": [
-      {
-        "value": "7.199,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7199,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col-6",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T03:55:31.864Z",
+    "timestamp": "2025-08-20T06:42:06.504Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -212,7 +212,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T03:55:31.866Z",
+    "timestamp": "2025-08-20T06:42:06.505Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
