@@ -11,17 +11,9 @@
     "link": "https://www.pierrecardin.com.tr/siyah-canta-50318391-vr046/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.289,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1289.4,
-        "unsetPrice": false
-      },
-      {
         "value": "1.289,40 TL",
         "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1289.4,
         "unsetPrice": false
@@ -35,14 +27,11 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ]
+      "bestPriceSelector": ".product__listing--basket-price span"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T08:05:08.945Z",
+    "timestamp": "2025-08-20T11:22:29.931Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,17 +52,9 @@
     "link": "https://www.pierrecardin.com.tr/siyah-canta-50310479-vr046/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 899,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 899.4,
-        "unsetPrice": false
-      },
-      {
         "value": "899,40 TL",
         "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 899.4,
         "unsetPrice": false
@@ -87,14 +68,11 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ]
+      "bestPriceSelector": ".product__listing--basket-price span"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T08:05:08.947Z",
+    "timestamp": "2025-08-20T11:22:29.934Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -115,17 +93,9 @@
     "link": "https://www.pierrecardin.com.tr/siyah-canta-50318424-vr046/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1259.4,
-        "unsetPrice": false
-      },
-      {
         "value": "1.259,40 TL",
         "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -139,14 +109,11 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ]
+      "bestPriceSelector": ".product__listing--basket-price span"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T08:05:08.948Z",
+    "timestamp": "2025-08-20T11:22:29.936Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -167,17 +134,9 @@
     "link": "https://www.pierrecardin.com.tr/vizon-canta-50318424-vr052/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.259,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1259.4,
-        "unsetPrice": false
-      },
-      {
         "value": "1.259,40 TL",
         "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1259.4,
         "unsetPrice": false
@@ -191,14 +150,11 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ]
+      "bestPriceSelector": ".product__listing--basket-price span"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T08:05:08.949Z",
+    "timestamp": "2025-08-20T11:22:29.938Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -219,17 +175,9 @@
     "link": "https://www.pierrecardin.com.tr/vizon-canta-50318411-vr052/",
     "price": [
       {
-        "value": "Sepetteki Fiyatı 1.559,40 TL",
-        "selector": ".product__listing--basket-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1559.4,
-        "unsetPrice": false
-      },
-      {
         "value": "1.559,40 TL",
         "selector": ".product__listing--basket-price span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1559.4,
         "unsetPrice": false
@@ -243,14 +191,11 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__listing--basket-price",
-        ".product__listing--basket-price span"
-      ]
+      "bestPriceSelector": ".product__listing--basket-price span"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T08:05:08.951Z",
+    "timestamp": "2025-08-20T11:22:29.941Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
