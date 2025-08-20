@@ -45,7 +45,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
+      "matchedSelector": "[data-index].product-item",
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
@@ -57,7 +57,7 @@
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-19T08:15:28.274Z",
+    "timestamp": "2025-08-20T03:43:30.310Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,7 +112,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
+      "matchedSelector": "[data-index].product-item",
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
@@ -124,7 +124,7 @@
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-19T08:15:28.276Z",
+    "timestamp": "2025-08-20T03:43:30.311Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -175,7 +175,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
+      "matchedSelector": "[data-index].product-item",
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
@@ -187,7 +187,7 @@
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-19T08:15:28.277Z",
+    "timestamp": "2025-08-20T03:43:30.313Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -233,11 +233,11 @@
         "unsetPrice": false
       },
       {
-        "value": "172,73 EUR",
+        "value": "172,74 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "isJavaScript": false,
-        "numericValue": 6392.74,
+        "numericValue": 6393.11,
         "unsetPrice": false
       }
     ],
@@ -245,7 +245,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
+      "matchedSelector": "[data-index].product-item",
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
@@ -257,7 +257,7 @@
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-19T08:15:28.278Z",
+    "timestamp": "2025-08-20T03:43:30.314Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -298,11 +298,11 @@
         "unsetPrice": false
       },
       {
-        "value": "138,18 EUR",
+        "value": "138,19 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "innerText",
         "isJavaScript": false,
-        "numericValue": 5114.04,
+        "numericValue": 5114.41,
         "unsetPrice": false
       }
     ],
@@ -310,7 +310,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-item",
+      "matchedSelector": "[data-index].product-item",
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
@@ -322,7 +322,7 @@
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-19T08:15:28.280Z",
+    "timestamp": "2025-08-20T03:43:30.315Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
