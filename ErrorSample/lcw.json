@@ -31,9 +31,52 @@
         ".current-price"
       ]
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 13",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=13",
-    "timestamp": "2025-08-19T08:30:01.290Z",
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 9",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=9",
+    "timestamp": "2025-08-20T03:57:13.533Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Çok Bölmeli Kadın Sırt Çantası ASC001",
+    "img": [
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515",
+      "https://www.lcw.com/kadin-canta-t-126/blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515"
+    ],
+    "primaryImg": "blob:https://sellerportal.lcwaikiki.com/54aab4d3-265c-4ea9-97be-8a8fbf7e2515 300w",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-asc001-gri-o-3391470",
+    "price": [
+      {
+        "value": "499,90 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 499.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": [
+        ".product-card"
+      ],
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".current-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 11",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=11",
+    "timestamp": "2025-08-20T03:57:14.960Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
