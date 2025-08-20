@@ -41,7 +41,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-19T08:25:52.911Z",
+    "timestamp": "2025-08-20T03:53:24.775Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -83,7 +83,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-19T08:25:52.912Z",
+    "timestamp": "2025-08-20T03:53:24.777Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +134,58 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-19T08:25:52.913Z",
+    "timestamp": "2025-08-20T03:53:24.778Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "CIESA 5FX Taba Kadın Çapraz Çanta",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986182_f1.jpg?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=80"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-ciesa-5fx-taba-kadin-capraz-canta-101986183",
+    "price": [
+      {
+        "value": "1.799,00 TL",
+        "selector": ".product-pricing-one__price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1799,
+        "unsetPrice": false
+      },
+      {
+        "value": "2.299,00 TL",
+        "selector": ".product-pricing-two span",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 2299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-pricing-one__price",
+        ".product-pricing-two span"
+      ]
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=6",
+    "timestamp": "2025-08-20T03:53:24.779Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,49 +235,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-19T08:25:52.914Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "SHINSHIN 5FX Siyah Kadın Çapraz Çanta",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/24/102006633_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/24/102006633_f1.jpg?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/24/102006632_f1.JPG?w=80"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/24/102006633_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-shinshin-5fx-siyah-kadin-capraz-canta-102006633",
-    "price": [
-      {
-        "value": "2.299,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2299,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price"
-      ]
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-19T08:25:52.915Z",
+    "timestamp": "2025-08-20T03:53:24.780Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
