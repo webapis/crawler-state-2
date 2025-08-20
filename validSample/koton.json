@@ -12,7 +12,7 @@
       {
         "value": "949,99 TL",
         "selector": "pz-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 949.99,
         "unsetPrice": false
@@ -26,13 +26,11 @@
       "titleSelectorMatched": "h2 .js-product-link.product-link",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ]
+      "bestPriceSelector": "pz-price"
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T07:51:52.055Z",
+    "pageURL": "https://www.koton.com/kadin-canta/?page=3",
+    "timestamp": "2025-08-20T11:13:15.553Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -54,7 +52,7 @@
       {
         "value": "799,99 TL",
         "selector": "pz-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 799.99,
         "unsetPrice": false
@@ -68,13 +66,11 @@
       "titleSelectorMatched": "h2 .js-product-link.product-link",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ]
+      "bestPriceSelector": "pz-price"
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T07:51:52.057Z",
+    "pageURL": "https://www.koton.com/kadin-canta/?page=3",
+    "timestamp": "2025-08-20T11:13:15.556Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -96,7 +92,7 @@
       {
         "value": "799,99 TL",
         "selector": "pz-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 799.99,
         "unsetPrice": false
@@ -110,13 +106,11 @@
       "titleSelectorMatched": "h2 .js-product-link.product-link",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ]
+      "bestPriceSelector": "pz-price"
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T07:51:52.058Z",
+    "pageURL": "https://www.koton.com/kadin-canta/?page=3",
+    "timestamp": "2025-08-20T11:13:15.558Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,7 +132,7 @@
       {
         "value": "899,99 TL",
         "selector": "pz-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 899.99,
         "unsetPrice": false
@@ -152,13 +146,11 @@
       "titleSelectorMatched": "h2 .js-product-link.product-link",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ]
+      "bestPriceSelector": "pz-price"
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T07:51:52.060Z",
+    "pageURL": "https://www.koton.com/kadin-canta/?page=3",
+    "timestamp": "2025-08-20T11:13:15.560Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -180,7 +172,7 @@
       {
         "value": "599,99 TL",
         "selector": "pz-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 599.99,
         "unsetPrice": false
@@ -194,13 +186,11 @@
       "titleSelectorMatched": "h2 .js-product-link.product-link",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "pz-price"
-      ]
+      "bestPriceSelector": "pz-price"
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T07:51:52.061Z",
+    "pageURL": "https://www.koton.com/kadin-canta/?page=3",
+    "timestamp": "2025-08-20T11:13:15.562Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
