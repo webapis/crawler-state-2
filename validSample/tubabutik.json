@@ -11,7 +11,7 @@
       {
         "value": "250 TL",
         "selector": ".text-sm.font-semibold",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 250,
         "unsetPrice": false
@@ -25,13 +25,11 @@
       "titleSelectorMatched": ".text-left.text-sm.font-medium.text-button-01",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
-      ]
+      "bestPriceSelector": ".text-sm.font-semibold"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-20T08:01:52.850Z",
+    "timestamp": "2025-08-20T11:19:39.969Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,7 +50,7 @@
       {
         "value": "250 TL",
         "selector": ".text-sm.font-semibold",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 250,
         "unsetPrice": false
@@ -66,13 +64,11 @@
       "titleSelectorMatched": ".text-left.text-sm.font-medium.text-button-01",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
-      ]
+      "bestPriceSelector": ".text-sm.font-semibold"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-20T08:01:52.851Z",
+    "timestamp": "2025-08-20T11:19:39.971Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -93,7 +89,7 @@
       {
         "value": "649,99 TL",
         "selector": ".text-sm.font-semibold",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 649.99,
         "unsetPrice": false
@@ -107,13 +103,11 @@
       "titleSelectorMatched": ".text-left.text-sm.font-medium.text-button-01",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
-      ]
+      "bestPriceSelector": ".text-sm.font-semibold"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-20T08:01:52.852Z",
+    "timestamp": "2025-08-20T11:19:39.973Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +128,7 @@
       {
         "value": "649,99 TL",
         "selector": ".text-sm.font-semibold",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 649.99,
         "unsetPrice": false
@@ -148,13 +142,11 @@
       "titleSelectorMatched": ".text-left.text-sm.font-medium.text-button-01",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
-      ]
+      "bestPriceSelector": ".text-sm.font-semibold"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-20T08:01:52.853Z",
+    "timestamp": "2025-08-20T11:19:39.975Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -175,7 +167,7 @@
       {
         "value": "250 TL",
         "selector": ".text-sm.font-semibold",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 250,
         "unsetPrice": false
@@ -189,13 +181,11 @@
       "titleSelectorMatched": ".text-left.text-sm.font-medium.text-button-01",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".text-sm.font-semibold"
-      ]
+      "bestPriceSelector": ".text-sm.font-semibold"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tuba Butik",
     "pageURL": "https://tubabutik.com/canta",
-    "timestamp": "2025-08-20T08:01:52.854Z",
+    "timestamp": "2025-08-20T11:19:39.977Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
