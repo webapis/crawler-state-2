@@ -11,19 +11,11 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/marget-ekru-canta/p/PY3JWM5X25IY-EC2",
     "price": [
       {
-        "value": "₺560.10",
+        "value": "₺560,10",
         "selector": ".prc.prc-last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 560.1,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺1,866.99",
-        "selector": ".prc.prc-first",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1866.99,
         "unsetPrice": false
       }
     ],
@@ -35,14 +27,11 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
-      ]
+      "bestPriceSelector": ".prc.prc-last"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T07:56:30.877Z",
+    "timestamp": "2025-08-20T11:16:03.044Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,19 +52,11 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/aqua-mavi-canta/p/PY7PAGQS25IY-B18",
     "price": [
       {
-        "value": "₺160.20",
+        "value": "₺160,20",
         "selector": ".prc.prc-last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 160.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺533.99",
-        "selector": ".prc.prc-first",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 533.99,
         "unsetPrice": false
       }
     ],
@@ -87,14 +68,11 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
-      ]
+      "bestPriceSelector": ".prc.prc-last"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T07:56:30.879Z",
+    "timestamp": "2025-08-20T11:16:03.047Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,19 +92,11 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/papilla-canta/p/PYHWD64X25IY-134",
     "price": [
       {
-        "value": "₺140.10",
+        "value": "₺140,10",
         "selector": ".prc.prc-last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 140.1,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺466.99",
-        "selector": ".prc.prc-first",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 466.99,
         "unsetPrice": false
       }
     ],
@@ -138,14 +108,11 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
-      ]
+      "bestPriceSelector": ".prc.prc-last"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T07:56:30.880Z",
+    "timestamp": "2025-08-20T11:16:03.049Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,19 +132,11 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/papilla-sari-canta/p/PYT2LDZF25IY-YL2",
     "price": [
       {
-        "value": "₺140.10",
+        "value": "₺140,10",
         "selector": ".prc.prc-last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 140.1,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺466.99",
-        "selector": ".prc.prc-first",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 466.99,
         "unsetPrice": false
       }
     ],
@@ -189,14 +148,11 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
-      ]
+      "bestPriceSelector": ".prc.prc-last"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T07:56:30.882Z",
+    "timestamp": "2025-08-20T11:16:03.051Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -217,19 +173,11 @@
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/sand-canta/p/PYSKCGPL25IY-NAT",
     "price": [
       {
-        "value": "₺1,120.19",
+        "value": "₺1.120,19",
         "selector": ".prc.prc-last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1120.19,
-        "unsetPrice": false
-      },
-      {
-        "value": "₺1,866.99",
-        "selector": ".prc.prc-first",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1866.99,
         "unsetPrice": false
       }
     ],
@@ -241,14 +189,11 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".prc.prc-last",
-        ".prc.prc-first"
-      ]
+      "bestPriceSelector": ".prc.prc-last"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T07:56:30.883Z",
+    "timestamp": "2025-08-20T11:16:03.053Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
