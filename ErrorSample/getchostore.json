@@ -1,191 +1,103 @@
 [
   {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
-        "unsetPrice": false
-      }
+    "title": "Ilıthıya Kadın Çapraz Çanta",
+    "img": [
+      "https://www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=720",
+      "https://www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=1080",
+      "https://www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19051-hardal_9c83e15c-6afd-4f0f-9b18-c84383610cb6.jpg?v=1753357281&width=540",
+      "https://www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19051-hardal_9c83e15c-6afd-4f0f-9b18-c84383610cb6.jpg?v=1753357281&width=1000"
     ],
+    "primaryImg": "//www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=360 360w, //www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=540 540w, //www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=720 720w, //www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=900 900w, //www.getchostore.com/cdn/shop/files/ilithiya-jacquline-kadin-capraz-canta-19050-taba_e1a881af-99e0-4ba4-8e84-b6dbabf73ab6.jpg?v=1753357281&width=1080 1080w",
+    "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/ilithiya-kadin-capraz-canta",
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".grid [data-id]",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
+      "linkSource": "linkElement (matched: .grid-product__link)",
+      "matchedSelector": [
+        ".grid__item.grid-product.medium-up--one-half"
+      ],
+      "titleSelectorMatched": ".grid-product__title",
+      "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": null
     },
-    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
-    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T04:06:02.552Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
+    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – Sayfa 3 – GETCHO",
+    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri?page=3",
+    "timestamp": "2025-08-20T11:35:07.753Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
-        "unsetPrice": false
-      }
+    "title": "Nemamy Kadın El Çantası",
+    "img": [
+      "https://www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=720",
+      "https://www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=1080",
+      "https://www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300457.jpg?v=1750083326&width=540",
+      "https://www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300457.jpg?v=1750083326&width=1000"
     ],
+    "primaryImg": "//www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=360 360w, //www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=540 540w, //www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=720 720w, //www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=900 900w, //www.getchostore.com/cdn/shop/files/nemamy-kadin-el-ve-omuz-cantasi-300456.jpg?v=1750083323&width=1080 1080w",
+    "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/nemamy-kadin-el-cantasi",
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".grid [data-id]",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
+      "linkSource": "linkElement (matched: .grid-product__link)",
+      "matchedSelector": [
+        ".grid__item.grid-product.medium-up--one-half"
+      ],
+      "titleSelectorMatched": ".grid-product__title",
+      "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": null
     },
-    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
-    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T04:06:02.553Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
+    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – Sayfa 16 – GETCHO",
+    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri?page=16",
+    "timestamp": "2025-08-20T11:35:44.610Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
-        "unsetPrice": false
-      }
+    "title": "Kolek Küçük Boy Fermuarlı Su Geçirmez Kadın Çapraz Çanta",
+    "img": [
+      "https://www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=720",
+      "https://www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=1080",
+      "https://www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300528.jpg?v=1753755749&width=540",
+      "https://www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300528.jpg?v=1753755749&width=1000"
     ],
+    "primaryImg": "//www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=360 360w, //www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=540 540w, //www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=720 720w, //www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=900 900w, //www.getchostore.com/cdn/shop/files/kolek-kadin-el-ve-omuz-cantasi-300527.jpg?v=1753755749&width=1080 1080w",
+    "link": "https://www.getchostore.com/collections/kadin-canta-modelleri/products/kolek-kadin-capraz-canta",
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".grid [data-id]",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
+      "linkSource": "linkElement (matched: .grid-product__link)",
+      "matchedSelector": [
+        ".grid__item.grid-product.medium-up--one-half"
+      ],
+      "titleSelectorMatched": ".grid-product__title",
+      "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": null
     },
-    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
-    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T04:06:02.553Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
+    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – Sayfa 16 – GETCHO",
+    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri?page=16",
+    "timestamp": "2025-08-20T11:35:44.615Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".grid [data-id]",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
-    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T04:06:02.554Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".grid [data-id]",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
-    "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T04:06:02.555Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   }
