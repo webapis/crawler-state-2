@@ -28,9 +28,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -40,7 +40,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-19T08:32:19.940Z",
+    "timestamp": "2025-08-20T03:59:17.898Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -78,9 +78,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -90,7 +90,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-19T08:32:19.942Z",
+    "timestamp": "2025-08-20T03:59:17.899Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -100,58 +100,25 @@
     "mediaType": "image"
   },
   {
-    "title": "Bej Spor Çantası",
+    "title": "Renkli Hasır Omuz Çantası",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1911665-70185_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911665-70185_image_1.jpg",
-    "link": "https://www.mavi.com/bej-spor-cantasi/p/1911665-70185",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
+    "link": "https://www.mavi.com/renkli-hasir-omuz-cantasi/p/1911324-70202",
     "price": [
       {
-        "value": "1.499,99 TL",
+        "value": "779,99 TL",
         "selector": ".product-pricing .price",
         "attribute": "innerText",
         "isJavaScript": false,
-        "numericValue": 1499.99,
+        "numericValue": 779.99,
         "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing .price"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-19T08:32:19.943Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Denim Antrasit Omuz Çantası",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913105-88035_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913105-88035_image_1.jpg",
-    "link": "https://www.mavi.com/denim-antrasit-omuz-cantasi/p/1913105-88035",
-    "price": [
+      },
       {
         "value": "1.299,99 TL",
-        "selector": ".product-pricing .price",
+        "selector": ".product-pricing .nodiscount-price",
         "attribute": "innerText",
         "isJavaScript": false,
         "numericValue": 1299.99,
@@ -161,18 +128,19 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
-        ".product-pricing .price"
+        ".product-pricing .price",
+        ".product-pricing .nodiscount-price"
       ]
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-19T08:32:19.944Z",
+    "timestamp": "2025-08-20T03:59:17.901Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,9 +170,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -213,7 +181,48 @@
     },
     "pageTitle": "Kadın Çanta Modelleri",
     "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-08-19T08:32:19.946Z",
+    "timestamp": "2025-08-20T03:59:17.902Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Açık İndigo Omuz Çantası",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1912061-82770_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912061-82770_image_1.jpg",
+    "link": "https://www.mavi.com/acik-indigo-omuz-cantasi/p/1912061-82770",
+    "price": [
+      {
+        "value": "1.199,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1199.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".product-pricing .price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-08-20T03:59:17.904Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
