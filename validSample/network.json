@@ -22,7 +22,7 @@
       {
         "value": "2.499,00 TL",
         "selector": ".product__price.-actual.h4",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2499,
         "unsetPrice": false
@@ -36,13 +36,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__price.-actual.h4"
-      ]
+      "bestPriceSelector": ".product__price.-actual.h4"
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-08-20T07:53:30.513Z",
+    "timestamp": "2025-08-20T11:14:24.990Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -86,17 +84,9 @@
       {
         "value": "5.499,00 TL",
         "selector": ".product__price.-actual.h4",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5499,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.399,60 TL",
-        "selector": ".product__campaignFeaturedArea.-seperated",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4399.6,
         "unsetPrice": false
       }
     ],
@@ -108,14 +98,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__price.-actual.h4",
-        ".product__campaignFeaturedArea.-seperated"
-      ]
+      "bestPriceSelector": ".product__price.-actual.h4"
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-08-20T07:53:30.514Z",
+    "timestamp": "2025-08-20T11:14:24.993Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -159,17 +146,9 @@
       {
         "value": "6.599,00 TL",
         "selector": ".product__price.-actual.h4",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 6599,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.399,60 TL",
-        "selector": ".product__campaignFeaturedArea.-seperated",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4399.6,
         "unsetPrice": false
       }
     ],
@@ -181,14 +160,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__price.-actual.h4",
-        ".product__campaignFeaturedArea.-seperated"
-      ]
+      "bestPriceSelector": ".product__price.-actual.h4"
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-08-20T07:53:30.516Z",
+    "timestamp": "2025-08-20T11:14:24.995Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -232,17 +208,9 @@
       {
         "value": "5.499,00 TL",
         "selector": ".product__price.-actual.h4",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5499,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.399,60 TL",
-        "selector": ".product__campaignFeaturedArea.-seperated",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4399.6,
         "unsetPrice": false
       }
     ],
@@ -254,14 +222,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__price.-actual.h4",
-        ".product__campaignFeaturedArea.-seperated"
-      ]
+      "bestPriceSelector": ".product__price.-actual.h4"
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-08-20T07:53:30.518Z",
+    "timestamp": "2025-08-20T11:14:24.998Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -303,17 +268,9 @@
     "link": "https://www.network.com.tr/taba-kadin-deri-canta-p-192700",
     "price": [
       {
-        "value": "4.799,00 TL",
-        "selector": ".product__price.-actual.h4",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4799,
-        "unsetPrice": false
-      },
-      {
         "value": "5.999,00 TL",
         "selector": ".product__price.h5.-label.-old.-size",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5999,
         "unsetPrice": false
@@ -327,14 +284,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product__price.-actual.h4",
-        ".product__price.h5.-label.-old.-size"
-      ]
+      "bestPriceSelector": ".product__price.h5.-label.-old.-size"
     },
     "pageTitle": "Kadın Çantaları: Omuz Çantası, Kol Çantası, Büyük Çantalar - Network",
     "pageURL": "https://www.network.com.tr/canta-731",
-    "timestamp": "2025-08-20T07:53:30.520Z",
+    "timestamp": "2025-08-20T11:14:25.000Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
