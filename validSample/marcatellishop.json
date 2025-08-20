@@ -10,7 +10,7 @@
       {
         "value": "t 3.000,00",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3000,
         "unsetPrice": false
@@ -24,13 +24,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T08:17:28.748Z",
+    "timestamp": "2025-08-20T11:33:33.707Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,7 +48,7 @@
       {
         "value": "t 3.000,00",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3000,
         "unsetPrice": false
@@ -64,13 +62,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T08:17:28.750Z",
+    "timestamp": "2025-08-20T11:33:33.709Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,7 +86,7 @@
       {
         "value": "t 2.100,00",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2100,
         "unsetPrice": false
@@ -104,13 +100,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T08:17:28.751Z",
+    "timestamp": "2025-08-20T11:33:33.711Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,7 +124,7 @@
       {
         "value": "t 4.500,00",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4500,
         "unsetPrice": false
@@ -144,13 +138,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T08:17:28.752Z",
+    "timestamp": "2025-08-20T11:33:33.713Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -170,7 +162,7 @@
       {
         "value": "t 3.650,00",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3650,
         "unsetPrice": false
@@ -184,13 +176,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T08:17:28.753Z",
+    "timestamp": "2025-08-20T11:33:33.715Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
