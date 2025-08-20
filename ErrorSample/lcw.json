@@ -11,7 +11,7 @@
       {
         "value": "499,90 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 499.9,
         "unsetPrice": false
@@ -27,13 +27,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 12",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=12",
-    "timestamp": "2025-08-20T08:09:24.834Z",
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 9",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=9",
+    "timestamp": "2025-08-20T11:26:27.772Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -54,7 +52,7 @@
       {
         "value": "499,90 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 499.9,
         "unsetPrice": false
@@ -70,13 +68,11 @@
       "titleSelectorMatched": ".product-description.product-card-info__description",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 13",
     "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=13",
-    "timestamp": "2025-08-20T08:09:42.889Z",
+    "timestamp": "2025-08-20T11:26:38.781Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
