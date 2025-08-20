@@ -7,32 +7,16 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-328988.jpg?v=1753173291&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-328988.jpg?v=1753173291&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-cabin-trolley-valiz-black-851374.jpg?v=1753173291&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-texel-cabin-trolley-valiz-1",
     "price": [
       {
         "value": "7.550 TL - 9.814 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "15.099 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 15099,
-        "unsetPrice": false
-      },
-      {
-        "value": "15.099 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 15099,
-        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -43,13 +27,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.979Z",
+    "timestamp": "2025-08-20T11:25:24.221Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,32 +48,16 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-948031.jpg?v=1753362163&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-948031.jpg?v=1753362163&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-sand-2240550.jpg?v=1753472811&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-tote-bag-mini-omuz-cantasi-1-1",
     "price": [
       {
         "value": "2.080 TL - 2.703 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4159,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4159,
-        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -102,13 +68,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:37.000Z",
+    "timestamp": "2025-08-20T11:25:24.254Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,32 +89,16 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-915189.jpg?v=1743217699&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-915189.jpg?v=1743217699&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-hilo-weekend-bag-seyahat-cantasi-grey-961727.jpg?v=1743217699&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-hilo-weekend-bag-14200",
     "price": [
       {
         "value": "2.580 TL - 3.353 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "5.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5159,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5159,
-        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -161,74 +109,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:37.025Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Rolltop Rucksack Mini Sırt Çantası",
-    "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=200"
-    ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=800 800w,\n                      ",
-    "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-mini-sirt-cantasi-1",
-    "price": [
-      {
-        "value": "2.820 TL - 3.665 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "5.639 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5639,
-        "unsetPrice": false
-      },
-      {
-        "value": "5.639 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5639,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .boost-sd__product-link)",
-      "matchedSelector": [
-        ".boost-sd__product-item"
-      ],
-      "titleSelectorMatched": ".boost-sd__product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
-    },
-    "pageTitle": "Kadın Çanta – Sayfa 4 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=4",
-    "timestamp": "2025-08-20T08:07:46.912Z",
+    "timestamp": "2025-08-20T11:25:24.285Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -245,32 +130,16 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-967565.jpg?v=1744030309&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-967565.jpg?v=1744030309&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-texel-duffel-bag-small-seyahat-cantasi-green-615162.jpg?v=1744030309&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-texel-duffel-bag-small",
     "price": [
       {
         "value": "3.834 TL - 4.985 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
-      },
-      {
-        "value": "7.669 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7669,
-        "unsetPrice": false
-      },
-      {
-        "value": "7.669 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7669,
-        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -283,13 +152,54 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
-    "timestamp": "2025-08-20T08:07:47.159Z",
+    "timestamp": "2025-08-20T11:25:33.212Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Retreat Small Sırt Çantası",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=200"
+    ],
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/herschel-retreat-small-sirt-cantasi",
+    "price": [
+      {
+        "value": "4.399 TL - 4.599 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .boost-sd__product-link)",
+      "matchedSelector": [
+        ".boost-sd__product-item"
+      ],
+      "titleSelectorMatched": ".boost-sd__product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".boost-sd__format-currency"
+    },
+    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
+    "timestamp": "2025-08-20T11:25:33.245Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
