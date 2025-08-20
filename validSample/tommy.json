@@ -15,7 +15,7 @@
       {
         "value": "3.599,00 TL",
         "selector": ".p-price .one-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3599,
         "unsetPrice": false
@@ -29,13 +29,11 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ]
+      "bestPriceSelector": ".p-price .one-price"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T08:07:00.812Z",
+    "timestamp": "2025-08-20T11:24:35.350Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,7 +58,7 @@
       {
         "value": "5.849,00 TL",
         "selector": ".old-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5849,
         "unsetPrice": false
@@ -74,13 +72,11 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".old-price"
-      ]
+      "bestPriceSelector": ".old-price"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T08:07:00.814Z",
+    "timestamp": "2025-08-20T11:24:35.352Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,7 +98,7 @@
       {
         "value": "7.199,00 TL",
         "selector": ".p-price .one-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7199,
         "unsetPrice": false
@@ -116,13 +112,11 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ]
+      "bestPriceSelector": ".p-price .one-price"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T08:07:00.815Z",
+    "timestamp": "2025-08-20T11:24:35.354Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -147,7 +141,7 @@
       {
         "value": "4.499,00 TL",
         "selector": ".p-price .one-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4499,
         "unsetPrice": false
@@ -161,13 +155,11 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ]
+      "bestPriceSelector": ".p-price .one-price"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T08:07:00.816Z",
+    "timestamp": "2025-08-20T11:24:35.356Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -192,7 +184,7 @@
       {
         "value": "7.199,00 TL",
         "selector": ".p-price .one-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7199,
         "unsetPrice": false
@@ -206,13 +198,11 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".p-price .one-price"
-      ]
+      "bestPriceSelector": ".p-price .one-price"
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-08-20T08:07:00.818Z",
+    "timestamp": "2025-08-20T11:24:35.358Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
