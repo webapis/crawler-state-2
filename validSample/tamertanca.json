@@ -11,26 +11,26 @@
       {
         "value": "4499,46 TL",
         "selector": ".KatSepetFiyat span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4499.46,
         "unsetPrice": false
       },
       {
-        "value": "4.999,40 TL",
+        "value": "4.999,40 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 4999.4,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
-        "value": "7.142,00 TL",
+        "value": "7.142,00 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 7142,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -49,12 +49,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:21:34.649Z",
+    "timestamp": "2025-08-20T09:38:24.920Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -70,26 +70,26 @@
       {
         "value": "1799,28 TL",
         "selector": ".KatSepetFiyat span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1799.28,
         "unsetPrice": false
       },
       {
-        "value": "1.999,20 TL",
+        "value": "1.999,20 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 1999.2,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
-        "value": "2.856,00 TL",
+        "value": "2.856,00 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2856,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -108,12 +108,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:21:34.652Z",
+    "timestamp": "2025-08-20T09:38:24.923Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -129,26 +129,26 @@
       {
         "value": "2429,28 TL",
         "selector": ".KatSepetFiyat span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2429.28,
         "unsetPrice": false
       },
       {
-        "value": "2.699,20 TL",
+        "value": "2.699,20 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2699.2,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
-        "value": "3.856,00 TL",
+        "value": "3.856,00 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 3856,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -167,12 +167,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:21:34.654Z",
+    "timestamp": "2025-08-20T09:38:24.925Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -188,26 +188,26 @@
       {
         "value": "1799,28 TL",
         "selector": ".KatSepetFiyat span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1799.28,
         "unsetPrice": false
       },
       {
-        "value": "1.999,20 TL",
+        "value": "1.999,20 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 1999.2,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
-        "value": "2.856,00 TL",
+        "value": "2.856,00 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2856,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -226,12 +226,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:21:34.656Z",
+    "timestamp": "2025-08-20T09:38:24.926Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -247,26 +247,26 @@
       {
         "value": "1349,46 TL",
         "selector": ".KatSepetFiyat span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1349.46,
         "unsetPrice": false
       },
       {
-        "value": "1.499,40 TL",
+        "value": "1.499,40 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 1499.4,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       },
       {
-        "value": "2.142,00 TL",
+        "value": "2.142,00 TL\n                      \n                            \n                      KDV Dahil",
         "selector": ".productPrice .regularPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2142,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -285,12 +285,12 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:21:34.658Z",
+    "timestamp": "2025-08-20T09:38:24.928Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   }
