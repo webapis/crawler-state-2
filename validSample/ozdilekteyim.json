@@ -11,7 +11,7 @@
       {
         "value": "959,99 TL",
         "selector": ".current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 959.99,
         "unsetPrice": false
@@ -25,13 +25,11 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T08:19:10.407Z",
+    "timestamp": "2025-08-20T11:34:56.282Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,17 +50,9 @@
       {
         "value": "854,99 TL",
         "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 854.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "949,99 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 949.99,
         "unsetPrice": false
       }
     ],
@@ -74,14 +64,11 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price.promotion-current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T08:19:10.409Z",
+    "timestamp": "2025-08-20T11:34:56.284Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,17 +89,9 @@
       {
         "value": "2.429,40 TL",
         "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2429.4,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.049,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4049,
         "unsetPrice": false
       }
     ],
@@ -124,14 +103,11 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price.promotion-current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T08:19:10.410Z",
+    "timestamp": "2025-08-20T11:34:56.286Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -152,17 +128,9 @@
       {
         "value": "1.745,10 TL",
         "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1745.1,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.939,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1939,
         "unsetPrice": false
       }
     ],
@@ -174,14 +142,11 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price.promotion-current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T08:19:10.412Z",
+    "timestamp": "2025-08-20T11:34:56.288Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,17 +167,9 @@
       {
         "value": "854,10 TL",
         "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 854.1,
-        "unsetPrice": false
-      },
-      {
-        "value": "949,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 949,
         "unsetPrice": false
       }
     ],
@@ -224,14 +181,11 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "bestPriceSelector": ".current-price.promotion-current-price"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T08:19:10.414Z",
+    "timestamp": "2025-08-20T11:34:56.290Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
