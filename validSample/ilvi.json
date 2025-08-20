@@ -1,1 +1,319 @@
-[]
+[
+  {
+    "title": "Kranj Altın Renk Kadın Portföy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-altin-renk-kadin-porfoy-canta--6402-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-altin-renk-kadin-porfoy-canta--6402-.jpg",
+    "link": "https://www.ilvi.com/kranj-altin-renk-kadin-porfoy-canta",
+    "price": [
+      {
+        "value": "250.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "250.00$",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-20T03:54:06.325Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kranj Siyah Kadın Porföy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-siyah-kadin-porfoy-canta-6ea-8e.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-siyah-kadin-porfoy-canta-6ea-8e.jpg",
+    "link": "https://www.ilvi.com/kranj-siyah-kadin-porfoy-canta",
+    "price": [
+      {
+        "value": "250.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "250.00$",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 8375,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-20T03:54:06.327Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Doolin Gümüş Renk Taşlı Kadın Portföy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-gumus-renk-tasli-kadin-portfoy--87260-.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-gumus-renk-tasli-kadin-portfoy--87260-.jpg",
+    "link": "https://www.ilvi.com/doolin-gumus-kadin-porfoy-canta",
+    "price": [
+      {
+        "value": "225.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7973,
+        "unsetPrice": false
+      },
+      {
+        "value": "225.00$",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7973,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-20T03:54:06.328Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Doolin Altın Renk Taşlı Kadın Porftöy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-altin-renk-tasli-kadin-porftoy--789668.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-altin-renk-tasli-kadin-porftoy--789668.jpg",
+    "link": "https://www.ilvi.com/doolin-altin-kadin-porfoy-canta",
+    "price": [
+      {
+        "value": "225.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".regularPrice .regularPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7973,
+        "unsetPrice": false
+      },
+      {
+        "value": "225.00$",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7537.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "238.00$",
+        "selector": ".productPrice .regularPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 7973,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".regularPrice .regularPriceSpan",
+        ".productPrice .discountPrice",
+        ".productPrice .regularPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-20T03:54:06.330Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Velenje Gümüş Renk Taşlı Kadın Portföy Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/velenje-kadin-porfoy-canta-gumus-438-7c.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/velenje-kadin-porfoy-canta-gumus-438-7c.jpg",
+    "link": "https://www.ilvi.com/velenje-gumus-renk-kadin-portfoy-canta",
+    "price": [
+      {
+        "value": "275.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      },
+      {
+        "value": "275.00$",
+        "selector": ".productPrice .discountPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".discountPrice .discountPriceSpan",
+        ".productPrice .discountPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-20T03:54:06.331Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
