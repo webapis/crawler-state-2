@@ -11,7 +11,6 @@
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/vizon.jpg",
       "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/bej.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/siyah.jpg"
     ],
     "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-lacivert-canta-z0031-1000-f.jpg",
@@ -20,15 +19,7 @@
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -44,14 +35,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T09:13:28.580Z",
+    "timestamp": "2025-08-20T11:37:47.450Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,15 +69,7 @@
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -105,75 +85,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T09:13:28.582Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Büzgü Detaylı Kahve Çanta Z0031",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-661cf6.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-d8df68.jpg",
-      "https://www.zuhre.com.tr/canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-e0fbba.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-813694.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-1-48fe.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/siyah.jpg",
-      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/vizon.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/bej.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/lacivert.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-kahve-canta-z0031-661cf6.jpg",
-    "link": "https://www.zuhre.com.tr/buzgu-detayli-kahve-canta-z0031",
-    "price": [
-      {
-        "value": "$0.00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": [
-        ".productItem:not(:has(.pw-img-swiper))"
-      ],
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
-    },
-    "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
-    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T09:13:28.583Z",
+    "timestamp": "2025-08-20T11:37:47.452Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -191,9 +107,9 @@
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-7d81-4.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-c9319b.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-db-47d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
-      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/gri.jpg",
+      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/siyah.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/bej.jpg"
     ],
@@ -203,15 +119,7 @@
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -227,14 +135,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T09:13:28.585Z",
+    "timestamp": "2025-08-20T11:37:47.454Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -255,7 +160,6 @@
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/siyah.jpg",
       "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/vizon.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/lacivert.jpg"
     ],
     "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/buzgu-detayli-bej-canta-z0031-3140f1.jpg",
@@ -264,15 +168,7 @@
       {
         "value": "$0.00",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "$0.00",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 0,
         "unsetPrice": true
@@ -288,14 +184,61 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T09:13:28.586Z",
+    "timestamp": "2025-08-20T11:37:47.456Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kabartma Örgü Detaylı Siyah Çanta Z0042",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-ea57a3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004--4b66-.jpg",
+      "https://www.zuhre.com.tr/canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-9-4a75.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-fe-4da.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-317a84.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/gri.jpg",
+      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/vizon.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/bej.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-siyah-canta-z004-ea57a3.jpg",
+    "link": "https://www.zuhre.com.tr/kabartma-orgu-detayli-siyah-canta-z0042",
+    "price": [
+      {
+        "value": "$0.00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": [
+        ".productItem:not(:has(.pw-img-swiper))"
+      ],
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+    },
+    "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
+    "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
+    "timestamp": "2025-08-20T11:37:47.459Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
