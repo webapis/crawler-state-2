@@ -10,26 +10,10 @@
     "price": [
       {
         "value": "750.00TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "750.00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "950.00TL",
-        "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 950,
         "unsetPrice": false
       }
     ],
@@ -41,15 +25,11 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price__regular span:nth-child(2)",
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
     },
     "pageTitle": "Ürünler – Alem Deri Çanta",
     "pageURL": "https://www.alemdericanta.com/collections/all",
-    "timestamp": "2025-08-20T08:18:09.494Z",
+    "timestamp": "2025-08-20T11:33:55.593Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -69,26 +49,10 @@
     "price": [
       {
         "value": "750.00TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "750.00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "950.00TL",
-        "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 950,
         "unsetPrice": false
       }
     ],
@@ -100,15 +64,11 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price__regular span:nth-child(2)",
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
     },
     "pageTitle": "Ürünler – Alem Deri Çanta",
     "pageURL": "https://www.alemdericanta.com/collections/all",
-    "timestamp": "2025-08-20T08:18:09.495Z",
+    "timestamp": "2025-08-20T11:33:55.595Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -128,26 +88,10 @@
     "price": [
       {
         "value": "900.00TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 900,
-        "unsetPrice": false
-      },
-      {
-        "value": "900.00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 900,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,200.00TL",
-        "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1200,
         "unsetPrice": false
       }
     ],
@@ -159,15 +103,11 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price__regular span:nth-child(2)",
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
     },
     "pageTitle": "Ürünler – Alem Deri Çanta",
     "pageURL": "https://www.alemdericanta.com/collections/all",
-    "timestamp": "2025-08-20T08:18:09.497Z",
+    "timestamp": "2025-08-20T11:33:55.597Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -187,26 +127,10 @@
     "price": [
       {
         "value": "750.00TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "750.00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 750,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,000.00TL",
-        "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1000,
         "unsetPrice": false
       }
     ],
@@ -218,15 +142,11 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price__regular span:nth-child(2)",
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
     },
     "pageTitle": "Ürünler – Alem Deri Çanta",
     "pageURL": "https://www.alemdericanta.com/collections/all",
-    "timestamp": "2025-08-20T08:18:09.498Z",
+    "timestamp": "2025-08-20T11:33:55.599Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -246,26 +166,10 @@
     "price": [
       {
         "value": "950.00TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 950,
-        "unsetPrice": false
-      },
-      {
-        "value": "950.00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 950,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,350.00TL",
-        "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1350,
         "unsetPrice": false
       }
     ],
@@ -277,15 +181,11 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price__regular span:nth-child(2)",
-        ".price-item.price-item--sale.price-item--last",
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
     },
     "pageTitle": "Ürünler – Alem Deri Çanta",
     "pageURL": "https://www.alemdericanta.com/collections/all",
-    "timestamp": "2025-08-20T08:18:09.499Z",
+    "timestamp": "2025-08-20T11:33:55.601Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
