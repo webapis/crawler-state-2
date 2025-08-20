@@ -11,7 +11,7 @@
       {
         "value": "$484.23 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 16221.7,
         "unsetPrice": false
@@ -25,13 +25,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price > :not(.visually-hidden)"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T08:02:41.869Z",
+    "timestamp": "2025-08-20T11:20:40.126Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,7 +50,7 @@
       {
         "value": "$383.35 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 12842.23,
         "unsetPrice": false
@@ -66,13 +64,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price > :not(.visually-hidden)"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T08:02:41.871Z",
+    "timestamp": "2025-08-20T11:20:40.128Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -93,7 +89,7 @@
       {
         "value": "$484.23 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 16221.7,
         "unsetPrice": false
@@ -107,13 +103,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price > :not(.visually-hidden)"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T08:02:41.872Z",
+    "timestamp": "2025-08-20T11:20:40.130Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +128,7 @@
       {
         "value": "$484.23 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 16221.7,
         "unsetPrice": false
@@ -148,13 +142,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price > :not(.visually-hidden)"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T08:02:41.874Z",
+    "timestamp": "2025-08-20T11:20:40.132Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
