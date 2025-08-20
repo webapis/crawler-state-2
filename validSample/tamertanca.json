@@ -9,28 +9,12 @@
     "link": "https://www.tamertanca.com.tr/tamer-tanca-kadin-vegan-bej-omuz-canta-9830?_sgm_campaign=scn_c48ddc3606000&_sgm_source=9830&_sgm_action=click",
     "price": [
       {
-        "value": "4499,46 TL",
-        "selector": ".KatSepetFiyat span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 4499.46,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.999,40 TL\n                      \n                            \n                      KDV Dahil",
+        "value": "4.999,40 TL",
         "selector": ".productPrice .discountPrice",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "7.142,00 TL\n                      \n                            \n                      KDV Dahil",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 4999.4,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -41,20 +25,16 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".productPrice .discountPrice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:38:24.920Z",
+    "timestamp": "2025-08-20T09:47:31.487Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -68,28 +48,12 @@
     "link": "https://www.tamertanca.com.tr/tamer-tanca-kadin-vegan-siyah-yilan-desen-abiye-canta-9937?_sgm_campaign=scn_c48ddc3606000&_sgm_source=9937&_sgm_action=click",
     "price": [
       {
-        "value": "1799,28 TL",
-        "selector": ".KatSepetFiyat span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1799.28,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.999,20 TL\n                      \n                            \n                      KDV Dahil",
+        "value": "1.999,20 TL",
         "selector": ".productPrice .discountPrice",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "2.856,00 TL\n                      \n                            \n                      KDV Dahil",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 1999.2,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -100,20 +64,16 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".productPrice .discountPrice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:38:24.923Z",
+    "timestamp": "2025-08-20T09:47:31.489Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -127,28 +87,12 @@
     "link": "https://www.tamertanca.com.tr/tamer-tanca-kadin-vegan-bej-omuz-canta-7363?_sgm_campaign=scn_c48ddc3606000&_sgm_source=7363&_sgm_action=click",
     "price": [
       {
-        "value": "2429,28 TL",
-        "selector": ".KatSepetFiyat span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 2429.28,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.699,20 TL\n                      \n                            \n                      KDV Dahil",
+        "value": "2.699,20 TL",
         "selector": ".productPrice .discountPrice",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "3.856,00 TL\n                      \n                            \n                      KDV Dahil",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 2699.2,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -159,20 +103,16 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".productPrice .discountPrice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:38:24.925Z",
+    "timestamp": "2025-08-20T09:47:31.492Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -186,28 +126,12 @@
     "link": "https://www.tamertanca.com.tr/tamer-tanca-kadin-vegan-kahverengi-omuz-canta-9381?_sgm_campaign=scn_c48ddc3606000&_sgm_source=9381&_sgm_action=click",
     "price": [
       {
-        "value": "1799,28 TL",
-        "selector": ".KatSepetFiyat span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1799.28,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.999,20 TL\n                      \n                            \n                      KDV Dahil",
+        "value": "1.999,20 TL",
         "selector": ".productPrice .discountPrice",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "2.856,00 TL\n                      \n                            \n                      KDV Dahil",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 1999.2,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -218,20 +142,16 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".productPrice .discountPrice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:38:24.926Z",
+    "timestamp": "2025-08-20T09:47:31.494Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -245,28 +165,12 @@
     "link": "https://www.tamertanca.com.tr/tamer-tanca-kadin-vegan-siyah-omuz-canta-7907?_sgm_campaign=scn_c48ddc3606000&_sgm_source=7907&_sgm_action=click",
     "price": [
       {
-        "value": "1349,46 TL",
-        "selector": ".KatSepetFiyat span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1349.46,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.499,40 TL\n                      \n                            \n                      KDV Dahil",
+        "value": "1.499,40 TL",
         "selector": ".productPrice .discountPrice",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "2.142,00 TL\n                      \n                            \n                      KDV Dahil",
-        "selector": ".productPrice .regularPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 1499.4,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -277,20 +181,16 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".KatSepetFiyat span",
-        ".productPrice .discountPrice",
-        ".productPrice .regularPrice"
-      ]
+      "bestPriceSelector": ".productPrice .discountPrice"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tamer Tanca",
     "pageURL": "https://www.tamertanca.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T09:38:24.928Z",
+    "timestamp": "2025-08-20T09:47:31.496Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
