@@ -12,18 +12,10 @@
     "price": [
       {
         "value": "2,699.90 TL",
-        "selector": ".grid-product__price--original",
-        "attribute": "innerText",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2699.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
         "unsetPrice": false
       }
     ],
@@ -35,14 +27,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price--original",
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:19:55.524Z",
+    "timestamp": "2025-08-20T11:34:57.104Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -64,18 +53,10 @@
     "price": [
       {
         "value": "2,699.90 TL",
-        "selector": ".grid-product__price--original",
-        "attribute": "innerText",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2699.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
         "unsetPrice": false
       }
     ],
@@ -87,14 +68,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price--original",
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:19:55.525Z",
+    "timestamp": "2025-08-20T11:34:57.106Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -116,18 +94,10 @@
     "price": [
       {
         "value": "2,399.90 TL",
-        "selector": ".grid-product__price--original",
-        "attribute": "innerText",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2399.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
         "unsetPrice": false
       }
     ],
@@ -139,14 +109,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price--original",
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:19:55.526Z",
+    "timestamp": "2025-08-20T11:34:57.108Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,18 +135,10 @@
     "price": [
       {
         "value": "2,999.90 TL",
-        "selector": ".grid-product__price--original",
-        "attribute": "innerText",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2999.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
         "unsetPrice": false
       }
     ],
@@ -191,14 +150,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price--original",
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:19:55.527Z",
+    "timestamp": "2025-08-20T11:34:57.110Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -220,18 +176,10 @@
     "price": [
       {
         "value": "2,309.90 TL",
-        "selector": ".grid-product__price--original",
-        "attribute": "innerText",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2309.9,
-        "unsetPrice": false
-      },
-      {
-        "value": "1,999.90 TL",
-        "selector": "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "numericValue": 1999.9,
         "unsetPrice": false
       }
     ],
@@ -243,14 +191,11 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price--original",
-        "document.querySelector(\".grid-product__price\").childNodes[5].textContent.trim();"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T08:19:55.528Z",
+    "timestamp": "2025-08-20T11:34:57.112Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
