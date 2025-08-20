@@ -10,17 +10,9 @@
     "link": "https://www.ninewest.com.tr/urun/nine-west-jostone-5fx-siyah-kadin-clutch-101983151",
     "price": [
       {
-        "value": "1.799,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1799,
-        "unsetPrice": false
-      },
-      {
         "value": "2.299,00 TL",
         "selector": ".product-pricing-two span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2299,
         "unsetPrice": false
@@ -34,14 +26,11 @@
       "titleSelectorMatched": "h3.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price",
-        ".product-pricing-two span"
-      ]
+      "bestPriceSelector": ".product-pricing-two span"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-20T08:03:58.714Z",
+    "timestamp": "2025-08-20T11:21:59.673Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -61,17 +50,9 @@
     "link": "https://www.ninewest.com.tr/urun/nine-west-jostone-5fx-gumus-kadin-clutch-101976989",
     "price": [
       {
-        "value": "1.799,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1799,
-        "unsetPrice": false
-      },
-      {
         "value": "2.299,00 TL",
         "selector": ".product-pricing-two span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2299,
         "unsetPrice": false
@@ -85,14 +66,11 @@
       "titleSelectorMatched": "h3.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price",
-        ".product-pricing-two span"
-      ]
+      "bestPriceSelector": ".product-pricing-two span"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-20T08:03:58.716Z",
+    "timestamp": "2025-08-20T11:21:59.675Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -114,7 +92,7 @@
       {
         "value": "3.299,00 TL",
         "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3299,
         "unsetPrice": false
@@ -128,13 +106,11 @@
       "titleSelectorMatched": "h3.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price"
-      ]
+      "bestPriceSelector": ".product-pricing-one__price"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-20T08:03:58.717Z",
+    "timestamp": "2025-08-20T11:21:59.677Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -144,29 +120,21 @@
     "mediaType": "image"
   },
   {
-    "title": "CIESA 5FX Taba Kadın Çapraz Çanta",
+    "title": "BRIGANABIG 5FX Naturel Kadın Omuz Çantası",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986182_f1.jpg?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=80"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/102014023_f1-1737624175.JPG?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=80"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101986183_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-ciesa-5fx-taba-kadin-capraz-canta-101986183",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/102014122_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-briganabig-5fx-naturel-kadin-omuz-cantasi-102014122",
     "price": [
       {
-        "value": "1.799,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1799,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.299,00 TL",
+        "value": "3.799,00 TL",
         "selector": ".product-pricing-two span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2299,
+        "numericValue": 3799,
         "unsetPrice": false
       }
     ],
@@ -178,14 +146,11 @@
       "titleSelectorMatched": "h3.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price",
-        ".product-pricing-two span"
-      ]
+      "bestPriceSelector": ".product-pricing-two span"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-20T08:03:58.719Z",
+    "timestamp": "2025-08-20T11:21:59.679Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -195,28 +160,20 @@
     "mediaType": "image"
   },
   {
-    "title": "CHARMAINE NYN129318 5FX Mavi Kadın Kol Çantası",
+    "title": "BRIGANA 5FX Naturel Kadın Çapraz Çanta",
     "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101970965_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101970965_f1.jpg?w=80"
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/101976903_f1.JPG?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-02/13/101976903_f1.JPG?w=80"
     ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101970965_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-charmaine-nyn129318-5fx-mavi-kadin-kol-cantasi-101970965",
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-02/13/101976903_f1.JPG?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-brigana-5fx-naturel-kadin-capraz-canta-101976903",
     "price": [
       {
-        "value": "2.299,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2299,
-        "unsetPrice": false
-      },
-      {
-        "value": "2.799,00 TL",
+        "value": "3.499,00 TL",
         "selector": ".product-pricing-two span",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2799,
+        "numericValue": 3499,
         "unsetPrice": false
       }
     ],
@@ -228,14 +185,11 @@
       "titleSelectorMatched": "h3.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product-pricing-one__price",
-        ".product-pricing-two span"
-      ]
+      "bestPriceSelector": ".product-pricing-two span"
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-20T08:03:58.720Z",
+    "timestamp": "2025-08-20T11:21:59.681Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
