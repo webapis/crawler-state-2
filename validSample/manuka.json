@@ -1,89 +1,5 @@
 [
   {
-    "title": "RUA KUTU ÇANTA BLACK TRUFFLE",
-    "img": [
-      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88362-15-B.webp?15287",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88362-15-B.jpg?15287"
-    ],
-    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
-    "link": "https://www.manuka.com.tr/rua-kutu-canta-black-truffle",
-    "price": [
-      {
-        "value": "1.499,90 TL",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".picture a img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".priceWrapper .currentPrice"
-      ]
-    },
-    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
-    "pageURL": "https://www.manuka.com.tr/canta?ps=16",
-    "timestamp": "2025-08-19T08:34:11.949Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "LUNA TOTE ÇANTA PETROL",
-    "img": [
-      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88741-14-B.webp?14954",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88741-14-B.jpg?14954"
-    ],
-    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
-    "link": "https://www.manuka.com.tr/luna-tote-canta-petrol",
-    "price": [
-      {
-        "value": "1.499,90 TL",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".picture a img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".priceWrapper .currentPrice"
-      ]
-    },
-    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
-    "pageURL": "https://www.manuka.com.tr/canta?ps=16",
-    "timestamp": "2025-08-19T08:34:11.951Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "RUA KUTU ÇANTA MACARON",
     "img": [
       "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
@@ -105,9 +21,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -115,50 +31,8 @@
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
-    "pageURL": "https://www.manuka.com.tr/canta?ps=16",
-    "timestamp": "2025-08-19T08:34:11.952Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "RUA KUTU ÇANTA VANILLA",
-    "img": [
-      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88902-15-B.webp?15289",
-      "https://cache.manuka.com.tr/product/cache/1200x1800_-88902-15-B.jpg?15289"
-    ],
-    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
-    "link": "https://www.manuka.com.tr/rua-kutu-canta-vanilla",
-    "price": [
-      {
-        "value": "1.499,90 TL",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".picture a img",
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".priceWrapper .currentPrice"
-      ]
-    },
-    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
-    "pageURL": "https://www.manuka.com.tr/canta?ps=16",
-    "timestamp": "2025-08-19T08:34:11.954Z",
+    "pageURL": "https://www.manuka.com.tr/canta?ps=13",
+    "timestamp": "2025-08-20T04:01:21.790Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -189,9 +63,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href='']))",
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);'] :not([href='#']):not([href=''])",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".picture a img",
       "videoSelectorMatched": null,
       "priceSelectorsMatched": [
@@ -199,8 +73,134 @@
       ]
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
-    "pageURL": "https://www.manuka.com.tr/canta?ps=16",
-    "timestamp": "2025-08-19T08:34:11.955Z",
+    "pageURL": "https://www.manuka.com.tr/canta?ps=13",
+    "timestamp": "2025-08-20T04:01:21.792Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "RUA KUTU ÇANTA VANILLA",
+    "img": [
+      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-88902-15-B.webp?15289",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-88902-15-B.jpg?15289"
+    ],
+    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
+    "link": "https://www.manuka.com.tr/rua-kutu-canta-vanilla",
+    "price": [
+      {
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1499.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".picture a img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".priceWrapper .currentPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
+    "pageURL": "https://www.manuka.com.tr/canta?ps=13",
+    "timestamp": "2025-08-20T04:01:21.793Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "RUA KUTU ÇANTA BLACK TRUFFLE",
+    "img": [
+      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-88362-15-B.webp?15287",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-88362-15-B.jpg?15287"
+    ],
+    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
+    "link": "https://www.manuka.com.tr/rua-kutu-canta-black-truffle",
+    "price": [
+      {
+        "value": "1.499,90 TL",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1499.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".picture a img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".priceWrapper .currentPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
+    "pageURL": "https://www.manuka.com.tr/canta?ps=13",
+    "timestamp": "2025-08-20T04:01:21.795Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "MICA BAGET ÇANTA BORDO",
+    "img": [
+      "https://www.manuka.com.tr/canta/theme/standart/images/lazy_load_yukleniyor.gif",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-79110-13-B.webp?13453",
+      "https://cache.manuka.com.tr/product/cache/1200x1800_-79110-13-B.jpg?13453"
+    ],
+    "primaryImg": "/theme/standart/images/lazy_load_yukleniyor.gif",
+    "link": "https://www.manuka.com.tr/mica-baget-canta-bordo",
+    "price": [
+      {
+        "value": "1.299,90 TL",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1299.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".picture a img",
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".priceWrapper .currentPrice"
+      ]
+    },
+    "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
+    "pageURL": "https://www.manuka.com.tr/canta?ps=13",
+    "timestamp": "2025-08-20T04:01:21.796Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
