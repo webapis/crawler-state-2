@@ -1,140 +1,228 @@
 [
   {
-    "title": null,
+    "title": "Calvin Klein Kadın Çapraz Çanta LV04F3102GUB1 Siyah",
     "img": [],
     "primaryImg": null,
-    "link": null,
-    "price": [],
+    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-kadin-capraz-canta-lv04f3102gub1-p-14015005",
+    "price": [
+      {
+        "value": "5.399,00 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 5399,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".item",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T04:05:45.756Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".item",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T04:05:45.758Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": ".item",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T04:05:45.760Z",
-    "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
-    "price": [],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "titleElement (matched: .product-item-info a)",
       "matchedSelector": [
-        ".item"
+        "ozd-custom-product-grid-item .carouselItem"
       ],
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".current-price"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-20T04:05:56.965Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=6",
+    "timestamp": "2025-08-20T04:59:17.558Z",
     "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "Calvin Klein Kadın Çapraz Çanta LV04F3102GRM0 Beyaz",
     "img": [],
     "primaryImg": null,
-    "link": null,
-    "price": [],
+    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-kadin-capraz-canta-lv04f3102grm0-p-14014989",
+    "price": [
+      {
+        "value": "5.399,00 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 5399,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "titleElement (matched: .product-item-info a)",
       "matchedSelector": [
-        ".item"
+        "ozd-custom-product-grid-item .carouselItem"
       ],
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": []
+      "priceSelectorsMatched": [
+        ".current-price"
+      ]
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-20T04:05:56.966Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=6",
+    "timestamp": "2025-08-20T04:59:17.559Z",
     "imgValid": false,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Omuz Çantası 05FO25Y5070 Siyah",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5070-p-13997668",
+    "price": [
+      {
+        "value": "799,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 799.2,
+        "unsetPrice": false
+      },
+      {
+        "value": "999,00 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".current-price.promotion-current-price",
+        ".current-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=10",
+    "timestamp": "2025-08-20T04:59:34.553Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Omuz Çantası 05FO25Y5070 Bej",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5070-p-13997670",
+    "price": [
+      {
+        "value": "799,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 799.2,
+        "unsetPrice": false
+      },
+      {
+        "value": "999,00 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".current-price.promotion-current-price",
+        ".current-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=10",
+    "timestamp": "2025-08-20T04:59:34.564Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Beverly Hills Polo Club Fermuarlı Kadın Kol Çantası 05BHPC111 Siyah",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/beverly-hills-polo-club-kadin-kol-cantasi-05bhpc111-p-13461563",
+    "price": [
+      {
+        "value": "1.519,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1519.2,
+        "unsetPrice": false
+      },
+      {
+        "value": "1.899,00 TL",
+        "selector": ".current-price",
+        "attribute": "innerText",
+        "isJavaScript": false,
+        "numericValue": 1899,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "priceSelectorsMatched": [
+        ".current-price.promotion-current-price",
+        ".current-price"
+      ]
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=16",
+    "timestamp": "2025-08-20T04:59:52.003Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
