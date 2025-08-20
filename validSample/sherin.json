@@ -13,15 +13,7 @@
       {
         "value": "€195,39",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7231.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "€195,39",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7231.38,
         "unsetPrice": false
@@ -35,14 +27,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T07:54:23.280Z",
+    "timestamp": "2025-08-20T11:15:19.684Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,15 +55,7 @@
       {
         "value": "€191,84",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7100,
-        "unsetPrice": false
-      },
-      {
-        "value": "€191,84",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7100,
         "unsetPrice": false
@@ -88,14 +69,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T07:54:23.282Z",
+    "timestamp": "2025-08-20T11:15:19.687Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -119,15 +97,7 @@
       {
         "value": "€195,39",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7231.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "€195,39",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7231.38,
         "unsetPrice": false
@@ -141,14 +111,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T07:54:23.284Z",
+    "timestamp": "2025-08-20T11:15:19.689Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,15 +139,7 @@
       {
         "value": "€191,84",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7100,
-        "unsetPrice": false
-      },
-      {
-        "value": "€191,84",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7100,
         "unsetPrice": false
@@ -194,14 +153,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T07:54:23.285Z",
+    "timestamp": "2025-08-20T11:15:19.692Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -225,15 +181,7 @@
       {
         "value": "€195,39",
         "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 7231.38,
-        "unsetPrice": false
-      },
-      {
-        "value": "€195,39",
-        "selector": ".productPrice .discountPrice",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7231.38,
         "unsetPrice": false
@@ -247,14 +195,11 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".discountPrice .discountPriceSpan",
-        ".productPrice .discountPrice"
-      ]
+      "bestPriceSelector": ".discountPrice .discountPriceSpan"
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T07:54:23.287Z",
+    "timestamp": "2025-08-20T11:15:19.694Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
