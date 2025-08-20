@@ -10,17 +10,9 @@
       {
         "value": "t 2.591,28",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2591.28,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.599,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3599,
         "unsetPrice": false
       }
     ],
@@ -32,14 +24,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T07:57:42.054Z",
+    "timestamp": "2025-08-20T11:16:58.485Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -59,17 +48,9 @@
       {
         "value": "t 2.879,20",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2879.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.599,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3599,
         "unsetPrice": false
       }
     ],
@@ -81,14 +62,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T07:57:42.055Z",
+    "timestamp": "2025-08-20T11:16:58.488Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -108,17 +86,9 @@
       {
         "value": "t 2.799,20",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2799.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.499,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3499,
         "unsetPrice": false
       }
     ],
@@ -130,14 +100,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T07:57:42.057Z",
+    "timestamp": "2025-08-20T11:16:58.490Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -157,17 +124,9 @@
       {
         "value": "t 2.463,20",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2463.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.079,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3079,
         "unsetPrice": false
       }
     ],
@@ -179,14 +138,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T07:57:42.058Z",
+    "timestamp": "2025-08-20T11:16:58.492Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,17 +162,9 @@
       {
         "value": "t 2.463,20",
         "selector": "span.divUFiyat1",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2463.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "t 3.079,00",
-        "selector": "[itemprop=\"highPrice\"]",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 3079,
         "unsetPrice": false
       }
     ],
@@ -228,14 +176,11 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "span.divUFiyat1",
-        "[itemprop=\"highPrice\"]"
-      ]
+      "bestPriceSelector": "span.divUFiyat1"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T07:57:42.059Z",
+    "timestamp": "2025-08-20T11:16:58.495Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
