@@ -13,7 +13,7 @@
       {
         "value": "₺1,299.99",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1299.99,
         "unsetPrice": false
@@ -21,7 +21,7 @@
       {
         "value": "₺1,999.99",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999.99,
         "unsetPrice": false
@@ -35,13 +35,11 @@
       "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--regular"
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:14:19.013Z",
+    "timestamp": "2025-08-20T11:31:01.825Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -72,7 +70,7 @@
       {
         "value": "₺2,499.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2499,
         "unsetPrice": false
@@ -80,7 +78,7 @@
       {
         "value": "₺3,499.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 3499,
         "unsetPrice": false
@@ -94,13 +92,11 @@
       "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--regular"
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:14:19.015Z",
+    "timestamp": "2025-08-20T11:31:01.828Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,7 +127,7 @@
       {
         "value": "₺2,399.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2399,
         "unsetPrice": false
@@ -139,7 +135,7 @@
       {
         "value": "₺5,000.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5000,
         "unsetPrice": false
@@ -153,13 +149,11 @@
       "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--regular"
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:14:19.017Z",
+    "timestamp": "2025-08-20T11:31:01.830Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -190,7 +184,7 @@
       {
         "value": "₺1,999.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1999,
         "unsetPrice": false
@@ -198,7 +192,7 @@
       {
         "value": "₺2,750.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2750,
         "unsetPrice": false
@@ -212,13 +206,11 @@
       "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--regular"
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:14:19.018Z",
+    "timestamp": "2025-08-20T11:31:01.832Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -249,7 +241,7 @@
       {
         "value": "₺1,899.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 1899,
         "unsetPrice": false
@@ -257,7 +249,7 @@
       {
         "value": "₺2,500.00",
         "selector": ".price-item.price-item--regular",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2500,
         "unsetPrice": false
@@ -271,13 +263,11 @@
       "titleSelectorMatched": ".card-information__text.h4",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price-item.price-item--regular"
-      ]
+      "bestPriceSelector": ".price-item.price-item--regular"
     },
     "pageTitle": "En Şık Deri Kadın Çanta Modelleri | Meskanto",
     "pageURL": "https://meskanto.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:14:19.020Z",
+    "timestamp": "2025-08-20T11:31:01.834Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
