@@ -21,17 +21,9 @@
     "link": "https://www.fashfed.com/urun/nike-gym-club-kadin-mavi-spor-cantasi-dh6863/",
     "price": [
       {
-        "value": "₺ 1.759,20",
-        "selector": ".price .price__new",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1759.2,
-        "unsetPrice": false
-      },
-      {
         "value": "₺ 2.199,00",
         "selector": ".price.price--discounted .price__old",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2199,
         "unsetPrice": false
@@ -45,14 +37,11 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
-      ]
+      "bestPriceSelector": ".price.price--discounted .price__old"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T08:13:27.837Z",
+    "timestamp": "2025-08-20T11:30:14.363Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -83,7 +72,7 @@
       {
         "value": "₺ 7.199,00",
         "selector": ".price .price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 7199,
         "unsetPrice": false
@@ -97,13 +86,11 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price .price__new"
-      ]
+      "bestPriceSelector": ".price .price__new"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T08:13:27.839Z",
+    "timestamp": "2025-08-20T11:30:14.365Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -128,7 +115,7 @@
       {
         "value": "₺ 9.500,00",
         "selector": ".price .price__new",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 9500,
         "unsetPrice": false
@@ -142,13 +129,11 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price .price__new"
-      ]
+      "bestPriceSelector": ".price .price__new"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T08:13:27.840Z",
+    "timestamp": "2025-08-20T11:30:14.367Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,17 +158,9 @@
     "link": "https://www.fashfed.com/urun/guess-emelda-crossbody-10050-kadin-renkli-el-cantasi-hwwg9210050/",
     "price": [
       {
-        "value": "₺ 5.599,00",
-        "selector": ".price .price__new",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5599,
-        "unsetPrice": false
-      },
-      {
         "value": "₺ 8.000,00",
         "selector": ".price.price--discounted .price__old",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 8000,
         "unsetPrice": false
@@ -197,14 +174,11 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
-      ]
+      "bestPriceSelector": ".price.price--discounted .price__old"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T08:13:27.842Z",
+    "timestamp": "2025-08-20T11:30:14.369Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -230,17 +204,9 @@
     "link": "https://www.fashfed.com/urun/kadin-kahve-cicek-detayli-hasir-el-cantasi-991-1010039740/",
     "price": [
       {
-        "value": "₺ 4.232,00",
-        "selector": ".price .price__new",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4232,
-        "unsetPrice": false
-      },
-      {
         "value": "₺ 5.290,00",
         "selector": ".price.price--discounted .price__old",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 5290,
         "unsetPrice": false
@@ -254,14 +220,11 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".price .price__new",
-        ".price.price--discounted .price__old"
-      ]
+      "bestPriceSelector": ".price.price--discounted .price__old"
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T08:13:27.843Z",
+    "timestamp": "2025-08-20T11:30:14.371Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
