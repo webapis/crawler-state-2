@@ -7,13 +7,13 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-876914.jpg?v=1742505968&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-876914.jpg?v=1742505968&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/fjallraven-kanken-classic-sirt-cantasi-black-317218.jpg?v=1742505968&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/fjallraven-kanken-classic-sirt-cantasi",
     "price": [
       {
         "value": "6.569 TL",
         "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 6569,
         "unsetPrice": false
@@ -27,13 +27,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.968Z",
+    "timestamp": "2025-08-20T11:25:24.206Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,31 +48,15 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-sirt-cantasi-2",
     "price": [
       {
         "value": "4.107 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 4107,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.319 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 6319,
-        "unsetPrice": false
-      },
-      {
-        "value": "6.319 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 6319,
         "unsetPrice": false
       }
     ],
@@ -86,13 +68,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.970Z",
+    "timestamp": "2025-08-20T11:25:24.209Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -109,13 +89,13 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-144364.jpg?v=1754892802&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-144364.jpg?v=1754892802&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/sandqvist-icon-rolltop-sirt-cantasi-l-dawn-green-with-dark-brown-leather-879437.jpg?v=1754892802&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/sandqvist-icon-rolltop-sirt-cantasi-l",
     "price": [
       {
         "value": "12.085 TL",
         "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 12085,
         "unsetPrice": false
@@ -129,13 +109,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.972Z",
+    "timestamp": "2025-08-20T11:25:24.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -152,13 +130,13 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-834623.jpg?v=1753951482&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-834623.jpg?v=1753951482&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f202-leland-omuz-cantasi-multi-2-258604.jpg?v=1753951482&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/freitag-f202-leland-omuz-cantasi",
     "price": [
       {
         "value": "14.765 TL",
         "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 14765,
         "unsetPrice": false
@@ -172,13 +150,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.974Z",
+    "timestamp": "2025-08-20T11:25:24.214Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -195,31 +171,15 @@
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-397417.jpg?v=1755497630&width=400",
       "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-397417.jpg?v=1755497630&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=700 700w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=800 800w,\n                      ",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-tote-bag-mini-omuz-cantasi-green-4094658.jpg?v=1755497630&width=700 700w\n                      ",
     "link": "https://www.vitruta.com/products/rains-tote-bag-mini-omuz-cantasi-2",
     "price": [
       {
         "value": "2.703 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2703,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4159,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.159 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4159,
         "unsetPrice": false
       }
     ],
@@ -231,13 +191,11 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".boost-sd__format-currency"
-      ]
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T08:07:36.976Z",
+    "timestamp": "2025-08-20T11:25:24.216Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
