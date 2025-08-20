@@ -13,7 +13,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -21,7 +21,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -35,13 +35,11 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "product-price .price"
-      ]
+      "bestPriceSelector": "product-price .price"
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-20T08:16:07.848Z",
+    "timestamp": "2025-08-20T11:32:46.425Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,7 +64,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -74,7 +72,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -88,13 +86,11 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "product-price .price"
-      ]
+      "bestPriceSelector": "product-price .price"
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-20T08:16:07.850Z",
+    "timestamp": "2025-08-20T11:32:46.427Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -119,7 +115,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -127,7 +123,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -141,13 +137,11 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "product-price .price"
-      ]
+      "bestPriceSelector": "product-price .price"
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-20T08:16:07.851Z",
+    "timestamp": "2025-08-20T11:32:46.429Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +168,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -182,7 +176,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -196,13 +190,11 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "product-price .price"
-      ]
+      "bestPriceSelector": "product-price .price"
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-20T08:16:07.853Z",
+    "timestamp": "2025-08-20T11:32:46.431Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -229,7 +221,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -237,7 +229,7 @@
       {
         "value": "2,400.00TL",
         "selector": "product-price .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2400,
         "unsetPrice": false
@@ -251,13 +243,11 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        "product-price .price"
-      ]
+      "bestPriceSelector": "product-price .price"
     },
     "pageTitle": "Flower Garden Tote Çantalar – Risus Heroic",
     "pageURL": "https://risusheroic.com/collections/renkli-desenli-tote-cantalar",
-    "timestamp": "2025-08-20T08:16:07.854Z",
+    "timestamp": "2025-08-20T11:32:46.433Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
