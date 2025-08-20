@@ -10,7 +10,7 @@
       {
         "value": "2.490,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2490,
         "unsetPrice": false
@@ -24,13 +24,11 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product_box .price"
-      ]
+      "bestPriceSelector": ".product_box .price"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T07:58:49.483Z",
+    "timestamp": "2025-08-20T11:17:48.161Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,7 +48,7 @@
       {
         "value": "2.490,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2490,
         "unsetPrice": false
@@ -64,13 +62,11 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product_box .price"
-      ]
+      "bestPriceSelector": ".product_box .price"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T07:58:49.484Z",
+    "timestamp": "2025-08-20T11:17:48.163Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,7 +86,7 @@
       {
         "value": "2.490,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2490,
         "unsetPrice": false
@@ -104,13 +100,11 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product_box .price"
-      ]
+      "bestPriceSelector": ".product_box .price"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T07:58:49.485Z",
+    "timestamp": "2025-08-20T11:17:48.165Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,7 +124,7 @@
       {
         "value": "2.490,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 2490,
         "unsetPrice": false
@@ -144,13 +138,11 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product_box .price"
-      ]
+      "bestPriceSelector": ".product_box .price"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T07:58:49.487Z",
+    "timestamp": "2025-08-20T11:17:48.167Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -170,7 +162,7 @@
       {
         "value": "8.090,00 TL",
         "selector": ".product_box .price",
-        "attribute": "innerText",
+        "attribute": "textContent",
         "isJavaScript": false,
         "numericValue": 8090,
         "unsetPrice": false
@@ -184,13 +176,11 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".product_box .price"
-      ]
+      "bestPriceSelector": ".product_box .price"
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T07:58:49.488Z",
+    "timestamp": "2025-08-20T11:17:48.170Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
