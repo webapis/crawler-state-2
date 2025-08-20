@@ -1,237 +1,140 @@
 [
   {
-    "title": "Calvin Klein Kadın Çapraz Çanta LV04F3080GUB1 Siyah",
+    "title": null,
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-kadin-capraz-canta-lv04f3080gub1-p-14015003",
-    "price": [
-      {
-        "value": "5.399,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 5399,
-        "unsetPrice": false
-      }
-    ],
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
+      "linkSource": null,
+      "matchedSelector": ".item",
+      "titleSelectorMatched": null,
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price"
-      ]
+      "priceSelectorsMatched": []
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=6",
-    "timestamp": "2025-08-19T08:39:49.853Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-08-20T04:05:45.756Z",
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": "Calvin Klein Jeans Kadın Çapraz Çanta LV04K3124GPBF Bej",
+    "title": null,
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-capraz-canta-lv04k3124gpbf-p-13691302",
-    "price": [
-      {
-        "value": "2.429,40 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 2429.4,
-        "unsetPrice": false
-      },
-      {
-        "value": "4.049,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 4049,
-        "unsetPrice": false
-      }
-    ],
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
+      "linkSource": null,
+      "matchedSelector": ".item",
+      "titleSelectorMatched": null,
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "priceSelectorsMatched": []
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=8",
-    "timestamp": "2025-08-19T08:40:00.871Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-08-20T04:05:45.758Z",
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": "Fossil Kadın Çapraz Çanta 05FO25Y5066 Vizon",
+    "title": null,
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-capraz-canta-05fo25y5066-p-13997663",
-    "price": [
-      {
-        "value": "799,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 799.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "999,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 999,
-        "unsetPrice": false
-      }
-    ],
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
+      "linkSource": null,
+      "matchedSelector": ".item",
+      "titleSelectorMatched": null,
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "priceSelectorsMatched": []
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=10",
-    "timestamp": "2025-08-19T08:40:05.769Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-08-20T04:05:45.760Z",
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": "Fossil Fermuarlı Kadın Çanta 05FS22Y283 KN4F S Siyah",
+    "title": null,
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-canta-05fs22y283-kn4f-s-p-13677096",
-    "price": [
-      {
-        "value": "959,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 959.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.199,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1199,
-        "unsetPrice": false
-      }
-    ],
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
+      "linkSource": null,
       "matchedSelector": [
-        "ozd-custom-product-grid-item"
+        ".item"
       ],
-      "titleSelectorMatched": ".product-item-info a",
+      "titleSelectorMatched": null,
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "priceSelectorsMatched": []
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=10",
-    "timestamp": "2025-08-19T08:40:05.778Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
+    "timestamp": "2025-08-20T04:05:56.965Z",
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": "Fossil Kadın Kol Çantası 05FS23K506 Siyah",
+    "title": null,
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-kol-cantasi-05fs23k506-p-13704241",
-    "price": [
-      {
-        "value": "1.119,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1119.2,
-        "unsetPrice": false
-      },
-      {
-        "value": "1.399,00 TL",
-        "selector": ".current-price",
-        "attribute": "innerText",
-        "isJavaScript": false,
-        "numericValue": 1399,
-        "unsetPrice": false
-      }
-    ],
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
+      "linkSource": null,
       "matchedSelector": [
-        "ozd-custom-product-grid-item"
+        ".item"
       ],
-      "titleSelectorMatched": ".product-item-info a",
+      "titleSelectorMatched": null,
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".current-price.promotion-current-price",
-        ".current-price"
-      ]
+      "priceSelectorsMatched": []
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=23",
-    "timestamp": "2025-08-19T08:40:52.595Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
+    "timestamp": "2025-08-20T04:05:56.966Z",
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   }
