@@ -10,6 +10,7 @@
         "selector": ".current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6299,
         "unsetPrice": false
       }
@@ -24,49 +25,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price"
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=6",
-    "timestamp": "2025-08-20T12:53:18.527Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Fossil Kadın Omuz Çantası 05FO25Y5053 Vizon",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5053-p-13983968",
-    "price": [
-      {
-        "value": "559,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 559.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=24",
-    "timestamp": "2025-08-20T12:54:17.566Z",
+    "timestamp": "2025-08-21T04:41:46.055Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -86,6 +50,7 @@
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1279.2,
         "unsetPrice": false
       }
@@ -100,11 +65,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=25",
-    "timestamp": "2025-08-20T12:54:22.184Z",
+    "timestamp": "2025-08-21T04:42:59.100Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -114,55 +80,18 @@
     "mediaType": "image"
   },
   {
-    "title": "U.S. Polo Assn. Kadın Omuz Çantası US25101 Ekru",
+    "title": "Fossil Kadın Omuz Çantası 05FO25Y5053 Vizon",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-omuz-cantasi-us25101-p-13942395",
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5053-p-13983968",
     "price": [
       {
-        "value": "2.299,99 TL",
-        "selector": ".old-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 2299.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=32",
-    "timestamp": "2025-08-20T12:54:45.056Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "U.S. Polo Assn. Kadın Omuz Çantası US25100 Ekru",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-omuz-cantasi-us25100-p-13942392",
-    "price": [
-      {
-        "value": "2.399,99 TL",
+        "value": "559,20 TL",
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2399.99,
+        "isShadowDOM": false,
+        "numericValue": 559.2,
         "unsetPrice": false
       }
     ],
@@ -176,11 +105,92 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=32",
-    "timestamp": "2025-08-20T12:54:45.071Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=24",
+    "timestamp": "2025-08-21T04:42:59.406Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "U.S. Polo Assn. Kadın Postacı Çantası US25149 Kahve",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-postaci-cantasi-us25149-p-13944665",
+    "price": [
+      {
+        "value": "2.799,99 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=31",
+    "timestamp": "2025-08-21T04:43:22.923Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "U.S. Polo Assn. Kadın El Çantası US25139 Beyaz",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-el-cantasi-us25139-p-13942424",
+    "price": [
+      {
+        "value": "3.199,99 TL",
+        "selector": ".old-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3199.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=31",
+    "timestamp": "2025-08-21T04:43:22.941Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
