@@ -12,6 +12,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 10184,
         "unsetPrice": false
       }
@@ -24,11 +25,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:32:25.285Z",
+    "timestamp": "2025-08-21T04:19:03.963Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 12864,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:32:25.288Z",
+    "timestamp": "2025-08-21T04:19:03.966Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +92,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6968,
         "unsetPrice": false
       }
@@ -100,11 +105,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:32:25.290Z",
+    "timestamp": "2025-08-21T04:19:03.968Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 8040,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:32:25.292Z",
+    "timestamp": "2025-08-21T04:19:03.971Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 12864,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta Modelleri: Şıklık ve Fonksiyonellik Bir Arada | Setre",
     "pageURL": "https://www.setre.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:32:25.294Z",
+    "timestamp": "2025-08-21T04:19:03.973Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
