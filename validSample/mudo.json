@@ -16,6 +16,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2199,
         "unsetPrice": false
       }
@@ -28,11 +29,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:46:51.246Z",
+    "timestamp": "2025-08-21T04:35:50.143Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -57,6 +59,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1499,
         "unsetPrice": false
       }
@@ -69,11 +72,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:46:51.248Z",
+    "timestamp": "2025-08-21T04:35:50.146Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -98,6 +102,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2599,
         "unsetPrice": false
       }
@@ -110,11 +115,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:46:51.251Z",
+    "timestamp": "2025-08-21T04:35:50.149Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -141,6 +147,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999,
         "unsetPrice": false
       }
@@ -153,11 +160,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:46:51.253Z",
+    "timestamp": "2025-08-21T04:35:50.152Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -194,6 +202,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2990,
         "unsetPrice": false
       }
@@ -206,11 +215,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:46:51.255Z",
+    "timestamp": "2025-08-21T04:35:50.155Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
