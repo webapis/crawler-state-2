@@ -1,0 +1,30 @@
+[
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "[data-id]",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Bag",
+    "pageURL": "https://www.modaselvim.com/modaselvim-canta",
+    "timestamp": "2025-08-21T12:28:19.047Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
