@@ -15,6 +15,7 @@
         "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.95,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price"
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T12:30:29.434Z",
+    "timestamp": "2025-08-21T04:16:21.424Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1299.95,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price"
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T12:30:29.436Z",
+    "timestamp": "2025-08-21T04:16:21.426Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -96,6 +100,7 @@
         "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.95,
         "unsetPrice": false
       }
@@ -108,11 +113,12 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price"
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T12:30:29.438Z",
+    "timestamp": "2025-08-21T04:16:21.429Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,6 +143,7 @@
         "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.95,
         "unsetPrice": false
       }
@@ -149,11 +156,12 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price"
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T12:30:29.440Z",
+    "timestamp": "2025-08-21T04:16:21.432Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -178,6 +186,7 @@
         "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1299.95,
         "unsetPrice": false
       }
@@ -190,11 +199,12 @@
       "titleSelectorMatched": ".product-content-name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".second-price"
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-20T12:30:29.442Z",
+    "timestamp": "2025-08-21T04:16:21.434Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
