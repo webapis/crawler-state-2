@@ -18,6 +18,7 @@
         "selector": ".product-card__price--new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 86500,
         "unsetPrice": false
       }
@@ -30,11 +31,12 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-card__price--new"
+      "bestPriceSelector": ".product-card__price--new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-20T12:41:29.038Z",
+    "timestamp": "2025-08-21T04:28:44.151Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -62,6 +64,7 @@
         "selector": ".product-card__price--new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 95000,
         "unsetPrice": false
       }
@@ -74,11 +77,12 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-card__price--new"
+      "bestPriceSelector": ".product-card__price--new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-20T12:41:29.040Z",
+    "timestamp": "2025-08-21T04:28:44.153Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -106,6 +110,7 @@
         "selector": ".product-card__price--new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 81500,
         "unsetPrice": false
       }
@@ -118,11 +123,12 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-card__price--new"
+      "bestPriceSelector": ".product-card__price--new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-20T12:41:29.042Z",
+    "timestamp": "2025-08-21T04:28:44.156Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,6 +156,7 @@
         "selector": ".product-card__price--new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 62500,
         "unsetPrice": false
       }
@@ -162,11 +169,12 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-card__price--new"
+      "bestPriceSelector": ".product-card__price--new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-20T12:41:29.044Z",
+    "timestamp": "2025-08-21T04:28:44.158Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -194,6 +202,7 @@
         "selector": ".product-card__price--new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 86500,
         "unsetPrice": false
       }
@@ -206,11 +215,12 @@
       "titleSelectorMatched": ".product-card__link",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-card__price--new"
+      "bestPriceSelector": ".product-card__price--new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-08-20T12:41:29.046Z",
+    "timestamp": "2025-08-21T04:28:44.160Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
