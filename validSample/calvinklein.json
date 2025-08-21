@@ -17,6 +17,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5849,
         "unsetPrice": false
       }
@@ -29,11 +30,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-20T12:47:41.652Z",
+    "timestamp": "2025-08-21T04:36:02.187Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,6 +62,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3599,
         "unsetPrice": false
       }
@@ -72,54 +75,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-20T12:47:41.654Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "kadın satin nylon small çapraz çanta",
-    "img": [
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
-      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg"
-    ],
-    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
-    "link": "https://tr.calvinklein.com/kadin-satin-nylon-small-capraz-canta-p_198964",
-    "price": [
-      {
-        "value": "5.849,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 5849,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item-inside",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
-    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-20T12:47:41.657Z",
+    "timestamp": "2025-08-21T04:36:02.190Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -146,6 +107,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4499,
         "unsetPrice": false
       }
@@ -158,11 +120,57 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-20T12:47:41.659Z",
+    "timestamp": "2025-08-21T04:36:02.193Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "kadın satin nylon small çapraz çanta",
+    "img": [
+      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg",
+      "https://st-calvinkleinecom.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826480782919.jpg"
+    ],
+    "primaryImg": "https://st-calvinkleinecom.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/lv04k3218gub1-kadin-satin-nylon-small-capraz-canta-638888826296870638.jpg",
+    "link": "https://tr.calvinklein.com/kadin-satin-nylon-small-capraz-canta-p_198964",
+    "price": [
+      {
+        "value": "5.849,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5849,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item-inside",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
+    "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
+    "timestamp": "2025-08-21T04:36:02.195Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -189,6 +197,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5849,
         "unsetPrice": false
       }
@@ -201,11 +210,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Calvin Klein",
     "pageURL": "https://tr.calvinklein.com/kadin/canta-aksesuar/canta",
-    "timestamp": "2025-08-20T12:47:41.661Z",
+    "timestamp": "2025-08-21T04:36:02.198Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
