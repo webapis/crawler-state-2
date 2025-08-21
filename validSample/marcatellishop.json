@@ -12,6 +12,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3000,
         "unsetPrice": false
       }
@@ -24,11 +25,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T12:52:00.135Z",
+    "timestamp": "2025-08-21T04:40:23.781Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3000,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T12:52:00.138Z",
+    "timestamp": "2025-08-21T04:40:23.783Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +92,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2100,
         "unsetPrice": false
       }
@@ -100,11 +105,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T12:52:00.140Z",
+    "timestamp": "2025-08-21T04:40:23.785Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4500,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T12:52:00.142Z",
+    "timestamp": "2025-08-21T04:40:23.787Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3650,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-08-20T12:52:00.144Z",
+    "timestamp": "2025-08-21T04:40:23.789Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
