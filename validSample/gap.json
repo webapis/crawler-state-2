@@ -26,6 +26,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2499.99,
         "unsetPrice": false
       },
@@ -34,6 +35,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3799.95,
         "unsetPrice": false
       },
@@ -42,6 +44,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.99,
         "unsetPrice": false
       },
@@ -50,6 +53,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3799.95,
         "unsetPrice": false
       }
@@ -62,11 +66,12 @@
       "titleSelectorMatched": ".product-item__info-product-name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price"
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:34:26.556Z",
+    "timestamp": "2025-08-21T04:20:44.842Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -107,6 +112,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2799.99,
         "unsetPrice": false
       }
@@ -119,11 +125,12 @@
       "titleSelectorMatched": ".product-item__info-product-name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price"
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:34:26.558Z",
+    "timestamp": "2025-08-21T04:20:44.845Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +171,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3499.99,
         "unsetPrice": false
       }
@@ -176,11 +184,12 @@
       "titleSelectorMatched": ".product-item__info-product-name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price"
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:34:26.561Z",
+    "timestamp": "2025-08-21T04:20:44.849Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -221,6 +230,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2399.99,
         "unsetPrice": false
       }
@@ -233,11 +243,12 @@
       "titleSelectorMatched": ".product-item__info-product-name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price"
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:34:26.563Z",
+    "timestamp": "2025-08-21T04:20:44.852Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -278,6 +289,7 @@
         "selector": "pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2799.99,
         "unsetPrice": false
       }
@@ -290,11 +302,12 @@
       "titleSelectorMatched": ".product-item__info-product-name",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price"
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | GAP",
     "pageURL": "https://gap.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:34:26.565Z",
+    "timestamp": "2025-08-21T04:20:44.855Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
