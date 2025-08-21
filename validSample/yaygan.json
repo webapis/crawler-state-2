@@ -1,43 +1,5 @@
 [
   {
-    "title": "Coral High Leopar Desenli Omuz Askılı PC Makyaj Çantası 16898",
-    "img": [
-      "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898-3129815-62-K.jpg"
-    ],
-    "primaryImg": "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898-3129815-62-K.jpg",
-    "link": "https://www.yaygan.com/coral-high-leopar-desenli-omuz-askili-pc-makyaj-cantasi-16898",
-    "price": [
-      {
-        "value": "1.219,95 TL",
-        "selector": ".product-price-wrapper .current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1219.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-title)",
-      "matchedSelector": "[data-index].product-item",
-      "titleSelectorMatched": "a.product-title",
-      "imgSelectorMatched": ".image-inner img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
-    },
-    "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
-    "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-20T12:37:29.301Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Coral High Renkli Desenli Omuz Askılı PC Makyaj Çantası 16819",
     "img": [
       "https://www.yaygan.com/coral-high-renkli-desenli-omuz-askili-pc-makyaj-cantasi-16819-3130504-62-K.jpg"
@@ -50,6 +12,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1219.95,
         "unsetPrice": false
       }
@@ -62,11 +25,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-20T12:37:29.303Z",
+    "timestamp": "2025-08-21T04:24:04.964Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +52,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1219.95,
         "unsetPrice": false
       }
@@ -100,11 +65,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-20T12:37:29.305Z",
+    "timestamp": "2025-08-21T04:24:04.967Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +92,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2399.95,
         "unsetPrice": false
       }
@@ -138,11 +105,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-20T12:37:29.307Z",
+    "timestamp": "2025-08-21T04:24:04.970Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -154,9 +122,9 @@
   {
     "title": "Coral High Renkli Desenli Kabin Boy Valiz (50cm) 16539",
     "img": [
-      "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3135845-61-K.jpg"
+      "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3144313-61-K.jpg"
     ],
-    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3135845-61-K.jpg",
+    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539-3144313-61-K.jpg",
     "link": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16539",
     "price": [
       {
@@ -164,6 +132,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2399.95,
         "unsetPrice": false
       }
@@ -176,11 +145,52 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
     "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
-    "timestamp": "2025-08-20T12:37:29.310Z",
+    "timestamp": "2025-08-21T04:24:04.973Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Coral High Renkli Desenli Kabin Boy Valiz (50cm) 16538",
+    "img": [
+      "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16538-3139452-61-K.jpg"
+    ],
+    "primaryImg": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16538-3139452-61-K.jpg",
+    "link": "https://www.yaygan.com/coral-high-renkli-desenli-kabin-boy-valiz-50cm-16538",
+    "price": [
+      {
+        "value": "2.399,95 TL",
+        "selector": ".product-price-wrapper .current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2399.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-title)",
+      "matchedSelector": "[data-index].product-item",
+      "titleSelectorMatched": "a.product-title",
+      "imgSelectorMatched": ".image-inner img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadınlara özel çanta ve mataralar sitemizde!",
+    "pageURL": "https://www.yaygan.com/kadin-genc-kiz-cantalari",
+    "timestamp": "2025-08-21T04:24:04.976Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
