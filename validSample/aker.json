@@ -14,6 +14,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1430,
         "unsetPrice": false
       }
@@ -26,11 +27,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:48:49.031Z",
+    "timestamp": "2025-08-21T04:37:02.859Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -54,6 +56,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5499.9,
         "unsetPrice": false
       }
@@ -66,11 +69,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:48:49.033Z",
+    "timestamp": "2025-08-21T04:37:02.862Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -94,6 +98,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2750,
         "unsetPrice": false
       }
@@ -106,11 +111,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:48:49.036Z",
+    "timestamp": "2025-08-21T04:37:02.864Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,6 +140,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5999.9,
         "unsetPrice": false
       }
@@ -146,11 +153,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:48:49.037Z",
+    "timestamp": "2025-08-21T04:37:02.866Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,6 +182,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5199.9,
         "unsetPrice": false
       }
@@ -186,11 +195,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta, 2024 Modeller ve Fiyatları - Aker",
     "pageURL": "https://www.aker.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:48:49.039Z",
+    "timestamp": "2025-08-21T04:37:02.868Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
