@@ -17,6 +17,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1574.9,
         "unsetPrice": false
       }
@@ -29,11 +30,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-20T12:29:06.952Z",
+    "timestamp": "2025-08-21T04:15:23.626Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -57,6 +59,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1119.93,
         "unsetPrice": false
       }
@@ -69,11 +72,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-20T12:29:06.955Z",
+    "timestamp": "2025-08-21T04:15:23.629Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -100,6 +104,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1299.9,
         "unsetPrice": false
       }
@@ -112,11 +117,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-20T12:29:06.957Z",
+    "timestamp": "2025-08-21T04:15:23.632Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -143,6 +149,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2099.9,
         "unsetPrice": false
       }
@@ -155,11 +162,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-20T12:29:06.960Z",
+    "timestamp": "2025-08-21T04:15:23.635Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -186,6 +194,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2619.9,
         "unsetPrice": false
       }
@@ -198,11 +207,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Şık Çantalar ve Aksesuarlar | Elleshoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-08-20T12:29:06.962Z",
+    "timestamp": "2025-08-21T04:15:23.638Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
