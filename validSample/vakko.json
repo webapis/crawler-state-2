@@ -15,6 +15,7 @@
         "selector": "spa-product-price .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 39975,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".product-item-content__info h3",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "spa-product-price .price"
+      "bestPriceSelector": "spa-product-price .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-20T12:43:31.185Z",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
+    "timestamp": "2025-08-21T04:31:01.362Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": "spa-product-price .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 12975,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".product-item-content__info h3",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "spa-product-price .price"
+      "bestPriceSelector": "spa-product-price .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-20T12:43:31.187Z",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
+    "timestamp": "2025-08-21T04:31:01.365Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": "spa-product-price .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 45475,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": ".product-item-content__info h3",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "spa-product-price .price"
+      "bestPriceSelector": "spa-product-price .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-20T12:43:31.190Z",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
+    "timestamp": "2025-08-21T04:31:01.369Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": "spa-product-price .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 55475,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": ".product-item-content__info h3",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "spa-product-price .price"
+      "bestPriceSelector": "spa-product-price .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-20T12:43:31.192Z",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
+    "timestamp": "2025-08-21T04:31:01.372Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": "spa-product-price .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 45475,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": ".product-item-content__info h3",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "spa-product-price .price"
+      "bestPriceSelector": "spa-product-price .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102",
-    "timestamp": "2025-08-20T12:43:31.194Z",
+    "pageURL": "https://www.vakko.com/ayakkabi-canta/kadin-canta-c-3030102?currentPage=2",
+    "timestamp": "2025-08-21T04:31:01.376Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
