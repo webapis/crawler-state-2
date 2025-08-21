@@ -23,6 +23,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2981.5,
         "unsetPrice": false
       }
@@ -35,11 +36,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-08-20T12:55:40.577Z",
+    "timestamp": "2025-08-21T04:44:06.131Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -73,6 +75,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2311.5,
         "unsetPrice": false
       }
@@ -85,11 +88,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-08-20T12:55:40.580Z",
+    "timestamp": "2025-08-21T04:44:06.135Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,6 +127,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2311.5,
         "unsetPrice": false
       }
@@ -135,11 +140,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-08-20T12:55:40.582Z",
+    "timestamp": "2025-08-21T04:44:06.138Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,6 +178,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2981.5,
         "unsetPrice": false
       }
@@ -184,11 +191,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-08-20T12:55:40.585Z",
+    "timestamp": "2025-08-21T04:44:06.140Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -221,6 +229,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2646.5,
         "unsetPrice": false
       }
@@ -233,11 +242,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre",
     "pageURL": "https://www.zuhre.com.tr/canta",
-    "timestamp": "2025-08-20T12:55:40.587Z",
+    "timestamp": "2025-08-21T04:44:06.143Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
