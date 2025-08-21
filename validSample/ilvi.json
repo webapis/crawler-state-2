@@ -1,18 +1,19 @@
 [
   {
-    "title": "Kranj Altın Renk Kadın Portföy Çanta",
+    "title": "Vitorio Bej Kadın El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-altin-renk-kadin-porfoy-canta--6402-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/vitorio-bej-kadin-el-cantasi-e-ff47.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-altin-renk-kadin-porfoy-canta--6402-.jpg",
-    "link": "https://www.ilvi.com/kranj-altin-renk-kadin-porfoy-canta",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/vitorio-bej-kadin-el-cantasi-e-ff47.jpg",
+    "link": "https://www.ilvi.com/vitorio-bej-kadin-el-cantasi",
     "price": [
       {
-        "value": "250.00$",
+        "value": "270.00$",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 8375,
+        "isShadowDOM": false,
+        "numericValue": 9045,
         "unsetPrice": false
       }
     ],
@@ -24,11 +25,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-20T12:41:22.080Z",
+    "timestamp": "2025-08-21T04:27:59.656Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,19 +40,20 @@
     "mediaType": "image"
   },
   {
-    "title": "Kranj Siyah Kadın Porföy Çanta",
+    "title": "Vitorio Siyah Kadın El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-siyah-kadin-porfoy-canta-6ea-8e.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/vitorio-siyah-kadin-el-cantasi-b88816.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/kranj-siyah-kadin-porfoy-canta-6ea-8e.jpg",
-    "link": "https://www.ilvi.com/kranj-siyah-kadin-porfoy-canta",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/vitorio-siyah-kadin-el-cantasi-b88816.jpg",
+    "link": "https://www.ilvi.com/vitorio-siyah-kadin-el-cantasi",
     "price": [
       {
-        "value": "250.00$",
+        "value": "270.00$",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 8375,
+        "isShadowDOM": false,
+        "numericValue": 9045,
         "unsetPrice": false
       }
     ],
@@ -62,11 +65,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-20T12:41:22.083Z",
+    "timestamp": "2025-08-21T04:27:59.659Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -76,94 +80,19 @@
     "mediaType": "image"
   },
   {
-    "title": "Doolin Gümüş Renk Taşlı Kadın Portföy Çanta",
+    "title": "Jerome Bej Kadın Omuz Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-gumus-renk-tasli-kadin-portfoy--87260-.jpg"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/jerome-bej-kadin-omuz-cantasi-9a1-4c.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-gumus-renk-tasli-kadin-portfoy--87260-.jpg",
-    "link": "https://www.ilvi.com/doolin-gumus-kadin-porfoy-canta",
-    "price": [
-      {
-        "value": "225.00$",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 7537.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
-    },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-20T12:41:22.085Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Doolin Altın Renk Taşlı Kadın Porftöy Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-altin-renk-tasli-kadin-porftoy--789668.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/doolin-altin-renk-tasli-kadin-porftoy--789668.jpg",
-    "link": "https://www.ilvi.com/doolin-altin-kadin-porfoy-canta",
-    "price": [
-      {
-        "value": "225.00$",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 7537.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
-    },
-    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
-    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-20T12:41:22.087Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Velenje Gümüş Renk Taşlı Kadın Portföy Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/velenje-kadin-porfoy-canta-gumus-438-7c.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/velenje-kadin-porfoy-canta-gumus-438-7c.jpg",
-    "link": "https://www.ilvi.com/velenje-gumus-renk-kadin-portfoy-canta",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/jerome-bej-kadin-omuz-cantasi-9a1-4c.jpg",
+    "link": "https://www.ilvi.com/jerome-bej-kadin-omuz-cantasi",
     "price": [
       {
         "value": "275.00$",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 9212.5,
         "unsetPrice": false
       }
@@ -176,11 +105,92 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
     "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
-    "timestamp": "2025-08-20T12:41:22.090Z",
+    "timestamp": "2025-08-21T04:27:59.662Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Jerome Siyah Kadın Omuz Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/jerome-siyah-kadin-omuz-cantasi-e1-832.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/jerome-siyah-kadin-omuz-cantasi-e1-832.jpg",
+    "link": "https://www.ilvi.com/jerome-kadin-omuz-cantasi-siyah-19269",
+    "price": [
+      {
+        "value": "275.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 9212.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-21T04:27:59.666Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Trale Siyah Kadın El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/trale-siyah-kadin-el-cantasi-18-3a6.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/7357/uploads/urunresimleri/buyuk/trale-siyah-kadin-el-cantasi-18-3a6.jpg",
+    "link": "https://www.ilvi.com/trale-siyah-kadin-el-cantasi",
+    "price": [
+      {
+        "value": "151.00$",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5058.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri - Sayfa 3",
+    "pageURL": "https://www.ilvi.com/kadin/canta?sayfa=3",
+    "timestamp": "2025-08-21T04:27:59.669Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
