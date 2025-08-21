@@ -15,6 +15,7 @@
         "selector": ".product__listing--basket-price span",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1289.4,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__listing--basket-price span"
+      "bestPriceSelector": ".product__listing--basket-price span",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T12:40:36.883Z",
+    "timestamp": "2025-08-21T04:28:02.438Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": ".product__listing--basket-price span",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 899.4,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__listing--basket-price span"
+      "bestPriceSelector": ".product__listing--basket-price span",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T12:40:36.886Z",
+    "timestamp": "2025-08-21T04:28:02.441Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": ".product__listing--basket-price span",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1259.4,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__listing--basket-price span"
+      "bestPriceSelector": ".product__listing--basket-price span",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T12:40:36.888Z",
+    "timestamp": "2025-08-21T04:28:02.444Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": ".product__listing--basket-price span",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1259.4,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__listing--basket-price span"
+      "bestPriceSelector": ".product__listing--basket-price span",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T12:40:36.891Z",
+    "timestamp": "2025-08-21T04:28:02.447Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": ".product__listing--basket-price span",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1559.4,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": ".product__listing--content h3 a",
       "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product__listing--basket-price span"
+      "bestPriceSelector": ".product__listing--basket-price span",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Pierre Cardin",
     "pageURL": "https://www.pierrecardin.com.tr/kadin-canta-modelleri/",
-    "timestamp": "2025-08-20T12:40:36.893Z",
+    "timestamp": "2025-08-21T04:28:02.450Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
