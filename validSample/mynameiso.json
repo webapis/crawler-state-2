@@ -1,0 +1,192 @@
+[
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [
+      {
+        "value": "334.69€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12386.88,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-08-21T12:41:54.099Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [
+      {
+        "value": "334.69€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12386.88,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-08-21T12:41:54.101Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [
+      {
+        "value": "546.07€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 20210.05,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-08-21T12:41:54.103Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [
+      {
+        "value": "546.07€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 20210.05,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-08-21T12:41:54.105Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [
+      {
+        "value": "546.07€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 20210.05,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-08-21T12:41:54.107Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
