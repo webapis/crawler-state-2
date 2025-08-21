@@ -19,6 +19,7 @@
         "selector": "span.wpDiscountPriceBlock",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2679.92,
         "unsetPrice": false
       }
@@ -31,11 +32,12 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.wpDiscountPriceBlock"
+      "bestPriceSelector": "span.wpDiscountPriceBlock",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-20T12:52:03.452Z",
+    "timestamp": "2025-08-21T04:40:00.714Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,6 +68,7 @@
         "selector": "span.wpDiscountPriceBlock",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2167.92,
         "unsetPrice": false
       }
@@ -78,11 +81,12 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.wpDiscountPriceBlock"
+      "bestPriceSelector": "span.wpDiscountPriceBlock",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-20T12:52:03.455Z",
+    "timestamp": "2025-08-21T04:40:00.717Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -111,6 +115,7 @@
         "selector": "span.wpDiscountPriceBlock",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3527.92,
         "unsetPrice": false
       }
@@ -123,11 +128,12 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.wpDiscountPriceBlock"
+      "bestPriceSelector": "span.wpDiscountPriceBlock",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-20T12:52:03.457Z",
+    "timestamp": "2025-08-21T04:40:00.721Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,6 +168,7 @@
         "selector": "span.wpDiscountPriceBlock",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1471.92,
         "unsetPrice": false
       }
@@ -174,11 +181,12 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.wpDiscountPriceBlock"
+      "bestPriceSelector": "span.wpDiscountPriceBlock",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-20T12:52:03.460Z",
+    "timestamp": "2025-08-21T04:40:00.724Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,6 +219,7 @@
         "selector": "span.wpDiscountPriceBlock",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2207.92,
         "unsetPrice": false
       }
@@ -223,11 +232,12 @@
       "titleSelectorMatched": ".product-item__product-title a",
       "imgSelectorMatched": ".image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.wpDiscountPriceBlock"
+      "bestPriceSelector": "span.wpDiscountPriceBlock",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hakiki Deri Çanta Modelleri & Fiyatları",
     "pageURL": "https://semenderleather.com/collections/canta",
-    "timestamp": "2025-08-20T12:52:03.462Z",
+    "timestamp": "2025-08-21T04:40:00.727Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
