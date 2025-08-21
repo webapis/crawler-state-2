@@ -13,6 +13,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 19500,
         "unsetPrice": false
       }
@@ -25,11 +26,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:51:00.581Z",
+    "timestamp": "2025-08-21T04:39:18.671Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,6 +54,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 19500,
         "unsetPrice": false
       }
@@ -64,11 +67,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:51:00.583Z",
+    "timestamp": "2025-08-21T04:39:18.673Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,6 +95,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 13650,
         "unsetPrice": false
       },
@@ -99,6 +104,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 19500,
         "unsetPrice": false
       }
@@ -111,11 +117,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:51:00.585Z",
+    "timestamp": "2025-08-21T04:39:18.676Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +145,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 11137,
         "unsetPrice": false
       },
@@ -146,6 +154,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 15910,
         "unsetPrice": false
       }
@@ -158,11 +167,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:51:00.587Z",
+    "timestamp": "2025-08-21T04:39:18.678Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -185,6 +195,7 @@
         "selector": ".product-item__price pz-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 23100,
         "unsetPrice": false
       }
@@ -197,11 +208,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price"
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:51:00.589Z",
+    "timestamp": "2025-08-21T04:39:18.680Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
