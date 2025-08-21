@@ -1,44 +1,5 @@
 [
   {
-    "title": "DASPIAS Kadın Siyah Omuz Ve El Çantası",
-    "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=533"
-    ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-001-002-008_1.jpg?v=1748244424 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-daspias-001-002-008",
-    "price": [
-      {
-        "value": "1.799,70TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1799.7,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": ".grid__item:has(.price)",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
-    },
-    "pageTitle": "ALDO Kadın Çanta Modelleri",
-    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-20T12:39:48.424Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Kadın Kahve Çapraz Çanta-1",
     "img": [
       "https://www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1440",
@@ -52,6 +13,7 @@
         "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.6,
         "unsetPrice": false
       }
@@ -64,11 +26,12 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-20T12:39:48.427Z",
+    "timestamp": "2025-08-21T04:27:29.408Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,6 +54,7 @@
         "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1499,
         "unsetPrice": false
       }
@@ -103,11 +67,12 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-20T12:39:48.429Z",
+    "timestamp": "2025-08-21T04:27:29.410Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,6 +95,7 @@
         "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1799,
         "unsetPrice": false
       }
@@ -142,11 +108,12 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-20T12:39:48.431Z",
+    "timestamp": "2025-08-21T04:27:29.413Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -156,20 +123,21 @@
     "mediaType": "image"
   },
   {
-    "title": "Kadın Siyah Omuz Ve El Çantası-1",
+    "title": "Kadın Siyah Çanta-1",
     "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=533"
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=533"
     ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/EILE-001-002-029_1.jpg?v=1747139863 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-eile-001-002-029",
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/LEGOIRI-98_1.jpg?v=1746714343 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-legoiri-98",
     "price": [
       {
-        "value": "2.099,70TL",
+        "value": "1.999,00TL",
         "selector": ".price-item.price-item--sale.price-item--last",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2099.7,
+        "isShadowDOM": false,
+        "numericValue": 1999,
         "unsetPrice": false
       }
     ],
@@ -181,11 +149,53 @@
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last"
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-20T12:39:48.433Z",
+    "timestamp": "2025-08-21T04:27:29.415Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kadın Pembe Çapraz Çanta-1",
+    "img": [
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=533"
+    ],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/pembe-canta-p-landenderiel-680-002-029",
+    "price": [
+      {
+        "value": "1.799,70TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.7,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ALDO Kadın Çanta Modelleri",
+    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
+    "timestamp": "2025-08-21T04:27:29.417Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
