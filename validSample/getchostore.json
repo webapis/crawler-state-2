@@ -15,6 +15,7 @@
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2699.9,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T12:53:30.639Z",
+    "timestamp": "2025-08-21T04:41:36.343Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2699.9,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T12:53:30.641Z",
+    "timestamp": "2025-08-21T04:41:36.346Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2399.9,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T12:53:30.643Z",
+    "timestamp": "2025-08-21T04:41:36.349Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2999.9,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T12:53:30.645Z",
+    "timestamp": "2025-08-21T04:41:36.351Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2309.9,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri",
-    "timestamp": "2025-08-20T12:53:30.648Z",
+    "timestamp": "2025-08-21T04:41:36.354Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
