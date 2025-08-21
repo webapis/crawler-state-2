@@ -1,41 +1,151 @@
 [
   {
-    "title": null,
+    "title": "Süsleme detaylı shopper çanta",
     "img": [
-      "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=888&f=auto"
+      "https://static.pullandbear.net/assets/public/f1d9/4b82/3ad248f184bb/2b0e269699fc/14073640022-E/14073640022-E.jpg?ts=1755098082040&w=1208&f=auto",
+      "https://static.pullandbear.net/assets/public/427d/36dc/86a84b06a797/0620c4a070c9/14073640022-M/14073640022-M.jpg?ts=1754047717093&w=1208&f=auto"
     ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=888&f=auto",
-    "link": null,
-    "price": [
-      {
-        "value": "1.690,00 TL",
-        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "isShadowDOM": true,
-        "numericValue": 1690,
-        "unsetPrice": false
-      }
-    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/f1d9/4b82/3ad248f184bb/2b0e269699fc/14073640022-E/14073640022-E.jpg?ts=1755098082040&w=1208&f=auto",
+    "link": "https://www.pullandbear.com/tr/susleme-detayl%C4%B1-shopper-canta-l14073640?cS=022&pelement=695434553",
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
       "matchedSelector": ".c-tile.c-tile--product",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "span.product-name",
       "imgSelectorMatched": "img.image-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-      "priceExtractedFromShadowDOM": true
+      "bestPriceSelector": null
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-08-21T04:37:07.224Z",
+    "timestamp": "2025-08-21T05:50:21.199Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba detaylı tote çanta",
+    "img": [
+      "https://static.pullandbear.net/assets/public/fa59/7dbe/448d4015befa/ca22d6438d16/14076640040-D2/14076640040-D2.jpg?ts=1755098080510&w=1208&f=auto",
+      "https://static.pullandbear.net/assets/public/a1da/03c6/7a34432b963b/51126880e763/14076640040-M/14076640040-M.jpg?ts=1754406046376&w=1208&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/fa59/7dbe/448d4015befa/ca22d6438d16/14076640040-D2/14076640040-D2.jpg?ts=1755098080510&w=1208&f=auto",
+    "link": "https://www.pullandbear.com/tr/z%C4%B1mba-detayl%C4%B1-tote-canta-l14076640?cS=040&pelement=695434638",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-08-21T05:50:21.201Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba detaylı kol çantası",
+    "img": [
+      "https://static.pullandbear.net/assets/public/bd7d/995d/22b64554bbfe/8e3c138727e0/14086640022-E/14086640022-E.jpg?ts=1755098583626&w=1208&f=auto",
+      "https://static.pullandbear.net/assets/public/f4dc/ef52/287d480e909d/e8c62a251074/14086640022-M/14086640022-M.jpg?ts=1754407151298&w=1208&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/bd7d/995d/22b64554bbfe/8e3c138727e0/14086640022-E/14086640022-E.jpg?ts=1755098583626&w=1208&f=auto",
+    "link": "https://www.pullandbear.com/tr/z%C4%B1mba-detayl%C4%B1-kol-cantas%C4%B1-l14086640?cS=022&pelement=697861780",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-08-21T05:50:21.204Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba detaylı el çantası",
+    "img": [
+      "https://static.pullandbear.net/assets/public/ef6b/7234/f6a94940888d/5bcd661bc979/14137649040-M/14137649040-M.jpg?ts=1752829318792&w=1208&f=auto",
+      "https://static.pullandbear.net/assets/public/7af1/daff/26a64b9f9738/dc6ff19aa408/14137649040-A2M/14137649040-A2M.jpg?ts=1752829318503&w=1208&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/ef6b/7234/f6a94940888d/5bcd661bc979/14137649040-M/14137649040-M.jpg?ts=1752829318792&w=1208&f=auto",
+    "link": "https://www.pullandbear.com/tr/z%C4%B1mba-detayl%C4%B1-el-cantas%C4%B1-l14137649?cS=040&pelement=693518328",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-08-21T05:50:21.206Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba detaylı kol çantası",
+    "img": [
+      "https://static.pullandbear.net/assets/public/70b8/06d3/04b6412cb78c/10efd050a110/1408664002201-M/1408664002201-M.jpg?ts=1754549357771&w=1208&f=auto",
+      "https://static.pullandbear.net/assets/public/711b/280e/9fcf47de9172/2707ea1998dd/1408664002201-A2M/1408664002201-A2M.jpg?ts=1754549353799&w=1208&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/70b8/06d3/04b6412cb78c/10efd050a110/1408664002201-M/1408664002201-M.jpg?ts=1754549357771&w=1208&f=auto",
+    "link": "https://www.pullandbear.com/tr/z%C4%B1mba-detayl%C4%B1-kol-cantas%C4%B1-l14086640?cS=022&pelement=714313772",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-08-21T05:50:21.209Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image"
   }
