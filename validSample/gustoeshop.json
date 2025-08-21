@@ -17,11 +17,12 @@
     "link": "https://gustoeshop.com/en/soft-leather-bag-burgundy-25yg",
     "price": [
       {
-        "value": "140,28 EUR",
+        "value": "140,66 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 5191.76,
+        "isShadowDOM": false,
+        "numericValue": 5205.83,
         "unsetPrice": false
       }
     ],
@@ -33,11 +34,12 @@
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular"
+      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-20T12:31:20.983Z",
+    "timestamp": "2025-08-21T04:17:22.961Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -64,11 +66,12 @@
     "link": "https://gustoeshop.com/en/soft-leather-bag-beige-25yg",
     "price": [
       {
-        "value": "140,28 EUR",
+        "value": "140,66 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 5191.76,
+        "isShadowDOM": false,
+        "numericValue": 5205.83,
         "unsetPrice": false
       }
     ],
@@ -80,11 +83,12 @@
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular"
+      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-20T12:31:20.985Z",
+    "timestamp": "2025-08-21T04:17:22.964Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -107,11 +111,12 @@
     "link": "https://gustoeshop.com/en/soft-leather-bag-black-25yg",
     "price": [
       {
-        "value": "140,28 EUR",
+        "value": "140,66 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 5191.76,
+        "isShadowDOM": false,
+        "numericValue": 5205.83,
         "unsetPrice": false
       }
     ],
@@ -123,11 +128,12 @@
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular"
+      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-20T12:31:20.987Z",
+    "timestamp": "2025-08-21T04:17:22.966Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -157,11 +163,12 @@
     "link": "https://gustoeshop.com/en/leather-bag-with-long-handles-black-25yg",
     "price": [
       {
-        "value": "172,74 EUR",
+        "value": "173,20 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 6393.11,
+        "isShadowDOM": false,
+        "numericValue": 6410.13,
         "unsetPrice": false
       }
     ],
@@ -173,11 +180,12 @@
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular"
+      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-20T12:31:20.989Z",
+    "timestamp": "2025-08-21T04:17:22.969Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,11 +210,12 @@
     "link": "https://gustoeshop.com/en/lock-buckle-long-strap-mini-leather-bag-brown-25yg",
     "price": [
       {
-        "value": "138,19 EUR",
+        "value": "138,56 EUR",
         "selector": ".product-discounted-price.text-black.fw-regular",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 5114.41,
+        "isShadowDOM": false,
+        "numericValue": 5128.11,
         "unsetPrice": false
       }
     ],
@@ -218,11 +227,12 @@
       "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular"
+      "bestPriceSelector": ".product-discounted-price.text-black.fw-regular",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag Models and Prices | Gusto",
     "pageURL": "https://gustoeshop.com/canta",
-    "timestamp": "2025-08-20T12:31:20.991Z",
+    "timestamp": "2025-08-21T04:17:22.972Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
