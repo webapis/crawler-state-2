@@ -13,6 +13,7 @@
         "selector": ".sell-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 279.99,
         "unsetPrice": false
       }
@@ -25,11 +26,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price"
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta",
     "pageURL": "https://morrez.com/canta-1?o=8&page=1",
-    "timestamp": "2025-08-20T12:37:09.332Z",
+    "timestamp": "2025-08-21T04:23:48.707Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
