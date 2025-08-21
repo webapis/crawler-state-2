@@ -15,6 +15,7 @@
         "selector": ".boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6569,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__format-currency"
+      "bestPriceSelector": ".boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T12:43:22.188Z",
+    "timestamp": "2025-08-21T04:31:11.968Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4107,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T12:43:22.190Z",
+    "timestamp": "2025-08-21T04:31:11.973Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": ".boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 12085,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__format-currency"
+      "bestPriceSelector": ".boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T12:43:22.193Z",
+    "timestamp": "2025-08-21T04:31:11.978Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": ".boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 14765,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__format-currency"
+      "bestPriceSelector": ".boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T12:43:22.195Z",
+    "timestamp": "2025-08-21T04:31:11.982Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2703,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency"
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-20T12:43:22.198Z",
+    "timestamp": "2025-08-21T04:31:11.989Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
