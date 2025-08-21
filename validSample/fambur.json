@@ -9,7 +9,17 @@
     ],
     "primaryImg": "//www.fambur.com/cdn/shop/files/element-haki-kanvas-canta-01.jpg?v=1750004256&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-haki",
-    "price": [],
+    "price": [
+      {
+        "value": "845.00TL",
+        "selector": ".item-price.textBase",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 845,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -18,17 +28,17 @@
       "titleSelectorMatched": "a.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-08-21T10:41:41.127Z",
+    "timestamp": "2025-08-21T10:44:22.906Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -42,7 +52,17 @@
     ],
     "primaryImg": "//www.fambur.com/cdn/shop/files/element-yesil-kanvas-canta-01.jpg?v=1750004192&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-yesil",
-    "price": [],
+    "price": [
+      {
+        "value": "845.00TL",
+        "selector": ".item-price.textBase",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 845,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -51,17 +71,17 @@
       "titleSelectorMatched": "a.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-08-21T10:41:41.129Z",
+    "timestamp": "2025-08-21T10:44:22.908Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -75,7 +95,17 @@
     ],
     "primaryImg": "//www.fambur.com/cdn/shop/files/element-antrasit-kanvas-canta-01.jpg?v=1750004078&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-antrasit",
-    "price": [],
+    "price": [
+      {
+        "value": "845.00TL",
+        "selector": ".item-price.textBase",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 845,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -84,17 +114,17 @@
       "titleSelectorMatched": "a.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-08-21T10:41:41.131Z",
+    "timestamp": "2025-08-21T10:44:22.910Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -108,7 +138,17 @@
     ],
     "primaryImg": "//www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-01.jpg?v=1750003994&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-lila",
-    "price": [],
+    "price": [
+      {
+        "value": "845.00TL",
+        "selector": ".item-price.textBase",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 845,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -117,17 +157,17 @@
       "titleSelectorMatched": "a.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-08-21T10:41:41.132Z",
+    "timestamp": "2025-08-21T10:44:22.912Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -141,7 +181,17 @@
     ],
     "primaryImg": "//www.fambur.com/cdn/shop/files/element-krem-kanvas-canta-01.jpg?v=1750003698&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-krem",
-    "price": [],
+    "price": [
+      {
+        "value": "600.00TL",
+        "selector": ".item-price.textBase",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 600,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -150,17 +200,17 @@
       "titleSelectorMatched": "a.product-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-08-21T10:41:41.134Z",
+    "timestamp": "2025-08-21T10:44:22.915Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
