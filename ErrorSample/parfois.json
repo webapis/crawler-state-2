@@ -1,176 +1,146 @@
 [
   {
-    "title": "Desenli %100 Pamuk Ceket",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.parfois.com.tr/tr/desenli-100-pamuk-ceket-p-233887_bm?recommended_by=dynamic&recommended_code=bb47aa67608c9ea1a5988c2737dc9694",
-    "price": [
-      {
-        "value": "1.199,99 TL",
-        "selector": ".price.actual-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1199.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-box",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.actual-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
-    "pageURL": "https://www.parfois.com.tr/tr/canta",
-    "timestamp": "2025-08-21T11:24:34.823Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Toka Detaylı Deri Çizme",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.parfois.com.tr/tr/toka-detayli-deri-cizme-p-228866_bk?recommended_by=dynamic&recommended_code=bb47aa67608c9ea1a5988c2737dc9694",
-    "price": [
-      {
-        "value": "2.399,99 TL",
-        "selector": ".price.actual-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2399.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-box",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.actual-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
-    "pageURL": "https://www.parfois.com.tr/tr/canta",
-    "timestamp": "2025-08-21T11:24:34.825Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Hasır Efektli Omuz Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.parfois.com.tr/tr/hasir-efektli-omuz-cantasi-p-230080nc?recommended_by=dynamic&recommended_code=bb47aa67608c9ea1a5988c2737dc9694",
-    "price": [
-      {
-        "value": "2.299,99 TL",
-        "selector": ".price.actual-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2299.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-box",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.actual-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
-    "pageURL": "https://www.parfois.com.tr/tr/canta",
-    "timestamp": "2025-08-21T11:24:34.827Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Hasır Efektli El Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.parfois.com.tr/tr/hasir-gorunumlu-el-cantasi-p-176090_gd?recommended_by=dynamic&recommended_code=bb47aa67608c9ea1a5988c2737dc9694",
-    "price": [
-      {
-        "value": "1.799,99 TL",
-        "selector": ".price.actual-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1799.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-title a)",
-      "matchedSelector": ".product-box",
-      "titleSelectorMatched": ".product-title a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.actual-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
-    "pageURL": "https://www.parfois.com.tr/tr/canta",
-    "timestamp": "2025-08-21T11:24:34.829Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "İstek Listeme Ekle",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a33535825e100f79e2fd54_shop-the-look.webp"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a33535825e100f79e2fd54_shop-the-look.webp",
     "link": "https://www.parfois.com.tr/tr/shop-the-look-kombin-26",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-box",
+      "matchedSelector": ".cat-product article.product-box",
       "titleSelectorMatched": ".product-title span",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".main-product-img.card-img",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
     "pageURL": "https://www.parfois.com.tr/tr/canta",
-    "timestamp": "2025-08-21T11:24:34.831Z",
+    "timestamp": "2025-08-21T11:36:19.916Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "İstek Listeme Ekle",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a334a3825e100f79deea09_shop-the-look.jpeg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a334a3825e100f79deea09_shop-the-look.jpeg",
+    "link": "https://www.parfois.com.tr/tr/shop-the-look-kombin-25",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".cat-product article.product-box",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-21T11:36:19.918Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "İstek Listeme Ekle",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a33380825e100f79d590c9_shop-the-look.webp"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68a33380825e100f79d590c9_shop-the-look.webp",
+    "link": "https://www.parfois.com.tr/tr/shop-the-look-kombin-23",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".cat-product article.product-box",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-21T11:36:19.920Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "İstek Listeme Ekle",
+    "img": [
+      "https://www.parfois.com.tr/tr/canta/data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E",
+    "link": "https://www.parfois.com.tr/tr/shop-the-look-kombin-22",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".cat-product article.product-box",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-21T11:36:19.921Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "İstek Listeme Ekle",
+    "img": [
+      "https://www.parfois.com.tr/tr/canta/data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E",
+    "link": "https://www.parfois.com.tr/tr/shop-the-look-kombin-21",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".cat-product article.product-box",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-21T11:36:19.923Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
