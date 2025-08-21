@@ -23,6 +23,7 @@
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 10499,
         "unsetPrice": false
       }
@@ -35,11 +36,12 @@
       "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]"
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:48:45.569Z",
+    "timestamp": "2025-08-21T04:37:27.856Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -64,6 +66,7 @@
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 10499,
         "unsetPrice": false
       }
@@ -76,11 +79,12 @@
       "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]"
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:48:45.571Z",
+    "timestamp": "2025-08-21T04:37:27.859Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -117,6 +121,7 @@
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6599,
         "unsetPrice": false
       }
@@ -129,11 +134,12 @@
       "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]"
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:48:45.573Z",
+    "timestamp": "2025-08-21T04:37:27.862Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,6 +174,7 @@
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6499,
         "unsetPrice": false
       }
@@ -180,11 +187,12 @@
       "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]"
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:48:45.575Z",
+    "timestamp": "2025-08-21T04:37:27.864Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -223,6 +231,7 @@
         "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5999,
         "unsetPrice": false
       }
@@ -235,11 +244,12 @@
       "titleSelectorMatched": "h3 a.block.text-primary.text-xs",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]"
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - Lacoste",
     "pageURL": "https://www.lacoste.com.tr/kadin-canta/",
-    "timestamp": "2025-08-20T12:48:45.577Z",
+    "timestamp": "2025-08-21T04:37:27.867Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
