@@ -13,6 +13,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999,
         "unsetPrice": false
       }
@@ -25,11 +26,12 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T12:35:53.661Z",
+    "timestamp": "2025-08-21T04:22:06.382Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,6 +54,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2299,
         "unsetPrice": false
       }
@@ -64,11 +67,12 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T12:35:53.663Z",
+    "timestamp": "2025-08-21T04:22:06.385Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,6 +95,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2299,
         "unsetPrice": false
       }
@@ -103,11 +108,12 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T12:35:53.665Z",
+    "timestamp": "2025-08-21T04:22:06.388Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,6 +136,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3999,
         "unsetPrice": false
       }
@@ -142,11 +149,12 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T12:35:53.667Z",
+    "timestamp": "2025-08-21T04:22:06.390Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,6 +177,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3999,
         "unsetPrice": false
       }
@@ -181,11 +190,12 @@
       "titleSelectorMatched": "h2.product-item__name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Converse Türkiye",
     "pageURL": "https://www.converse.com.tr/kadin-canta/?page=2",
-    "timestamp": "2025-08-20T12:35:53.669Z",
+    "timestamp": "2025-08-21T04:22:06.393Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
