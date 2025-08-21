@@ -1,0 +1,207 @@
+[
+  {
+    "title": "SEPET SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/3840/16.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/540/16.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/720/16.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/900/16.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1080/16.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1296/16.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1512/16.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1728/16.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1950/16.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/2560/16.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/3840/16.webp 3840w",
+    "link": "https://kabuk.com.tr/sepet-sari",
+    "price": [
+      {
+        "value": "₺ 1,325.00",
+        "selector": ".sell-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1325,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-08-21T11:17:34.376Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "ÜÇÜBİRARADA SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/360/sari-3u1arada.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/3840/sari-3u1arada.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/180/sari-3u1arada.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/360/sari-3u1arada.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/360/sari-3u1arada.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/540/sari-3u1arada.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/720/sari-3u1arada.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/900/sari-3u1arada.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/1080/sari-3u1arada.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/1296/sari-3u1arada.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/1512/sari-3u1arada.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/1728/sari-3u1arada.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/1950/sari-3u1arada.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/2560/sari-3u1arada.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/aa48e835-de5d-4e37-9481-3fda961e081c/3840/sari-3u1arada.webp 3840w",
+    "link": "https://kabuk.com.tr/ucubirarada-sari",
+    "price": [
+      {
+        "value": "₺ 1,315.00",
+        "selector": ".sell-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1315,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-08-21T11:17:34.379Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "HAVLU ASTARLI SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/3840/1.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/540/1.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/720/1.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/900/1.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1080/1.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1296/1.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1512/1.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1728/1.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1950/1.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/2560/1.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/3840/1.webp 3840w",
+    "link": "https://kabuk.com.tr/havlu-sari",
+    "price": [
+      {
+        "value": "₺ 1,565.00",
+        "selector": ".sell-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1565,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-08-21T11:17:34.381Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "HAVLU ASTARLI MAVİ",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/360/4.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/3840/4.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/180/4.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/360/4.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/360/4.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/540/4.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/720/4.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/900/4.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/1080/4.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/1296/4.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/1512/4.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/1728/4.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/1950/4.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/2560/4.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/49613263-cf88-4b85-9f91-bd0a677f405e/3840/4.webp 3840w",
+    "link": "https://kabuk.com.tr/havlulu-set-mavi",
+    "price": [
+      {
+        "value": "₺ 1,565.00",
+        "selector": ".sell-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1565,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-08-21T11:17:34.383Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "HAVLU ASTARLI CİD MAVİ",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/360/2.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/3840/2.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/180/2.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/360/2.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/360/2.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/540/2.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/720/2.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/900/2.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/1080/2.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/1296/2.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/1512/2.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/1728/2.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/1950/2.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/2560/2.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2599e5b4-2477-4171-acf3-5b243ab2eb16/3840/2.webp 3840w",
+    "link": "https://kabuk.com.tr/havlu-astarli-cid-mavi",
+    "price": [
+      {
+        "value": "₺ 585.00",
+        "selector": ".sell-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 585,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".sell-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-08-21T11:17:34.385Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
