@@ -17,6 +17,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7950,
         "unsetPrice": false
       }
@@ -29,11 +30,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-08-21T03:20:01.812Z",
+    "timestamp": "2025-08-21T04:45:10.491Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,6 +62,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4599,
         "unsetPrice": false
       }
@@ -72,11 +75,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-08-21T03:20:01.815Z",
+    "timestamp": "2025-08-21T04:45:10.494Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,6 +107,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4599,
         "unsetPrice": false
       }
@@ -115,11 +120,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-08-21T03:20:01.817Z",
+    "timestamp": "2025-08-21T04:45:10.496Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -146,6 +152,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 9950,
         "unsetPrice": false
       }
@@ -158,11 +165,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-08-21T03:20:01.819Z",
+    "timestamp": "2025-08-21T04:45:10.499Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -189,6 +197,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 9950,
         "unsetPrice": false
       }
@@ -201,11 +210,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-08-21T03:20:01.821Z",
+    "timestamp": "2025-08-21T04:45:10.502Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
