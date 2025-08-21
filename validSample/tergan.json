@@ -12,6 +12,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1589.5,
         "unsetPrice": false
       }
@@ -24,11 +25,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:44:36.092Z",
+    "timestamp": "2025-08-21T04:34:38.977Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7294.99,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:44:36.094Z",
+    "timestamp": "2025-08-21T04:34:38.980Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +92,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7094.99,
         "unsetPrice": false
       }
@@ -100,11 +105,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:44:36.097Z",
+    "timestamp": "2025-08-21T04:34:38.983Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2329.5,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:44:36.099Z",
+    "timestamp": "2025-08-21T04:34:38.986Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": ".product-price-wrapper .current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 6049.99,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": ".image-inner img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price-wrapper .current-price"
+      "bestPriceSelector": ".product-price-wrapper .current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Tergan.com.tr",
     "pageURL": "https://www.tergan.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:44:36.101Z",
+    "timestamp": "2025-08-21T04:34:38.988Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
