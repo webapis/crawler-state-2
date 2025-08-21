@@ -13,6 +13,7 @@
         "selector": "formatted-price-detail div div",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 17950,
         "unsetPrice": false
       }
@@ -25,11 +26,12 @@
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "formatted-price-detail div div"
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-20T12:52:52.058Z",
+    "timestamp": "2025-08-21T04:41:07.077Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,6 +54,7 @@
         "selector": "formatted-price-detail div div",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 17950,
         "unsetPrice": false
       }
@@ -64,11 +67,12 @@
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "formatted-price-detail div div"
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-20T12:52:52.061Z",
+    "timestamp": "2025-08-21T04:41:07.082Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,6 +95,7 @@
         "selector": "formatted-price-detail div div",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 11950,
         "unsetPrice": false
       }
@@ -103,11 +108,12 @@
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "formatted-price-detail div div"
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-20T12:52:52.063Z",
+    "timestamp": "2025-08-21T04:41:07.087Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,6 +136,7 @@
         "selector": "formatted-price-detail div div",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 11950,
         "unsetPrice": false
       }
@@ -142,11 +149,12 @@
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "formatted-price-detail div div"
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-20T12:52:52.065Z",
+    "timestamp": "2025-08-21T04:41:07.093Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,6 +177,7 @@
         "selector": "formatted-price-detail div div",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 11950,
         "unsetPrice": false
       }
@@ -181,11 +190,12 @@
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "formatted-price-detail div div"
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-08-20T12:52:52.067Z",
+    "timestamp": "2025-08-21T04:41:07.098Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
