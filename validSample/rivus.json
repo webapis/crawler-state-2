@@ -13,11 +13,12 @@
     "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ince-cizgili-ceket-gri",
     "price": [
       {
-        "value": "$292.28",
+        "value": "$292.07",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 9791.38,
+        "isShadowDOM": false,
+        "numericValue": 9784.34,
         "unsetPrice": false
       }
     ],
@@ -29,11 +30,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus - Sayfa 3",
     "pageURL": "https://rivus.com.tr/dis-giyim?sayfa=3",
-    "timestamp": "2025-08-20T12:38:27.854Z",
+    "timestamp": "2025-08-21T04:25:58.660Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,11 +58,12 @@
     "link": "https://rivus.com.tr/modern-fit-kruvaze-ceket-bej",
     "price": [
       {
-        "value": "$243.36",
+        "value": "$243.19",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 8152.56,
+        "isShadowDOM": false,
+        "numericValue": 8146.86,
         "unsetPrice": false
       }
     ],
@@ -72,11 +75,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus - Sayfa 3",
     "pageURL": "https://rivus.com.tr/dis-giyim?sayfa=3",
-    "timestamp": "2025-08-20T12:38:27.856Z",
+    "timestamp": "2025-08-21T04:25:58.663Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -99,11 +103,12 @@
     "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ceket-gri-cizgili1",
     "price": [
       {
-        "value": "$292.28",
+        "value": "$292.07",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 9791.38,
+        "isShadowDOM": false,
+        "numericValue": 9784.34,
         "unsetPrice": false
       }
     ],
@@ -115,11 +120,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus - Sayfa 3",
     "pageURL": "https://rivus.com.tr/dis-giyim?sayfa=3",
-    "timestamp": "2025-08-20T12:38:27.858Z",
+    "timestamp": "2025-08-21T04:25:58.666Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -142,11 +148,12 @@
     "link": "https://rivus.com.tr/oversize-kruvaze-kesim-ceket-mavi",
     "price": [
       {
-        "value": "$292.28",
+        "value": "$292.07",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 9791.38,
+        "isShadowDOM": false,
+        "numericValue": 9784.34,
         "unsetPrice": false
       }
     ],
@@ -158,11 +165,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus - Sayfa 3",
     "pageURL": "https://rivus.com.tr/dis-giyim?sayfa=3",
-    "timestamp": "2025-08-20T12:38:27.861Z",
+    "timestamp": "2025-08-21T04:25:58.669Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,11 +191,12 @@
     "link": "https://rivus.com.tr/serit-tas-detayli-sik-blazer-siyah",
     "price": [
       {
-        "value": "$97.22",
+        "value": "$97.15",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 3256.87,
+        "isShadowDOM": false,
+        "numericValue": 3254.53,
         "unsetPrice": false
       }
     ],
@@ -199,11 +208,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Mevsimlik Dış Giyim - Rivus - Sayfa 3",
     "pageURL": "https://rivus.com.tr/dis-giyim?sayfa=3",
-    "timestamp": "2025-08-20T12:38:27.863Z",
+    "timestamp": "2025-08-21T04:25:58.672Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
