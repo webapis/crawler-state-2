@@ -1,5 +1,46 @@
 [
   {
+    "title": "Calvin Klein Jeans Kadın Omuz Çantası K60K612233 Bej",
+    "img": [
+      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107059082.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTg1NDk5fGltYWdlL2pwZWd8YUdObEwyZ3hZUzh4TVRBek1ETTJNalk0TlRRM01BfDU4YmQzMmQ4YTIxZmRmOTg0YjM5MzkxOTA5MDgyYTlhZDk3YTI2NmVkZDFiMTNkZWE1YTE0YTRkZGI1YmEwMDc",
+      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/8721107059082.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTg1NDk5fGltYWdlL2pwZWd8YURZMkwyZ3hOeTh4TVRBek1ETTJNamM0TXpjM05BfDNmNTQwMmRmMWQ5NmQ3ZWJlODEyZmViZmZmOTU1YTgzMGE2ZGU4YzNiNjNhNjNhNzM0NDVhZWViMTcwNDg5NDg"
+    ],
+    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107059082.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTg1NDk5fGltYWdlL2pwZWd8YUdObEwyZ3hZUzh4TVRBek1ETTJNalk0TlRRM01BfDU4YmQzMmQ4YTIxZmRmOTg0YjM5MzkxOTA5MDgyYTlhZDk3YTI2NmVkZDFiMTNkZWE1YTE0YTRkZGI1YmEwMDc",
+    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-omuz-cantasi-k60k612233-p-13828000",
+    "price": [
+      {
+        "value": "2.639,40 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2639.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-08-21T04:41:20.904Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Lumberjack Unisex Spor Çantası STN LEXY GYM Siyah",
     "img": [
       "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8684620767578.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI1MTExfGltYWdlL2pwZWd8YUdReEwyZ3lZUzh4TURrek5EUXpOVFl4TURZMU5BfDRiZjRjYjlkNTI5NmVmZWVjY2NmMWUwZjVjNWE0NTY5ODBmNmY3ZDkzODFkMjllZGI3NWZjNGMxM2U5ZGU0NWI",
@@ -13,6 +54,7 @@
         "selector": ".current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 959.99,
         "unsetPrice": false
       }
@@ -25,11 +67,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price"
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T12:52:52.860Z",
+    "timestamp": "2025-08-21T04:41:20.907Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -52,6 +95,7 @@
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 854.99,
         "unsetPrice": false
       }
@@ -64,11 +108,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T12:52:52.862Z",
+    "timestamp": "2025-08-21T04:41:20.911Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,6 +136,7 @@
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2429.4,
         "unsetPrice": false
       }
@@ -103,11 +149,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T12:52:52.864Z",
+    "timestamp": "2025-08-21T04:41:20.914Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -130,6 +177,7 @@
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1745.1,
         "unsetPrice": false
       }
@@ -142,50 +190,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T12:52:52.866Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Adidas Lin Class Unisex Sırt Çantası HT4768 Siyah",
-    "img": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/4066751833737.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzgzOTY2fGltYWdlL2pwZWd8YUdNMEwyaGhNeTh4TURrMU1qUXpNRGczT0RjMU1BfDQ0MzgxYzY4ZmI2MjJmNzMwZjE0MDRmM2I0OTNmODUwNzU3ZDAyNmQ2YWI5ZGZlYzc1N2IxMWZiOGRhYjQyZTY",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/4066751833737.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzgzOTY2fGltYWdlL2pwZWd8YURKakwyaGhOeTh4TURrMU1qUXpNRGszTnpBMU5BfGYzYzVkYzQyODI1YzZlMDcxNTE0NjExMDk1ZDA1NmEwN2UxYjA5OTZmMDgzZmY3MTExOTQ0MTE4YTFjZGEwN2Y"
-    ],
-    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/4066751833737.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzgzOTY2fGltYWdlL2pwZWd8YUdNMEwyaGhNeTh4TURrMU1qUXpNRGczT0RjMU1BfDQ0MzgxYzY4ZmI2MjJmNzMwZjE0MDRmM2I0OTNmODUwNzU3ZDAyNmQ2YWI5ZGZlYzc1N2IxMWZiOGRhYjQyZTY",
-    "link": "https://www.ozdilekteyim.com/magaza/adidas-sirt-cantasi-ht4768-p-13118988",
-    "price": [
-      {
-        "value": "854,10 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 854.1,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-08-20T12:52:52.868Z",
+    "timestamp": "2025-08-21T04:41:20.917Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
