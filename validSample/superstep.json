@@ -11,17 +11,8 @@
     "link": "https://www.superstep.com.tr/urun/kanken-classic-unisex-gri-sirt-cantasi/23510-46/",
     "price": [
       {
-        "value": "5.249 TL",
-        "selector": "[data-testid=\"product-price\"]",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 5249,
-        "unsetPrice": false
-      },
-      {
         "value": "3.149,40 TL",
-        "selector": "[data-testid=\"product-price\"]",
+        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -37,12 +28,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-08-21T10:42:04.251Z",
+    "timestamp": "2025-08-21T10:46:14.133Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -66,7 +57,7 @@
     "price": [
       {
         "value": "2.571,80 TL",
-        "selector": "[data-testid=\"product-price\"]",
+        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -82,12 +73,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-08-21T10:42:04.253Z",
+    "timestamp": "2025-08-21T10:46:14.136Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,17 +101,8 @@
     "link": "https://www.superstep.com.tr/urun/vans-old-skool-sport-unisex-siyah-sirt-cantasi/vn000hrjblk1/",
     "price": [
       {
-        "value": "2.999 TL",
-        "selector": "[data-testid=\"product-price\"]",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2999,
-        "unsetPrice": false
-      },
-      {
         "value": "1.499,50 TL",
-        "selector": "[data-testid=\"product-price\"]",
+        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -136,12 +118,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-08-21T10:42:04.256Z",
+    "timestamp": "2025-08-21T10:46:14.138Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -167,7 +149,7 @@
     "price": [
       {
         "value": "1.175,30 TL",
-        "selector": "[data-testid=\"product-price\"]",
+        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -183,12 +165,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-08-21T10:42:04.260Z",
+    "timestamp": "2025-08-21T10:46:14.140Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -214,7 +196,7 @@
     "price": [
       {
         "value": "1.371,30 TL",
-        "selector": "[data-testid=\"product-price\"]",
+        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -230,12 +212,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-08-21T10:42:04.262Z",
+    "timestamp": "2025-08-21T10:46:14.142Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
