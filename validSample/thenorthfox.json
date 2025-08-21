@@ -35,6 +35,7 @@
         "selector": ".product--price .money",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5149.09,
         "unsetPrice": false
       }
@@ -47,11 +48,12 @@
       "titleSelectorMatched": "p.product--title",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product--price .money"
+      "bestPriceSelector": ".product--price .money",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Small Bags | The North Fox",
     "pageURL": "https://www.thenorthfox.com/en-en/collections/swift-fox",
-    "timestamp": "2025-08-20T12:51:57.178Z",
+    "timestamp": "2025-08-21T04:40:27.212Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +99,7 @@
         "selector": ".product--price .money",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3476.36,
         "unsetPrice": false
       }
@@ -109,11 +112,12 @@
       "titleSelectorMatched": "p.product--title",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product--price .money"
+      "bestPriceSelector": ".product--price .money",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Small Bags | The North Fox",
     "pageURL": "https://www.thenorthfox.com/en-en/collections/swift-fox",
-    "timestamp": "2025-08-20T12:51:57.181Z",
+    "timestamp": "2025-08-21T04:40:27.215Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -146,6 +150,7 @@
         "selector": ".product--price .money",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5309.09,
         "unsetPrice": false
       }
@@ -158,11 +163,12 @@
       "titleSelectorMatched": "p.product--title",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product--price .money"
+      "bestPriceSelector": ".product--price .money",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Small Bags | The North Fox",
     "pageURL": "https://www.thenorthfox.com/en-en/collections/swift-fox",
-    "timestamp": "2025-08-20T12:51:57.184Z",
+    "timestamp": "2025-08-21T04:40:27.220Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -203,6 +209,7 @@
         "selector": ".product--price .money",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5149.09,
         "unsetPrice": false
       }
@@ -215,11 +222,12 @@
       "titleSelectorMatched": "p.product--title",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product--price .money"
+      "bestPriceSelector": ".product--price .money",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Small Bags | The North Fox",
     "pageURL": "https://www.thenorthfox.com/en-en/collections/swift-fox",
-    "timestamp": "2025-08-20T12:51:57.188Z",
+    "timestamp": "2025-08-21T04:40:27.224Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -246,6 +254,7 @@
         "selector": ".product--price .money",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 465.45,
         "unsetPrice": false
       }
@@ -258,11 +267,12 @@
       "titleSelectorMatched": "p.product--title",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product--price .money"
+      "bestPriceSelector": ".product--price .money",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Small Bags | The North Fox",
     "pageURL": "https://www.thenorthfox.com/en-en/collections/swift-fox",
-    "timestamp": "2025-08-20T12:51:57.190Z",
+    "timestamp": "2025-08-21T04:40:27.228Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
