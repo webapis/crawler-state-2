@@ -25,6 +25,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2199,
         "unsetPrice": false
       }
@@ -37,11 +38,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T12:47:54.535Z",
+    "timestamp": "2025-08-21T04:36:47.542Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -74,6 +76,7 @@
         "selector": ".price .price__new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7199,
         "unsetPrice": false
       }
@@ -86,11 +89,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new"
+      "bestPriceSelector": ".price .price__new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T12:47:54.537Z",
+    "timestamp": "2025-08-21T04:36:47.546Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -117,6 +121,7 @@
         "selector": ".price .price__new",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 9500,
         "unsetPrice": false
       }
@@ -129,11 +134,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price__new"
+      "bestPriceSelector": ".price .price__new",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T12:47:54.539Z",
+    "timestamp": "2025-08-21T04:36:47.549Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,6 +168,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 8000,
         "unsetPrice": false
       }
@@ -174,11 +181,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T12:47:54.541Z",
+    "timestamp": "2025-08-21T04:36:47.552Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -208,6 +216,7 @@
         "selector": ".price.price--discounted .price__old",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5290,
         "unsetPrice": false
       }
@@ -220,11 +229,12 @@
       "titleSelectorMatched": "a.product-item__name",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old"
+      "bestPriceSelector": ".price.price--discounted .price__old",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-08-20T12:47:54.543Z",
+    "timestamp": "2025-08-21T04:36:47.555Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
