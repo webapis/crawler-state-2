@@ -1,49 +1,5 @@
 [
   {
-    "title": "EASTPAK YARIN CNNCT SIRT ÇANTASI",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000119022001.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_2.jpg",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_3.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_4.jpg"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000119022001.jpg",
-    "link": "https://www.twist.com.tr/urun/siyah-eastpak-padded-pak-r-city-lights-sirt-cantasi-5225",
-    "price": [
-      {
-        "value": "2.799,30 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2799.3,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".urunListe_satisFiyat",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T04:19:43.927Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "WOUF BLACK FOREST BEL ÇANTASI",
     "img": [
       "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120015001.jpg",
@@ -78,7 +34,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T04:19:43.930Z",
+    "timestamp": "2025-08-21T06:54:07.790Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,24 +44,24 @@
     "mediaType": "image"
   },
   {
-    "title": "WOUF CYPRESS GLOSSY BEL ÇANTASI",
+    "title": "EASTPAK YARIN CNNCT SIRT ÇANTASI",
     "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120003022.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120003022_4.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000119022001.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_2.jpg",
       "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120003022_5.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120003022_6.jpg"
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_3.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000119022001_4.jpg"
     ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120003022.JPG",
-    "link": "https://www.twist.com.tr/urun/haki-wouf-cypress-glossy-bel-cantasi",
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000119022001.jpg",
+    "link": "https://www.twist.com.tr/urun/siyah-eastpak-padded-pak-r-city-lights-sirt-cantasi-5225",
     "price": [
       {
-        "value": "1.575,00 ₺",
+        "value": "2.799,30 ₺",
         "selector": ".urunListe_satisFiyat",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1575,
+        "numericValue": 2799.3,
         "unsetPrice": false
       }
     ],
@@ -122,7 +78,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T04:19:43.932Z",
+    "timestamp": "2025-08-21T06:54:07.793Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,7 +121,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T04:19:43.935Z",
+    "timestamp": "2025-08-21T06:54:07.796Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -175,24 +131,24 @@
     "mediaType": "image"
   },
   {
-    "title": "EASTPAK SPRINGER GLOSSY GREEN MİNİ ÇANTA",
+    "title": "WOUF CELINE XL PORTFÖY ÇANTA",
     "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120013070_1.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120013070_2.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_2.jpg",
       "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120013070_3.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120013070_4.jpg"
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_3.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_5.jpg"
     ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120013070_1.jpg",
-    "link": "https://www.twist.com.tr/urun/yesil-eastpak-springer-shear-dye-bel-cantasi",
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089.jpg",
+    "link": "https://www.twist.com.tr/urun/mavi-wouf-vivianne-xl-el-cantasi",
     "price": [
       {
-        "value": "874,30 ₺",
+        "value": "1.050,00 ₺",
         "selector": ".urunListe_satisFiyat",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 874.3,
+        "numericValue": 1050,
         "unsetPrice": false
       }
     ],
@@ -209,7 +165,50 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T04:19:43.938Z",
+    "timestamp": "2025-08-21T06:54:07.799Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "WOUF CELIN MAKYAJ ÇANTASI",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052073001.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052073001_2.jpg",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052073001_3.jpg"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052073001.jpg",
+    "link": "https://www.twist.com.tr/urun/siyah-wouf-celine-telefon-cantasi-14868",
+    "price": [
+      {
+        "value": "1.120,00 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1120,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".urunListe_satisFiyat",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-08-21T06:54:07.801Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
