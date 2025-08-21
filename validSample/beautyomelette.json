@@ -12,6 +12,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4500,
         "unsetPrice": false
       }
@@ -24,11 +25,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-08-20T12:31:30.798Z",
+    "timestamp": "2025-08-21T04:17:44.805Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 4500,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-08-20T12:31:30.801Z",
+    "timestamp": "2025-08-21T04:17:44.808Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +92,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5400,
         "unsetPrice": false
       }
@@ -100,11 +105,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-08-20T12:31:30.802Z",
+    "timestamp": "2025-08-21T04:17:44.810Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5400,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-08-20T12:31:30.804Z",
+    "timestamp": "2025-08-21T04:17:44.813Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 5400,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "[data-original]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA - Sayfa 2",
     "pageURL": "https://clothing.beautyomelette.com/canta-1772?sayfa=2",
-    "timestamp": "2025-08-20T12:31:30.806Z",
+    "timestamp": "2025-08-21T04:17:44.815Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
