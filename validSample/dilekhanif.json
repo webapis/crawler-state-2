@@ -9,11 +9,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-2",
     "price": [
       {
-        "value": "$484.23 USD",
+        "value": "$484.04 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 16221.7,
+        "isShadowDOM": false,
+        "numericValue": 16215.34,
         "unsetPrice": false
       }
     ],
@@ -25,11 +26,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T12:38:46.837Z",
+    "timestamp": "2025-08-21T04:26:35.084Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -48,11 +50,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-puskullu-canta",
     "price": [
       {
-        "value": "$383.35 USD",
+        "value": "$383.2 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 12842.23,
+        "isShadowDOM": false,
+        "numericValue": 12837.2,
         "unsetPrice": false
       }
     ],
@@ -64,11 +67,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T12:38:46.840Z",
+    "timestamp": "2025-08-21T04:26:35.086Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -87,11 +91,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-1",
     "price": [
       {
-        "value": "$484.23 USD",
+        "value": "$484.04 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 16221.7,
+        "isShadowDOM": false,
+        "numericValue": 16215.34,
         "unsetPrice": false
       }
     ],
@@ -103,11 +108,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T12:38:46.843Z",
+    "timestamp": "2025-08-21T04:26:35.089Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,11 +132,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta",
     "price": [
       {
-        "value": "$484.23 USD",
+        "value": "$484.04 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 16221.7,
+        "isShadowDOM": false,
+        "numericValue": 16215.34,
         "unsetPrice": false
       }
     ],
@@ -142,11 +149,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)"
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-08-20T12:38:46.845Z",
+    "timestamp": "2025-08-21T04:26:35.091Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
