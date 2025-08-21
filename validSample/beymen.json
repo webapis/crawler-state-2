@@ -1,9 +1,102 @@
 [
   {
+    "title": "Monogram Bej Kadın Alışveriş Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/v4o3uf01.p1y_IMG_01_2110099143057.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/v4o3uf01.p1y_IMG_01_2110099143057.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/v4o3uf01.p1y_IMG_01_2110099143057.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/h4wgjrlp.nkm_IMG_02_2110099143057.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/t4du01e0.dou_IMG_03_2110099143057.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/nhrnpuea.omd_IMG_04_2110099143057.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/v4o3uf01.p1y_IMG_01_2110099143057.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/v4o3uf01.p1y_IMG_01_2110099143057.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_beymen-monogram-bej-kadin-alisveris-cantasi_1640944",
+    "price": [
+      {
+        "value": "4.749 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4749,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-21T04:20:36.402Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Medium Heires Beyaz Kadın Çanta",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bqquxqo0.1n4_IMG_02_2110100073359.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kjf2xhvf.gfi_IMG_03_2110100073359.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/wglfqkub.tns_IMG_04_2110100073359.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/qzbxhnvo.gxn_IMG_01_2110100073359.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_alexander-wang-medium-heires-beyaz-kadin-canta_1668420",
+    "price": [
+      {
+        "value": "26.495 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 26495,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-08-21T04:20:36.407Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Rock Siyah Kadın Deri Çanta",
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/goyglf3e.mfg_IMG_01_2110097966061.jpg",
       "https://cdn.beymen.com/mnresize/435/-/productimages/goyglf3e.mfg_IMG_01_2110097966061.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/goyglf3e.mfg_IMG_01_2110097966061.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/whkazw2q.b5j_IMG_02_2110097966061.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/zyyauigc.wfe_IMG_03_2110097966061.jpg",
@@ -17,6 +110,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 18450,
         "unsetPrice": false
       }
@@ -29,11 +123,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-20T12:34:13.897Z",
+    "timestamp": "2025-08-21T04:20:36.411Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -47,6 +142,7 @@
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/srb0pb1h.lzz_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/435/-/productimages/srb0pb1h.lzz_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/srb0pb1h.lzz_MP_e2cfdc6c-dc64-487d-8d71-3409e96d5214_1_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bcxo4qog.uk0_MP_72a6b209-4438-45e8-8d43-9f41e2cab39c_2_31398568582310051232166451453_817.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/svq13czt.ki5_MP_0509a5ac-db79-4a21-9d33-2a39496ffdb5_3_31398568582310051232166451453_817.jpg",
@@ -60,6 +156,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 45600,
         "unsetPrice": false
       }
@@ -72,11 +169,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-20T12:34:13.899Z",
+    "timestamp": "2025-08-21T04:20:36.415Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,6 +188,7 @@
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/krbrqnbk.1pf_IMG_32_2110097918466.jpg",
       "https://cdn.beymen.com/mnresize/435/-/productimages/krbrqnbk.1pf_IMG_32_2110097918466.jpg",
+      "https://cdn.beymen.com/assets/desktop/img/beymen-placeholder-435px-606px.svg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/krbrqnbk.1pf_IMG_32_2110097918466.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/k1eg2uqr.iyq_IMG_31_2110097918466.jpg",
       "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/l0v3lzah.emu_IMG_33_2110097918466.jpg",
@@ -103,6 +202,7 @@
         "selector": ".m-productCard__newPrice",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 332950,
         "unsetPrice": false
       }
@@ -115,97 +215,12 @@
       "titleSelectorMatched": ".m-productCard__desc",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-20T12:34:13.901Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "The Sticker Snapshot Çok Renkli Kadın Deri Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/k2edr0u1.euw_IMG_01_2110100132193.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/k2edr0u1.euw_IMG_01_2110100132193.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/k2edr0u1.euw_IMG_01_2110100132193.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ligvy2ku.nll_IMG_02_2110100132193.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/jzjkeomm.cp5_IMG_03_2110100132193.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kuacqu1e.rrq_IMG_04_2110100132193.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/k2edr0u1.euw_IMG_01_2110100132193.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/k2edr0u1.euw_IMG_01_2110100132193.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_marc-jacobs-the-sticker-snapshot-cok-renkli-kadin-deri-canta_1698808",
-    "price": [
-      {
-        "value": "19.995 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 19995,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-20T12:34:13.904Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Rock Siyah Gold Kadın Deri Çapraz Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/p0cwzo0y.cz3_IMG_01_2110099911687.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/p0cwzo0y.cz3_IMG_01_2110099911687.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/p0cwzo0y.cz3_IMG_01_2110099911687.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/lqi02i1l.qa2_IMG_02_2110099911687.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/mt51pcgh.uwo_IMG_03_2110099911687.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/0eindkz5.zwk_IMG_04_2110099911687.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/p0cwzo0y.cz3_IMG_01_2110099911687.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/p0cwzo0y.cz3_IMG_01_2110099911687.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_zadigvoltaire-rock-siyah-gold-kadin-deri-capraz-canta_1681698",
-    "price": [
-      {
-        "value": "18.450 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 18450,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice"
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-08-20T12:34:13.906Z",
+    "timestamp": "2025-08-21T04:20:36.419Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
