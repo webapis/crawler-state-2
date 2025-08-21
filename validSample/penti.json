@@ -1,5 +1,49 @@
 [
   {
+    "title": "Marin Renkli Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYMSDCZJ25IY-CLR_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYMSDCZJ25IY-CLR_view1.jpg",
+      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYMSDCZJ25IY-CLR_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYMSDCZJ25IY-CLR_view3.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYMSDCZJ25IY-CLR_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/marin-renkli-canta/p/PYMSDCZJ25IY-CLR",
+    "price": [
+      {
+        "value": "₺800,39",
+        "selector": ".prc.prc-last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 800.39,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-08-21T04:20:23.242Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Marget Ekru Hasır Çanta",
     "img": [
       "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY3JWM5X25IY-EC2_front.jpg",
@@ -15,6 +59,7 @@
         "selector": ".prc.prc-last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 560.1,
         "unsetPrice": false
       }
@@ -27,11 +72,12 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last"
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T12:33:55.068Z",
+    "timestamp": "2025-08-21T04:20:23.245Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +102,7 @@
         "selector": ".prc.prc-last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 160.2,
         "unsetPrice": false
       }
@@ -68,11 +115,12 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last"
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T12:33:55.071Z",
+    "timestamp": "2025-08-21T04:20:23.248Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -96,6 +144,7 @@
         "selector": ".prc.prc-last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 140.1,
         "unsetPrice": false
       }
@@ -108,11 +157,12 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last"
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T12:33:55.073Z",
+    "timestamp": "2025-08-21T04:20:23.250Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,8 +175,8 @@
     "title": "Papilla Sarı Çanta",
     "img": [
       "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYT2LDZF25IY-YL2_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYT2LDZF25IY-YL2_view1.jpg",
-      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg"
+      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYT2LDZF25IY-YL2_view1.jpg"
     ],
     "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYT2LDZF25IY-YL2_front.jpg",
     "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/papilla-sari-canta/p/PYT2LDZF25IY-YL2",
@@ -136,6 +186,7 @@
         "selector": ".prc.prc-last",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 140.1,
         "unsetPrice": false
       }
@@ -148,52 +199,12 @@
       "titleSelectorMatched": ".prd-title h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last"
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T12:33:55.077Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Sand Hasır Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYSKCGPL25IY-NAT_front.jpg",
-      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYSKCGPL25IY-NAT_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYSKCGPL25IY-NAT_view2.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYSKCGPL25IY-NAT_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/plaj-aksesuarlari/plaj-cantasi/sand-canta/p/PYSKCGPL25IY-NAT",
-    "price": [
-      {
-        "value": "₺1.120,19",
-        "selector": ".prc.prc-last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "numericValue": 1120.19,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last"
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-08-20T12:33:55.080Z",
+    "timestamp": "2025-08-21T04:20:23.253Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
