@@ -15,6 +15,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7231.38,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T12:33:04.859Z",
+    "timestamp": "2025-08-21T04:19:00.332Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -57,6 +59,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7100,
         "unsetPrice": false
       }
@@ -69,11 +72,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T12:33:04.861Z",
+    "timestamp": "2025-08-21T04:19:00.335Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -99,6 +103,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7231.38,
         "unsetPrice": false
       }
@@ -111,11 +116,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T12:33:04.863Z",
+    "timestamp": "2025-08-21T04:19:00.338Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -141,6 +147,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7100,
         "unsetPrice": false
       }
@@ -153,11 +160,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T12:33:04.866Z",
+    "timestamp": "2025-08-21T04:19:00.340Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,6 +191,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 7231.38,
         "unsetPrice": false
       }
@@ -195,11 +204,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta | Sherin",
     "pageURL": "https://www.sherin.com.tr/canta",
-    "timestamp": "2025-08-20T12:33:04.868Z",
+    "timestamp": "2025-08-21T04:19:00.343Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
