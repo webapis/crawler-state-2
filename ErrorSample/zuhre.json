@@ -21,6 +21,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -35,11 +36,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T12:55:53.562Z",
+    "timestamp": "2025-08-21T04:44:19.770Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -71,6 +73,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -85,11 +88,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T12:55:53.565Z",
+    "timestamp": "2025-08-21T04:44:19.773Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -107,10 +111,10 @@
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-7d81-4.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-c9319b.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-db-47d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/gri.jpg",
-      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/siyah.jpg",
+      "https://www.zuhre.com.tr/canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII=",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/gri.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/kahve.jpg",
       "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/images/ilgiliurunresim/bej.jpg"
     ],
     "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=650,quality=90/35474/uploads/urunresimleri/buyuk/kabartma-orgu-detayli-vizon-canta-z004-ab0a86.jpg",
@@ -121,6 +125,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -135,11 +140,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T12:55:53.568Z",
+    "timestamp": "2025-08-21T04:44:19.777Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -170,6 +176,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -184,11 +191,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T12:55:53.571Z",
+    "timestamp": "2025-08-21T04:44:19.781Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -220,6 +228,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -234,11 +243,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri: Omuz, Kol ve El Çantaları - Zühre - Sayfa 6",
     "pageURL": "https://www.zuhre.com.tr/canta?sayfa=6",
-    "timestamp": "2025-08-20T12:55:53.574Z",
+    "timestamp": "2025-08-21T04:44:19.785Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
