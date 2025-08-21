@@ -16,6 +16,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3760,
         "unsetPrice": false
       }
@@ -28,11 +29,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:55:20.847Z",
+    "timestamp": "2025-08-21T04:43:15.542Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -58,6 +60,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2780,
         "unsetPrice": false
       }
@@ -70,11 +73,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:55:20.849Z",
+    "timestamp": "2025-08-21T04:43:15.546Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -101,6 +105,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2780,
         "unsetPrice": false
       }
@@ -113,11 +118,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:55:20.852Z",
+    "timestamp": "2025-08-21T04:43:15.549Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -144,6 +150,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2780,
         "unsetPrice": false
       }
@@ -156,11 +163,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:55:20.854Z",
+    "timestamp": "2025-08-21T04:43:15.551Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -187,6 +195,7 @@
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2580,
         "unsetPrice": false
       }
@@ -199,11 +208,12 @@
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan"
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:55:20.856Z",
+    "timestamp": "2025-08-21T04:43:15.554Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
