@@ -8,11 +8,12 @@
     "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3146",
     "price": [
       {
-        "value": "t 2.591,28",
+        "value": "t 2.339,10",
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2591.28,
+        "isShadowDOM": false,
+        "numericValue": 2339.1,
         "unsetPrice": false
       }
     ],
@@ -24,11 +25,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T12:35:10.395Z",
+    "timestamp": "2025-08-21T04:21:19.235Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2879.2,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T12:35:10.397Z",
+    "timestamp": "2025-08-21T04:21:19.237Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -84,11 +88,12 @@
     "link": "https://www.buenoshoes.com.tr/siyah-deri-kadin-el-cantasi-791-1-3314",
     "price": [
       {
-        "value": "t 2.799,20",
+        "value": "t 2.499,00",
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
-        "numericValue": 2799.2,
+        "isShadowDOM": false,
+        "numericValue": 2499,
         "unsetPrice": false
       }
     ],
@@ -100,11 +105,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T12:35:10.399Z",
+    "timestamp": "2025-08-21T04:21:19.240Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2463.2,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T12:35:10.401Z",
+    "timestamp": "2025-08-21T04:21:19.242Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": "span.divUFiyat1",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2463.2,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1"
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Bueno Shoes",
     "pageURL": "https://www.buenoshoes.com.tr/kadin/canta",
-    "timestamp": "2025-08-20T12:35:10.403Z",
+    "timestamp": "2025-08-21T04:21:19.244Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
