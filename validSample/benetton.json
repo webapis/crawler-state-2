@@ -15,6 +15,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1249.99,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-20T12:40:54.803Z",
+    "timestamp": "2025-08-21T04:28:34.756Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1249.99,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-20T12:40:54.805Z",
+    "timestamp": "2025-08-21T04:28:34.759Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1249.99,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-20T12:40:54.807Z",
+    "timestamp": "2025-08-21T04:28:34.761Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1349.99,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-20T12:40:54.808Z",
+    "timestamp": "2025-08-21T04:28:34.763Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 1999.99,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": ".p-name a",
       "imgSelectorMatched": "[data-srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price"
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-20T12:40:54.810Z",
+    "timestamp": "2025-08-21T04:28:34.765Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
