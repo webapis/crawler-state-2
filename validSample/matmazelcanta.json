@@ -15,6 +15,7 @@
         "selector": "sale-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2599,
         "unsetPrice": false
       }
@@ -27,11 +28,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price"
+      "bestPriceSelector": "sale-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-08-20T12:51:36.367Z",
+    "timestamp": "2025-08-21T04:39:35.645Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,6 +58,7 @@
         "selector": "sale-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2599,
         "unsetPrice": false
       }
@@ -68,11 +71,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price"
+      "bestPriceSelector": "sale-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-08-20T12:51:36.370Z",
+    "timestamp": "2025-08-21T04:39:35.649Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -97,6 +101,7 @@
         "selector": "sale-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2819.94,
         "unsetPrice": false
       }
@@ -109,11 +114,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price"
+      "bestPriceSelector": "sale-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-08-20T12:51:36.372Z",
+    "timestamp": "2025-08-21T04:39:35.652Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,6 +144,7 @@
         "selector": "sale-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2599,
         "unsetPrice": false
       }
@@ -150,11 +157,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price"
+      "bestPriceSelector": "sale-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-08-20T12:51:36.374Z",
+    "timestamp": "2025-08-21T04:39:35.655Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -179,6 +187,7 @@
         "selector": "sale-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2599,
         "unsetPrice": false
       }
@@ -191,11 +200,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price"
+      "bestPriceSelector": "sale-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-08-20T12:51:36.377Z",
+    "timestamp": "2025-08-21T04:39:35.658Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
