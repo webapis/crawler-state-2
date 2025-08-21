@@ -16,6 +16,7 @@
         "selector": "span.product-box-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3499.99,
         "unsetPrice": false
       }
@@ -23,16 +24,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .owl-item .item a)",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-grid-item-container .product-box-container",
       "titleSelectorMatched": "span.productbox-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.product-box-price"
+      "bestPriceSelector": "span.product-box-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Markaları & Fiyatları | Ayakkabı Dünyası",
     "pageURL": "https://www.ayakkabidunyasi.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:56:24.443Z",
+    "timestamp": "2025-08-21T04:45:07.107Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -58,6 +60,7 @@
         "selector": "span.product-box-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3799.99,
         "unsetPrice": false
       }
@@ -65,16 +68,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .owl-item .item a)",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-grid-item-container .product-box-container",
       "titleSelectorMatched": "span.productbox-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.product-box-price"
+      "bestPriceSelector": "span.product-box-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Markaları & Fiyatları | Ayakkabı Dünyası",
     "pageURL": "https://www.ayakkabidunyasi.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:56:24.445Z",
+    "timestamp": "2025-08-21T04:45:07.110Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -100,6 +104,7 @@
         "selector": "span.product-box-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3199.99,
         "unsetPrice": false
       }
@@ -107,16 +112,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .owl-item .item a)",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-grid-item-container .product-box-container",
       "titleSelectorMatched": "span.productbox-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.product-box-price"
+      "bestPriceSelector": "span.product-box-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Markaları & Fiyatları | Ayakkabı Dünyası",
     "pageURL": "https://www.ayakkabidunyasi.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:56:24.448Z",
+    "timestamp": "2025-08-21T04:45:07.114Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -142,6 +148,7 @@
         "selector": "span.product-box-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 3999.99,
         "unsetPrice": false
       }
@@ -149,16 +156,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .owl-item .item a)",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-grid-item-container .product-box-container",
       "titleSelectorMatched": "span.productbox-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.product-box-price"
+      "bestPriceSelector": "span.product-box-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Markaları & Fiyatları | Ayakkabı Dünyası",
     "pageURL": "https://www.ayakkabidunyasi.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:56:24.450Z",
+    "timestamp": "2025-08-21T04:45:07.116Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,13 +184,14 @@
       "https://img-ayakkabidunyasi.mncdn.com/mnresize/400/400/Content/Images/Originals/0211061_0.jpeg"
     ],
     "primaryImg": "https://img-ayakkabidunyasi.mncdn.com/mnresize/400/400/Content/Images/Originals/0211058_0.jpeg",
-    "link": "https://www.ayakkabidunyasi.com.tr/nautica-siyah-kadin-capraz-canta-7152cn7185t00128",
+    "link": "https://www.ayakkabidunyasi.com.tr/nautica-bej-kadin-capraz-canta-7152cn7185t00018",
     "price": [
       {
         "value": "2.299,99 TL",
         "selector": "span.product-box-price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2299.99,
         "unsetPrice": false
       }
@@ -190,16 +199,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .owl-item .item a)",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".product-grid-item-container .product-box-container",
       "titleSelectorMatched": "span.productbox-name",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.product-box-price"
+      "bestPriceSelector": "span.product-box-price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Markaları & Fiyatları | Ayakkabı Dünyası",
     "pageURL": "https://www.ayakkabidunyasi.com.tr/kadin-canta",
-    "timestamp": "2025-08-20T12:56:24.452Z",
+    "timestamp": "2025-08-21T04:45:07.119Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
