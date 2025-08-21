@@ -12,6 +12,7 @@
         "selector": ".product_box .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2490,
         "unsetPrice": false
       }
@@ -24,11 +25,12 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price"
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:36:00.106Z",
+    "timestamp": "2025-08-21T04:22:25.611Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,6 +52,7 @@
         "selector": ".product_box .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2490,
         "unsetPrice": false
       }
@@ -62,11 +65,12 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price"
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:36:00.108Z",
+    "timestamp": "2025-08-21T04:22:25.614Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,6 +92,7 @@
         "selector": ".product_box .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2490,
         "unsetPrice": false
       }
@@ -100,11 +105,12 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price"
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:36:00.110Z",
+    "timestamp": "2025-08-21T04:22:25.616Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,6 +132,7 @@
         "selector": ".product_box .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 2490,
         "unsetPrice": false
       }
@@ -138,11 +145,12 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price"
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:36:00.111Z",
+    "timestamp": "2025-08-21T04:22:25.618Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,6 +172,7 @@
         "selector": ".product_box .price",
         "attribute": "textContent",
         "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 8090,
         "unsetPrice": false
       }
@@ -176,11 +185,12 @@
       "titleSelectorMatched": ".product_image img",
       "imgSelectorMatched": ".product_image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price"
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-08-20T12:36:00.113Z",
+    "timestamp": "2025-08-21T04:22:25.620Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
