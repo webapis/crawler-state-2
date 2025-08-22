@@ -6,7 +6,17 @@
     ],
     "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079582_gabb-s-40615.jpeg",
     "link": "https://www.kipling.com.tr/p/gabb-s-40615",
-    "price": [],
+    "price": [
+      {
+        "value": "₺5.920,85",
+        "selector": ".rvts-badge-discount p",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5920.85,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -15,17 +25,17 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".rvts-badge-discount p",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-21T11:53:54.786Z",
+    "timestamp": "2025-08-22T03:33:02.885Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -36,7 +46,17 @@
     ],
     "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079620_gabb-s-40614.jpeg",
     "link": "https://www.kipling.com.tr/p/gabb-s-40614",
-    "price": [],
+    "price": [
+      {
+        "value": "₺6.726,85",
+        "selector": ".rvts-badge-discount p",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6726.85,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -45,17 +65,17 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".rvts-badge-discount p",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-21T11:53:54.788Z",
+    "timestamp": "2025-08-22T03:33:02.888Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -66,7 +86,17 @@
     ],
     "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079613_gabb-s-40613.jpeg",
     "link": "https://www.kipling.com.tr/p/gabb-s-40613",
-    "price": [],
+    "price": [
+      {
+        "value": "₺6.726,85",
+        "selector": ".rvts-badge-discount p",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6726.85,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -75,17 +105,17 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".rvts-badge-discount p",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-21T11:53:54.790Z",
+    "timestamp": "2025-08-22T03:33:02.890Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -96,7 +126,17 @@
     ],
     "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079606_gabb-s-40609.jpeg",
     "link": "https://www.kipling.com.tr/p/gabb-s-40609",
-    "price": [],
+    "price": [
+      {
+        "value": "₺5.621,85",
+        "selector": ".rvts-badge-discount p",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5621.85,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -105,17 +145,17 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".rvts-badge-discount p",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-21T11:53:54.792Z",
+    "timestamp": "2025-08-22T03:33:02.893Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
@@ -126,7 +166,17 @@
     ],
     "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079591_gabb-40607.jpeg",
     "link": "https://www.kipling.com.tr/p/gabb-40607",
-    "price": [],
+    "price": [
+      {
+        "value": "₺6.239,35",
+        "selector": ".rvts-badge-discount p",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6239.35,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -135,17 +185,17 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".rvts-badge-discount p",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-21T11:53:54.795Z",
+    "timestamp": "2025-08-22T03:33:02.895Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
