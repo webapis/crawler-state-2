@@ -33,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-22T05:30:23.765Z",
+    "timestamp": "2025-08-22T08:53:40.537Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -76,7 +76,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-08-22T05:30:23.816Z",
+    "timestamp": "2025-08-22T08:53:40.599Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,6 +110,49 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .boost-sd__product-link)",
+      "matchedSelector": ".boost-sd__product-item",
+      "titleSelectorMatched": ".boost-sd__product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta",
+    "timestamp": "2025-08-22T08:53:40.630Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Rolltop Rucksack Mini Sırt Çantası",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=200"
+    ],
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-mini-sirt-cantasi-1",
+    "price": [
+      {
+        "value": "2.820 TL - 3.665 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .boost-sd__product-link)",
       "matchedSelector": [
         ".boost-sd__product-item"
       ],
@@ -119,9 +162,9 @@
       "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
-    "timestamp": "2025-08-22T05:30:33.861Z",
+    "pageTitle": "Kadın Çanta – Sayfa 4 – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=4",
+    "timestamp": "2025-08-22T08:53:50.608Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -166,52 +209,7 @@
     },
     "pageTitle": "Kadın Çanta – Sayfa 3 – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=3",
-    "timestamp": "2025-08-22T05:30:33.844Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Retreat Small Sırt Çantası",
-    "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=200"
-    ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/herschel-retreat-small-sirt-cantasi",
-    "price": [
-      {
-        "value": "4.399 TL - 4.999 TL",
-        "selector": ".boost-sd__format-currency",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .boost-sd__product-link)",
-      "matchedSelector": [
-        ".boost-sd__product-item"
-      ],
-      "titleSelectorMatched": ".boost-sd__product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__format-currency",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
-    "timestamp": "2025-08-22T05:30:33.873Z",
+    "timestamp": "2025-08-22T08:53:51.645Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
