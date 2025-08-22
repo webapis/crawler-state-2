@@ -1,6 +1,6 @@
 [
   {
-    "title": "Detayları Göster Argus S",
+    "title": "Küçük Boy Seyahat Çantası",
     "img": [
       "https://img-kipling.mncdn.com/Content/Images/Thumbs/0078888_argus-s-40451.jpeg"
     ],
@@ -10,9 +10,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
@@ -20,7 +20,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-22T03:33:02.903Z",
+    "timestamp": "2025-08-22T03:43:46.667Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -30,7 +30,7 @@
     "mediaType": "image"
   },
   {
-    "title": "Detayları Göster Leksie",
+    "title": "Orta Boy Omuz Çantası",
     "img": [
       "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079003_leksie-40445.jpeg"
     ],
@@ -40,9 +40,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
@@ -50,7 +50,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-22T03:33:02.905Z",
+    "timestamp": "2025-08-22T03:43:46.669Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -60,29 +60,29 @@
     "mediaType": "image"
   },
   {
-    "title": "Detayları Göster Abanu M Zip",
+    "title": "Küçük Boy Omuz Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0076360_abanu-m-zip-40367.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079582_gabb-s-40615.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0076360_abanu-m-zip-40367.jpeg",
-    "link": "https://www.kipling.com.tr/p/abanu-m-zip-40367",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079582_gabb-s-40615.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40615",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": [
-        ".product"
+        ".product-box-container"
       ],
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
-    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-22T03:33:07.328Z",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=1",
+    "timestamp": "2025-08-22T03:43:53.697Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,29 +92,29 @@
     "mediaType": "image"
   },
   {
-    "title": "Detayları Göster Gabb S",
+    "title": "Küçük Boy Omuz Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0076186_gabb-s-40366.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079620_gabb-s-40614.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0076186_gabb-s-40366.jpeg",
-    "link": "https://www.kipling.com.tr/p/gabb-s-40366",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079620_gabb-s-40614.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40614",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": [
-        ".product"
+        ".product-box-container"
       ],
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
-    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-22T03:33:07.330Z",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=1",
+    "timestamp": "2025-08-22T03:43:53.699Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -124,29 +124,29 @@
     "mediaType": "image"
   },
   {
-    "title": "Detayları Göster Abanu M",
+    "title": "Küçük Boy Omuz Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0077459_abanu-m-40364.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079613_gabb-s-40613.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0077459_abanu-m-40364.jpeg",
-    "link": "https://www.kipling.com.tr/p/abanu-m-40364",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079613_gabb-s-40613.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40613",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": [
-        ".product"
+        ".product-box-container"
       ],
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
-    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-22T03:33:07.332Z",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=1",
+    "timestamp": "2025-08-22T03:43:53.701Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
