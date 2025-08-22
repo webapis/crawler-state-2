@@ -1,23 +1,23 @@
 [
   {
-    "title": "WOUF BLACK FOREST BEL ÇANTASI",
+    "title": "DERİ GÖRÜNÜMLÜ ÇİFT ASKILI ÇANTA",
     "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120015001.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_2.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052039035.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052039035_1.JPG",
       "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_3.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_4.jpg"
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052039035_2.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052039035_3.JPG"
     ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120015001.jpg",
-    "link": "https://www.twist.com.tr/urun/siyah-woufblack-forest-bel-cantasi",
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052039035.JPG",
+    "link": "https://www.twist.com.tr/urun/bordo-canta-tr-18476",
     "price": [
       {
-        "value": "1.960,00 ₺",
+        "value": "3.999,00 ₺",
         "selector": ".urunListe_satisFiyat",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1960,
+        "numericValue": 3999,
         "unsetPrice": false
       }
     ],
@@ -34,7 +34,95 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T06:54:07.790Z",
+    "timestamp": "2025-08-22T05:21:56.965Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "CANTA",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_2.JPG",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_3.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_4.JPG"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074.JPG",
+    "link": "https://www.twist.com.tr/urun/kahverengi-canta-tr-18607",
+    "price": [
+      {
+        "value": "3.999,00 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".urunListe_satisFiyat",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-08-22T05:21:56.968Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "KONTRAST KORDON SAPLI KAPAKLI ÇANTA",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052032089.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052032089_1.jpg",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052032089_2.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052032089_3.JPG"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052032089.JPG",
+    "link": "https://www.twist.com.tr/urun/mavi-canta-11557",
+    "price": [
+      {
+        "value": "3.999,00 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".urunListe_satisFiyat",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-08-22T05:21:56.971Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -78,7 +166,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T06:54:07.793Z",
+    "timestamp": "2025-08-22T05:21:56.973Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,23 +176,24 @@
     "mediaType": "image"
   },
   {
-    "title": "WOUF BLACK FOREST ÇAPRAZ ASKILI ÇANTA",
+    "title": "WOUF BLACK FOREST BEL ÇANTASI",
     "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052100001.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052100001_2.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120015001.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_2.jpg",
       "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052100001_3.jpg"
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_3.jpg",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000120015001_4.jpg"
     ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052100001.jpg",
-    "link": "https://www.twist.com.tr/urun/siyah-wouf-black-forest-crossbody-canta",
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000120015001.jpg",
+    "link": "https://www.twist.com.tr/urun/siyah-woufblack-forest-bel-cantasi",
     "price": [
       {
-        "value": "2.170,00 ₺",
+        "value": "1.960,00 ₺",
         "selector": ".urunListe_satisFiyat",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 2170,
+        "numericValue": 1960,
         "unsetPrice": false
       }
     ],
@@ -121,94 +210,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T06:54:07.796Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "WOUF CELINE XL PORTFÖY ÇANTA",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_2.jpg",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_3.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089_5.jpg"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000121013089.jpg",
-    "link": "https://www.twist.com.tr/urun/mavi-wouf-vivianne-xl-el-cantasi",
-    "price": [
-      {
-        "value": "1.050,00 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1050,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".urunListe_satisFiyat",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T06:54:07.799Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "WOUF CELIN MAKYAJ ÇANTASI",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052073001.jpg",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052073001_2.jpg",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/SS24/Stillife/T00000052073001_3.jpg"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/Multibrand/T00000052073001.jpg",
-    "link": "https://www.twist.com.tr/urun/siyah-wouf-celine-telefon-cantasi-14868",
-    "price": [
-      {
-        "value": "1.120,00 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1120,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".urunListe_satisFiyat",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-08-21T06:54:07.801Z",
+    "timestamp": "2025-08-22T05:21:56.976Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
