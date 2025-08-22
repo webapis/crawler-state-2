@@ -1,49 +1,5 @@
 [
   {
-    "title": "\n          STRAIGHT FIT BELİ BAĞLAMALI PANTOLON\n        ",
-    "img": [
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585165/e3f69f27-7e39-4641-be64-72ef0f2a94f9_size600x900_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585165/e3f69f27-7e39-4641-be64-72ef0f2a94f9_size500x750_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585165/c53a6777-4c71-4758-b0a5-24809923b049_size600x900_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585165/c53a6777-4c71-4758-b0a5-24809923b049_size500x750_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585166/44a9e552-4fbb-4be5-af6e-fa0e89c8f82f_size600x900_cropCenter.jpg"
-    ],
-    "primaryImg": "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/585165/e3f69f27-7e39-4641-be64-72ef0f2a94f9_size600x900_cropCenter.jpg",
-    "link": "https://www.mudo.com.tr/straight-fit-beli-baglamali-pantolon-lacivert-4/",
-    "price": [
-      {
-        "value": "2.199,00 TL",
-        "selector": ".product-item__price pz-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2199,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
-    "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-21T07:08:51.068Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "\n          BİSİKLET YAKA SWEATSHIRT\n        ",
     "img": [
       "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/18/584115/e8b12287-5df8-428a-9770-40cdde2488a9_size600x900_cropCenter.jpg",
@@ -67,9 +23,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "titleElement (matched: .product-title a)",
       "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-item__price pz-price",
@@ -77,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-21T07:08:51.071Z",
+    "timestamp": "2025-08-22T05:34:18.288Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,9 +66,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "titleElement (matched: .product-title a)",
       "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-item__price pz-price",
@@ -120,52 +76,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-21T07:08:51.074Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "\n          CROPPED FLARE PANTOLON\n        ",
-    "img": [
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584430/46c0e858-9cac-4059-83f0-c65570cbadb1_size600x900_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584430/46c0e858-9cac-4059-83f0-c65570cbadb1_size500x750_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584430/1c83ddae-9ce2-4371-acd6-320b8afa6059_size600x900_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584430/1c83ddae-9ce2-4371-acd6-320b8afa6059_size500x750_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584434/6581bdb7-0949-40b0-a0e0-d8e81eeaa5aa_size600x900_cropCenter.jpg",
-      "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584433/072803f4-a8b4-4487-9a9b-90e5e69f8abe_size600x900_cropCenter.jpg"
-    ],
-    "primaryImg": "https://ce1999.a-cdn.akinoncloud.com/products/2025/07/22/584430/46c0e858-9cac-4059-83f0-c65570cbadb1_size600x900_cropCenter.jpg",
-    "link": "https://www.mudo.com.tr/cropped-flare-pantolon-bordo-2/",
-    "price": [
-      {
-        "value": "1.999,00 TL",
-        "selector": ".product-item__price pz-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
-    "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-21T07:08:51.076Z",
+    "timestamp": "2025-08-22T05:34:18.291Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -210,9 +121,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
+      "linkSource": "titleElement (matched: .product-title a)",
       "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
+      "titleSelectorMatched": ".product-title a",
       "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-item__price pz-price",
@@ -220,7 +131,117 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
     "pageURL": "https://www.mudo.com.tr/kadin-canta/",
-    "timestamp": "2025-08-21T07:08:51.079Z",
+    "timestamp": "2025-08-22T05:34:18.294Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "\n          BOHO SIVI SABUNLUK BEJ\n        ",
+    "img": [
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/964a7e95-1d1a-4e4d-a8af-8175a54ab01e_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/964a7e95-1d1a-4e4d-a8af-8175a54ab01e_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/964a7e95-1d1a-4e4d-a8af-8175a54ab01e_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/964a7e95-1d1a-4e4d-a8af-8175a54ab01e_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/0c2c8c27-6cba-4572-b439-25766cb686ac_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/0c2c8c27-6cba-4572-b439-25766cb686ac_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/0c2c8c27-6cba-4572-b439-25766cb686ac_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/0c2c8c27-6cba-4572-b439-25766cb686ac_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/3b482e3e-3ae3-4a73-9dcd-38221abf0cfb_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/3b482e3e-3ae3-4a73-9dcd-38221abf0cfb_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/3b482e3e-3ae3-4a73-9dcd-38221abf0cfb_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/3b482e3e-3ae3-4a73-9dcd-38221abf0cfb_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/8be74a6f-a5b0-49b1-a59b-306907f88595_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/8be74a6f-a5b0-49b1-a59b-306907f88595_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/8be74a6f-a5b0-49b1-a59b-306907f88595_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/8be74a6f-a5b0-49b1-a59b-306907f88595_size500x500_cropCenter.jpg"
+    ],
+    "primaryImg": "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601847/964a7e95-1d1a-4e4d-a8af-8175a54ab01e_size700x700_cropCenter.jpg",
+    "link": "https://www.mudo.com.tr/boho-sivi-sabunluk-bej-renksiz/",
+    "price": [
+      {
+        "value": "799,99 TL",
+        "selector": ".product-item__price pz-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
+    "pageURL": "https://www.mudo.com.tr/kadin-canta/",
+    "timestamp": "2025-08-22T05:34:18.297Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "\n          BOHO TUVALET FIRÇASI GRİ\n        ",
+    "img": [
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/23c1c6f9-f603-4bcf-89ef-47327a8fc0cf_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/23c1c6f9-f603-4bcf-89ef-47327a8fc0cf_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/23c1c6f9-f603-4bcf-89ef-47327a8fc0cf_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/23c1c6f9-f603-4bcf-89ef-47327a8fc0cf_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/d0f91a92-b73e-4cd4-8239-b56eb5b6bfb9_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/d0f91a92-b73e-4cd4-8239-b56eb5b6bfb9_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/d0f91a92-b73e-4cd4-8239-b56eb5b6bfb9_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/d0f91a92-b73e-4cd4-8239-b56eb5b6bfb9_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/816bd687-736f-40d3-857e-feee22d15f4a_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/816bd687-736f-40d3-857e-feee22d15f4a_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/816bd687-736f-40d3-857e-feee22d15f4a_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/816bd687-736f-40d3-857e-feee22d15f4a_size500x500_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/33977e7b-324c-473b-b6e8-0394c679488e_size700x700_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/33977e7b-324c-473b-b6e8-0394c679488e_size650x650_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/33977e7b-324c-473b-b6e8-0394c679488e_size600x600_cropCenter.jpg",
+      "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/33977e7b-324c-473b-b6e8-0394c679488e_size500x500_cropCenter.jpg"
+    ],
+    "primaryImg": "https://ce1999.a-cdn.akinoncloud.com/products/2025/08/07/601848/23c1c6f9-f603-4bcf-89ef-47327a8fc0cf_size700x700_cropCenter.jpg",
+    "link": "https://www.mudo.com.tr/boho-tuvalet-fircasi-gri-renksiz/",
+    "price": [
+      {
+        "value": "1.490,00 TL",
+        "selector": ".product-item__price pz-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1490,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".js-product-wrapper.product-item",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Şık ve Trend Tasarımlar – Mudo",
+    "pageURL": "https://www.mudo.com.tr/kadin-canta/",
+    "timestamp": "2025-08-22T05:34:18.300Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
