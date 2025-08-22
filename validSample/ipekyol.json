@@ -1,5 +1,49 @@
 [
   {
+    "title": "Deri görünümlü çanta",
+    "img": [
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_1.jpg",
+      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_3.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_4.JPG"
+    ],
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070.JPG",
+    "link": "https://www.ipekyol.com.tr/urun/yesil-deri-gorunumlu-canta",
+    "price": [
+      {
+        "value": "4.999,00 ₺",
+        "selector": ".price .salesprice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .salesprice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
+    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
+    "timestamp": "2025-08-22T05:20:39.546Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Deri görünümlü monogram tokalı clutch",
     "img": [
       "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003001.JPG",
@@ -34,95 +78,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-21T06:53:07.684Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Deri görünümlü monogram tokalı clutch",
-    "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003074.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003074_1.jpg",
-      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003074_3.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003074_4.JPG"
-    ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250121003074.JPG",
-    "link": "https://www.ipekyol.com.tr/urun/kahverengi-deri-gorunumlu-monogram-tokali-clutch",
-    "price": [
-      {
-        "value": "3.599,00 ₺",
-        "selector": ".price .salesprice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3599,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .salesprice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
-    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-21T06:53:07.687Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Timsah derisi görünümlü çift askılı çanta",
-    "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082.jpg",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_1.jpg",
-      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_3.jpg",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_4.jpg"
-    ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082.jpg",
-    "link": "https://www.ipekyol.com.tr/urun/ekru-timsah-derisi-gorunumlu-cift-askili-canta",
-    "price": [
-      {
-        "value": "1.599,00 ₺",
-        "selector": ".price .salesprice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1599,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .salesprice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
-    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-21T06:53:07.690Z",
+    "timestamp": "2025-08-22T05:20:39.549Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -166,7 +122,7 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-21T06:53:07.693Z",
+    "timestamp": "2025-08-22T05:20:39.553Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,24 +132,24 @@
     "mediaType": "image"
   },
   {
-    "title": "Deri görünümlü çanta",
+    "title": "Monogram tokalı colorblock çanta",
     "img": [
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_1.jpg",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052046001.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052046001_1.jpg",
       "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_3.JPG",
-      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070_4.JPG"
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052046001_3.JPG",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052046001_4.JPG"
     ],
-    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052017070.JPG",
-    "link": "https://www.ipekyol.com.tr/urun/yesil-deri-gorunumlu-canta",
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052046001.JPG",
+    "link": "https://www.ipekyol.com.tr/urun/siyah-monogram-tokali-colorblock-canta",
     "price": [
       {
-        "value": "4.999,00 ₺",
+        "value": "2.599,00 ₺",
         "selector": ".price .salesprice",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 4999,
+        "numericValue": 2599,
         "unsetPrice": false
       }
     ],
@@ -210,7 +166,51 @@
     },
     "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
     "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
-    "timestamp": "2025-08-21T06:53:07.695Z",
+    "timestamp": "2025-08-22T05:20:39.556Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Timsah derisi görünümlü çift askılı çanta",
+    "img": [
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082.jpg",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_1.jpg",
+      "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_3.jpg",
+      "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082_4.jpg"
+    ],
+    "primaryImg": "https://img2-ipekyol.mncdn.com/mnresize/2400/-//ipekyol/products/FW2526/Stillife/IW6250052045082.jpg",
+    "link": "https://www.ipekyol.com.tr/urun/ekru-timsah-derisi-gorunumlu-cift-askili-canta",
+    "price": [
+      {
+        "value": "1.599,00 ₺",
+        "selector": ".price .salesprice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1599,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .salesprice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta & Cüzdan Modelleri ve Fiyatları | İpekyol",
+    "pageURL": "https://www.ipekyol.com.tr/aksesuar/canta-cuzdan-modelleri",
+    "timestamp": "2025-08-22T05:20:39.559Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
