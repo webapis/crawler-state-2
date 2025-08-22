@@ -1,8 +1,13 @@
 [
   {
     "title": "Kahverengi Çanta\n+1 Renk",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145289000_005_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145289000_005_2.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145289000_005_3.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145289000_005_4.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145289000_005_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/kahverengi-canta-p-12145289000-005",
     "price": [
       {
@@ -21,15 +26,15 @@
       "linkSource": "linkElement (matched: a.product-content)",
       "matchedSelector": ".product-list-item",
       "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-21T06:51:06.744Z",
-    "imgValid": false,
+    "timestamp": "2025-08-22T05:18:50.767Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
@@ -39,8 +44,13 @@
   },
   {
     "title": "Kahverengi Dikiş Detaylı Büyük Çanta\n+1 Renk",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144717000_052_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144717000_052_2.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144717000_052_3.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144717000_052_4.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144717000_052_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/kahverengi-dikis-detayli-buyuk-canta-p-12144717000-052",
     "price": [
       {
@@ -59,15 +69,15 @@
       "linkSource": "linkElement (matched: a.product-content)",
       "matchedSelector": ".product-list-item",
       "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-21T06:51:06.747Z",
-    "imgValid": false,
+    "timestamp": "2025-08-22T05:18:50.770Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
@@ -77,8 +87,12 @@
   },
   {
     "title": "Siyah Çanta",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145288000_001_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145288000_001_2.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145288000_001_3.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12145288000_001_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/siyah-canta-p-12145288000-001",
     "price": [
       {
@@ -97,15 +111,15 @@
       "linkSource": "linkElement (matched: a.product-content)",
       "matchedSelector": ".product-list-item",
       "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-21T06:51:06.749Z",
-    "imgValid": false,
+    "timestamp": "2025-08-22T05:18:50.773Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
@@ -115,8 +129,13 @@
   },
   {
     "title": "Turuncu Kumaş Kaplı Çanta\n+1 Renk",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121R0150000_100_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121R0150000_100_2.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121R0150000_100_3.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121R0150000_100_5.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121R0150000_100_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/turuncu-kumas-kapli-canta-p-121R0150000-100",
     "price": [
       {
@@ -135,15 +154,15 @@
       "linkSource": "linkElement (matched: a.product-content)",
       "matchedSelector": ".product-list-item",
       "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-21T06:51:06.750Z",
-    "imgValid": false,
+    "timestamp": "2025-08-22T05:18:50.776Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
@@ -153,8 +172,13 @@
   },
   {
     "title": "Lacivert Dikiş Detaylı Çanta\n+1 Renk",
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144718000_018_1.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144718000_018_2.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144718000_018_3.jpg",
+      "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144718000_018_4.jpg"
+    ],
+    "primaryImg": "https://img-adl.sm.mncdn.com/mnresize/830/1240/cdnimages/products/12144718000_018_1.jpg",
     "link": "https://www.adl.com.tr/tr/canta/lacivert-dikis-detayli-canta-p-12144718000-018",
     "price": [
       {
@@ -173,15 +197,15 @@
       "linkSource": "linkElement (matched: a.product-content)",
       "matchedSelector": ".product-list-item",
       "titleSelectorMatched": ".product-content-name",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri, Çapraz & Kanvas Çanta | adL",
     "pageURL": "https://www.adl.com.tr/tr/kategoriler/canta-c-0020",
-    "timestamp": "2025-08-21T06:51:06.752Z",
-    "imgValid": false,
+    "timestamp": "2025-08-22T05:18:50.779Z",
+    "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
