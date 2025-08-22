@@ -8,12 +8,12 @@
     "link": null,
     "price": [
       {
-        "value": "1.690,00 TL",
+        "value": "1.390,00 TL",
         "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
         "attribute": "textContent",
         "isJavaScript": true,
         "isShadowDOM": true,
-        "numericValue": 1690,
+        "numericValue": 1390,
         "unsetPrice": false
       }
     ],
@@ -30,7 +30,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-08-21T07:10:01.510Z",
+    "timestamp": "2025-08-22T05:35:32.728Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
