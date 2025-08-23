@@ -1,46 +1,5 @@
 [
   {
-    "title": "Kadın Kahve Çapraz Çanta-1",
-    "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=533"
-    ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/gold-canta-p-masuma-710-002-029",
-    "price": [
-      {
-        "value": "1.999,60TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1999.6,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": ".grid__item:has(.price)",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ALDO Kadın Çanta Modelleri",
-    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-22T09:12:25.132Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Kadın Siyah Çapraz Çanta-1",
     "img": [
       "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-017-002-029_1.jpg?v=1747136306&width=1440",
@@ -72,7 +31,48 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-22T09:12:25.134Z",
+    "timestamp": "2025-08-23T06:14:53.990Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kadın Kahve Çapraz Çanta-1",
+    "img": [
+      "https://www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=533"
+    ],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/MASUMA-710-002-029_1.jpg?v=1747134976 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/gold-canta-p-masuma-710-002-029",
+    "price": [
+      {
+        "value": "1.999,60TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.6,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ALDO Kadın Çanta Modelleri",
+    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
+    "timestamp": "2025-08-23T06:14:53.993Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -113,48 +113,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-22T09:12:25.137Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Kadın Pembe Çapraz Çanta-1",
-    "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=533"
-    ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/pembe-canta-p-landenderiel-680-002-029",
-    "price": [
-      {
-        "value": "1.799,70TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1799.7,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": ".grid__item:has(.price)",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ALDO Kadın Çanta Modelleri",
-    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-22T09:12:25.139Z",
+    "timestamp": "2025-08-23T06:14:53.996Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -195,7 +154,48 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-22T09:12:25.142Z",
+    "timestamp": "2025-08-23T06:14:53.998Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kadın Pembe Çapraz Çanta-1",
+    "img": [
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=533"
+    ],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/LANDENDERIEL-680-002-029_1.jpg?v=1747137465 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/pembe-canta-p-landenderiel-680-002-029",
+    "price": [
+      {
+        "value": "1.799,70TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.7,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ALDO Kadın Çanta Modelleri",
+    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
+    "timestamp": "2025-08-23T06:14:54.001Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
