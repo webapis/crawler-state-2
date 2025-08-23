@@ -31,7 +31,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-22T09:13:23.024Z",
+    "timestamp": "2025-08-23T06:15:26.062Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -73,7 +73,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-22T09:13:23.027Z",
+    "timestamp": "2025-08-23T06:15:26.065Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -115,48 +115,7 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-22T09:13:23.030Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "BARLETA 5FX Gümüş Kadın Kol Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983128_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101983128_f1.jpg?w=80"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101983128_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-barleta-5fx-gumus-kadin-kol-cantasi-101983128",
-    "price": [
-      {
-        "value": "2.299,00 TL",
-        "selector": ".product-pricing-two span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2299,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-two span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-22T09:13:23.033Z",
+    "timestamp": "2025-08-23T06:15:26.068Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -198,7 +157,49 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta?page=6",
-    "timestamp": "2025-08-22T09:13:23.036Z",
+    "timestamp": "2025-08-23T06:15:26.071Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "WINAA 5FX Gümüş Kadın Clutch",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101987275_f1.jpg?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101987276_f1.jpg?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-01/23/101987275_f1.jpg?w=80"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-01/23/101987275_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-winaa-5fx-gumus-kadin-clutch-101987275",
+    "price": [
+      {
+        "value": "1.999,00 TL",
+        "selector": ".product-pricing-two span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-two span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta?page=6",
+    "timestamp": "2025-08-23T06:15:26.074Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
