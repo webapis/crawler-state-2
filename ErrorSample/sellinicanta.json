@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Kadın Mint Yeşil Çapraz Ayarlanabilir Askılı  Mıknatıslı Telefonluk Bölmeli Cüzdan Çanta",
+    "img": [
+      "https://www.sellinicanta.com/idea/iz/49/myassets/products/601/5_min.jpg?revision=1732175790",
+      "https://www.sellinicanta.com/7.2.9.8/storefront/themes/tpl-tunga/assets/images/loader.gif?revision=7.2.9.8-7"
+    ],
+    "primaryImg": "//www.sellinicanta.com/idea/iz/49/myassets/products/601/5_min.jpg?revision=1732175790",
+    "link": "https://www.sellinicanta.com/urun/kadin-mint-yesil-capraz-ayarlanabilir-askili-miknatisli-telefonluk-bolmeli-cuzdan-canta",
+    "price": [
+      {
+        "value": "0,00 TL",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çapraz Çanta",
+    "pageURL": "https://www.sellinicanta.com/kategori/capraz-canta?tp=3",
+    "timestamp": "2025-08-25T12:39:18.061Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
