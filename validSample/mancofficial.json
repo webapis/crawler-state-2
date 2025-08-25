@@ -1,6 +1,6 @@
 [
   {
-    "title": null,
+    "title": "BOND - BURGUNDY",
     "img": [
       "https://mancofficial.com/cdn/shop/files/bond-burgundy-5997457.png?v=1755288819&width=528",
       "https://mancofficial.com/cdn/shop/files/bond-burgundy-5997457.png?crop=center&height=2662&v=1755288819&width=2048"
@@ -10,7 +10,7 @@
     "price": [
       {
         "value": "$550.00 USD",
-        "selector": ".price",
+        "selector": "span.new-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -23,25 +23,25 @@
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": "span.new-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-08-25T12:17:52.117Z",
+    "timestamp": "2025-08-25T12:22:14.643Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "MAYFAIR - GREEN",
     "img": [
       "https://mancofficial.com/cdn/shop/files/mayfair-green-4281363.png?v=1755288821&width=528",
       "https://mancofficial.com/cdn/shop/files/mayfair-green-4281363.png?crop=center&height=2662&v=1755288821&width=2048"
@@ -51,7 +51,7 @@
     "price": [
       {
         "value": "$550.00 USD",
-        "selector": ".price",
+        "selector": "span.new-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -64,25 +64,25 @@
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": "span.new-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-08-25T12:17:52.121Z",
+    "timestamp": "2025-08-25T12:22:14.647Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "MAYFAIR - RED",
     "img": [
       "https://mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?v=1755288818&width=528",
       "https://mancofficial.com/cdn/shop/files/mayfair-red-8101619.png?crop=center&height=2662&v=1755288818&width=2048"
@@ -92,7 +92,7 @@
     "price": [
       {
         "value": "$550.00 USD",
-        "selector": ".price",
+        "selector": "span.new-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -105,25 +105,25 @@
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": "span.new-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-08-25T12:17:52.124Z",
+    "timestamp": "2025-08-25T12:22:14.650Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "REGINA GEORGE - RED",
     "img": [
       "https://mancofficial.com/cdn/shop/files/regina-george-red-2917743.png?v=1755288931&width=528",
       "https://mancofficial.com/cdn/shop/files/regina-george-red-2917743.png?crop=center&height=2662&v=1755288931&width=2048"
@@ -133,7 +133,7 @@
     "price": [
       {
         "value": "$550.00 USD",
-        "selector": ".price",
+        "selector": "span.new-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -146,25 +146,25 @@
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": "span.new-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-08-25T12:17:52.127Z",
+    "timestamp": "2025-08-25T12:22:14.653Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "REGINA GEORGE - GREEN",
     "img": [
       "https://mancofficial.com/cdn/shop/files/regina-george-green-3144802.png?v=1755288928&width=292",
       "https://mancofficial.com/cdn/shop/files/regina-george-green-3144802.png?crop=center&height=1299&v=1755288928&width=1000"
@@ -174,7 +174,7 @@
     "price": [
       {
         "value": "$550.00 USD",
-        "selector": ".price",
+        "selector": "span.new-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -187,18 +187,18 @@
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
       "matchedSelector": ".product-item",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".product-item__title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
+      "bestPriceSelector": "span.new-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HANDBAGS – MANC OFFICIAL",
     "pageURL": "https://mancofficial.com/collections/handbags",
-    "timestamp": "2025-08-25T12:17:52.131Z",
+    "timestamp": "2025-08-25T12:22:14.656Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
