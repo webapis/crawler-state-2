@@ -1,119 +1,5 @@
 [
   {
-    "title": "Guess Kadın Sırt Çantası HWSG7118320 Kahve",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-sirt-cantasi-hwsg7118320-p-13825477",
-    "price": [
-      {
-        "value": "8.000,00 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:34:55.552Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Guess Kadın Sırt Çantası HWSG7118320 Siyah",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-sirt-cantasi-hwsg7118320-p-13825476",
-    "price": [
-      {
-        "value": "8.000,00 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:34:55.555Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Guess Kadın Omuz Çantası HWSG6974200 Kahve",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-omuz-cantasi-hwsg6974200-p-13825487",
-    "price": [
-      {
-        "value": "7.500,00 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 7500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:34:55.558Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Fossil Kadın Bel Çantası 05FS22Y282 Taba",
     "img": [],
     "primaryImg": null,
@@ -133,7 +19,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
@@ -142,7 +30,47 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-25T05:34:55.713Z",
+    "timestamp": "2025-08-25T05:37:31.326Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Guess Kadın Sırt Çantası HWSG7118320 Kahve",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-sirt-cantasi-hwsg7118320-p-13825477",
+    "price": [
+      {
+        "value": "8.000,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
+    "timestamp": "2025-08-25T05:37:31.312Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -171,7 +99,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
@@ -180,7 +110,87 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-25T05:34:55.725Z",
+    "timestamp": "2025-08-25T05:37:31.330Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Guess Kadın Sırt Çantası HWSG7118320 Siyah",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-sirt-cantasi-hwsg7118320-p-13825476",
+    "price": [
+      {
+        "value": "8.000,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
+    "timestamp": "2025-08-25T05:37:31.315Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Guess Kadın Omuz Çantası HWSG6974200 Kahve",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-omuz-cantasi-hwsg6974200-p-13825487",
+    "price": [
+      {
+        "value": "7.500,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": [
+        "ozd-custom-product-grid-item .carouselItem"
+      ],
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
+    "timestamp": "2025-08-25T05:37:31.318Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
