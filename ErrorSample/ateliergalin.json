@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Vela Tote Bag N°1 - Dune - Atelier Galin",
+    "img": [
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=533",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-397767.png?v=1748269996&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-397767.png?v=1748269996&width=533"
+    ],
+    "primaryImg": "//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=165 165w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=360 360w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=533 533w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=720 720w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=940 940w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120&width=1066 1066w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-duneatelier-galin-547712.png?v=1748139120 2048w\n                ",
+    "link": "https://www.ateliergalin.com/products/vela-tote-bag-dune",
+    "price": [
+      {
+        "value": "£21",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop SS25 – Atelier Galin",
+    "pageURL": "https://www.ateliergalin.com/collections/shop-ss25",
+    "timestamp": "2025-08-25T10:30:13.702Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Vela Tote Bag N°1 - Azure & Dune - Atelier Galin",
+    "img": [
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=533",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-798412.png?v=1748269923&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-798412.png?v=1748269923&width=533"
+    ],
+    "primaryImg": "//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=165 165w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=360 360w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=533 533w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=720 720w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=940 940w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187&width=1066 1066w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azure-duneatelier-galin-762100.png?v=1748139187 2048w\n                ",
+    "link": "https://www.ateliergalin.com/products/vela-tote-bag-n-1-azure-dune",
+    "price": [
+      {
+        "value": "£21",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop SS25 – Atelier Galin",
+    "pageURL": "https://www.ateliergalin.com/collections/shop-ss25",
+    "timestamp": "2025-08-25T10:30:13.705Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Vela Tote Bag N°1 - Azure - Atelier Galin",
+    "img": [
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=533",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-817154.png?v=1748139121&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-817154.png?v=1748139121&width=533"
+    ],
+    "primaryImg": "//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=165 165w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=360 360w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=533 533w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=720 720w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=940 940w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121&width=1066 1066w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-azureatelier-galin-258564.png?v=1748139121 2048w\n                ",
+    "link": "https://www.ateliergalin.com/products/vela-tote-bag-n-1-azure",
+    "price": [
+      {
+        "value": "£21",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop SS25 – Atelier Galin",
+    "pageURL": "https://www.ateliergalin.com/collections/shop-ss25",
+    "timestamp": "2025-08-25T10:30:13.708Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Vela Tote Bag N°1 - Sage - Atelier Galin",
+    "img": [
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=533",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-967607.png?v=1748269883&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-967607.png?v=1748269883&width=533"
+    ],
+    "primaryImg": "//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=165 165w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=360 360w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=533 533w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=720 720w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=940 940w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188&width=1066 1066w,//www.ateliergalin.com/cdn/shop/files/vela-tote-bag-n01-sageatelier-galin-797984.png?v=1748139188 2048w\n                ",
+    "link": "https://www.ateliergalin.com/products/vela-tote-bag-n-1-sage-green",
+    "price": [
+      {
+        "value": "£21",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop SS25 – Atelier Galin",
+    "pageURL": "https://www.ateliergalin.com/collections/shop-ss25",
+    "timestamp": "2025-08-25T10:30:13.711Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Herringbone G Charm Necklace - Atelier Galin",
+    "img": [
+      "https://www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=533",
+      "https://www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-384112.jpg?v=1730439399&width=720",
+      "https://www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-384112.jpg?v=1730439399&width=533"
+    ],
+    "primaryImg": "//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=165 165w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=360 360w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=533 533w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=720 720w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=940 940w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399&width=1066 1066w,//www.ateliergalin.com/cdn/shop/files/herringbone-g-charm-necklaceatelier-galin-674239.jpg?v=1730439399 2048w\n                ",
+    "link": "https://www.ateliergalin.com/products/herringbone-g-charm-necklace",
+    "price": [
+      {
+        "value": "£32",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": ".grid__item:has(.price)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop SS25 – Atelier Galin",
+    "pageURL": "https://www.ateliergalin.com/collections/shop-ss25",
+    "timestamp": "2025-08-25T10:30:13.714Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
