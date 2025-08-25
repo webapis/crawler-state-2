@@ -1,45 +1,5 @@
 [
   {
-    "title": "Fossil Kadın Bel Çantası 05FS22Y282 Taba",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-bel-cantasi-05fs22y282-p-13983948",
-    "price": [
-      {
-        "value": "799,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 799.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-25T05:37:31.326Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Guess Kadın Sırt Çantası HWSG7118320 Kahve",
     "img": [],
     "primaryImg": null,
@@ -59,9 +19,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
@@ -70,47 +28,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:37:31.312Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Fossil Kadın Bel Çantası 05FS22Y282 Taba/taba",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-bel-cantasi-05fs22y282-p-13983950",
-    "price": [
-      {
-        "value": "799,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 799.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
-    "timestamp": "2025-08-25T05:37:31.330Z",
+    "timestamp": "2025-08-25T06:53:03.160Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -139,9 +57,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
@@ -150,7 +66,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:37:31.315Z",
+    "timestamp": "2025-08-25T06:53:03.164Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -179,9 +95,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": [
-        "ozd-custom-product-grid-item .carouselItem"
-      ],
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
@@ -190,7 +104,83 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=3",
-    "timestamp": "2025-08-25T05:37:31.318Z",
+    "timestamp": "2025-08-25T06:53:03.167Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Bel Çantası 05FS22Y282 Taba",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-bel-cantasi-05fs22y282-p-13983948",
+    "price": [
+      {
+        "value": "799,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.2,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
+    "timestamp": "2025-08-25T06:53:03.357Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Bel Çantası 05FS22Y282 Taba/taba",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-bel-cantasi-05fs22y282-p-13983950",
+    "price": [
+      {
+        "value": "799,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.2,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=1",
+    "timestamp": "2025-08-25T06:53:03.360Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
