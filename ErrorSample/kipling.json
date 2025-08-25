@@ -20,7 +20,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-25T05:41:46.959Z",
+    "timestamp": "2025-08-25T05:44:21.397Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -50,7 +50,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-08-25T05:41:46.961Z",
+    "timestamp": "2025-08-25T05:44:21.399Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -71,7 +71,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-box-container",
+      "matchedSelector": [
+        ".product-box-container"
+      ],
       "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
@@ -80,7 +82,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-25T05:41:52.190Z",
+    "timestamp": "2025-08-25T05:44:28.134Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -101,7 +103,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-box-container",
+      "matchedSelector": [
+        ".product-box-container"
+      ],
       "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
@@ -110,7 +114,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-25T05:41:52.192Z",
+    "timestamp": "2025-08-25T05:44:28.136Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,7 +135,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-box-container",
+      "matchedSelector": [
+        ".product-box-container"
+      ],
       "titleSelectorMatched": ".product__inside__name .product-shot-desc",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
@@ -140,7 +146,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589?pagenumber=2",
-    "timestamp": "2025-08-25T05:41:52.193Z",
+    "timestamp": "2025-08-25T05:44:28.138Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
