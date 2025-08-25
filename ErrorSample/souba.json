@@ -1,202 +1,77 @@
 [
   {
-    "title": "EVA OMUZ ÇANTASI – KARAMEL",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/eva-omuz-cantasi-karamel/",
-    "price": [
-      {
-        "value": "250$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8375,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
+    "error": true,
+    "message": "el?.getAttribute is not a function",
+    "content": "<li class=\"product type-product post-5877 status-publish first outofstock product_cat-cantalar product_cat-ho-ki has-post-thumbnail taxable shipping-taxable purchasable product-type-simple\">\n\t<div class=\"qodef-pl-inner\"><div class=\"qodef-pl-image\"><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded\" alt=\"HO-Kİ Çapraz Çanta - Krem\" decoding=\"async\" fetchpriority=\"high\" data-lazy-srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-100x100.jpg 100w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg\" data-ll-status=\"loaded\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-100x100.jpg 100w\"><noscript><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"HO-Kİ Çapraz Çanta - Krem\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Cream.1-1-100x100.jpg 100w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></noscript><span class=\"qodef-out-of-stock\">Sold</span><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5877\">Hızlı Görünüm</a>\n<div class=\"yith-wcwl-add-to-wishlist add-to-wishlist-5877  wishlist-fragment on-first-load\" data-fragment-ref=\"5877\" data-fragment-options=\"{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:5877,&quot;parent_product_id&quot;:5877,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Favorileri incele&quot;,&quot;already_in_wishslist_text&quot;:&quot;Bu \\u00fcr\\u00fcn zaten favorilerinde.&quot;,&quot;product_added_text&quot;:&quot;\\u00dcr\\u00fcn eklendi!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}\">\n\t\t\t\n\t\t\t<!-- ADD TO WISHLIST -->\n\t\t\t\n<div class=\"yith-wcwl-add-button\">\n\t\t<a href=\"?add_to_wishlist=5877&amp;_wpnonce=6f608701c5\" class=\"add_to_wishlist single_add_to_wishlist\" data-product-id=\"5877\" data-product-type=\"simple\" data-original-product-id=\"5877\" data-title=\"Favorilere ekle\" rel=\"nofollow\">\n\t\t<i class=\"yith-wcwl-icon fa fa-heart-o\"></i>\t\t<span>Favorilere ekle</span>\n\t</a>\n</div>\n\n\t\t\t<!-- COUNT TEXT -->\n\t\t\t\n\t\t\t</div>\n<div class=\"qodef-pl-text\"><div class=\"qodef-pl-text-outer\"><div class=\"qodef-pl-text-inner\"><a href=\"https://souba.com.tr/product/ho-ki-krem/\" aria-describedby=\"woocommerce_loop_add_to_cart_link_describedby_5877\" data-quantity=\"1\" class=\"button product_type_simple\" data-product_id=\"5877\" data-product_sku=\"\" aria-label=\"“HO-Kİ Çapraz Çanta - Krem” hakkında daha fazla bilgi edinin\" rel=\"nofollow\" data-success_message=\"\">Devamını oku</a>\t<span id=\"woocommerce_loop_add_to_cart_link_describedby_5877\" class=\"screen-reader-text\">\n\t\t\t</span>\n</div></div></div></div><a href=\"https://souba.com.tr/product/ho-ki-krem/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"></a></div><div class=\"qodef-pl-text-wrapper\"><div class=\"qodef-pl-title-wrapper\"><h5 class=\"qodef-product-list-title\"><a href=\"https://souba.com.tr/product/ho-ki-krem/\">HO-Kİ Çapraz Çanta – Krem</a></h5>\n\t<span class=\"price\"><span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"68a70bebbd321\" data-product-id=\"5877\"><span class=\"woocommerce-Price-amount amount\"><bdi>575<span class=\"woocommerce-Price-currencySymbol\">$</span></bdi></span> <small class=\"woocommerce-price-suffix\">KDV Dahil</small></span></span>\n</div><div class=\"qodef-pl-rating-holder\"><div class=\"star-rating\" role=\"img\" aria-label=\"5 üzerinden 5.00 oy aldı\"><span style=\"width:100%\">5 üzerinden <strong class=\"rating\">5.00</strong> oy aldı</span></div></div></div><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5877\">Hızlı Görünüm</a></li>",
+    "url": "https://souba.com.tr/category/cantalar/",
     "pageTitle": "Çantalar arşivleri | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:55:57.460Z",
+    "price": [],
+    "img": [],
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
+    "priceValid": false,
     "mediaType": "image"
   },
   {
-    "title": "EVA OMUZ ÇANTASI – YEŞİL",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/eva-omuz-cantasi-yesil/",
-    "price": [
-      {
-        "value": "250$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8375,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
+    "error": true,
+    "message": "el?.getAttribute is not a function",
+    "content": "<li class=\"product type-product post-5876 status-publish instock product_cat-cantalar product_cat-ho-ki has-post-thumbnail taxable shipping-taxable purchasable product-type-simple\">\n\t<div class=\"qodef-pl-inner\"><div class=\"qodef-pl-image\"><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded\" alt=\"HO-Kİ Çapraz Çanta - Lacivert\" decoding=\"async\" data-lazy-srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-100x100.jpg 100w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg\" data-ll-status=\"loaded\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-100x100.jpg 100w\"><noscript><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"HO-Kİ Çapraz Çanta - Lacivert\" decoding=\"async\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-Navy.1-1-100x100.jpg 100w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></noscript><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5876\">Hızlı Görünüm</a>\n<div class=\"yith-wcwl-add-to-wishlist add-to-wishlist-5876  wishlist-fragment on-first-load\" data-fragment-ref=\"5876\" data-fragment-options=\"{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:5876,&quot;parent_product_id&quot;:5876,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Favorileri incele&quot;,&quot;already_in_wishslist_text&quot;:&quot;Bu \\u00fcr\\u00fcn zaten favorilerinde.&quot;,&quot;product_added_text&quot;:&quot;\\u00dcr\\u00fcn eklendi!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}\">\n\t\t\t\n\t\t\t<!-- ADD TO WISHLIST -->\n\t\t\t\n<div class=\"yith-wcwl-add-button\">\n\t\t<a href=\"?add_to_wishlist=5876&amp;_wpnonce=6f608701c5\" class=\"add_to_wishlist single_add_to_wishlist\" data-product-id=\"5876\" data-product-type=\"simple\" data-original-product-id=\"5876\" data-title=\"Favorilere ekle\" rel=\"nofollow\">\n\t\t<i class=\"yith-wcwl-icon fa fa-heart-o\"></i>\t\t<span>Favorilere ekle</span>\n\t</a>\n</div>\n\n\t\t\t<!-- COUNT TEXT -->\n\t\t\t\n\t\t\t</div>\n<div class=\"qodef-pl-text\"><div class=\"qodef-pl-text-outer\"><div class=\"qodef-pl-text-inner\"><a href=\"?add-to-cart=5876\" aria-describedby=\"woocommerce_loop_add_to_cart_link_describedby_5876\" data-quantity=\"1\" class=\"button product_type_simple add_to_cart_button ajax_add_to_cart\" data-product_id=\"5876\" data-product_sku=\"\" aria-label=\"Sepete ekle: “HO-Kİ Çapraz Çanta - Lacivert”\" rel=\"nofollow\" data-success_message=\"&quot;HO-Kİ Çapraz Çanta - Lacivert&quot; sepetinize eklendi\">Sepete Ekle</a>\t<span id=\"woocommerce_loop_add_to_cart_link_describedby_5876\" class=\"screen-reader-text\">\n\t\t\t</span>\n</div></div></div></div><a href=\"https://souba.com.tr/product/ho-ki-lacivert/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"></a></div><div class=\"qodef-pl-text-wrapper\"><div class=\"qodef-pl-title-wrapper\"><h5 class=\"qodef-product-list-title\"><a href=\"https://souba.com.tr/product/ho-ki-lacivert/\">HO-Kİ Çapraz Çanta – Lacivert</a></h5>\n\t<span class=\"price\"><span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"68a70bebbde1a\" data-product-id=\"5876\"><span class=\"woocommerce-Price-amount amount\"><bdi>575<span class=\"woocommerce-Price-currencySymbol\">$</span></bdi></span> <small class=\"woocommerce-price-suffix\">KDV Dahil</small></span></span>\n</div></div><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5876\">Hızlı Görünüm</a></li>",
+    "url": "https://souba.com.tr/category/cantalar/",
     "pageTitle": "Çantalar arşivleri | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:55:57.462Z",
+    "price": [],
+    "img": [],
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
+    "priceValid": false,
     "mediaType": "image"
   },
   {
-    "title": "EVA OMUZ ÇANTASI – PEMBE",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/eva-omuz-cantasi-pembe/",
-    "price": [
-      {
-        "value": "250$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8375,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
+    "error": true,
+    "message": "el?.getAttribute is not a function",
+    "content": "<li class=\"product type-product post-5875 status-publish instock product_cat-cantalar product_cat-ho-ki has-post-thumbnail taxable shipping-taxable purchasable product-type-simple\">\n\t<div class=\"qodef-pl-inner\"><div class=\"qodef-pl-image\"><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded\" alt=\"HO-Kİ Çapraz Çanta - Bordo\" decoding=\"async\" data-lazy-srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-100x100.jpg 100w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg\" data-ll-status=\"loaded\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-100x100.jpg 100w\"><noscript><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"HO-Kİ Çapraz Çanta - Bordo\" decoding=\"async\" srcset=\"https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-300x300.jpg 300w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-150x150.jpg 150w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-650x650.jpg 650w, https://souba.com.tr/wp-content/uploads/2020/10/HO-KI-bordeaux.1-1-100x100.jpg 100w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></noscript><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5875\">Hızlı Görünüm</a>\n<div class=\"yith-wcwl-add-to-wishlist add-to-wishlist-5875  wishlist-fragment on-first-load\" data-fragment-ref=\"5875\" data-fragment-options=\"{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:5875,&quot;parent_product_id&quot;:5875,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Favorileri incele&quot;,&quot;already_in_wishslist_text&quot;:&quot;Bu \\u00fcr\\u00fcn zaten favorilerinde.&quot;,&quot;product_added_text&quot;:&quot;\\u00dcr\\u00fcn eklendi!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}\">\n\t\t\t\n\t\t\t<!-- ADD TO WISHLIST -->\n\t\t\t\n<div class=\"yith-wcwl-add-button\">\n\t\t<a href=\"?add_to_wishlist=5875&amp;_wpnonce=6f608701c5\" class=\"add_to_wishlist single_add_to_wishlist\" data-product-id=\"5875\" data-product-type=\"simple\" data-original-product-id=\"5875\" data-title=\"Favorilere ekle\" rel=\"nofollow\">\n\t\t<i class=\"yith-wcwl-icon fa fa-heart-o\"></i>\t\t<span>Favorilere ekle</span>\n\t</a>\n</div>\n\n\t\t\t<!-- COUNT TEXT -->\n\t\t\t\n\t\t\t</div>\n<div class=\"qodef-pl-text\"><div class=\"qodef-pl-text-outer\"><div class=\"qodef-pl-text-inner\"><a href=\"?add-to-cart=5875\" aria-describedby=\"woocommerce_loop_add_to_cart_link_describedby_5875\" data-quantity=\"1\" class=\"button product_type_simple add_to_cart_button ajax_add_to_cart\" data-product_id=\"5875\" data-product_sku=\"\" aria-label=\"Sepete ekle: “HO-Kİ Çapraz Çanta - Bordo”\" rel=\"nofollow\" data-success_message=\"&quot;HO-Kİ Çapraz Çanta - Bordo&quot; sepetinize eklendi\">Sepete Ekle</a>\t<span id=\"woocommerce_loop_add_to_cart_link_describedby_5875\" class=\"screen-reader-text\">\n\t\t\t</span>\n</div></div></div></div><a href=\"https://souba.com.tr/product/ho-ki-bordo/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"></a></div><div class=\"qodef-pl-text-wrapper\"><div class=\"qodef-pl-title-wrapper\"><h5 class=\"qodef-product-list-title\"><a href=\"https://souba.com.tr/product/ho-ki-bordo/\">HO-Kİ Çapraz Çanta – Bordo</a></h5>\n\t<span class=\"price\"><span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"68a70bebbe823\" data-product-id=\"5875\"><span class=\"woocommerce-Price-amount amount\"><bdi>575<span class=\"woocommerce-Price-currencySymbol\">$</span></bdi></span> <small class=\"woocommerce-price-suffix\">KDV Dahil</small></span></span>\n</div></div><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"5875\">Hızlı Görünüm</a></li>",
+    "url": "https://souba.com.tr/category/cantalar/",
     "pageTitle": "Çantalar arşivleri | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:55:57.464Z",
+    "price": [],
+    "img": [],
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
+    "priceValid": false,
     "mediaType": "image"
   },
   {
-    "title": "BOXY ÇAPRAZ ÇANTA – PEMBE",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/boxypembe/",
-    "price": [
-      {
-        "value": "158$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 5293,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çantalar arşivleri | Sayfa 3 / 5 | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/page/3/",
-    "timestamp": "2025-08-25T09:56:00.597Z",
+    "error": true,
+    "message": "el?.getAttribute is not a function",
+    "content": "<li class=\"product type-product post-8486 status-publish last instock product_cat-cantalar product_cat-kate has-post-thumbnail taxable shipping-taxable purchasable product-type-simple\">\n\t<div class=\"qodef-pl-inner\"><div class=\"qodef-pl-image\"><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded\" alt=\"Kate Omuz Çantası - Kapuçino\" decoding=\"async\" data-lazy-srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/4-1.png 1080w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png\" data-ll-status=\"loaded\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/4-1.png 1080w\"><noscript><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Kate Omuz Çantası - Kapuçino\" decoding=\"async\" srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/4-1-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/4-1-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/4-1.png 1080w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></noscript><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"8486\">Hızlı Görünüm</a>\n<div class=\"yith-wcwl-add-to-wishlist add-to-wishlist-8486  wishlist-fragment on-first-load\" data-fragment-ref=\"8486\" data-fragment-options=\"{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:8486,&quot;parent_product_id&quot;:8486,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Favorileri incele&quot;,&quot;already_in_wishslist_text&quot;:&quot;Bu \\u00fcr\\u00fcn zaten favorilerinde.&quot;,&quot;product_added_text&quot;:&quot;\\u00dcr\\u00fcn eklendi!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}\">\n\t\t\t\n\t\t\t<!-- ADD TO WISHLIST -->\n\t\t\t\n<div class=\"yith-wcwl-add-button\">\n\t\t<a href=\"?add_to_wishlist=8486&amp;_wpnonce=6f608701c5\" class=\"add_to_wishlist single_add_to_wishlist\" data-product-id=\"8486\" data-product-type=\"simple\" data-original-product-id=\"8486\" data-title=\"Favorilere ekle\" rel=\"nofollow\">\n\t\t<i class=\"yith-wcwl-icon fa fa-heart-o\"></i>\t\t<span>Favorilere ekle</span>\n\t</a>\n</div>\n\n\t\t\t<!-- COUNT TEXT -->\n\t\t\t\n\t\t\t</div>\n<div class=\"qodef-pl-text\"><div class=\"qodef-pl-text-outer\"><div class=\"qodef-pl-text-inner\"><a href=\"?add-to-cart=8486\" aria-describedby=\"woocommerce_loop_add_to_cart_link_describedby_8486\" data-quantity=\"1\" class=\"button product_type_simple add_to_cart_button ajax_add_to_cart\" data-product_id=\"8486\" data-product_sku=\"\" aria-label=\"Sepete ekle: “Kate Omuz Çantası - Kapuçino”\" rel=\"nofollow\" data-success_message=\"&quot;Kate Omuz Çantası - Kapuçino&quot; sepetinize eklendi\">Sepete Ekle</a>\t<span id=\"woocommerce_loop_add_to_cart_link_describedby_8486\" class=\"screen-reader-text\">\n\t\t\t</span>\n</div></div></div></div><a href=\"https://souba.com.tr/product/kate-omuz-cantasi-kapucino/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"></a></div><div class=\"qodef-pl-text-wrapper\"><div class=\"qodef-pl-title-wrapper\"><h5 class=\"qodef-product-list-title\"><a href=\"https://souba.com.tr/product/kate-omuz-cantasi-kapucino/\">Kate Omuz Çantası – Kapuçino</a></h5>\n\t<span class=\"price\"><span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"68a70bebbf214\" data-product-id=\"8486\"><span class=\"woocommerce-Price-amount amount\"><bdi>379<span class=\"woocommerce-Price-currencySymbol\">$</span></bdi></span> <small class=\"woocommerce-price-suffix\">KDV Dahil</small></span></span>\n</div></div><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"8486\">Hızlı Görünüm</a></li>",
+    "url": "https://souba.com.tr/category/cantalar/",
+    "pageTitle": "Çantalar arşivleri | SOU-BA",
+    "price": [],
+    "img": [],
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
+    "priceValid": false,
     "mediaType": "image"
   },
   {
-    "title": "LOLİ ÇAPRAZ ÇANTA – KAHVE",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/loli-capraz-canta-kahve/",
-    "price": [
-      {
-        "value": "147$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 4924.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çantalar arşivleri | Sayfa 3 / 5 | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/page/3/",
-    "timestamp": "2025-08-25T09:56:00.601Z",
+    "error": true,
+    "message": "el?.getAttribute is not a function",
+    "content": "<li class=\"product type-product post-8476 status-publish first outofstock product_cat-cantalar product_cat-kate has-post-thumbnail taxable shipping-taxable purchasable product-type-simple\">\n\t<div class=\"qodef-pl-inner\"><div class=\"qodef-pl-image\"><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded\" alt=\"Kate Omuz Çantası - Mavi\" decoding=\"async\" data-lazy-srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/3-2.png 1080w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png\" data-ll-status=\"loaded\" sizes=\"(max-width: 300px) 100vw, 300px\" srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/3-2.png 1080w\"><noscript><img width=\"300\" height=\"300\" src=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png\" class=\"attachment-woocommerce_thumbnail size-woocommerce_thumbnail\" alt=\"Kate Omuz Çantası - Mavi\" decoding=\"async\" srcset=\"https://souba.com.tr/wp-content/uploads/2023/03/3-2-300x300.png 300w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-1024x1024.png 1024w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-150x150.png 150w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-768x768.png 768w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-12x12.png 12w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-650x650.png 650w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-600x600.png 600w, https://souba.com.tr/wp-content/uploads/2023/03/3-2-100x100.png 100w, https://souba.com.tr/wp-content/uploads/2023/03/3-2.png 1080w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></noscript><span class=\"qodef-out-of-stock\">Sold</span><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"8476\">Hızlı Görünüm</a>\n<div class=\"yith-wcwl-add-to-wishlist add-to-wishlist-8476  wishlist-fragment on-first-load\" data-fragment-ref=\"8476\" data-fragment-options=\"{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:8476,&quot;parent_product_id&quot;:8476,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Favorileri incele&quot;,&quot;already_in_wishslist_text&quot;:&quot;Bu \\u00fcr\\u00fcn zaten favorilerinde.&quot;,&quot;product_added_text&quot;:&quot;\\u00dcr\\u00fcn eklendi!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}\">\n\t\t\t\n\t\t\t<!-- ADD TO WISHLIST -->\n\t\t\t\n<div class=\"yith-wcwl-add-button\">\n\t\t<a href=\"?add_to_wishlist=8476&amp;_wpnonce=6f608701c5\" class=\"add_to_wishlist single_add_to_wishlist\" data-product-id=\"8476\" data-product-type=\"simple\" data-original-product-id=\"8476\" data-title=\"Favorilere ekle\" rel=\"nofollow\">\n\t\t<i class=\"yith-wcwl-icon fa fa-heart-o\"></i>\t\t<span>Favorilere ekle</span>\n\t</a>\n</div>\n\n\t\t\t<!-- COUNT TEXT -->\n\t\t\t\n\t\t\t</div>\n<div class=\"qodef-pl-text\"><div class=\"qodef-pl-text-outer\"><div class=\"qodef-pl-text-inner\"><a href=\"https://souba.com.tr/product/kate-omuz-cantasi-mavi/\" aria-describedby=\"woocommerce_loop_add_to_cart_link_describedby_8476\" data-quantity=\"1\" class=\"button product_type_simple\" data-product_id=\"8476\" data-product_sku=\"\" aria-label=\"“Kate Omuz Çantası - Mavi” hakkında daha fazla bilgi edinin\" rel=\"nofollow\" data-success_message=\"\">Devamını oku</a>\t<span id=\"woocommerce_loop_add_to_cart_link_describedby_8476\" class=\"screen-reader-text\">\n\t\t\t</span>\n</div></div></div></div><a href=\"https://souba.com.tr/product/kate-omuz-cantasi-mavi/\" class=\"woocommerce-LoopProduct-link woocommerce-loop-product__link\"></a></div><div class=\"qodef-pl-text-wrapper\"><div class=\"qodef-pl-title-wrapper\"><h5 class=\"qodef-product-list-title\"><a href=\"https://souba.com.tr/product/kate-omuz-cantasi-mavi/\">Kate Omuz Çantası – Mavi</a></h5>\n\t<span class=\"price\"><span class=\"woocs_price_code\" data-currency=\"\" data-redraw-id=\"68a70bebbfccc\" data-product-id=\"8476\"><span class=\"woocommerce-Price-amount amount\"><bdi>379<span class=\"woocommerce-Price-currencySymbol\">$</span></bdi></span> <small class=\"woocommerce-price-suffix\">KDV Dahil</small></span></span>\n</div></div><a href=\"#\" class=\"button yith-wcqv-button\" data-product_id=\"8476\">Hızlı Görünüm</a></li>",
+    "url": "https://souba.com.tr/category/cantalar/",
+    "pageTitle": "Çantalar arşivleri | SOU-BA",
+    "price": [],
+    "img": [],
     "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
+    "priceValid": false,
     "mediaType": "image"
   }
 ]
