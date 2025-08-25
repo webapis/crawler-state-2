@@ -14,7 +14,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid__item.grid-product.medium-up--one-half",
+      "matchedSelector": [
+        ".grid__item.grid-product.medium-up--one-half"
+      ],
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
@@ -23,7 +25,7 @@
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – Sayfa 16 – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri?page=16",
-    "timestamp": "2025-08-25T05:35:37.652Z",
+    "timestamp": "2025-08-25T05:37:55.313Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -47,7 +49,9 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid__item.grid-product.medium-up--one-half",
+      "matchedSelector": [
+        ".grid__item.grid-product.medium-up--one-half"
+      ],
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
@@ -56,7 +60,7 @@
     },
     "pageTitle": "Kadın Çanta Modellerinde %50'ye Varan İndirim - Getcho – Sayfa 16 – GETCHO",
     "pageURL": "https://www.getchostore.com/collections/kadin-canta-modelleri?page=16",
-    "timestamp": "2025-08-25T05:35:37.658Z",
+    "timestamp": "2025-08-25T05:37:55.320Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
