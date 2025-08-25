@@ -1,5 +1,125 @@
 [
   {
+    "title": "KATE OMUZ ÇANTASI – SİYAH",
+    "img": [
+      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+    "link": "https://souba.com.tr/product/kate-omuz-cantasi-siyah/",
+    "price": [
+      {
+        "value": "379$",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12696.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".qodef-product-list-title a",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çantalar arşivleri | SOU-BA",
+    "pageURL": "https://souba.com.tr/category/cantalar/",
+    "timestamp": "2025-08-25T09:37:23.977Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "DONNA – BORDO",
+    "img": [
+      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+    "link": "https://souba.com.tr/product/donna-bordo/",
+    "price": [
+      {
+        "value": "347$",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 11624.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".qodef-product-list-title a",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çantalar arşivleri | SOU-BA",
+    "pageURL": "https://souba.com.tr/category/cantalar/",
+    "timestamp": "2025-08-25T09:37:23.980Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "DONNA – SİYAH",
+    "img": [
+      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+    "link": "https://souba.com.tr/product/donna-siyah/",
+    "price": [
+      {
+        "value": "347$",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 11624.5,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".qodef-product-list-title a",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çantalar arşivleri | SOU-BA",
+    "pageURL": "https://souba.com.tr/category/cantalar/",
+    "timestamp": "2025-08-25T09:37:23.982Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "EVA OMUZ ÇANTASI – KARAMEL",
     "img": [
       "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
@@ -30,7 +150,7 @@
     },
     "pageTitle": "Çantalar arşivleri | SOU-BA",
     "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:34:28.187Z",
+    "timestamp": "2025-08-25T09:37:23.984Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -70,47 +190,7 @@
     },
     "pageTitle": "Çantalar arşivleri | SOU-BA",
     "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:34:28.189Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "EVA OMUZ ÇANTASI – PEMBE",
-    "img": [
-      "https://souba.com.tr/category/cantalar/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E"
-    ],
-    "primaryImg": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
-    "link": "https://souba.com.tr/product/eva-omuz-cantasi-pembe/",
-    "price": [
-      {
-        "value": "250$",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8375,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .qodef-product-list-title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".qodef-product-list-title a",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çantalar arşivleri | SOU-BA",
-    "pageURL": "https://souba.com.tr/category/cantalar/",
-    "timestamp": "2025-08-25T09:34:28.191Z",
+    "timestamp": "2025-08-25T09:37:23.985Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
