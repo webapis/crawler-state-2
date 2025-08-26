@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-25T07:00:03.819Z",
+    "timestamp": "2025-08-26T12:31:07.976Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,7 +70,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-25T07:00:03.821Z",
+    "timestamp": "2025-08-26T12:31:07.980Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,7 +110,47 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-25T07:00:03.824Z",
+    "timestamp": "2025-08-26T12:31:07.983Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Braid Bucket Bag Bitter Brown ",
+    "img": [
+      "https://image.he-qa.com/-38849-63-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-38849-63-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/braid-bucket-bag-bitter-brown",
+    "price": [
+      {
+        "value": "24.82 USD",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 831.47,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": true,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
+    "timestamp": "2025-08-26T12:31:07.986Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,47 +190,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-25T07:00:03.827Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Leather Tote Bag Bitter Brown ",
-    "img": [
-      "https://image.he-qa.com/-38753-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-38753-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/leather-tote-bag-bitter-brown",
-    "price": [
-      {
-        "value": "25.23 USD",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 845.21,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-25T07:00:03.829Z",
+    "timestamp": "2025-08-26T12:31:07.990Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
