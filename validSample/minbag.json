@@ -2,11 +2,21 @@
   {
     "title": "ZARF ÇANTA",
     "img": [
-      "https://static.wixstatic.com/media/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png/v1/fill/w_670,h_670,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png"
+      "https://static.wixstatic.com/media/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png/v1/fill/w_335,h_335,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png"
     ],
-    "primaryImg": "https://static.wixstatic.com/media/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png/v1/fill/w_670,h_670,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png",
+    "primaryImg": "https://static.wixstatic.com/media/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png/v1/fill/w_335,h_335,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ff912_ca3af0c8c91d479cb97c471c3d583896~mv2.png",
     "link": "https://www.minbag.store/product-page/zarf-%C3%A7anta",
-    "price": [],
+    "price": [
+      {
+        "value": "1.100,00₺",
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1100,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -15,28 +25,38 @@
       "titleSelectorMatched": "[data-hook=\"product-item-name\"]",
       "imgSelectorMatched": "wow-image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[data-hook=\"product-item-price-to-pay\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Minbag Store | Mağaza | Laptop Çantası | Tablet Çantası",
     "pageURL": "https://www.minbag.store/shop?Kategori=All",
-    "timestamp": "2025-08-26T09:52:45.788Z",
+    "timestamp": "2025-08-26T10:00:04.178Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
     "title": "Jr Jane 13\"",
     "img": [
-      "https://static.wixstatic.com/media/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg"
+      "https://static.wixstatic.com/media/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg"
     ],
-    "primaryImg": "https://static.wixstatic.com/media/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg",
+    "primaryImg": "https://static.wixstatic.com/media/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_e6fd33f63f5746308e7f16affc4454cc~mv2.jpg",
     "link": "https://www.minbag.store/product-page/jr-jane-13",
-    "price": [],
+    "price": [
+      {
+        "value": "2.217,65₺",
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2217.65,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -45,28 +65,38 @@
       "titleSelectorMatched": "[data-hook=\"product-item-name\"]",
       "imgSelectorMatched": "wow-image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[data-hook=\"product-item-price-to-pay\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Minbag Store | Mağaza | Laptop Çantası | Tablet Çantası",
     "pageURL": "https://www.minbag.store/shop?Kategori=All",
-    "timestamp": "2025-08-26T09:52:45.790Z",
+    "timestamp": "2025-08-26T10:00:04.181Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
     "title": "Jane 15\"",
     "img": [
-      "https://static.wixstatic.com/media/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg"
+      "https://static.wixstatic.com/media/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg"
     ],
-    "primaryImg": "https://static.wixstatic.com/media/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg",
+    "primaryImg": "https://static.wixstatic.com/media/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_8da727133cd247d29339e759a6a42ed9~mv2.jpg",
     "link": "https://www.minbag.store/product-page/jane-15",
-    "price": [],
+    "price": [
+      {
+        "value": "2.361,30₺",
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2361.3,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -75,28 +105,38 @@
       "titleSelectorMatched": "[data-hook=\"product-item-name\"]",
       "imgSelectorMatched": "wow-image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[data-hook=\"product-item-price-to-pay\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Minbag Store | Mağaza | Laptop Çantası | Tablet Çantası",
     "pageURL": "https://www.minbag.store/shop?Kategori=All",
-    "timestamp": "2025-08-26T09:52:45.793Z",
+    "timestamp": "2025-08-26T10:00:04.183Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
     "title": "Helen Seyahat Çantası",
     "img": [
-      "https://static.wixstatic.com/media/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg"
+      "https://static.wixstatic.com/media/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg"
     ],
-    "primaryImg": "https://static.wixstatic.com/media/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg",
+    "primaryImg": "https://static.wixstatic.com/media/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/d9f882_9a1c7b98090747e89a074a1200310d1f~mv2.jpg",
     "link": "https://www.minbag.store/product-page/helen-seyahat-%C3%A7antas%C4%B1",
-    "price": [],
+    "price": [
+      {
+        "value": "496,40₺",
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 496.4,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -105,28 +145,38 @@
       "titleSelectorMatched": "[data-hook=\"product-item-name\"]",
       "imgSelectorMatched": "wow-image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[data-hook=\"product-item-price-to-pay\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Minbag Store | Mağaza | Laptop Çantası | Tablet Çantası",
     "pageURL": "https://www.minbag.store/shop?Kategori=All",
-    "timestamp": "2025-08-26T09:52:45.796Z",
+    "timestamp": "2025-08-26T10:00:04.186Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   },
   {
     "title": "Marin 15\" Kol Çantası / Laptop Çantası",
     "img": [
-      "https://static.wixstatic.com/media/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg"
+      "https://static.wixstatic.com/media/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg"
     ],
-    "primaryImg": "https://static.wixstatic.com/media/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg/v1/fill/w_670,h_670,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg",
+    "primaryImg": "https://static.wixstatic.com/media/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg/v1/fill/w_335,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/1952eb_1117d36c22834d2a9e35b2c9f0ae0994~mv2.jpg",
     "link": "https://www.minbag.store/product-page/marin-15-kol-%C3%A7antas%C4%B1-laptop-%C3%A7antas%C4%B1",
-    "price": [],
+    "price": [
+      {
+        "value": "2.861,10₺",
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2861.1,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -135,17 +185,17 @@
       "titleSelectorMatched": "[data-hook=\"product-item-name\"]",
       "imgSelectorMatched": "wow-image img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[data-hook=\"product-item-price-to-pay\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Minbag Store | Mağaza | Laptop Çantası | Tablet Çantası",
     "pageURL": "https://www.minbag.store/shop?Kategori=All",
-    "timestamp": "2025-08-26T09:52:45.798Z",
+    "timestamp": "2025-08-26T10:00:04.189Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
