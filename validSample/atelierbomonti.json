@@ -1,45 +1,5 @@
 [
   {
-    "title": "Hishi Tote Bag Red Mumlu Kanvas Çanta",
-    "img": [
-      "https://www.atelierbomonti.com/thumbs/import/63d21c86395bc-63d21c863d3f7_300_300.png"
-    ],
-    "primaryImg": "https://www.atelierbomonti.com/thumbs/import/63d21c86395bc-63d21c863d3f7_300_300.png",
-    "link": "https://www.atelierbomonti.com/urunler/hishi-tote-bag-red-mumlu-kanvas-canta",
-    "price": [
-      {
-        "value": "3.999,00 TL",
-        "selector": ".priceone",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product_singlebody a)",
-      "matchedSelector": ".product_single",
-      "titleSelectorMatched": ".product_singlebody a",
-      "imgSelectorMatched": ".product_single img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceone",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Hishi Tote Bag Ürünleri | Atelier Bomonti",
-    "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-tote-bag",
-    "timestamp": "2025-08-26T10:42:41.401Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Hishi Rj Tote Bag Denim Taba",
     "img": [
       "https://www.atelierbomonti.com/thumbs/import/63c7f6cc4507f-63c7f6cc492a4_300_300.png"
@@ -70,7 +30,7 @@
     },
     "pageTitle": "Hishi Rj Tote Bag Ürünleri | Atelier Bomonti",
     "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-rj-tote-bag",
-    "timestamp": "2025-08-26T10:42:41.401Z",
+    "timestamp": "2025-08-26T12:34:47.552Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,12 +40,12 @@
     "mediaType": "image"
   },
   {
-    "title": "Hishi Tote Bag Green Mumlu Kanvas Çanta",
+    "title": "Hishi Tote Bag Red Mumlu Kanvas Çanta",
     "img": [
-      "https://www.atelierbomonti.com/thumbs/import/63d21b6b6e4cf-63d21b6b71aa6_300_300.png"
+      "https://www.atelierbomonti.com/thumbs/import/63d21c86395bc-63d21c863d3f7_300_300.png"
     ],
-    "primaryImg": "https://www.atelierbomonti.com/thumbs/import/63d21b6b6e4cf-63d21b6b71aa6_300_300.png",
-    "link": "https://www.atelierbomonti.com/urunler/hishi-tote-bag-green-mumlu-kanvas-canta",
+    "primaryImg": "https://www.atelierbomonti.com/thumbs/import/63d21c86395bc-63d21c863d3f7_300_300.png",
+    "link": "https://www.atelierbomonti.com/urunler/hishi-tote-bag-red-mumlu-kanvas-canta",
     "price": [
       {
         "value": "3.999,00 TL",
@@ -110,7 +70,7 @@
     },
     "pageTitle": "Hishi Tote Bag Ürünleri | Atelier Bomonti",
     "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-tote-bag",
-    "timestamp": "2025-08-26T10:42:41.404Z",
+    "timestamp": "2025-08-26T12:34:47.552Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,7 +110,47 @@
     },
     "pageTitle": "Hishi Rj Tote Bag Ürünleri | Atelier Bomonti",
     "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-rj-tote-bag",
-    "timestamp": "2025-08-26T10:42:41.404Z",
+    "timestamp": "2025-08-26T12:34:47.556Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Hishi Tote Bag Green Mumlu Kanvas Çanta",
+    "img": [
+      "https://www.atelierbomonti.com/thumbs/import/63d21b6b6e4cf-63d21b6b71aa6_300_300.png"
+    ],
+    "primaryImg": "https://www.atelierbomonti.com/thumbs/import/63d21b6b6e4cf-63d21b6b71aa6_300_300.png",
+    "link": "https://www.atelierbomonti.com/urunler/hishi-tote-bag-green-mumlu-kanvas-canta",
+    "price": [
+      {
+        "value": "3.999,00 TL",
+        "selector": ".priceone",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product_singlebody a)",
+      "matchedSelector": ".product_single",
+      "titleSelectorMatched": ".product_singlebody a",
+      "imgSelectorMatched": ".product_single img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceone",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Hishi Tote Bag Ürünleri | Atelier Bomonti",
+    "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-tote-bag",
+    "timestamp": "2025-08-26T12:34:47.556Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -190,7 +190,7 @@
     },
     "pageTitle": "Hishi Tote Bag Ürünleri | Atelier Bomonti",
     "pageURL": "https://www.atelierbomonti.com/urunler/c/hishi-tote-bag",
-    "timestamp": "2025-08-26T10:42:41.407Z",
+    "timestamp": "2025-08-26T12:34:47.558Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
