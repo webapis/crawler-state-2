@@ -1,12 +1,53 @@
 [
   {
-    "title": "Askılı Çanta Pudra - 31096.592.",
+    "title": "Askılı Çanta Krem - 31108.401.",
     "img": [
-      "https://www.haydigiy.com/i/m/100/1007569_askili-canta-pudra-31096592.jpeg",
+      "https://www.haydigiy.com/i/m/101/1010522_askili-canta-krem-31108401.jpeg",
       "https://www.haydigiy.com/i/l/033/0332970.png"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/100/1007569_askili-canta-pudra-31096592.jpeg",
-    "link": "https://www.haydigiy.com/askili-canta-pudra-31096592/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/101/1010522_askili-canta-krem-31108401.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-krem-31108401/?product=True",
+    "price": [
+      {
+        "value": "378,99 TL",
+        "selector": ".old-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 378.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-08-26T12:27:53.648Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Askılı Çanta Siyah - 31081.519.",
+    "img": [
+      "https://www.haydigiy.com/i/m/100/1008710_askili-canta-siyah-31081519.jpeg",
+      "https://www.haydigiy.com/i/l/033/0332970.png"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/100/1008710_askili-canta-siyah-31081519.jpeg",
+    "link": "https://www.haydigiy.com/askili-canta-siyah-31081519/?product=True",
     "price": [
       {
         "value": "396,99 TL",
@@ -31,7 +72,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-08-25T07:00:50.761Z",
+    "timestamp": "2025-08-26T12:27:53.652Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -71,7 +112,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-08-25T07:00:50.764Z",
+    "timestamp": "2025-08-26T12:27:53.656Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,94 +122,13 @@
     "mediaType": "image"
   },
   {
-    "title": "Askılı Çanta Vizon - 31082.519.",
+    "title": "Cüzdan Tereyağsarı - 31144.1261.",
     "img": [
-      "https://www.haydigiy.com/i/m/101/1010550_askili-canta-vizon-31082519.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/101/1010550_askili-canta-vizon-31082519.jpeg",
-    "link": "https://www.haydigiy.com/askili-canta-vizon-31082519/?product=True",
-    "price": [
-      {
-        "value": "414,99 TL",
-        "selector": ".old-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 414.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-08-25T07:00:50.767Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Baskılı Sırt Çantası Pembe - 11442.1624.",
-    "img": [
-      "https://www.haydigiy.com/i/m/100/1009079_baskili-sirt-cantasi-pembe-114421624.jpeg",
+      "https://www.haydigiy.com/i/m/102/1020950_cuzdan-tereyagsari-311441261.jpeg",
       "https://www.haydigiy.com/i/l/033/0332970.png"
     ],
-    "primaryImg": "https://www.haydigiy.com/i/m/100/1009079_baskili-sirt-cantasi-pembe-114421624.jpeg",
-    "link": "https://www.haydigiy.com/baskili-sirt-cantasi-pembe-114421624-2/?product=True",
-    "price": [
-      {
-        "value": "99,99 TL",
-        "selector": ".price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 99.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-08-25T07:00:50.770Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Cüzdan Bebemavi - 31144.1261.",
-    "img": [
-      "https://www.haydigiy.com/i/m/102/1020937_cuzdan-bebemavi-311441261.jpeg",
-      "https://www.haydigiy.com/i/l/033/0332970.png"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/102/1020937_cuzdan-bebemavi-311441261.jpeg",
-    "link": "https://www.haydigiy.com/cuzdan-bebemavi-311441261/?product=True",
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1020950_cuzdan-tereyagsari-311441261.jpeg",
+    "link": "https://www.haydigiy.com/cuzdan-tereyagsari-311441261/?product=True",
     "price": [
       {
         "value": "162,99 TL",
@@ -193,7 +153,48 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-08-25T07:00:50.772Z",
+    "timestamp": "2025-08-26T12:27:53.660Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Cüzdan Acıkahve - 31146.1261.",
+    "img": [
+      "https://www.haydigiy.com/i/m/102/1022573_cuzdan-acikahve-311461261.jpeg",
+      "https://www.haydigiy.com/i/l/033/0332970.png"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1022573_cuzdan-acikahve-311461261.jpeg",
+    "link": "https://www.haydigiy.com/cuzdan-acikahve-311461261/?product=True",
+    "price": [
+      {
+        "value": "162,99 TL",
+        "selector": ".old-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 162.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-08-26T12:27:53.664Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
