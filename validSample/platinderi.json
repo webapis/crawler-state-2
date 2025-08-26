@@ -1,10 +1,130 @@
 [
   {
+    "title": "Siyah Deri Kadın El Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-canta-a5ff40.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/siyah-deri-kadin-el-canta-a5ff40.png",
+    "link": "https://www.platinderi.com/siyah-deri-kadin-el-canta-5625",
+    "price": [
+      {
+        "value": "₺12.000,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-08-26T12:25:08.432Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Vizon Deri Kadın El Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-el-canta--800d-.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-el-canta--800d-.png",
+    "link": "https://www.platinderi.com/vizon-deri-kadin-el-canta-5624",
+    "price": [
+      {
+        "value": "₺12.000,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-08-26T12:25:08.435Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Multi Color Pyhton Kadın Çapraz Askılı Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/multi-color-pyhton-kadin-capraz-askili-c5-99d.png"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/multi-color-pyhton-kadin-capraz-askili-c5-99d.png",
+    "link": "https://www.platinderi.com/multi-color-pyhton-kadin-capraz-askili-canta-5623",
+    "price": [
+      {
+        "value": "₺12.500,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
+    "pageURL": "https://www.platinderi.com/canta-aksesuar",
+    "timestamp": "2025-08-26T12:25:08.438Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Kahve Deri Kadın Omuz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/kahve-deri-kadin-omuz-canta--50a5-.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/kahve-deri-kadin-omuz-canta--50a5-.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/kahve-deri-kadin-omuz-canta--50a5-.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/kahve-deri-kadin-omuz-canta--50a5-.png",
     "link": "https://www.platinderi.com/kahve-deri-kadin-omuz-canta-5622",
     "price": [
       {
@@ -30,7 +150,7 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-08-25T06:57:21.156Z",
+    "timestamp": "2025-08-26T12:25:08.442Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -42,9 +162,9 @@
   {
     "title": "Konyak Süet Kadın Omuz Çanta",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/konyak-suet-kadin-omuz-canta-788c-4.png"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/konyak-suet-kadin-omuz-canta-788c-4.png"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/konyak-suet-kadin-omuz-canta-788c-4.png",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=536,quality=85/55294/uploads/urunresimleri/buyuk/konyak-suet-kadin-omuz-canta-788c-4.png",
     "link": "https://www.platinderi.com/konyak-suet-kadin-omuz-canta-5621",
     "price": [
       {
@@ -70,127 +190,7 @@
     },
     "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
     "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-08-25T06:57:21.158Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Lacivert Deri Kadın Omuz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/lacivert-deri-kadin-omuz-canta--37fb-.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/lacivert-deri-kadin-omuz-canta--37fb-.png",
-    "link": "https://www.platinderi.com/lacivert-deri-kadin-omuz-canta-5620",
-    "price": [
-      {
-        "value": "₺10.800,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 10800,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-08-25T06:57:21.160Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Vizon Deri Kadın Omuz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-omuz-canta-5733f6.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/vizon-deri-kadin-omuz-canta-5733f6.png",
-    "link": "https://www.platinderi.com/vizon-deri-kadin-omuz-canta-5619",
-    "price": [
-      {
-        "value": "₺10.800,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 10800,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-08-25T06:57:21.163Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Vizon Kahve Deri Kadın El Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/vizon-kahve-deri-kadin-el-canta-df0-db.png"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=249,quality=85/55294/uploads/urunresimleri/buyuk/vizon-kahve-deri-kadin-el-canta-df0-db.png",
-    "link": "https://www.platinderi.com/vizon-kahve-deri-kadin-el-canta-5618",
-    "price": [
-      {
-        "value": "₺9.000,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 9000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta & Aksesuar Modelleri | Platin",
-    "pageURL": "https://www.platinderi.com/canta-aksesuar",
-    "timestamp": "2025-08-25T06:57:21.165Z",
+    "timestamp": "2025-08-26T12:25:08.445Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
