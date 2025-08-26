@@ -1,200 +1,5 @@
 [
   {
-    "title": "HEYBE CITY SHOULDER BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-50x50.jpg 50w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1.jpg 1200w",
-    "link": "https://tullaa.com/en/product/heybe-city-shoulder-bag/",
-    "price": [
-      {
-        "value": "$83,70",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2803.95,
-        "unsetPrice": false
-      },
-      {
-        "value": "$72,54",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2430.09,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
-    "timestamp": "2025-08-26T07:37:31.025Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "ODINA POCKET SHOULDER BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-yan-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-yan-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/05/odinapocket-siyah-on.jpg 1200w",
-    "link": "https://tullaa.com/en/product/odina-pocket-shoulder-bag/",
-    "price": [
-      {
-        "value": "$338,52",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 11340.42,
-        "unsetPrice": false
-      },
-      {
-        "value": "$241,80",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8100.3,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
-    "timestamp": "2025-08-26T07:37:31.027Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "VIRGO CITY BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/04/virgo-city-on.jpg 1200w",
-    "link": "https://tullaa.com/en/product/virgo-city-bag/",
-    "price": [
-      {
-        "value": "$474,30",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 15889.05,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
-    "timestamp": "2025-08-26T07:37:31.030Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "BALERA TRAVEL BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--768x768.jpg",
-      "https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2023/03/DSCF8237-1-1-768x768.jpg",
-      "https://tullaa.com/wp-content/uploads/2023/03/DSCF8237-1-1-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2023/03/DSCF8237--50x50.jpg 50w",
-    "link": "https://tullaa.com/en/product/balera-travel-bag/",
-    "price": [
-      {
-        "value": "$375,72",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 12586.62,
-        "unsetPrice": false
-      },
-      {
-        "value": "$269,70",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 9034.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
-    "timestamp": "2025-08-26T07:37:31.032Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "CITY OMUZ ÇANTASI",
     "img": [
       "https://tullaa.com/wp-content/uploads/2022/05/city-camel-on-300x300.jpg",
@@ -237,7 +42,182 @@
     },
     "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
     "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
-    "timestamp": "2025-08-26T07:37:47.689Z",
+    "timestamp": "2025-08-26T07:48:04.322Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "VIRGO NEW CITY BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--768x768.jpg",
+      "https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2023/03/DSCF1175--50x50.jpg 50w",
+    "link": "https://tullaa.com/en/product/virgo-new-city-bag/",
+    "price": [
+      {
+        "value": "$437,10",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 14642.85,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
+    "timestamp": "2025-08-26T07:48:04.325Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "BALERA WEEKEND SHOULDER BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-768x768.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/11/TULLAA6893-50x50.jpg 50w",
+    "link": "https://tullaa.com/en/product/balera-weekend-shoulder-bag/",
+    "price": [
+      {
+        "value": "$267,84",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8972.64,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
+    "timestamp": "2025-08-26T07:48:04.327Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "FILE LOLA CROSS BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/09/filelola-camel-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/09/filelola-camel-on-300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on-50x50.jpg 50w, https://tullaa.com/wp-content/uploads/2022/09/filelola-siyah-on.jpg 1200w",
+    "link": "https://tullaa.com/en/product/file-lola-cross-bag/",
+    "price": [
+      {
+        "value": "$107,88",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3613.98,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
+    "timestamp": "2025-08-26T07:48:04.329Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "HEYBE CITY SHOULDER BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1-50x50.jpg 50w, https://tullaa.com/wp-content/uploads/2022/09/heybecity-lacivet-on-1.jpg 1200w",
+    "link": "https://tullaa.com/en/product/heybe-city-shoulder-bag/",
+    "price": [
+      {
+        "value": "$83,70",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2803.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "$72,54",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2430.09,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "CILINDRO MİNİ SHOULDER BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/cilindro-mn-canta/",
+    "timestamp": "2025-08-26T07:48:29.568Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
