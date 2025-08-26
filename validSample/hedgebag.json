@@ -1,25 +1,147 @@
 [
   {
     "title": null,
-    "img": [],
-    "primaryImg": null,
+    "img": [
+      "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-05-sirt-cantasi-mor-8681506310392b-17514614001279.jpg"
+    ],
+    "primaryImg": "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-05-sirt-cantasi-mor-8681506310392b-17514614001279.jpg",
     "link": null,
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": null,
-      "matchedSelector": "[data-id]",
+      "matchedSelector": ".list-item .list-item-inline",
       "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "img.img-responsive",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "HEDGEBAG",
     "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
-    "timestamp": "2025-08-26T11:33:41.120Z",
-    "imgValid": false,
+    "timestamp": "2025-08-26T11:36:56.459Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-09-sirt-cantasi-gri-8681506310385b-17514613989579.jpg"
+    ],
+    "primaryImg": "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-09-sirt-cantasi-gri-8681506310385b-17514613989579.jpg",
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": ".list-item .list-item-inline",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "HEDGEBAG",
+    "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
+    "timestamp": "2025-08-26T11:36:56.464Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-10-sirt-cantasi-haki-8681506310378b-1751461398434.jpg"
+    ],
+    "primaryImg": "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-10-sirt-cantasi-haki-8681506310378b-1751461398434.jpg",
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": ".list-item .list-item-inline",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "HEDGEBAG",
+    "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
+    "timestamp": "2025-08-26T11:36:56.468Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-06-sirt-cantasi-bordo-8681506310361b-17514613995692.jpg"
+    ],
+    "primaryImg": "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-06-sirt-cantasi-bordo-8681506310361b-17514613995692.jpg",
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": ".list-item .list-item-inline",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "HEDGEBAG",
+    "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
+    "timestamp": "2025-08-26T11:36:56.472Z",
+    "imgValid": true,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-02-sirt-cantasi-lacivert-8681506310354b-17514614006731.jpg"
+    ],
+    "primaryImg": "https://www.hedgebag.com.tr/files/pms/2025/02/hedgebag-hb1600-02-sirt-cantasi-lacivert-8681506310354b-17514614006731.jpg",
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": ".list-item .list-item-inline",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "HEDGEBAG",
+    "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
+    "timestamp": "2025-08-26T11:36:56.475Z",
+    "imgValid": true,
     "linkValid": false,
     "titleValid": false,
     "pageTitleValid": true,
