@@ -1,5 +1,48 @@
 [
   {
+    "title": "Calista Çapraz Askılı Rahat Günlük Kullanım Omuz Çantası Kırmızı Desenli ",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/calista-capraz-askili-rahat-gunluk-kul-e4fcc8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/calista-capraz-askili-rahat-gunluk-kul-db9-ad.jpg",
+      "https://www.fudela.com.tr/sirt-cantasi/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/calista-capraz-askili-rahat-gunluk-kul-e94b8b.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/calista-capraz-askili-rahat-gunluk-kul-e4fcc8.jpg",
+    "link": "https://www.fudela.com.tr/calista-capraz-askili-rahat-gunluk-kullanim-omuz-cantasi-kirmizi-desenli-",
+    "price": [
+      {
+        "value": "₺349,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 349,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Calista Omuz Çantası",
+    "pageURL": "https://www.fudela.com.tr/calista-serisi",
+    "timestamp": "2025-08-26T11:27:39.959Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "BKS Gri Sırt Çantası",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-gri-sirt-cantasi-ac6-c5.jpg",
@@ -35,7 +78,7 @@
     },
     "pageTitle": "Sırt Çantası",
     "pageURL": "https://www.fudela.com.tr/sirt-cantasi",
-    "timestamp": "2025-08-26T11:21:14.665Z",
+    "timestamp": "2025-08-26T11:27:40.346Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,7 +123,7 @@
     },
     "pageTitle": "Sırt Çantası",
     "pageURL": "https://www.fudela.com.tr/sirt-cantasi",
-    "timestamp": "2025-08-26T11:21:14.669Z",
+    "timestamp": "2025-08-26T11:27:40.349Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,7 +168,7 @@
     },
     "pageTitle": "Sırt Çantası",
     "pageURL": "https://www.fudela.com.tr/sirt-cantasi",
-    "timestamp": "2025-08-26T11:21:14.672Z",
+    "timestamp": "2025-08-26T11:27:40.353Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -170,52 +213,7 @@
     },
     "pageTitle": "Sırt Çantası",
     "pageURL": "https://www.fudela.com.tr/sirt-cantasi",
-    "timestamp": "2025-08-26T11:21:14.675Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "BKS Haki Sırt Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi-4f49-8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi-dba8bb.jpg",
-      "https://www.fudela.com.tr/sirt-cantasi/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi-5a-577.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi-6d7881.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi--a510-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=331,quality=85/57288/uploads/urunresimleri/buyuk/bks-haki-sirt-cantasi-4f49-8.jpg",
-    "link": "https://www.fudela.com.tr/bks-haki-sirt-cantasi1",
-    "price": [
-      {
-        "value": "₺979,90",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 979.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Sırt Çantası",
-    "pageURL": "https://www.fudela.com.tr/sirt-cantasi",
-    "timestamp": "2025-08-26T11:21:14.678Z",
+    "timestamp": "2025-08-26T11:27:40.356Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
