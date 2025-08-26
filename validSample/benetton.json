@@ -33,7 +33,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-25T06:39:10.790Z",
+    "timestamp": "2025-08-26T12:06:45.342Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -76,7 +76,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-25T06:39:10.792Z",
+    "timestamp": "2025-08-26T12:06:45.345Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -119,7 +119,50 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-25T06:39:10.796Z",
+    "timestamp": "2025-08-26T12:06:45.348Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Kadın Siyah Logolu Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857671297632.jpg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857769267220.jpg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857671297632.jpg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857769267220.jpg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857671297632.jpg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-logolu-omuz-cantasi_165598",
+    "price": [
+      {
+        "value": "1.349,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1349.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-08-26T12:06:45.351Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -162,50 +205,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-25T06:39:10.799Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Unisex Siyah Benetton Logolu Sırt Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884395320864.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884425789555.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884395320864.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884425789555.jpg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884395320864.jpg",
-    "link": "https://tr.benetton.com/unisex/unisex-siyah-benetton-logolu-sirt-cantasi_165017",
-    "price": [
-      {
-        "value": "3.499,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-08-25T06:39:10.801Z",
+    "timestamp": "2025-08-26T12:06:45.354Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
