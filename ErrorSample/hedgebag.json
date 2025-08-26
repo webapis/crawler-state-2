@@ -1,0 +1,30 @@
+[
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "[data-id]",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "HEDGEBAG",
+    "pageURL": "https://www.hedgebag.com.tr/urunler/sirt-cantasi-7692",
+    "timestamp": "2025-08-26T11:33:41.120Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
