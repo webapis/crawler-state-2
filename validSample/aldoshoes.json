@@ -22,7 +22,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -31,7 +31,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-27T10:39:56.904Z",
+    "timestamp": "2025-08-27T10:51:33.107Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -63,7 +63,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -72,7 +72,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-27T10:39:56.907Z",
+    "timestamp": "2025-08-27T10:51:33.110Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -104,7 +104,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -113,7 +113,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-27T10:39:56.910Z",
+    "timestamp": "2025-08-27T10:51:33.113Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -145,7 +145,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
       "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -154,7 +154,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-27T10:39:56.913Z",
+    "timestamp": "2025-08-27T10:51:33.116Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,33 +164,43 @@
     "mediaType": "image"
   },
   {
-    "title": null,
+    "title": "Kadın Beyaz Omuz Ve El Çantası-1",
     "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/KAMP_20250820_SON_INDIRIM_775x984_94be3f9d-447d-4dca-a6ab-35a9e83babec.jpg?quality=90&v=1755717138&width=366",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/KAMP_20250820_SON_INDIRIM_775x984_94be3f9d-447d-4dca-a6ab-35a9e83babec.jpg?quality=90&v=1755717138&width=738"
+      "https://www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=533"
     ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/KAMP_20250820_SON_INDIRIM_775x984_94be3f9d-447d-4dca-a6ab-35a9e83babec.jpg?quality=90&v=1755717138&width=366 366w",
-    "link": null,
-    "price": [],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/DASPIAS-100-002-008_1.jpg?v=1747137034 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/beyaz-canta-p-daspias-100-002-008",
+    "price": [
+      {
+        "value": "1.799,70TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.7,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper",
-      "titleSelectorMatched": null,
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
+      "titleSelectorMatched": "img.motion-reduce",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-08-27T10:39:56.916Z",
+    "timestamp": "2025-08-27T10:51:33.119Z",
     "imgValid": true,
-    "linkValid": false,
-    "titleValid": false,
+    "linkValid": true,
+    "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image"
   }
