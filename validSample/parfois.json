@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "title": "Zımba Detaylı Çapraz Çanta",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d75dd40f32fd195b48e_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d75dd40f32fd195b48e_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/zimba-detayli-capraz-canta-p-238948_tu",
+    "price": [
+      {
+        "value": "1.799,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-28T12:20:50.216Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Tote Çanta",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d71dd40f32fd1955686_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d71dd40f32fd1955686_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/tote-canta-p-238947_tu",
+    "price": [
+      {
+        "value": "1.999,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-28T12:20:50.219Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba Detaylı Çapraz Çanta",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d6edd40f32fd194f87b_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68a72d6edd40f32fd194f87b_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/zimba-detayli-capraz-canta-p-238944_ca",
+    "price": [
+      {
+        "value": "1.799,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-28T12:20:50.222Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba Detaylı Çapraz Çanta",
+    "img": [
+      "https://www.parfois.com.tr/tr/canta/data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E",
+    "link": "https://www.parfois.com.tr/tr/zimba-detayli-capraz-canta-p-238944_bu",
+    "price": [
+      {
+        "value": "1.799,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-28T12:20:50.225Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Zımba Detaylı Çapraz Çanta",
+    "img": [
+      "https://www.parfois.com.tr/tr/canta/data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E"
+    ],
+    "primaryImg": "data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22700%22%20height%3D%22935%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20%25%7Bw%7D%20%25%7Bh%7D%22%20preserveAspectRatio%3D%22none%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20style%3D%22fill%3Atransparent%3B%22%3E%3C%2Frect%3E%3C%2Fsvg%3E",
+    "link": "https://www.parfois.com.tr/tr/zimba-detayli-capraz-canta-p-238944_bk",
+    "price": [
+      {
+        "value": "1.799,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1799.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri; Omuz Çantası, Sırt Çantası, Valiz | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta",
+    "timestamp": "2025-08-28T12:20:50.227Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  }
+]
