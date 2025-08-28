@@ -1,9 +1,49 @@
 [
   {
+    "title": "Omuz Çantası adidas",
+    "img": [
+      "https://deichmann.scene7.com/asset/deichmann/p_img/deichmann_TR_tr_pt_neu.png?defaultImage=default_empty"
+    ],
+    "primaryImg": "https://deichmann.scene7.com/asset/deichmann/p_img/deichmann_TR_tr_pt_neu.png?defaultImage=default_empty",
+    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002470099/Omuz*%C3%87antas%C4%B1*adidas.prod;jsessionid=5CC1B89B60BC117464DDB2A03EB5A4AD.appserver40t5?&positionInList=1&fromCategoryDetail=true",
+    "price": [
+      {
+        "value": "1.499,99 TL",
+        "selector": ".price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": "span.teaser img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
+    "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
+    "timestamp": "2025-08-28T12:18:52.518Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "El Çantası",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002456135/El*%C3%87antas%C4%B1.prod;jsessionid=E31BFACAE881C455D417C95FA6C56921.appserver75t2?&positionInList=1&fromCategoryDetail=true",
+    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002456135/El*%C3%87antas%C4%B1.prod;jsessionid=5CC1B89B60BC117464DDB2A03EB5A4AD.appserver40t5?&positionInList=2&fromCategoryDetail=true",
     "price": [
       {
         "value": "999,99 TL",
@@ -28,7 +68,7 @@
     },
     "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
     "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
-    "timestamp": "2025-08-27T10:43:13.958Z",
+    "timestamp": "2025-08-28T12:18:52.521Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -43,7 +83,7 @@
       "https://deichmann.scene7.com/asset/deichmann/p_img/deichmann_TR_tr_pt_neu.png?defaultImage=default_empty"
     ],
     "primaryImg": "https://deichmann.scene7.com/asset/deichmann/p_img/deichmann_TR_tr_pt_neu.png?defaultImage=default_empty",
-    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002494529/Omuz*%C3%87antas%C4%B1*Puma.prod;jsessionid=E31BFACAE881C455D417C95FA6C56921.appserver75t2?&positionInList=2&fromCategoryDetail=true",
+    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002494529/Omuz*%C3%87antas%C4%B1*Puma.prod;jsessionid=5CC1B89B60BC117464DDB2A03EB5A4AD.appserver40t5?&positionInList=3&fromCategoryDetail=true",
     "price": [
       {
         "value": "1.299,99 TL",
@@ -68,7 +108,7 @@
     },
     "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
     "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
-    "timestamp": "2025-08-27T10:43:13.962Z",
+    "timestamp": "2025-08-28T12:18:52.524Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,7 +121,7 @@
     "title": "Omuz Çantası",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002471999/Omuz*%C3%87antas%C4%B1.prod;jsessionid=E31BFACAE881C455D417C95FA6C56921.appserver75t2?&positionInList=3&fromCategoryDetail=true",
+    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002471999/Omuz*%C3%87antas%C4%B1.prod;jsessionid=5CC1B89B60BC117464DDB2A03EB5A4AD.appserver40t5?&positionInList=4&fromCategoryDetail=true",
     "price": [
       {
         "value": "1.099,99 TL",
@@ -106,7 +146,7 @@
     },
     "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
     "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
-    "timestamp": "2025-08-27T10:43:13.965Z",
+    "timestamp": "2025-08-28T12:18:52.528Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -119,7 +159,7 @@
     "title": "Omuz Çantası",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002456123/Omuz*%C3%87antas%C4%B1*.prod;jsessionid=E31BFACAE881C455D417C95FA6C56921.appserver75t2?&positionInList=4&fromCategoryDetail=true",
+    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002456123/Omuz*%C3%87antas%C4%B1*.prod;jsessionid=5CC1B89B60BC117464DDB2A03EB5A4AD.appserver40t5?&positionInList=5&fromCategoryDetail=true",
     "price": [
       {
         "value": "899,99 TL",
@@ -144,45 +184,7 @@
     },
     "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
     "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
-    "timestamp": "2025-08-27T10:43:13.968Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Omuz Çantası",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar/00015002471998/Omuz*%C3%87antas%C4%B1.prod;jsessionid=E31BFACAE881C455D417C95FA6C56921.appserver75t2?&positionInList=5&fromCategoryDetail=true",
-    "price": [
-      {
-        "value": "1.099,99 TL",
-        "selector": ".price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1099.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-item a:not([href*='login']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "div.product-name",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Bayan Çanta Modelleri | Kadın Çanta Çeşitleri",
-    "pageURL": "https://www.deichmann.com/TR/tr/shop/bayan/bayan-aksesuarlar/bayan-aksesuarlar-cantalar.cat",
-    "timestamp": "2025-08-27T10:43:13.972Z",
+    "timestamp": "2025-08-28T12:18:52.530Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
