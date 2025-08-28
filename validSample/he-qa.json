@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-27T10:48:58.730Z",
+    "timestamp": "2025-08-28T12:25:00.204Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,7 +70,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-27T10:48:58.733Z",
+    "timestamp": "2025-08-28T12:25:00.208Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,47 +110,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-27T10:48:58.737Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Long Strap Bag Ecru ",
-    "img": [
-      "https://image.he-qa.com/-38834-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-38834-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/long-strap-bag-ecru",
-    "price": [
-      {
-        "value": "21.54 USD",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 721.59,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": true,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-27T10:48:58.740Z",
+    "timestamp": "2025-08-28T12:25:00.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -190,7 +150,47 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-08-27T10:48:58.743Z",
+    "timestamp": "2025-08-28T12:25:00.214Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Leather Tote Bag Bitter Brown ",
+    "img": [
+      "https://image.he-qa.com/-38753-63-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-38753-63-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/leather-tote-bag-bitter-brown",
+    "price": [
+      {
+        "value": "25.23 USD",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 845.21,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": true,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
+    "timestamp": "2025-08-28T12:25:00.217Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
