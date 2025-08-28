@@ -8,12 +8,12 @@
     "link": "https://www.furkangiyim.com/levidor-ayarlanabilir-askili-omuz-cantasi-gri-930433",
     "price": [
       {
-        "value": "₺2.650,00",
+        "value": "₺2.750,00",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 2650,
+        "numericValue": 2750,
         "unsetPrice": false
       }
     ],
@@ -30,47 +30,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-08-27T10:37:57.089Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Levidor Ayarlanabilir Askılı Omuz Çantası Sarı 930433",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-ayarlanabilir-askili-omuz-cant--7548-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/levidor-ayarlanabilir-askili-omuz-cant--7548-.jpg",
-    "link": "https://www.furkangiyim.com/levidor-ayarlanabilir-askili-omuz-cantasi-sari-930433",
-    "price": [
-      {
-        "value": "₺2.650,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2650,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-08-27T10:37:57.093Z",
+    "timestamp": "2025-08-28T12:13:18.346Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,7 +70,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-08-27T10:37:57.097Z",
+    "timestamp": "2025-08-28T12:13:18.349Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,7 +110,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-08-27T10:37:57.100Z",
+    "timestamp": "2025-08-28T12:13:18.353Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -190,7 +150,47 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-08-27T10:37:57.103Z",
+    "timestamp": "2025-08-28T12:13:18.356Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Armine 406 Bayan Çanta Bordo Pia",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-bordo-pia-e6a4-8.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-406-bayan-canta-bordo-pia-e6a4-8.jpg",
+    "link": "https://www.furkangiyim.com/armine-406-bayan-canta-bordo-pia",
+    "price": [
+      {
+        "value": "₺550,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 550,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-08-28T12:13:18.359Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
