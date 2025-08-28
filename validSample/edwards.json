@@ -30,7 +30,7 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-27T10:23:24.738Z",
+    "timestamp": "2025-08-28T11:58:45.774Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,7 +70,7 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-27T10:23:24.746Z",
+    "timestamp": "2025-08-28T11:58:45.777Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,47 +110,7 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-27T10:23:24.750Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "BROOKS BROTHERS\nKadın lacivert cüzdan",
-    "img": [
-      "https://a88cb3.cdn.akinoncloud.com/products/2018/08/28/84886/341cdf93-efbc-4b75-9feb-3d2d237b03b5_size290x376_cropCenter.jpg"
-    ],
-    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2018/08/28/84886/341cdf93-efbc-4b75-9feb-3d2d237b03b5_size290x376_cropCenter.jpg",
-    "link": "https://www.edwards.com.tr/brooks-brothers-kadin-lacivert-cuzdan-1-00104502/",
-    "price": [
-      {
-        "value": "6223.50 TL",
-        "selector": ".product-price .product-sale-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 6223.5,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info  p.product-name a)",
-      "matchedSelector": ".list-content-product-item:has(.product-name a)",
-      "titleSelectorMatched": ".product-item-info  p.product-name a",
-      "imgSelectorMatched": ".product-item-image",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price .product-sale-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
-    "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-27T10:23:24.753Z",
+    "timestamp": "2025-08-28T11:58:45.780Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -190,7 +150,47 @@
     },
     "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
     "pageURL": "https://www.edwards.com.tr/canta/",
-    "timestamp": "2025-08-27T10:23:24.755Z",
+    "timestamp": "2025-08-28T11:58:45.784Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "OTRERA\nNavy Card Case",
+    "img": [
+      "https://a88cb3.cdn.akinoncloud.com/products/2022/04/16/173279/7d3fa48a-c73c-4772-ab5f-85f4656acc31_size290x376_cropCenter.jpg"
+    ],
+    "primaryImg": "https://a88cb3.cdn.akinoncloud.com/products/2022/04/16/173279/7d3fa48a-c73c-4772-ab5f-85f4656acc31_size290x376_cropCenter.jpg",
+    "link": "https://www.edwards.com.tr/otrera-navy-card-case-ss22otrera017/",
+    "price": [
+      {
+        "value": "2600 TL",
+        "selector": ".product-price .product-sale-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2600,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info  p.product-name a)",
+      "matchedSelector": ".list-content-product-item:has(.product-name a)",
+      "titleSelectorMatched": ".product-item-info  p.product-name a",
+      "imgSelectorMatched": ".product-item-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price .product-sale-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Sezonun trend Kadın Çanta ürünleri Edwards Online’da",
+    "pageURL": "https://www.edwards.com.tr/canta/",
+    "timestamp": "2025-08-28T11:58:45.787Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
