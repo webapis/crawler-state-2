@@ -1,5 +1,54 @@
 [
   {
+    "title": "Çok Bölmeli Kadın Günlük Çanta",
+    "img": [
+      "https://cdn.tozlu.com/img/640/85/cok-bolmeli-kadin-gunluk-canta-1cf15-159fdb1_1012.webp"
+    ],
+    "primaryImg": "https://cdn.tozlu.com/img/640/85/cok-bolmeli-kadin-gunluk-canta-1cf15-159fdb1_1012.webp",
+    "link": "https://www.tozlu.com/cok-bolmeli-kadin-gunluk-canta-1417179",
+    "price": [
+      {
+        "value": "329,99 TL",
+        "selector": ".para-tutar",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 329.99,
+        "unsetPrice": false
+      },
+      {
+        "value": "296,99 TL",
+        "selector": ".para-tutar",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 296.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": ".product-item-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".para-tutar",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
+    "pageURL": "https://www.tozlu.com/kadin-canta",
+    "timestamp": "2025-08-29T09:04:37.007Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Kadın Amblem Detaylı Çift Fermuarlı Cüzdan",
     "img": [
       "https://cdn.tozlu.com/img/640/85/kadin-amblem-detayli-cift-fermuarli-cuzdan-1b557-e7d11.webp"
@@ -39,7 +88,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
     "pageURL": "https://www.tozlu.com/kadin-canta",
-    "timestamp": "2025-08-28T12:20:32.208Z",
+    "timestamp": "2025-08-29T09:04:37.010Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -88,7 +137,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
     "pageURL": "https://www.tozlu.com/kadin-canta",
-    "timestamp": "2025-08-28T12:20:32.211Z",
+    "timestamp": "2025-08-29T09:04:37.013Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,7 +186,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
     "pageURL": "https://www.tozlu.com/kadin-canta",
-    "timestamp": "2025-08-28T12:20:32.214Z",
+    "timestamp": "2025-08-29T09:04:37.016Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -186,56 +235,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
     "pageURL": "https://www.tozlu.com/kadin-canta",
-    "timestamp": "2025-08-28T12:20:32.217Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Yazı Baskılı Cüzdanlı Kadın Sırt Çantası",
-    "img": [
-      "https://cdn.tozlu.com/img/640/85/yazi-baskili-cuzdanli-kadin-sirt-cantasi-1a8d1-4641.webp"
-    ],
-    "primaryImg": "https://cdn.tozlu.com/img/640/85/yazi-baskili-cuzdanli-kadin-sirt-cantasi-1a8d1-4641.webp",
-    "link": "https://www.tozlu.com/yazi-baskili-cuzdanli-kadin-sirt-cantasi-1205930",
-    "price": [
-      {
-        "value": "349,99 TL",
-        "selector": ".para-tutar",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 349.99,
-        "unsetPrice": false
-      },
-      {
-        "value": "249,99 TL",
-        "selector": ".para-tutar",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 249.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-info a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "h2.product-name",
-      "imgSelectorMatched": ".product-item-img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".para-tutar",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve 2025 Fiyatları | tozlu.com",
-    "pageURL": "https://www.tozlu.com/kadin-canta",
-    "timestamp": "2025-08-28T12:20:32.219Z",
+    "timestamp": "2025-08-29T09:04:37.019Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
