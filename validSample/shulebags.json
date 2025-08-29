@@ -1,5 +1,165 @@
 [
   {
+    "title": "Blaze El ve Çapraz Çanta Krem",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/14333cbd-56b5-41c4-bf5e-d5bc4d5fdd4a-8df842.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/14333cbd-56b5-41c4-bf5e-d5bc4d5fdd4a-8df842.jpg",
+    "link": "https://www.shulebags.com/blaze-capraz-ve-el-cantasi-krem-4570",
+    "price": [
+      {
+        "value": "₺449,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 449.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-29T08:49:44.908Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Blaze El ve Çapraz Çanta Bordo",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c3cf1b8b-a194-4915-b3df-b188ed9b480e-9a02-1.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/c3cf1b8b-a194-4915-b3df-b188ed9b480e-9a02-1.jpg",
+    "link": "https://www.shulebags.com/blaze-capraz-ve-el-cantasi-bordo-4465",
+    "price": [
+      {
+        "value": "₺449,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 449.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-29T08:49:44.912Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Blaze El ve Çapraz Çanta Kahverengi",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/293680bb-e265-43d6-b272-f5698b37878b-a81a-c.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/293680bb-e265-43d6-b272-f5698b37878b-a81a-c.jpg",
+    "link": "https://www.shulebags.com/blaze-capraz-ve-el-cantasi-kahve-4466",
+    "price": [
+      {
+        "value": "₺449,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 449.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-29T08:49:44.915Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Blaze El ve Çapraz Çanta Siyah",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/4a911e45-2f3f-494b-abac-5e1cd1158b85--24c5d.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/4a911e45-2f3f-494b-abac-5e1cd1158b85--24c5d.jpg",
+    "link": "https://www.shulebags.com/blaze-capraz-ve-el-cantasi-siyah-4467",
+    "price": [
+      {
+        "value": "₺449,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 449.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-08-29T08:49:44.919Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Aline Salaş Omuz Çantası Vizon",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/6e4b862e-f3ef-4cdb-be9e-c01f962c921d-982e43.jpg"
@@ -30,167 +190,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-28T12:05:49.177Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Aline Salaş Omuz Çantası Kahve",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/97a93a0d-6442-4f66-ba5a-66cf977488e0-f1-864.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/97a93a0d-6442-4f66-ba5a-66cf977488e0-f1-864.jpg",
-    "link": "https://www.shulebags.com/aline-salas-omuz-cantasi-kahve-5254",
-    "price": [
-      {
-        "value": "₺499,99",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
-    "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-28T12:05:49.181Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Aline Salaş Omuz Çantası Siyah",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/00cc805c-1aca-487c-961f-6fc03f5154cc-f-c625.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/00cc805c-1aca-487c-961f-6fc03f5154cc-f-c625.jpg",
-    "link": "https://www.shulebags.com/aline-salas-omuz-cantasi-siyah-5255",
-    "price": [
-      {
-        "value": "₺499,99",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
-    "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-28T12:05:49.184Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Glove Omuz Çantası  Acı Kahve",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/09786847-3e84-4f46-aa33-0c51b70dffe5-c5c133.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/09786847-3e84-4f46-aa33-0c51b70dffe5-c5c133.jpg",
-    "link": "https://www.shulebags.com/glove-omuz-cantasi-aci-kahve-4237",
-    "price": [
-      {
-        "value": "₺499,90",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
-    "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-28T12:05:49.187Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Glove Omuz Çantası  Bordo",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/01ad59bc-0166-4425-832d-edabc3445c8f-b8c338.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/01ad59bc-0166-4425-832d-edabc3445c8f-b8c338.jpg",
-    "link": "https://www.shulebags.com/glove-omuz-cantasi-bordo-4239",
-    "price": [
-      {
-        "value": "₺499,90",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
-    "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-08-28T12:05:49.190Z",
+    "timestamp": "2025-08-29T08:49:44.922Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
