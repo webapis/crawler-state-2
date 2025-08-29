@@ -1,117 +1,31 @@
 [
   {
-    "title": "MYRRA RENDE TEXTURED ADJUSTABLE BAG",
+    "title": "ODINA POUCH CROSS BODY BAG",
     "img": [
-      "https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-yan-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-yan-300x300.jpg"
+      "https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-yan-camel-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-yan-camel-300x300.jpg"
     ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/05/myrra-camel-on.jpg 1200w",
-    "link": "https://tullaa.com/en/product/myrra-rende-textured-adjustable-bag/",
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/05/odina-pouch-on-camel.jpg 1200w",
+    "link": "https://tullaa.com/en/product/odina-pouch-cross-body-bag/",
     "price": [
       {
-        "value": "$130,20",
+        "value": "$241,80",
         "selector": ".woocommerce-Price-amount.amount bdi",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 4361.7,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
-    "timestamp": "2025-08-29T09:10:36.884Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "VIRGO MINI TRAPEZ BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-arka-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-arka-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/04/mini-trapez-camel-on.jpg 1200w",
-    "link": "https://tullaa.com/en/product/virgo-mini-trapez-bag/",
-    "price": [
-      {
-        "value": "$260,00",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8710,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .ast-loop-product__link)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
-    "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
-    "timestamp": "2025-08-29T09:10:36.887Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "IVY MINI CROSS BAG",
-    "img": [
-      "https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-768x768.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-scaled-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-1-768x768.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-1-scaled-300x300.jpg"
-    ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-scaled-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2022/10/ivy-capraz-askili-canta-kgri-on-50x50.jpg 50w",
-    "link": "https://tullaa.com/en/product/ivy-mini-cross-bag-kopya/",
-    "price": [
-      {
-        "value": "$130,20",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 4361.7,
+        "numericValue": 8100.3,
         "unsetPrice": false
       },
       {
-        "value": "$104,16",
+        "value": "$145,08",
         "selector": ".woocommerce-Price-amount.amount bdi",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3489.36,
+        "numericValue": 4860.18,
         "unsetPrice": false
       }
     ],
@@ -128,7 +42,7 @@
     },
     "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
     "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
-    "timestamp": "2025-08-29T09:10:36.890Z",
+    "timestamp": "2025-08-29T10:49:14.853Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,21 +52,32 @@
     "mediaType": "image"
   },
   {
-    "title": "XL HOOP CROSS BAG",
+    "title": "MINI RENDE TOTE BAG",
     "img": [
-      "https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-300x300.jpg",
-      "https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-300x300.jpg"
+      "https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--768x768.jpg",
+      "https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2023/04/DSCF1053--768x768.jpg",
+      "https://tullaa.com/wp-content/uploads/2023/04/DSCF1053--300x300.jpg"
     ],
-    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on-50x50.jpg 50w, https://tullaa.com/wp-content/uploads/2022/09/hoop-siyah-on.jpg 1200w",
-    "link": "https://tullaa.com/en/product/xl-hoop-cross-bag/",
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2023/04/DSCF1067--50x50.jpg 50w",
+    "link": "https://tullaa.com/en/product/mini-rende-tote-bag/",
     "price": [
       {
-        "value": "$386,88",
+        "value": "$187,49",
         "selector": ".woocommerce-Price-amount.amount bdi",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 12960.48,
+        "numericValue": 6280.91,
+        "unsetPrice": false
+      },
+      {
+        "value": "$150,29",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5034.72,
         "unsetPrice": false
       }
     ],
@@ -169,7 +94,109 @@
     },
     "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
     "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
-    "timestamp": "2025-08-29T09:10:36.893Z",
+    "timestamp": "2025-08-29T10:49:14.856Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "SIDE PLEATED POUCH BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/sidepleated-latte-on-300x300.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/05/sidepleated-latte-on-300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/05/sidepleated-camel-on.jpg 1200w",
+    "link": "https://tullaa.com/en/product/side-pleated-pouch-bag/",
+    "price": [
+      {
+        "value": "$385,02",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 12898.17,
+        "unsetPrice": false
+      },
+      {
+        "value": "$306,90",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 10281.15,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
+    "timestamp": "2025-08-29T10:49:14.858Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "BRAID MINI CROSS BAG",
+    "img": [
+      "https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-768x768.jpg",
+      "https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-scaled-300x300.jpg"
+    ],
+    "primaryImg": "https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-300x300.jpg 300w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-100x100.jpg 100w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-scaled-900x900.jpg 900w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-1024x1024.jpg 1024w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-150x150.jpg 150w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-768x768.jpg 768w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-1536x1536.jpg 1536w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-2048x2048.jpg 2048w, https://tullaa.com/wp-content/uploads/2022/10/braid-mini-capraz-askili-canta-on-50x50.jpg 50w",
+    "link": "https://tullaa.com/en/product/braid-mini-cross-bag/",
+    "price": [
+      {
+        "value": "$115,32",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3863.22,
+        "unsetPrice": false
+      },
+      {
+        "value": "$92,26",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3090.71,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .ast-loop-product__link)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "EMMA TRAPEZ MINI CROSS BAG - TULLAA",
+    "pageURL": "https://tullaa.com/en/urun/emma-trapez-mini-capraz-askili-canta/",
+    "timestamp": "2025-08-29T10:49:14.861Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
