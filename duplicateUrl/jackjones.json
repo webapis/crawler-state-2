@@ -1,22 +1,632 @@
 [
   {
-    "dublicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-    "counter": 6
+    "title": "MAYOLAR",
+    "img": [
+      "https://images.jackjones.com.tr/12283379/4827346/003/jackjones-jacmurphyskulltrunks3pack-blue.jpg?v=90266979faaecffceb346501738e0fe4&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12283379/4827346/003/jackjones-jacmurphyskulltrunks3pack-blue.jpg?v=90266979faaecffceb346501738e0fe4&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12283379/4827346/003/jackjones-jacmurphyskulltrunks3pack-blue.jpg?v=90266979faaecffceb346501738e0fe4&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+    "price": [
+      {
+        "value": "830,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 830,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-01T11:11:13.987Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 0,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+    "duplicateCount": 16,
+    "duplicateGroup": [
+      {
+        "title": "MAYOLAR",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 0
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 60
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 140
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 220
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 300
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 380
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 508
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 533
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 620
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 700
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 780
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 860
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 940
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 1020
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 1100
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 1159
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
-    "counter": 6
+    "title": "ERKEK TEDDY FERMUAR KAPAMALI CEKET - THATCHER",
+    "img": [
+      "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+    "price": [
+      {
+        "value": "1.990,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1990,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-01T11:11:13.991Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+    "duplicateCount": 16,
+    "duplicateGroup": [
+      {
+        "title": "ERKEK TEDDY FERMUAR KAPAMALI CEKET - THATCHER",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 1
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 61
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 141
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 221
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 301
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 381
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 510
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 535
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 621
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 701
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 781
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 861
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 941
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 1021
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 1101
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
+        "originalIndex": 1160
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
-    "counter": 6
+    "title": "SPREAD YAKA DÜĞMELİ MANŞETLER CEKET",
+    "img": [
+      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+    "price": [
+      {
+        "value": "1.790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-01T11:11:13.994Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 2,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+    "duplicateCount": 16,
+    "duplicateGroup": [
+      {
+        "title": "SPREAD YAKA DÜĞMELİ MANŞETLER CEKET",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 2
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 62
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 142
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 222
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 302
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 382
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 512
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 537
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 622
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 702
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 782
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 862
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 942
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 1022
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 1102
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+        "originalIndex": 1161
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
-    "counter": 6
+    "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
+    "img": [
+      "https://images.jackjones.com.tr/12278493/4817856/001/jackjones-jjmakototeesscrewneck-white.png?v=3b1d50f34674142371ffe5e192362096&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12278493/4817856/001/jackjones-jjmakototeesscrewneck-white.png?v=3b1d50f34674142371ffe5e192362096&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12278493/4817856/001/jackjones-jjmakototeesscrewneck-white.png?v=3b1d50f34674142371ffe5e192362096&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+    "price": [
+      {
+        "value": "790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-01T11:11:13.998Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 3,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+    "duplicateCount": 16,
+    "duplicateGroup": [
+      {
+        "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 3
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 63
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 143
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 223
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 303
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 383
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 514
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 539
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 623
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 703
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 783
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 863
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 943
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 1023
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 1103
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12278493_19_1206420/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+        "originalIndex": 1162
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-    "counter": 6
+    "title": "ERKEK BİSİKLET YAKA BASKILI TİŞÖRT - VESTERBRO",
+    "img": [
+      "https://images.jackjones.com.tr/12265742/4610699/003/jackjones-jorvesterbronewtonboxfrontteessbf-grey.jpg?v=8f902191ae8eb94f704edb1fb69c2442&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12265742/4610699/003/jackjones-jorvesterbronewtonboxfrontteessbf-grey.jpg?v=8f902191ae8eb94f704edb1fb69c2442&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12265742/4610699/003/jackjones-jorvesterbronewtonboxfrontteessbf-grey.jpg?v=8f902191ae8eb94f704edb1fb69c2442&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+    "price": [
+      {
+        "value": "790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-01T11:11:14.001Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 4,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+    "duplicateCount": 16,
+    "duplicateGroup": [
+      {
+        "title": "ERKEK BİSİKLET YAKA BASKILI TİŞÖRT - VESTERBRO",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 4
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 64
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 144
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 224
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 304
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 384
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 516
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 540
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 624
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 704
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 784
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 864
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 944
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 1024
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 1104
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12265742_9484/geni%C5%9F-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 1163
+      }
+    ]
   }
 ]
