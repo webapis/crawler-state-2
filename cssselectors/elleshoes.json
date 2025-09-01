@@ -1,8 +1,8 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".productItem:not(:has(.pw-img-swiper))": {
-      "count": 315,
+    "#ProductPageProductList .ItemOrj .productItem": {
+      "count": 314,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -318,12 +318,11 @@
         310,
         311,
         312,
-        313,
-        314
+        313
       ]
     },
     ".productName a": {
-      "count": 315,
+      "count": 314,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -639,12 +638,11 @@
         310,
         311,
         312,
-        313,
-        314
+        313
       ]
     },
     "img.productSliderImage": {
-      "count": 315,
+      "count": 314,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -960,12 +958,11 @@
         310,
         311,
         312,
-        313,
-        314
+        313
       ]
     },
     ".discountPrice .discountPriceSpan": {
-      "count": 315,
+      "count": 314,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -1281,39 +1278,38 @@
         310,
         311,
         312,
-        313,
-        314
+        313
       ]
     }
   },
   "summary": {
-    "totalObjects": 315,
+    "totalObjects": 314,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".productItem:not(:has(.pw-img-swiper))",
-        "count": 315,
+        "selector": "#ProductPageProductList .ItemOrj .productItem",
+        "count": 314,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".productName a",
-        "count": 315,
+        "count": 314,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "img.productSliderImage",
-        "count": 315,
+        "count": 314,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".discountPrice .discountPriceSpan",
-        "count": 315,
+        "count": 314,
         "usedFor": [
           "price"
         ]
