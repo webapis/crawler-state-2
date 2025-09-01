@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".category__list__main div.grid a": {
-      "count": 26,
+      "count": 32,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -30,11 +30,17 @@
         22,
         23,
         24,
-        25
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
       ]
     },
     "h2.product-name": {
-      "count": 26,
+      "count": 32,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -62,11 +68,17 @@
         22,
         23,
         24,
-        25
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
       ]
     },
     "img.category-products-image": {
-      "count": 26,
+      "count": 32,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -94,11 +106,17 @@
         22,
         23,
         24,
-        25
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
       ]
     },
     ".sell-price": {
-      "count": 26,
+      "count": 32,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -126,38 +144,44 @@
         22,
         23,
         24,
-        25
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
       ]
     }
   },
   "summary": {
-    "totalObjects": 26,
+    "totalObjects": 32,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".category__list__main div.grid a",
-        "count": 26,
+        "count": 32,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "h2.product-name",
-        "count": 26,
+        "count": 32,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "img.category-products-image",
-        "count": 26,
+        "count": 32,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".sell-price",
-        "count": 26,
+        "count": 32,
         "usedFor": [
           "price"
         ]
