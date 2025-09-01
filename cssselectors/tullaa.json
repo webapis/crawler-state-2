@@ -1,0 +1,79 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "li.product": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    ".woocommerce-loop-product__title": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "img.attachment-woocommerce_thumbnail": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    ".woocommerce-Price-amount.amount bdi": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 4,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "li.product",
+        "count": 4,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".woocommerce-loop-product__title",
+        "count": 4,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.attachment-woocommerce_thumbnail",
+        "count": 4,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "count": 4,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
