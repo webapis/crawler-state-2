@@ -1,0 +1,95 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "[class^='ProductCard_productCard']": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "[class*=\"ProductTitle_\"]": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "[srcset]": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "[class*=\"SinglePrice_\"]": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 8,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "[class^='ProductCard_productCard']",
+        "count": 8,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "[class*=\"ProductTitle_\"]",
+        "count": 8,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 8,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "[class*=\"SinglePrice_\"]",
+        "count": 8,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
