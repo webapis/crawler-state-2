@@ -1,9 +1,47 @@
 [
   {
-    "title": "Fossil Fermuarlı Kadın Çanta 05FS22Y283 KN4F S Siyah",
+    "title": "Calvin Klein Kadın Çapraz Çanta LV04F3102GRM0 Bej",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-canta-05fs22y283-kn4f-s-p-13677096",
+    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-kadin-capraz-canta-lv04f3102grm0-p-14014989",
+    "price": [
+      {
+        "value": "5.399,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5399,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-09-01T11:25:50.963Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Çapraz Çanta 05FS22Y283 Koyu mavi",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-capraz-canta-05fs22y283-p-13983953",
     "price": [
       {
         "value": "959,20 TL",
@@ -27,8 +65,84 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=2",
+    "timestamp": "2025-09-01T11:26:00.167Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Calvin Klein Jeans Kadın Omuz Çantası LV04K3035GUB1 Siyah",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-omuz-cantasi-lv04k3035gub1-p-14015000",
+    "price": [
+      {
+        "value": "6.299,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6299,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=8",
+    "timestamp": "2025-09-01T11:26:16.381Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Fossil Kadın Omuz Çantası 05FO25Y5070 Siyah",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5070-p-13997668",
+    "price": [
+      {
+        "value": "799,20 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.2,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=13",
-    "timestamp": "2025-08-29T10:37:41.616Z",
+    "timestamp": "2025-09-01T11:26:33.621Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -38,18 +152,18 @@
     "mediaType": "image"
   },
   {
-    "title": "Fossil Kadın Clutch 05FO25Y5054 Haki",
+    "title": "Beverly Hills Polo Club Fermuarlı Kadın Kol Çantası 05BHPC111 Siyah",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-clutch-05fo25y5054-p-13983972",
+    "link": "https://www.ozdilekteyim.com/magaza/beverly-hills-polo-club-kadin-kol-cantasi-05bhpc111-p-13461563",
     "price": [
       {
-        "value": "479,20 TL",
+        "value": "1.519,20 TL",
         "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 479.2,
+        "numericValue": 1519.2,
         "unsetPrice": false
       }
     ],
@@ -65,122 +179,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=26",
-    "timestamp": "2025-08-29T10:38:23.208Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Fossil Kadın Clutch 05FO25Y5054 Siyah",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-clutch-05fo25y5054-p-13983969",
-    "price": [
-      {
-        "value": "479,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 479.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=26",
-    "timestamp": "2025-08-29T10:38:23.214Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Fossil Kadın Omuz Çantası 05FO25Y5053 Vizon",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/fossil-kadin-omuz-cantasi-05fo25y5053-p-13983968",
-    "price": [
-      {
-        "value": "559,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 559.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=26",
-    "timestamp": "2025-08-29T10:38:23.236Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Beverly Hills Polo Club Fermuarlı Kadın Çanta 05BHPC8012 Siyah/antrasit",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/beverly-hills-polo-club-kadin-canta-05bhpc8012-p-13539441",
-    "price": [
-      {
-        "value": "1.279,20 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1279.2,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=27",
-    "timestamp": "2025-08-29T10:38:28.547Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=19",
+    "timestamp": "2025-09-01T11:27:02.740Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
