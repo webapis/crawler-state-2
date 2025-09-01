@@ -1,0 +1,126 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-layout": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    ".name a": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    ".image img": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    ".price .price-normal": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    ".grid-item": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
+      "count": 1,
+      "usedFor": {},
+      "objectIndices": [
+        13
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 16,
+    "selectorsFound": 6,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-layout",
+        "count": 9,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".name a",
+        "count": 9,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".image img",
+        "count": 9,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".price .price-normal",
+        "count": 9,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
+        "selector": ".grid-item",
+        "count": 7,
+        "usedFor": [
+          "main element"
+        ]
+      }
+    ]
+  }
+}
