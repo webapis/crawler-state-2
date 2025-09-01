@@ -1,0 +1,127 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-item-box": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    ".product-item-info a": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    ".swiper-slide img": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    ".info .product-discounted-price": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 16,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-item-box",
+        "count": 16,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".product-item-info a",
+        "count": 16,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".swiper-slide img",
+        "count": 16,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".info .product-discounted-price",
+        "count": 16,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
