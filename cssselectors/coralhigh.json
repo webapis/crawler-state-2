@@ -1,9 +1,91 @@
 {
   "uniqueSelectors": {},
-  "selectorUsage": {},
+  "selectorUsage": {
+    ".category__list__main div.grid a": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "h2.product-name": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "img.category-products-image": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    ".sell-price": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
   "summary": {
-    "totalObjects": 0,
-    "selectorsFound": 0,
-    "mostCommonSelectors": []
+    "totalObjects": 7,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".category__list__main div.grid a",
+        "count": 7,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "h2.product-name",
+        "count": 7,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.category-products-image",
+        "count": 7,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".sell-price",
+        "count": 7,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
   }
 }
