@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-item-box": {
-      "count": 16,
+      "count": 15,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -19,12 +19,11 @@
         11,
         12,
         13,
-        14,
-        15
+        14
       ]
     },
     ".product-item-info a": {
-      "count": 16,
+      "count": 15,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -41,12 +40,11 @@
         11,
         12,
         13,
-        14,
-        15
+        14
       ]
     },
     ".swiper-slide img": {
-      "count": 16,
+      "count": 15,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -63,12 +61,11 @@
         11,
         12,
         13,
-        14,
-        15
+        14
       ]
     },
     ".info .product-discounted-price": {
-      "count": 16,
+      "count": 15,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -85,39 +82,38 @@
         11,
         12,
         13,
-        14,
-        15
+        14
       ]
     }
   },
   "summary": {
-    "totalObjects": 16,
+    "totalObjects": 15,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".product-item-box",
-        "count": 16,
+        "count": 15,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-item-info a",
-        "count": 16,
+        "count": 15,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".swiper-slide img",
-        "count": 16,
+        "count": 15,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".info .product-discounted-price",
-        "count": 16,
+        "count": 15,
         "usedFor": [
           "price"
         ]
