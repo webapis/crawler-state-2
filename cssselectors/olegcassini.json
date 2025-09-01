@@ -1,0 +1,115 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".category__list__main div.grid a": {
+      "count": 13,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "h2.product-name": {
+      "count": 13,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "img.category-products-image": {
+      "count": 13,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    ".discount-price span:nth-child(2)": {
+      "count": 13,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 13,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".category__list__main div.grid a",
+        "count": 13,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "h2.product-name",
+        "count": 13,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.category-products-image",
+        "count": 13,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".discount-price span:nth-child(2)",
+        "count": 13,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
