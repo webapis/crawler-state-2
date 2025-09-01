@@ -1,0 +1,212 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".js-product-wrapper.product-item": {
+      "count": 34,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "h2.product-item__name": {
+      "count": 34,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    "[data-src]": {
+      "count": 34,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    ".price.price--discounted .price__old": {
+      "count": 13,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        17,
+        21,
+        22,
+        23,
+        25,
+        26,
+        28,
+        29,
+        31
+      ]
+    },
+    ".price .price__new": {
+      "count": 21,
+      "usedFor": {},
+      "objectIndices": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        24,
+        27,
+        30,
+        32,
+        33
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 34,
+    "selectorsFound": 5,
+    "mostCommonSelectors": [
+      {
+        "selector": ".js-product-wrapper.product-item",
+        "count": 34,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "h2.product-item__name",
+        "count": 34,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-src]",
+        "count": 34,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".price .price__new",
+        "count": 21,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
+        "selector": ".price.price--discounted .price__old",
+        "count": 13,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
