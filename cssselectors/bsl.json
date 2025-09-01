@@ -1,0 +1,95 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".Prd": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "span.PName": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "img.img-responsive": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    ".PriceArea .PPrice": {
+      "count": 8,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 8,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".Prd",
+        "count": 8,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "span.PName",
+        "count": 8,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.img-responsive",
+        "count": 8,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".PriceArea .PPrice",
+        "count": 8,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
