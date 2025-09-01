@@ -1,0 +1,67 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".category__list__main div.grid a": {
+      "count": 1,
+      "usedFor": {},
+      "objectIndices": [
+        0
+      ]
+    },
+    "h2.product-name": {
+      "count": 1,
+      "usedFor": {},
+      "objectIndices": [
+        0
+      ]
+    },
+    "img.category-products-image": {
+      "count": 1,
+      "usedFor": {},
+      "objectIndices": [
+        0
+      ]
+    },
+    ".sell-price": {
+      "count": 1,
+      "usedFor": {},
+      "objectIndices": [
+        0
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 1,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".category__list__main div.grid a",
+        "count": 1,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "h2.product-name",
+        "count": 1,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.category-products-image",
+        "count": 1,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".sell-price",
+        "count": 1,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
