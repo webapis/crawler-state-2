@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-item": {
-      "count": 146,
+      "count": 148,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -150,11 +150,13 @@
         142,
         143,
         144,
-        145
+        145,
+        146,
+        147
       ]
     },
     ".product-item-info  p.product-name a": {
-      "count": 146,
+      "count": 148,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -302,11 +304,13 @@
         142,
         143,
         144,
-        145
+        145,
+        146,
+        147
       ]
     },
     ".swiper-slide img": {
-      "count": 146,
+      "count": 148,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -454,11 +458,13 @@
         142,
         143,
         144,
-        145
+        145,
+        146,
+        147
       ]
     },
     ".product-item-info-prices .product-sale-price": {
-      "count": 133,
+      "count": 132,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -517,23 +523,22 @@
         58,
         59,
         60,
-        61,
         62,
         63,
         64,
         65,
+        66,
         67,
         68,
-        69,
+        70,
         71,
         72,
-        73,
+        74,
         75,
         76,
+        78,
         79,
-        80,
         82,
-        83,
         84,
         85,
         86,
@@ -544,8 +549,8 @@
         91,
         92,
         93,
+        94,
         95,
-        96,
         97,
         98,
         99,
@@ -579,9 +584,6 @@
         127,
         128,
         129,
-        130,
-        131,
-        132,
         133,
         134,
         135,
@@ -593,11 +595,14 @@
         141,
         142,
         143,
-        145
+        144,
+        145,
+        146,
+        147
       ]
     },
     "span.product-price": {
-      "count": 13,
+      "count": 16,
       "usedFor": {},
       "objectIndices": [
         5,
@@ -605,52 +610,55 @@
         52,
         56,
         57,
-        66,
-        70,
-        74,
+        61,
+        69,
+        73,
         77,
-        78,
+        80,
         81,
-        94,
-        144
+        83,
+        96,
+        130,
+        131,
+        132
       ]
     }
   },
   "summary": {
-    "totalObjects": 146,
+    "totalObjects": 148,
     "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": ".product-item",
-        "count": 146,
+        "count": 148,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-item-info  p.product-name a",
-        "count": 146,
+        "count": 148,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".swiper-slide img",
-        "count": 146,
+        "count": 148,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".product-item-info-prices .product-sale-price",
-        "count": 133,
+        "count": 132,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": "span.product-price",
-        "count": 13,
+        "count": 16,
         "usedFor": [
           "price"
         ]
