@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "article.product-card": {
-      "count": 409,
+      "count": 410,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -413,11 +413,12 @@
         405,
         406,
         407,
-        408
+        408,
+        409
       ]
     },
     ".product-card__link": {
-      "count": 409,
+      "count": 410,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -828,11 +829,12 @@
         405,
         406,
         407,
-        408
+        408,
+        409
       ]
     },
     "[data-srcset]": {
-      "count": 409,
+      "count": 410,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -1243,11 +1245,12 @@
         405,
         406,
         407,
-        408
+        408,
+        409
       ]
     },
     ".product-card__price--new": {
-      "count": 409,
+      "count": 410,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -1658,38 +1661,39 @@
         405,
         406,
         407,
-        408
+        408,
+        409
       ]
     }
   },
   "summary": {
-    "totalObjects": 409,
+    "totalObjects": 410,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": "article.product-card",
-        "count": 409,
+        "count": 410,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-card__link",
-        "count": 409,
+        "count": 410,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[data-srcset]",
-        "count": 409,
+        "count": 410,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".product-card__price--new",
-        "count": 409,
+        "count": 410,
         "usedFor": [
           "price"
         ]
