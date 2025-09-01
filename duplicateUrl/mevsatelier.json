@@ -1,22 +1,287 @@
 [
   {
-    "dublicateUrl": "https://en.mevsatelier.com/greta-croc-embossed-calf-leather-crossbody-bag-grey",
-    "counter": 2
+    "title": "Greta Croc Embossed Calf Leather Crossbody Bag Grey",
+    "img": [
+      "https://cdn3.kobisi.com/image/1371/5249636/1/750/750/greta-croc-embossed-calf-leather-crossbody-bag-grey.jpg?v=1728812984",
+      "https://www.mevsatelier.com/alisveris/images/product-image-prepare.svg",
+      "https://cdn3.kobisi.com/image/1371/5249636/2/750/750/greta-croc-embossed-calf-leather-crossbody-bag-grey.jpg?v=1728812984"
+    ],
+    "primaryImg": "//cdn3.kobisi.com/image/1371/5249636/1/750/750/greta-croc-embossed-calf-leather-crossbody-bag-grey.jpg?v=1728812984",
+    "link": "https://en.mevsatelier.com/greta-croc-embossed-calf-leather-crossbody-bag-grey",
+    "price": [
+      {
+        "value": "300.00",
+        "selector": ".product-current-price .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 300,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-current-price .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "MEV'S Atelier - Shop the official site - Free Worldwide Shipping",
+    "pageURL": "https://en.mevsatelier.com/",
+    "timestamp": "2025-09-01T11:34:10.146Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 0,
+    "duplicateUrl": "https://en.mevsatelier.com/greta-croc-embossed-calf-leather-crossbody-bag-grey",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Greta Croc Embossed Calf Leather Crossbody Bag Grey",
+        "link": "https://en.mevsatelier.com/greta-croc-embossed-calf-leather-crossbody-bag-grey",
+        "originalIndex": 0
+      },
+      {
+        "title": "Greta Croc Embossed Calf Leather Crossbody Bag Grey",
+        "link": "https://en.mevsatelier.com/greta-croc-embossed-calf-leather-crossbody-bag-grey",
+        "originalIndex": 10
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://en.mevsatelier.com/nancy-leather-bag-blue-croc-embossed",
-    "counter": 2
+    "title": "NANCY LEATHER BAG BLUE CROC EMBOSSED",
+    "img": [
+      "https://cdn3.kobisi.com/image/1371/4926306/1/750/750/nancy-leather-bag-blue-croc-embossed.jpg?v=1675108204",
+      "https://www.mevsatelier.com/alisveris/images/product-image-prepare.svg",
+      "https://cdn3.kobisi.com/image/1371/4926306/2/750/750/nancy-leather-bag-blue-croc-embossed.jpg?v=1675108204"
+    ],
+    "primaryImg": "//cdn3.kobisi.com/image/1371/4926306/1/750/750/nancy-leather-bag-blue-croc-embossed.jpg?v=1675108204",
+    "link": "https://en.mevsatelier.com/nancy-leather-bag-blue-croc-embossed",
+    "price": [
+      {
+        "value": "304.00",
+        "selector": ".product-current-price .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 304,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-current-price .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "MEV'S Atelier - Shop the official site - Free Worldwide Shipping",
+    "pageURL": "https://en.mevsatelier.com/",
+    "timestamp": "2025-09-01T11:34:10.150Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1,
+    "duplicateUrl": "https://en.mevsatelier.com/nancy-leather-bag-blue-croc-embossed",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "NANCY LEATHER BAG BLUE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/nancy-leather-bag-blue-croc-embossed",
+        "originalIndex": 1
+      },
+      {
+        "title": "NANCY LEATHER BAG BLUE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/nancy-leather-bag-blue-croc-embossed",
+        "originalIndex": 11
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://en.mevsatelier.com/ephron-leather-baguette-bag-blue-croc-embossed",
-    "counter": 2
+    "title": "EPHRON LEATHER BAGUETTE BAG BLUE CROC EMBOSSED",
+    "img": [
+      "https://cdn3.kobisi.com/image/1371/4639990/1/750/750/ephron-leather-baguette-bag-blue-croc-embossed.jpg?v=1705088224",
+      "https://www.mevsatelier.com/alisveris/images/product-image-prepare.svg",
+      "https://cdn3.kobisi.com/image/1371/4639990/2/750/750/ephron-leather-baguette-bag-blue-croc-embossed.jpg?v=1705088224"
+    ],
+    "primaryImg": "//cdn3.kobisi.com/image/1371/4639990/1/750/750/ephron-leather-baguette-bag-blue-croc-embossed.jpg?v=1705088224",
+    "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-blue-croc-embossed",
+    "price": [
+      {
+        "value": "280.00",
+        "selector": ".product-current-price .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 280,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-current-price .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "MEV'S Atelier - Shop the official site - Free Worldwide Shipping",
+    "pageURL": "https://en.mevsatelier.com/",
+    "timestamp": "2025-09-01T11:34:10.152Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 2,
+    "duplicateUrl": "https://en.mevsatelier.com/ephron-leather-baguette-bag-blue-croc-embossed",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "EPHRON LEATHER BAGUETTE BAG BLUE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-blue-croc-embossed",
+        "originalIndex": 2
+      },
+      {
+        "title": "EPHRON LEATHER BAGUETTE BAG BLUE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-blue-croc-embossed",
+        "originalIndex": 12
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://en.mevsatelier.com/bella-calf-leather-bag-red",
-    "counter": 2
+    "title": "BELLA CALF HOBO LEATHER BAG RED",
+    "img": [
+      "https://cdn3.kobisi.com/image/1371/4577408/1/750/750/bella-calf-leather-bag-red.jpg?v=1645450837",
+      "https://www.mevsatelier.com/alisveris/images/product-image-prepare.svg",
+      "https://cdn3.kobisi.com/image/1371/4577408/2/750/750/bella-calf-leather-bag-red.jpg?v=1645450837"
+    ],
+    "primaryImg": "//cdn3.kobisi.com/image/1371/4577408/1/750/750/bella-calf-leather-bag-red.jpg?v=1645450837",
+    "link": "https://en.mevsatelier.com/bella-calf-leather-bag-red",
+    "price": [
+      {
+        "value": "250.00",
+        "selector": ".product-current-price .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-current-price .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "MEV'S Atelier - Shop the official site - Free Worldwide Shipping",
+    "pageURL": "https://en.mevsatelier.com/",
+    "timestamp": "2025-09-01T11:34:10.155Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 3,
+    "duplicateUrl": "https://en.mevsatelier.com/bella-calf-leather-bag-red",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "BELLA CALF HOBO LEATHER BAG RED",
+        "link": "https://en.mevsatelier.com/bella-calf-leather-bag-red",
+        "originalIndex": 3
+      },
+      {
+        "title": "BELLA CALF HOBO LEATHER BAG RED",
+        "link": "https://en.mevsatelier.com/bella-calf-leather-bag-red",
+        "originalIndex": 13
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://en.mevsatelier.com/ephron-leather-baguette-bag-orange-croc-embossed",
-    "counter": 2
+    "title": "EPHRON LEATHER BAGUETTE BAG ORANGE CROC EMBOSSED",
+    "img": [
+      "https://cdn3.kobisi.com/image/1371/4750149/1/750/750/ephron-leather-baguette-bag-orange-croc-embossed.jpg?v=1675108230",
+      "https://www.mevsatelier.com/alisveris/images/product-image-prepare.svg",
+      "https://cdn3.kobisi.com/image/1371/4750149/2/750/750/ephron-leather-baguette-bag-orange-croc-embossed.jpg?v=1675108230"
+    ],
+    "primaryImg": "//cdn3.kobisi.com/image/1371/4750149/1/750/750/ephron-leather-baguette-bag-orange-croc-embossed.jpg?v=1675108230",
+    "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-orange-croc-embossed",
+    "price": [
+      {
+        "value": "280.00",
+        "selector": ".product-current-price .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 280,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": "div.product-name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-current-price .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "MEV'S Atelier - Shop the official site - Free Worldwide Shipping",
+    "pageURL": "https://en.mevsatelier.com/",
+    "timestamp": "2025-09-01T11:34:10.158Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 4,
+    "duplicateUrl": "https://en.mevsatelier.com/ephron-leather-baguette-bag-orange-croc-embossed",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "EPHRON LEATHER BAGUETTE BAG ORANGE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-orange-croc-embossed",
+        "originalIndex": 4
+      },
+      {
+        "title": "EPHRON LEATHER BAGUETTE BAG ORANGE CROC EMBOSSED",
+        "link": "https://en.mevsatelier.com/ephron-leather-baguette-bag-orange-croc-embossed",
+        "originalIndex": 14
+      }
+    ]
   }
 ]
