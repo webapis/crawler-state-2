@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".js-product-wrapper.product-item": {
-      "count": 60,
+      "count": 67,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -64,11 +64,18 @@
         56,
         57,
         58,
-        59
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
       ]
     },
     "h2 .js-product-link.product-link": {
-      "count": 60,
+      "count": 67,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -130,11 +137,18 @@
         56,
         57,
         58,
-        59
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
       ]
     },
     ".pz-image-placeholder source[data-srcset]": {
-      "count": 60,
+      "count": 67,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -196,11 +210,18 @@
         56,
         57,
         58,
-        59
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
       ]
     },
     "pz-price": {
-      "count": 60,
+      "count": 67,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -262,38 +283,45 @@
         56,
         57,
         58,
-        59
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
       ]
     }
   },
   "summary": {
-    "totalObjects": 60,
+    "totalObjects": 67,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".js-product-wrapper.product-item",
-        "count": 60,
+        "count": 67,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "h2 .js-product-link.product-link",
-        "count": 60,
+        "count": 67,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".pz-image-placeholder source[data-srcset]",
-        "count": 60,
+        "count": 67,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": "pz-price",
-        "count": 60,
+        "count": 67,
         "usedFor": [
           "price"
         ]
