@@ -1,22 +1,280 @@
 [
   {
-    "dublicateUrl": "https://www.mavi.com/beyaz-bucket-canta/p/1913093-620",
-    "counter": 2
+    "title": "Siyah Sırt Çantası",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1911686-900_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911686-900_image_1.jpg",
+    "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+    "price": [
+      {
+        "value": "999,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=4",
+    "timestamp": "2025-09-01T11:19:06.772Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 24,
+    "duplicateUrl": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Siyah Sırt Çantası",
+        "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+        "originalIndex": 24
+      },
+      {
+        "title": "Siyah Sırt Çantası",
+        "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+        "originalIndex": 117
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.mavi.com/renkli-hasir-omuz-cantasi/p/1911324-70202",
-    "counter": 2
+    "title": "Siyah Omuz Çantası",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1912125-900_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912125-900_image_1.jpg",
+    "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+    "price": [
+      {
+        "value": "899,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 899.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=4",
+    "timestamp": "2025-09-01T11:19:06.776Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 25,
+    "duplicateUrl": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Siyah Omuz Çantası",
+        "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+        "originalIndex": 25
+      },
+      {
+        "title": "Siyah Omuz Çantası",
+        "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+        "originalIndex": 118
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.mavi.com/haki-tote-canta/p/1912081-71819",
-    "counter": 2
+    "title": "Denim Detaylı Hasır Çapraz Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1912157-70869_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912157-70869_image_1.jpg",
+    "link": "https://www.mavi.com/denim-detayli-hasir-capraz-canta/p/1912157-70869",
+    "price": [
+      {
+        "value": "1.499,99 TL",
+        "selector": ".product-pricing .nodiscount-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .nodiscount-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=4",
+    "timestamp": "2025-09-01T11:19:06.779Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 26,
+    "duplicateUrl": "https://www.mavi.com/denim-detayli-hasir-capraz-canta/p/1912157-70869",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Denim Detaylı Hasır Çapraz Çanta",
+        "link": "https://www.mavi.com/denim-detayli-hasir-capraz-canta/p/1912157-70869",
+        "originalIndex": 26
+      },
+      {
+        "title": "Denim Detaylı Hasır Çapraz Çanta",
+        "link": "https://www.mavi.com/denim-detayli-hasir-capraz-canta/p/1912157-70869",
+        "originalIndex": 119
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.mavi.com/indigo-turtles-denim-omuz-cantasi/p/1913561-82050",
-    "counter": 2
+    "title": "Siyah Sırt Çantası",
+    "img": [
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "/_ui/responsive/theme-mavi/images/placeholder.jpg",
+    "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+    "price": [
+      {
+        "value": "999,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=3",
+    "timestamp": "2025-09-01T11:19:13.336Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 117,
+    "duplicateUrl": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Siyah Sırt Çantası",
+        "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+        "originalIndex": 24
+      },
+      {
+        "title": "Siyah Sırt Çantası",
+        "link": "https://www.mavi.com/siyah-sirt-cantasi/p/1911686-900",
+        "originalIndex": 117
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.mavi.com/lacivert-sirt-cantasi/p/1913496-30717",
-    "counter": 2
+    "title": "Siyah Omuz Çantası",
+    "img": [
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "/_ui/responsive/theme-mavi/images/placeholder.jpg",
+    "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+    "price": [
+      {
+        "value": "899,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 899.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=3",
+    "timestamp": "2025-09-01T11:19:13.339Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 118,
+    "duplicateUrl": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "Siyah Omuz Çantası",
+        "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+        "originalIndex": 25
+      },
+      {
+        "title": "Siyah Omuz Çantası",
+        "link": "https://www.mavi.com/siyah-omuz-cantasi/p/1912125-900",
+        "originalIndex": 118
+      }
+    ]
   }
 ]
