@@ -1,0 +1,75 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".infinite-scroll-component  .max-w-xl": {
+      "count": 3,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    "h3.text-primary a.inline-block.line-clamp-2": {
+      "count": 3,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    ".lazy-load-image-background img.w-full": {
+      "count": 3,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    "div.flex.flex-wrap.items-center.gap-2 span.text-primary": {
+      "count": 3,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 3,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".infinite-scroll-component  .max-w-xl",
+        "count": 3,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "h3.text-primary a.inline-block.line-clamp-2",
+        "count": 3,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".lazy-load-image-background img.w-full",
+        "count": 3,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "div.flex.flex-wrap.items-center.gap-2 span.text-primary",
+        "count": 3,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
