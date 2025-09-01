@@ -1,0 +1,175 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "li.product": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    ".woocommerce-loop-product__title": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "img.attachment-woocommerce_thumbnail": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    ".woocommerce-Price-amount.amount bdi": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 28,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "li.product",
+        "count": 28,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".woocommerce-loop-product__title",
+        "count": 28,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.attachment-woocommerce_thumbnail",
+        "count": 28,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "count": 28,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
