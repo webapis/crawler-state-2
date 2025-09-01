@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-item": {
-      "count": 27,
+      "count": 28,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -31,11 +31,12 @@
         23,
         24,
         25,
-        26
+        26,
+        27
       ]
     },
     "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 27,
+      "count": 28,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -64,11 +65,12 @@
         23,
         24,
         25,
-        26
+        26,
+        27
       ]
     },
     ".swiper-slide img": {
-      "count": 27,
+      "count": 28,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -97,11 +99,12 @@
         23,
         24,
         25,
-        26
+        26,
+        27
       ]
     },
     ".urunListe_satisFiyat": {
-      "count": 27,
+      "count": 28,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -130,38 +133,39 @@
         23,
         24,
         25,
-        26
+        26,
+        27
       ]
     }
   },
   "summary": {
-    "totalObjects": 27,
+    "totalObjects": 28,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".product-item",
-        "count": 27,
+        "count": 28,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-        "count": 27,
+        "count": 28,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".swiper-slide img",
-        "count": 27,
+        "count": 28,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".urunListe_satisFiyat",
-        "count": 27,
+        "count": 28,
         "usedFor": [
           "price"
         ]
