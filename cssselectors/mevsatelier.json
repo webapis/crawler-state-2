@@ -1,0 +1,151 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-list-item": {
+      "count": 22,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    "div.product-name": {
+      "count": 22,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    ".swiper-slide img": {
+      "count": 22,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    ".product-current-price .price": {
+      "count": 22,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 22,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-list-item",
+        "count": 22,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "div.product-name",
+        "count": 22,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".swiper-slide img",
+        "count": 22,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".product-current-price .price",
+        "count": 22,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
