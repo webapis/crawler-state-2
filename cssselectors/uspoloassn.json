@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".js-product-list-item": {
-      "count": 698,
+      "count": 701,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -702,11 +702,14 @@
         694,
         695,
         696,
-        697
+        697,
+        698,
+        699,
+        700
       ]
     },
     ".product__listing--content h3 a": {
-      "count": 698,
+      "count": 701,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -1406,11 +1409,14 @@
         694,
         695,
         696,
-        697
+        697,
+        698,
+        699,
+        700
       ]
     },
     "img.swiper-slide": {
-      "count": 697,
+      "count": 700,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -2109,11 +2115,14 @@
         694,
         695,
         696,
-        697
+        697,
+        698,
+        699,
+        700
       ]
     },
     ".product__listing--basket-price span": {
-      "count": 698,
+      "count": 701,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -2813,7 +2822,10 @@
         694,
         695,
         696,
-        697
+        697,
+        698,
+        699,
+        700
       ]
     },
     "[poster]": {
@@ -2832,33 +2844,33 @@
     }
   },
   "summary": {
-    "totalObjects": 698,
+    "totalObjects": 701,
     "selectorsFound": 6,
     "mostCommonSelectors": [
       {
         "selector": ".js-product-list-item",
-        "count": 698,
+        "count": 701,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product__listing--content h3 a",
-        "count": 698,
+        "count": 701,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".product__listing--basket-price span",
-        "count": 698,
+        "count": 701,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": "img.swiper-slide",
-        "count": 697,
+        "count": 700,
         "usedFor": [
           "image"
         ]
