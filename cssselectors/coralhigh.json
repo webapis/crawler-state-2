@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".category__list__main div.grid a": {
-      "count": 27,
+      "count": 60,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -31,11 +31,44 @@
         23,
         24,
         25,
-        26
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
       ]
     },
     "h2.product-name": {
-      "count": 27,
+      "count": 60,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -64,11 +97,44 @@
         23,
         24,
         25,
-        26
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
       ]
     },
     "img.category-products-image": {
-      "count": 27,
+      "count": 60,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -97,11 +163,44 @@
         23,
         24,
         25,
-        26
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
       ]
     },
     ".sell-price": {
-      "count": 27,
+      "count": 60,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -130,38 +229,71 @@
         23,
         24,
         25,
-        26
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
       ]
     }
   },
   "summary": {
-    "totalObjects": 27,
+    "totalObjects": 60,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".category__list__main div.grid a",
-        "count": 27,
+        "count": 60,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "h2.product-name",
-        "count": 27,
+        "count": 60,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "img.category-products-image",
-        "count": 27,
+        "count": 60,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".sell-price",
-        "count": 27,
+        "count": 60,
         "usedFor": [
           "price"
         ]
