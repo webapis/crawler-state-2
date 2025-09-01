@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-card": {
-      "count": 3565,
+      "count": 3561,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -3565,15 +3565,11 @@
         3557,
         3558,
         3559,
-        3560,
-        3561,
-        3562,
-        3563,
-        3564
+        3560
       ]
     },
     ".product-description.product-card-info__description": {
-      "count": 3565,
+      "count": 3561,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -7136,15 +7132,11 @@
         3557,
         3558,
         3559,
-        3560,
-        3561,
-        3562,
-        3563,
-        3564
+        3560
       ]
     },
     "[srcset]": {
-      "count": 3565,
+      "count": 3561,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -10707,15 +10699,11 @@
         3557,
         3558,
         3559,
-        3560,
-        3561,
-        3562,
-        3563,
-        3564
+        3560
       ]
     },
     ".current-price": {
-      "count": 3565,
+      "count": 3561,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -14278,42 +14266,38 @@
         3557,
         3558,
         3559,
-        3560,
-        3561,
-        3562,
-        3563,
-        3564
+        3560
       ]
     }
   },
   "summary": {
-    "totalObjects": 3565,
+    "totalObjects": 3561,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".product-card",
-        "count": 3565,
+        "count": 3561,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-description.product-card-info__description",
-        "count": 3565,
+        "count": 3561,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[srcset]",
-        "count": 3565,
+        "count": 3561,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".current-price",
-        "count": 3565,
+        "count": 3561,
         "usedFor": [
           "price"
         ]
