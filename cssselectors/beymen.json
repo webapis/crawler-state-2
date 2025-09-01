@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".o-productList__itemWrapper": {
-      "count": 5724,
+      "count": 5706,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -5710,29 +5710,11 @@
         5702,
         5703,
         5704,
-        5705,
-        5706,
-        5707,
-        5708,
-        5709,
-        5710,
-        5711,
-        5712,
-        5713,
-        5714,
-        5715,
-        5716,
-        5717,
-        5718,
-        5719,
-        5720,
-        5721,
-        5722,
-        5723
+        5705
       ]
     },
     ".m-productCard__desc": {
-      "count": 5724,
+      "count": 5706,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -11440,29 +11422,11 @@
         5702,
         5703,
         5704,
-        5705,
-        5706,
-        5707,
-        5708,
-        5709,
-        5710,
-        5711,
-        5712,
-        5713,
-        5714,
-        5715,
-        5716,
-        5717,
-        5718,
-        5719,
-        5720,
-        5721,
-        5722,
-        5723
+        5705
       ]
     },
     "[data-srcset]": {
-      "count": 5724,
+      "count": 5706,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -17170,29 +17134,11 @@
         5702,
         5703,
         5704,
-        5705,
-        5706,
-        5707,
-        5708,
-        5709,
-        5710,
-        5711,
-        5712,
-        5713,
-        5714,
-        5715,
-        5716,
-        5717,
-        5718,
-        5719,
-        5720,
-        5721,
-        5722,
-        5723
+        5705
       ]
     },
     ".m-productCard__newPrice": {
-      "count": 5724,
+      "count": 5706,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -22900,56 +22846,38 @@
         5702,
         5703,
         5704,
-        5705,
-        5706,
-        5707,
-        5708,
-        5709,
-        5710,
-        5711,
-        5712,
-        5713,
-        5714,
-        5715,
-        5716,
-        5717,
-        5718,
-        5719,
-        5720,
-        5721,
-        5722,
-        5723
+        5705
       ]
     }
   },
   "summary": {
-    "totalObjects": 5724,
+    "totalObjects": 5706,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".o-productList__itemWrapper",
-        "count": 5724,
+        "count": 5706,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".m-productCard__desc",
-        "count": 5724,
+        "count": 5706,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[data-srcset]",
-        "count": 5724,
+        "count": 5706,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".m-productCard__newPrice",
-        "count": 5724,
+        "count": 5706,
         "usedFor": [
           "price"
         ]
