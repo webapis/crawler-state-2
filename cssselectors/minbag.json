@@ -1,0 +1,143 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "[data-hook=\"product-list-grid-item\"]": {
+      "count": 20,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    "[data-hook=\"product-item-name\"]": {
+      "count": 20,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    "wow-image img": {
+      "count": 20,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    "[data-hook=\"product-item-price-to-pay\"]": {
+      "count": 20,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 20,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "[data-hook=\"product-list-grid-item\"]",
+        "count": 20,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "[data-hook=\"product-item-name\"]",
+        "count": 20,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "wow-image img",
+        "count": 20,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "[data-hook=\"product-item-price-to-pay\"]",
+        "count": 20,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
