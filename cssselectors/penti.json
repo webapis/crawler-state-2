@@ -1,0 +1,203 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".prd": {
+      "count": 35,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    ".prd-title h2": {
+      "count": 35,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    ".swiper-slide img": {
+      "count": 35,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    ".prc.prc-last": {
+      "count": 35,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 35,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".prd",
+        "count": 35,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".prd-title h2",
+        "count": 35,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".swiper-slide img",
+        "count": 35,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".prc.prc-last",
+        "count": 35,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
