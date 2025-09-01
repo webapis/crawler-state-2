@@ -1,0 +1,127 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".p-item.col": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    ".p-name a": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    "[data-srcset]": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    ".p-price .one-price": {
+      "count": 16,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 16,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".p-item.col",
+        "count": 16,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".p-name a",
+        "count": 16,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-srcset]",
+        "count": 16,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".p-price .one-price",
+        "count": 16,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
