@@ -1,8 +1,8 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".productItem:not(:has(.pw-img-swiper))": {
-      "count": 144,
+    "#ProductPageProductList .ItemOrj .productItem": {
+      "count": 132,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -136,23 +136,11 @@
         128,
         129,
         130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143
+        131
       ]
     },
     ".productName a": {
-      "count": 144,
+      "count": 132,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -286,61 +274,25 @@
         128,
         129,
         130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143
-      ]
-    },
-    "img.swiper-slide": {
-      "count": 12,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ]
-    },
-    ".productPrice .discountPrice": {
-      "count": 12,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
+        131
       ]
     },
     "img.productSliderImage": {
       "count": 129,
       "usedFor": {},
       "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
         12,
         13,
         14,
@@ -381,10 +333,7 @@
         49,
         50,
         51,
-        52,
         53,
-        54,
-        55,
         56,
         57,
         58,
@@ -393,7 +342,10 @@
         61,
         62,
         63,
+        64,
         65,
+        66,
+        67,
         68,
         69,
         70,
@@ -457,25 +409,25 @@
         128,
         129,
         130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143
+        131
       ]
     },
     ".discountPrice .discountPriceSpan": {
       "count": 132,
       "usedFor": {},
       "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
         12,
         13,
         14,
@@ -595,45 +547,33 @@
         128,
         129,
         130,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143
+        131
       ]
     },
     "[srcset]": {
       "count": 3,
       "usedFor": {},
       "objectIndices": [
-        64,
-        66,
-        67
+        52,
+        54,
+        55
       ]
     }
   },
   "summary": {
-    "totalObjects": 144,
-    "selectorsFound": 7,
+    "totalObjects": 132,
+    "selectorsFound": 5,
     "mostCommonSelectors": [
       {
-        "selector": ".productItem:not(:has(.pw-img-swiper))",
-        "count": 144,
+        "selector": "#ProductPageProductList .ItemOrj .productItem",
+        "count": 132,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".productName a",
-        "count": 144,
+        "count": 132,
         "usedFor": [
           "title"
         ]
@@ -653,8 +593,8 @@
         ]
       },
       {
-        "selector": "img.swiper-slide",
-        "count": 12,
+        "selector": "[srcset]",
+        "count": 3,
         "usedFor": [
           "image"
         ]
