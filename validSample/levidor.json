@@ -1,5 +1,181 @@
 [
   {
+    "title": "Vizon Kumaş Görünümlü El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorvizon-kumas-gorunumlu-el-cantas-2b1-89.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorvizon-kumas-gorunumlu-el-cantas--f3654.jpg",
+      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorvizon-kumas-gorunumlu-el-cantas-580b75.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorvizon-kumas-gorunumlu-el-cantas-3-ec46.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorvizon-kumas-gorunumlu-el-cantas-2b1-89.jpg",
+    "link": "https://www.levidor.com.tr/vizon-kumas-gorunumlu-el-cantasi-46277",
+    "price": [
+      {
+        "value": "1.918,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1918,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-09-01T11:26:54.134Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Yeşil Zincir Aksesuarlı Kapitone El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-aksesuar-detay-kapitone-e--7bcd-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-aksesuar-detay-kapitone-e-df50-4.jpg",
+      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-aksesuar-detay-kapitone-e-bcb39f.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-aksesuar-detay-kapitone-e-78e-30.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-aksesuar-detay-kapitone-e--7bcd-.jpg",
+    "link": "https://www.levidor.com.tr/yesil-aksesuar-detay-kapitone-el-cantasi-46284",
+    "price": [
+      {
+        "value": "2.980,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2980,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-09-01T11:26:54.138Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "A.Gri Metal Aksesuarlı El Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidora--912e-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidora-45a-ef.jpg",
+      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidora-db1a9a.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidora-ef-493.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidora--912e-.jpg",
+    "link": "https://www.levidor.com.tr/a.gri-metal-aksesuarli-el-canta-46300",
+    "price": [
+      {
+        "value": "1.898,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1898,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-09-01T11:26:54.142Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Pembe Aksesuarlı Kapitone El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorpembe-aksesuarli-kapitone-el-ca-244fc6.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorpembe-aksesuarli-kapitone-el-ca-9-b580.jpg",
+      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorpembe-aksesuarli-kapitone-el-ca-c264-3.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorpembe-aksesuarli-kapitone-el-ca-54bca9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorpembe-aksesuarli-kapitone-el-ca-244fc6.jpg",
+    "link": "https://www.levidor.com.tr/pembe-aksesuarli-kapitone-el-cantasi-46289",
+    "price": [
+      {
+        "value": "2.780,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2780,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
+    "pageURL": "https://www.levidor.com.tr/kadin-canta",
+    "timestamp": "2025-09-01T11:26:54.145Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
     "title": "Yeşil Mini Cüzdan Detaylı Omuz Çantası",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidoryesil-mini-cuzdan-detayli-omuz--6-4cb6.jpg",
@@ -25,7 +201,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
       "titleSelectorMatched": ".productName a",
       "imgSelectorMatched": "img.productSliderImage",
       "videoSelectorMatched": null,
@@ -34,184 +210,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
     "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-29T10:38:53.117Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Siyah Mini Kilit Detaylı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-kilit-detayli-el-can-f-45c4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-kilit-detayli-el-can-7175a5.jpg",
-      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-kilit-detayli-el-can--8c4d2.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-kilit-detayli-el-can-cd9c82.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-mini-kilit-detayli-el-can-f-45c4.jpg",
-    "link": "https://www.levidor.com.tr/siyah-mini-kilit-detayli-el-cantasi-46157",
-    "price": [
-      {
-        "value": "2.980,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2980,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-29T10:38:53.121Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Siyah Gold Zincir Aksesuarlı El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-zincir-aksesuarli-el-16-b4c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-zincir-aksesuarli-el-0-fbb3.jpg",
-      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-zincir-aksesuarli-el-ef388e.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-zincir-aksesuarli-el-6cf4f7.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorsiyah-gold-zincir-aksesuarli-el-16-b4c.jpg",
-    "link": "https://www.levidor.com.tr/siyah-gold-zincir-aksesuarli-el-cantasi-45686",
-    "price": [
-      {
-        "value": "2.700,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2700,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-29T10:38:53.125Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Gri Deri Askılı Tote Omuz Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorgri-deri-askili-tote-omuz-canta-3d90-4.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorgri-deri-askili-tote-omuz-canta-e317-4.jpg",
-      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorgri-deri-askili-tote-omuz-canta-a33739.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorgri-deri-askili-tote-omuz-canta-3e7-8d.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorgri-deri-askili-tote-omuz-canta-3d90-4.jpg",
-    "link": "https://www.levidor.com.tr/gri-deri-askili-tote-omuz-cantasi-45367",
-    "price": [
-      {
-        "value": "1.780,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1780,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-29T10:38:53.129Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Camel Silindir Model El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-4a70a1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-76-b7f.jpg",
-      "https://www.levidor.com.tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-6be5aa.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-8a1201.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-390715.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=335,quality=90,format=webp/59645/uploads/urunresimleri/buyuk/levidorcamel-silindir-model-el-cantasi-4a70a1.jpg",
-    "link": "https://www.levidor.com.tr/camel-silindir-model-el-cantasi-45664",
-    "price": [
-      {
-        "value": "2.980,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2980,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları",
-    "pageURL": "https://www.levidor.com.tr/kadin-canta",
-    "timestamp": "2025-08-29T10:38:53.133Z",
+    "timestamp": "2025-09-01T11:26:54.149Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
