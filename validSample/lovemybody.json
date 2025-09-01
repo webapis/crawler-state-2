@@ -1,48 +1,5 @@
 [
   {
-    "title": "Sarı Kapaklı Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500057/8c2684f1-a16f-49f7-9c91-ff57f783c0f1_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500057/3f2d9d59-96e8-49f6-95b1-75ec43fb2a7c_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500057/9cd5b4f1-3d15-44b6-9fd0-12b649868702_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500057/1aa02ecb-c1dd-4251-bbfa-b0b1fb1d4a48_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500057/8c2684f1-a16f-49f7-9c91-ff57f783c0f1_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/sari-kapakli-canta-121l9351000/",
-    "price": [
-      {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-01T05:12:23.791Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
     "title": "Bej Toka Detaylı Çanta",
     "img": [
       "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/27/499673/512ffbba-6d37-404c-8b7c-01f2a96cfb9e_size900x1350_quality100_cropCenter.jpg",
@@ -78,7 +35,7 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-01T05:12:23.794Z",
+    "timestamp": "2025-09-01T11:05:24.838Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -121,50 +78,7 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-01T05:12:23.797Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Pembe Kapaklı Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/5808189b-9c93-4b50-9b09-b2391fd02df6_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/26b67861-842d-4b2a-978d-416a2ff97403_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/c9e33da5-55e1-45e7-abb6-8d2c407ea01a_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/pembe-kapakli-canta-121l9351000/",
-    "price": [
-      {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-01T05:12:23.800Z",
+    "timestamp": "2025-09-01T11:05:24.841Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -207,7 +121,94 @@
     },
     "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
     "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-01T05:12:23.803Z",
+    "timestamp": "2025-09-01T11:05:24.844Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Pembe Kapaklı Çanta",
+    "img": [
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/5808189b-9c93-4b50-9b09-b2391fd02df6_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/26b67861-842d-4b2a-978d-416a2ff97403_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/c9e33da5-55e1-45e7-abb6-8d2c407ea01a_size900x1350_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
+    "link": "https://www.lovemybody.com.tr/pembe-kapakli-canta-121l9351000/",
+    "price": [
+      {
+        "value": "999.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": ".product-item-box",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".info .product-discounted-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/canta/",
+    "timestamp": "2025-09-01T11:05:24.847Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "Siyah Kapaklı Çanta",
+    "img": [
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500021/42df912d-ec91-4423-beaf-389002b11fdd_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/26/499393/5991289b-a9fc-444f-805f-e18c24823dd0_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500021/20b3ebc2-7e88-4343-ac31-443d41b644e9_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500021/24bb3f20-8d73-480b-b909-41bb1d758ac8_size900x1350_quality100_cropCenter.jpg",
+      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500021/145d1b04-4796-4608-a722-bd72777f73e7_size900x1350_quality100_cropCenter.jpg"
+    ],
+    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500021/42df912d-ec91-4423-beaf-389002b11fdd_size900x1350_quality100_cropCenter.jpg",
+    "link": "https://www.lovemybody.com.tr/siyah-kapakli-canta-121l9351000/",
+    "price": [
+      {
+        "value": "999.95 TL",
+        "selector": ".info .product-discounted-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": ".product-item-box",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".info .product-discounted-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/canta/",
+    "timestamp": "2025-09-01T11:05:24.850Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
