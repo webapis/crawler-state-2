@@ -1,0 +1,163 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".productItem:not(:has(.pw-img-swiper))": {
+      "count": 25,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    ".productName a": {
+      "count": 25,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    "[data-original]": {
+      "count": 25,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    ".discountPrice .discountPriceSpan": {
+      "count": 25,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 25,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".productItem:not(:has(.pw-img-swiper))",
+        "count": 25,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".productName a",
+        "count": 25,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-original]",
+        "count": 25,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".discountPrice .discountPriceSpan",
+        "count": 25,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
