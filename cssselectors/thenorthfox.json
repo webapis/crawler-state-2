@@ -1,0 +1,188 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product--root": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "p.product--title": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "[data-srcset]": {
+      "count": 25,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    ".product--price .money": {
+      "count": 28,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "[data-src]": {
+      "count": 3,
+      "usedFor": {},
+      "objectIndices": [
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 28,
+    "selectorsFound": 5,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product--root",
+        "count": 28,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "p.product--title",
+        "count": 28,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".product--price .money",
+        "count": 28,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
+        "selector": "[data-srcset]",
+        "count": 25,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "[data-src]",
+        "count": 3,
+        "usedFor": [
+          "image"
+        ]
+      }
+    ]
+  }
+}
