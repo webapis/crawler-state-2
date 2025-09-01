@@ -1,0 +1,79 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".grid-product__content": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    ".grid-product__title": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    ".grid-product__image": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    ".grid-product__price > :not(.visually-hidden)": {
+      "count": 4,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 4,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".grid-product__content",
+        "count": 4,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".grid-product__title",
+        "count": 4,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".grid-product__image",
+        "count": 4,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "count": 4,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
