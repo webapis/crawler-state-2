@@ -1,7 +1,7 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".productItem:not(:has(.pw-img-swiper))": {
+    "#ProductPageProductList .ItemOrj .productItem": {
       "count": 25,
       "usedFor": {},
       "objectIndices": [
@@ -131,7 +131,7 @@
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".productItem:not(:has(.pw-img-swiper))",
+        "selector": "#ProductPageProductList .ItemOrj .productItem",
         "count": 25,
         "usedFor": [
           "main element"
