@@ -30,7 +30,7 @@
     },
     "pageTitle": "Shop – MYNAMEISO",
     "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-08-29T10:45:08.215Z",
+    "timestamp": "2025-09-01T11:34:06.334Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -70,7 +70,87 @@
     },
     "pageTitle": "Shop – MYNAMEISO",
     "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-08-29T10:45:08.218Z",
+    "timestamp": "2025-09-01T11:34:06.336Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "TRIO Black Shoulder / Clutch Bag",
+    "img": [
+      "https://mynameiso.co/wp-content/uploads/2025/09/TRIOBLCK-500x600.jpeg"
+    ],
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/TRIOBLCK-500x600.jpeg",
+    "link": "https://mynameiso.co/product/trio-black-shoulder-clutch-bag/",
+    "price": [
+      {
+        "value": "546.07€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 20210.05,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-09-01T11:34:06.339Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image"
+  },
+  {
+    "title": "TRIO Grey Shoulder / Clutch Bag",
+    "img": [
+      "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg"
+    ],
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg",
+    "link": "https://mynameiso.co/product/trio-grey-shoulder-clutch-bag/",
+    "price": [
+      {
+        "value": "546.07€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 20210.05,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-09-01T11:34:06.342Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -110,87 +190,7 @@
     },
     "pageTitle": "Shop – MYNAMEISO",
     "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-08-29T10:45:08.223Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "TRIO Emerald Shoulder / Clutch Bag",
-    "img": [
-      "https://mynameiso.co/wp-content/uploads/2025/05/005_20250522_110054-500x600.jpeg"
-    ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/05/005_20250522_110054-500x600.jpeg",
-    "link": "https://mynameiso.co/product/trio-black-2/",
-    "price": [
-      {
-        "value": "546.07€",
-        "selector": ".price .amount",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 20210.05,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .amount",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Shop – MYNAMEISO",
-    "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-08-29T10:45:08.227Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "TRIO Taco Shoulder / Clutch Bag",
-    "img": [
-      "https://mynameiso.co/wp-content/uploads/2025/05/Photoroom_000_20250522_110054-500x600.jpeg"
-    ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/05/Photoroom_000_20250522_110054-500x600.jpeg",
-    "link": "https://mynameiso.co/product/trio-taco-shoulder-clutch-bag/",
-    "price": [
-      {
-        "value": "546.07€",
-        "selector": ".price .amount",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 20210.05,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .amount",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Shop – MYNAMEISO",
-    "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-08-29T10:45:08.231Z",
+    "timestamp": "2025-09-01T11:34:06.344Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
