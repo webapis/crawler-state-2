@@ -9,16 +9,11 @@
     "link": "https://www.dilekhanif.com/en-eu/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-2",
     "price": [
       {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
+        "value": "£356.42 GBP",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -31,13 +26,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price span"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-eu/collections/canta",
-    "timestamp": "2025-08-18T12:30:14.962Z",
+    "timestamp": "2025-09-01T05:19:44.568Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -56,16 +50,11 @@
     "link": "https://www.dilekhanif.com/en-eu/collections/canta/products/el-yapimi-puskullu-canta",
     "price": [
       {
-        "value": "£283.26 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "£283.26 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
+        "value": "£282.17 GBP",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -78,13 +67,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price span"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-eu/collections/canta",
-    "timestamp": "2025-08-18T12:30:14.963Z",
+    "timestamp": "2025-09-01T05:19:44.572Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -103,16 +91,11 @@
     "link": "https://www.dilekhanif.com/en-eu/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-1",
     "price": [
       {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
+        "value": "£356.42 GBP",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -125,13 +108,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price span"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-eu/collections/canta",
-    "timestamp": "2025-08-18T12:30:14.964Z",
+    "timestamp": "2025-09-01T05:19:44.575Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -150,16 +132,11 @@
     "link": "https://www.dilekhanif.com/en-eu/collections/canta/products/el-yapimi-i%CC%87slemeli-canta",
     "price": [
       {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
-        "numericValue": 0,
-        "unsetPrice": true
-      },
-      {
-        "value": "£357.8 GBP",
-        "selector": ".grid-product__price span",
-        "attribute": "innerText",
+        "value": "£356.42 GBP",
+        "selector": ".grid-product__price > :not(.visually-hidden)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
         "numericValue": 0,
         "unsetPrice": true
       }
@@ -172,13 +149,12 @@
       "titleSelectorMatched": ".grid-product__title",
       "imgSelectorMatched": ".grid-product__image",
       "videoSelectorMatched": null,
-      "priceSelectorsMatched": [
-        ".grid-product__price span"
-      ]
+      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-eu/collections/canta",
-    "timestamp": "2025-08-18T12:30:14.964Z",
+    "timestamp": "2025-09-01T05:19:44.578Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
