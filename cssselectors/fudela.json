@@ -1,0 +1,179 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "#ProductPageProductList .ItemOrj .productItem": {
+      "count": 29,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    ".productName a": {
+      "count": 29,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    "img.productSliderImage": {
+      "count": 29,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    ".discountPrice .discountPriceSpan": {
+      "count": 29,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 29,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "#ProductPageProductList .ItemOrj .productItem",
+        "count": 29,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".productName a",
+        "count": 29,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "img.productSliderImage",
+        "count": 29,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".discountPrice .discountPriceSpan",
+        "count": 29,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
