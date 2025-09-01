@@ -1,0 +1,99 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".productCartMain": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "a.product-name": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "[id^=\"product_image\"] .lazy-image img": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    ".product-price-content .product-price": {
+      "count": 9,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 9,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".productCartMain",
+        "count": 9,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "a.product-name",
+        "count": 9,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[id^=\"product_image\"] .lazy-image img",
+        "count": 9,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".product-price-content .product-price",
+        "count": 9,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
