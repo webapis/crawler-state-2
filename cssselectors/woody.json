@@ -1,0 +1,91 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".productItem:not(:has(.pw-img-swiper))": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    ".ndImage source[srcset]": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    ".productPrice .newPrice": {
+      "count": 7,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 7,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".productItem:not(:has(.pw-img-swiper))",
+        "count": 7,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+        "count": 7,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": ".ndImage source[srcset]",
+        "count": 7,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".productPrice .newPrice",
+        "count": 7,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
