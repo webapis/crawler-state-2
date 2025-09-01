@@ -1,0 +1,131 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-card": {
+      "count": 17,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    ".product-card__link": {
+      "count": 17,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "[srcset]": {
+      "count": 17,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "product-price .price": {
+      "count": 17,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 17,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-card",
+        "count": 17,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".product-card__link",
+        "count": 17,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 17,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "product-price .price",
+        "count": 17,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
