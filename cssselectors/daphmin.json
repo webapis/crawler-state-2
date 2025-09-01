@@ -1,0 +1,147 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    "li.grid__item .card-wrapper.product-card-wrapper:has(a)": {
+      "count": 21,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "img.motion-reduce": {
+      "count": 21,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "[srcset]": {
+      "count": 21,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    ".price-item.price-item--sale.price-item--last": {
+      "count": 21,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 21,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
+        "count": 21,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "img.motion-reduce",
+        "count": 21,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 21,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "count": 21,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
