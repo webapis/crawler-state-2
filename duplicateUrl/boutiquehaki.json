@@ -1,22 +1,321 @@
 [
   {
-    "dublicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
-    "counter": 3
+    "title": "Solea Hasır Örgü Kova Çanta Pembe",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/818/photoroom-001-20250621-155009_min.jpeg?revision=1750510675",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/818/photoroom-021-20250621-154543_min.jpeg?revision=1750510675",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/818/photoroom-023-20250621-154543_min.jpeg?revision=1750510675",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/818/photoroom-022-20250621-154543_min.jpeg?revision=1750510675"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/818/photoroom-001-20250621-155009_min.jpeg?revision=1750510675",
+    "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
+    "price": [
+      {
+        "value": "799,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "El Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
+    "timestamp": "2025-09-01T11:35:37.469Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 11,
+    "duplicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
+    "duplicateCount": 3,
+    "duplicateGroup": [
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Pembe",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
+        "originalIndex": 11
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Pembe",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
+        "originalIndex": 60
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Pembe",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-pembe",
+        "originalIndex": 201
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
-    "counter": 3
+    "title": "Solea Hasır Örgü Kova Çanta Siyah",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/817/photoroom-003-20250621-155009_min.jpeg?revision=1750510642",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/817/photoroom-008-20250621-154543_min.jpeg?revision=1750510642",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/817/photoroom-009-20250621-154543_min.jpeg?revision=1750510642",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/817/photoroom-011-20250621-154543_min.jpeg?revision=1750510642"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/817/photoroom-003-20250621-155009_min.jpeg?revision=1750510642",
+    "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
+    "price": [
+      {
+        "value": "799,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "El Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
+    "timestamp": "2025-09-01T11:35:37.472Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 12,
+    "duplicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
+    "duplicateCount": 3,
+    "duplicateGroup": [
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
+        "originalIndex": 12
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
+        "originalIndex": 61
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-siyah",
+        "originalIndex": 202
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
-    "counter": 3
+    "title": "Solea Hasır Örgü Kova Çanta Krem",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/816/photoroom-000-20250621-155009_min.jpeg?revision=1750510611",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/816/photoroom-026-20250621-154543_min.jpeg?revision=1750510611",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/816/photoroom-027-20250621-154543_min.jpeg?revision=1750510611"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/816/photoroom-000-20250621-155009_min.jpeg?revision=1750510611",
+    "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
+    "price": [
+      {
+        "value": "799,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "El Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
+    "timestamp": "2025-09-01T11:35:37.475Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 13,
+    "duplicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
+    "duplicateCount": 3,
+    "duplicateGroup": [
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Krem",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
+        "originalIndex": 13
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Krem",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
+        "originalIndex": 62
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Krem",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-krem",
+        "originalIndex": 203
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
-    "counter": 3
+    "title": "Solea Hasır Örgü Kova Çanta Sarı",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/815/photoroom-004-20250621-155009_min.jpeg?revision=1750510557",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/815/photoroom-002-20250621-154543_min.jpeg?revision=1750510557",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/815/photoroom-001-20250621-154543_min.jpeg?revision=1750510557",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/815/photoroom-003-20250621-154543_min.jpeg?revision=1750510557"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/815/photoroom-004-20250621-155009_min.jpeg?revision=1750510557",
+    "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
+    "price": [
+      {
+        "value": "799,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "El Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
+    "timestamp": "2025-09-01T11:35:37.478Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 14,
+    "duplicateUrl": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
+    "duplicateCount": 3,
+    "duplicateGroup": [
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Sarı",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
+        "originalIndex": 14
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Sarı",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
+        "originalIndex": 63
+      },
+      {
+        "title": "Solea Hasır Örgü Kova Çanta Sarı",
+        "link": "https://www.boutiquehaki.com.tr/urun/solea-hasir-orgu-kova-canta-sari",
+        "originalIndex": 204
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
-    "counter": 3
+    "title": "Buckle Mini – Tokalı El ve Omuz Çantası Siyah",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/814/photoroom-004-20250619-183627_min.jpeg?revision=1750348619",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/814/photoroom-001-20250619-183042_min.jpeg?revision=1750348619",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/814/photoroom-002-20250619-183042_min.jpeg?revision=1750348619",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/814/photoroom-003-20250619-183042_min.jpeg?revision=1750348619"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/814/photoroom-004-20250619-183627_min.jpeg?revision=1750348619",
+    "link": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
+    "price": [
+      {
+        "value": "579,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 579.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "El Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
+    "timestamp": "2025-09-01T11:35:37.481Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 15,
+    "duplicateUrl": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
+    "duplicateCount": 3,
+    "duplicateGroup": [
+      {
+        "title": "Buckle Mini – Tokalı El ve Omuz Çantası Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
+        "originalIndex": 15
+      },
+      {
+        "title": "Buckle Mini – Tokalı El ve Omuz Çantası Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
+        "originalIndex": 64
+      },
+      {
+        "title": "Buckle Mini – Tokalı El ve Omuz Çantası Siyah",
+        "link": "https://www.boutiquehaki.com.tr/urun/buckle-mini-tokali-el-ve-omuz-cantasi-siyah",
+        "originalIndex": 205
+      }
+    ]
   }
 ]
