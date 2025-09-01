@@ -1,10 +1,130 @@
 [
   {
-    "dublicateUrl": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
-    "counter": 2
+    "title": "3 Adet Saklama Torbası",
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/img/gAw2Itg3/900/image.jpeg"
+    ],
+    "primaryImg": "/img/gAw2Itg3/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+    "price": [
+      {
+        "value": "799,00",
+        "selector": ".tp-price-number",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799,
+        "unsetPrice": false
+      },
+      {
+        "value": "266,33",
+        "selector": ".tp-price-number",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 266.33,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": ".tp-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-09-01T11:26:11.300Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 23,
+    "duplicateUrl": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "3 Adet Saklama Torbası",
+        "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+        "originalIndex": 23
+      },
+      {
+        "title": "3 Adet Saklama Torbası",
+        "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+        "originalIndex": 26
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.tchibo.com.tr/products/185812170946/3-adet-su-gecirmez-torba?article_id=143410113394",
-    "counter": 2
+    "title": "3 Adet Saklama Torbası",
+    "img": [
+      "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta/img/gAw2Itg3/900/image.jpeg"
+    ],
+    "primaryImg": "/img/gAw2Itg3/900/image.jpeg",
+    "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+    "price": [
+      {
+        "value": "799,00",
+        "selector": ".tp-price-number",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 799,
+        "unsetPrice": false
+      },
+      {
+        "value": "266,33",
+        "selector": ".tp-price-number",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 266.33,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-title-container)",
+      "matchedSelector": "[id*=product-tile-wrapper-]",
+      "titleSelectorMatched": ".tp-body.product-title",
+      "imgSelectorMatched": ".tp-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".tp-price-number",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, El & Omuz Çantası, Makyaj Çantası |Tchibo",
+    "pageURL": "https://www.tchibo.com.tr/categories/kadin/aksesuar/canta?page=2&sort=relevance",
+    "timestamp": "2025-09-01T11:26:11.310Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 26,
+    "duplicateUrl": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+    "duplicateCount": 2,
+    "duplicateGroup": [
+      {
+        "title": "3 Adet Saklama Torbası",
+        "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+        "originalIndex": 23
+      },
+      {
+        "title": "3 Adet Saklama Torbası",
+        "link": "https://www.tchibo.com.tr/products/116951915250/3-adet-saklama-torbasi?article_id=100385917035",
+        "originalIndex": 26
+      }
+    ]
   }
 ]
