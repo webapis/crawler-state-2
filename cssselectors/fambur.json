@@ -1,0 +1,83 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".product-card": {
+      "count": 5,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "a.product-name": {
+      "count": 5,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "[data-src]": {
+      "count": 5,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    ".item-price.textBase": {
+      "count": 5,
+      "usedFor": {},
+      "objectIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "summary": {
+    "totalObjects": 5,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-card",
+        "count": 5,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "a.product-name",
+        "count": 5,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-src]",
+        "count": 5,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".item-price.textBase",
+        "count": 5,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
