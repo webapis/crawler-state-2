@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".products__item": {
-      "count": 51,
+      "count": 52,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -55,11 +55,12 @@
         47,
         48,
         49,
-        50
+        50,
+        51
       ]
     },
     "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 51,
+      "count": 52,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -112,11 +113,12 @@
         47,
         48,
         49,
-        50
+        50,
+        51
       ]
     },
     "[data-srcset]": {
-      "count": 51,
+      "count": 52,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -169,11 +171,12 @@
         47,
         48,
         49,
-        50
+        50,
+        51
       ]
     },
     ".product__price.-actual.h4": {
-      "count": 45,
+      "count": 46,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -214,13 +217,14 @@
         39,
         40,
         41,
-        43,
+        42,
         44,
         45,
         46,
         47,
-        49,
-        50
+        48,
+        50,
+        51
       ]
     },
     ".product__price.h5.-label.-old.-size": {
@@ -231,39 +235,39 @@
         20,
         23,
         25,
-        42,
-        48
+        43,
+        49
       ]
     }
   },
   "summary": {
-    "totalObjects": 51,
+    "totalObjects": 52,
     "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": ".products__item",
-        "count": 51,
+        "count": 52,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-        "count": 51,
+        "count": 52,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[data-srcset]",
-        "count": 51,
+        "count": 52,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".product__price.-actual.h4",
-        "count": 45,
+        "count": 46,
         "usedFor": [
           "price"
         ]
