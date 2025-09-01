@@ -1,22 +1,332 @@
 [
   {
-    "dublicateUrl": "https://www.lcw.com/hakiki-deri-kadin-cuzdan-06909-siyah-o-3344209",
-    "counter": 4
+    "title": "Thepe Cüzdanlı Omuz Çantası Beyaz",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_012629330v0_a613d9e0-b63e-49e3-a484-6190605aeda3.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_012629330v0_a613d9e0-b63e-49e3-a484-6190605aeda3.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_012629330v0_a613d9e0-b63e-49e3-a484-6190605aeda3.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_012629330v0_a613d9e0-b63e-49e3-a484-6190605aeda3.jpg 500w",
+    "link": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+    "price": [
+      {
+        "value": "559,92 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 559.92,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 17",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=17",
+    "timestamp": "2025-09-01T11:16:55.211Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1627,
+    "duplicateUrl": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+    "duplicateCount": 4,
+    "duplicateGroup": [
+      {
+        "title": "Thepe Cüzdanlı Omuz Çantası Beyaz",
+        "link": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+        "originalIndex": 1627
+      },
+      {
+        "title": "Thepe Cüzdanlı Omuz Çantası Beyaz",
+        "link": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+        "originalIndex": 2052
+      },
+      {
+        "title": "Thepe Cüzdanlı Omuz Çantası Beyaz",
+        "link": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+        "originalIndex": 2116
+      },
+      {
+        "title": "Thepe Cüzdanlı Omuz Çantası Beyaz",
+        "link": "https://www.lcw.com/thepe-cuzdanli-omuz-cantasi-beyaz-beyaz-o-5084331",
+        "originalIndex": 2300
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.lcw.com/marta-omuz-cantasi-krem-ekru-o-5084613",
-    "counter": 4
+    "title": "Hug Süet El Ve Çapraz Çanta Taba",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_094858578v0_bf0a5fce-bbb2-4174-b5cb-52a173b54e3b.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_094858578v0_bf0a5fce-bbb2-4174-b5cb-52a173b54e3b.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_094858578v0_bf0a5fce-bbb2-4174-b5cb-52a173b54e3b.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_094858578v0_bf0a5fce-bbb2-4174-b5cb-52a173b54e3b.jpg 500w",
+    "link": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+    "price": [
+      {
+        "value": "649,90 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 649.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 17",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=17",
+    "timestamp": "2025-09-01T11:16:55.214Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1628,
+    "duplicateUrl": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+    "duplicateCount": 4,
+    "duplicateGroup": [
+      {
+        "title": "Hug Süet El Ve Çapraz Çanta Taba",
+        "link": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+        "originalIndex": 1628
+      },
+      {
+        "title": "Hug Süet El Ve Çapraz Çanta Taba",
+        "link": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+        "originalIndex": 2053
+      },
+      {
+        "title": "Hug Süet El Ve Çapraz Çanta Taba",
+        "link": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+        "originalIndex": 2117
+      },
+      {
+        "title": "Hug Süet El Ve Çapraz Çanta Taba",
+        "link": "https://www.lcw.com/hug-suet-el-ve-capraz-canta-taba-kahverengi-o-5083843",
+        "originalIndex": 2301
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.lcw.com/capsule-suet-baget-canta-taba-kahverengi-o-5082297",
-    "counter": 4
+    "title": "Kiko Yavrulu El Ve Çapraz Çanta Yavruağzı",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_103140643v0_a517d00e-79bf-4fcb-b055-822877354541.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_103140643v0_a517d00e-79bf-4fcb-b055-822877354541.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_103140643v0_a517d00e-79bf-4fcb-b055-822877354541.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_103140643v0_a517d00e-79bf-4fcb-b055-822877354541.jpg 500w",
+    "link": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+    "price": [
+      {
+        "value": "399,90 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 399.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 17",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=17",
+    "timestamp": "2025-09-01T11:16:55.238Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1635,
+    "duplicateUrl": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+    "duplicateCount": 4,
+    "duplicateGroup": [
+      {
+        "title": "Kiko Yavrulu El Ve Çapraz Çanta Yavruağzı",
+        "link": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+        "originalIndex": 1635
+      },
+      {
+        "title": "Kiko Yavrulu El Ve Çapraz Çanta Yavruağzı",
+        "link": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+        "originalIndex": 2054
+      },
+      {
+        "title": "Kiko Yavrulu El Ve Çapraz Çanta Yavruağzı",
+        "link": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+        "originalIndex": 2123
+      },
+      {
+        "title": "Kiko Yavrulu El Ve Çapraz Çanta Yavruağzı",
+        "link": "https://www.lcw.com/kiko-yavrulu-el-ve-capraz-canta-yavruagzi-turuncu-o-5084169",
+        "originalIndex": 2307
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.lcw.com/suni-deri-kadin-cuzdan-haki-mn108-yesil-o-4839852",
-    "counter": 4
+    "title": "Fizy Baget Çanta Leopar Desen",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_110242894v0_23d3ba0f-becf-496f-9a1a-2e66188259c3.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_110242894v0_23d3ba0f-becf-496f-9a1a-2e66188259c3.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_110242894v0_23d3ba0f-becf-496f-9a1a-2e66188259c3.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_110242894v0_23d3ba0f-becf-496f-9a1a-2e66188259c3.jpg 500w",
+    "link": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+    "price": [
+      {
+        "value": "549,90 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 549.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 17",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=17",
+    "timestamp": "2025-09-01T11:16:55.241Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1636,
+    "duplicateUrl": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+    "duplicateCount": 4,
+    "duplicateGroup": [
+      {
+        "title": "Fizy Baget Çanta Leopar Desen",
+        "link": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+        "originalIndex": 1636
+      },
+      {
+        "title": "Fizy Baget Çanta Leopar Desen",
+        "link": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+        "originalIndex": 2055
+      },
+      {
+        "title": "Fizy Baget Çanta Leopar Desen",
+        "link": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+        "originalIndex": 2124
+      },
+      {
+        "title": "Fizy Baget Çanta Leopar Desen",
+        "link": "https://www.lcw.com/fizy-baget-canta-leopar-desen-renksiz-o-5084274",
+        "originalIndex": 2308
+      }
+    ]
   },
   {
-    "dublicateUrl": "https://www.lcw.com/kadin-kiremit-canta-24392-kahverengi-o-3936051",
-    "counter": 3
+    "title": "Buch Mini Çapraz Çanta Bordo",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_100721871v0_e7fae565-eb1e-496c-8831-87b1604f0044.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_100721871v0_e7fae565-eb1e-496c-8831-87b1604f0044.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/320/426/mpsellerportal/v0/img_100721871v0_e7fae565-eb1e-496c-8831-87b1604f0044.jpg 300w, https://img-lcwaikiki.mncdn.com/mnresize/480/640/mpsellerportal/v0/img_100721871v0_e7fae565-eb1e-496c-8831-87b1604f0044.jpg 500w",
+    "link": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+    "price": [
+      {
+        "value": "599,90 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 599.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 17",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=17",
+    "timestamp": "2025-09-01T11:16:55.244Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 1637,
+    "duplicateUrl": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+    "duplicateCount": 4,
+    "duplicateGroup": [
+      {
+        "title": "Buch Mini Çapraz Çanta Bordo",
+        "link": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+        "originalIndex": 1637
+      },
+      {
+        "title": "Buch Mini Çapraz Çanta Bordo",
+        "link": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+        "originalIndex": 2056
+      },
+      {
+        "title": "Buch Mini Çapraz Çanta Bordo",
+        "link": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+        "originalIndex": 2125
+      },
+      {
+        "title": "Buch Mini Çapraz Çanta Bordo",
+        "link": "https://www.lcw.com/buch-mini-capraz-canta-bordo-bordo-o-5084101",
+        "originalIndex": 2309
+      }
+    ]
   }
 ]
