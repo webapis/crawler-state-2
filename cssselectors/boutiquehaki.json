@@ -2,50 +2,50 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".showcase": {
-      "count": 506,
+      "count": 580,
       "usedFor": {}
     },
     "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 506,
+      "count": 580,
       "usedFor": {}
     },
     ".showcase-image img": {
-      "count": 506,
+      "count": 580,
       "usedFor": {}
     },
     ".showcase-price-new": {
-      "count": 506,
+      "count": 580,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 506,
+    "totalObjects": 580,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".showcase",
-        "count": 506,
+        "count": 580,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-        "count": 506,
+        "count": 580,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".showcase-image img",
-        "count": 506,
+        "count": 580,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".showcase-price-new",
-        "count": 506,
+        "count": 580,
         "usedFor": [
           "price"
         ]
