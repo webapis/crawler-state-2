@@ -1,5 +1,48 @@
 [
   {
+    "title": "BISTRITA 5PR Taba Kadın Omuz Çantası",
+    "img": [
+      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=500",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-07/23/102242019_f1.jpg?w=80",
+      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=80"
+    ],
+    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=500",
+    "link": "https://www.ninewest.com.tr/urun/nine-west-bistrita-5pr-taba-kadin-omuz-cantasi-102242018",
+    "price": [
+      {
+        "value": "2.499,00 TL",
+        "selector": ".product-pricing-one__price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-image-wrapper a)",
+      "matchedSelector": ".product-list__item",
+      "titleSelectorMatched": "h3.product-name",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing-one__price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
+    "pageURL": "https://www.ninewest.com.tr/canta",
+    "timestamp": "2025-09-02T12:03:51.322Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf2i2l8x7mq71"
+  },
+  {
     "title": "ENCOBAG 5PR Bordo Kadın Kol Çantası",
     "img": [
       "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-08/04/102242021_f1.jpg?w=500",
@@ -32,14 +75,15 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-09-01T11:13:16.641Z",
+    "timestamp": "2025-09-02T12:03:51.325Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2i2l8x7mq71"
   },
   {
     "title": "BISTRITA 5PR Siyah Kadın Omuz Çantası",
@@ -74,56 +118,15 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-09-01T11:13:16.644Z",
+    "timestamp": "2025-09-02T12:03:51.329Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "BISTRITA 5PR Taba Kadın Omuz Çantası",
-    "img": [
-      "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=500",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-07/23/102242019_f1.jpg?w=80",
-      "https://floimages.mncdn.com/mnresize/80/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=80"
-    ],
-    "primaryImg": "https://floimages.mncdn.com/mnresize/500/-/media/catalog/product/25-07/23/102242018_f1.jpg?w=500",
-    "link": "https://www.ninewest.com.tr/urun/nine-west-bistrita-5pr-taba-kadin-omuz-cantasi-102242018",
-    "price": [
-      {
-        "value": "2.499,00 TL",
-        "selector": ".product-pricing-one__price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-image-wrapper a)",
-      "matchedSelector": ".product-list__item",
-      "titleSelectorMatched": "h3.product-name",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing-one__price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
-    "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-09-01T11:13:16.648Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2i2l8x7mq71"
   },
   {
     "title": "DUOBLY 5PR Leopar Kadın Omuz Çantası",
@@ -157,14 +160,15 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-09-01T11:13:16.651Z",
+    "timestamp": "2025-09-02T12:03:51.333Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2i2l8x7mq71"
   },
   {
     "title": "ENCOBAG 5PR Siyah Kadın Kol Çantası",
@@ -199,13 +203,14 @@
     },
     "pageTitle": "Şık Çanta Modelleri | Nine West Kadın Çanta Fiyatları",
     "pageURL": "https://www.ninewest.com.tr/canta",
-    "timestamp": "2025-09-01T11:13:16.654Z",
+    "timestamp": "2025-09-02T12:03:51.336Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2i2l8x7mq71"
   }
 ]
