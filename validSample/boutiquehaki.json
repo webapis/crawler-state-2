@@ -1,5 +1,49 @@
 [
   {
+    "title": "Nora Büyük Boy Örgü Desenli Salaş Omuz Çantası Bej",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/872/photoroom-005-20250826-182845_min.jpeg?revision=1756222503",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/872/photoroom-019-20250825-130509_min.jpeg?revision=1756222503",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/872/photoroom-020-20250825-130509_min.jpeg?revision=1756222503"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/872/photoroom-005-20250826-182845_min.jpeg?revision=1756222503",
+    "link": "https://www.boutiquehaki.com.tr/urun/nora-buyuk-boy-orgu-desenli-salas-omuz-cantasi-bej",
+    "price": [
+      {
+        "value": "609,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 609.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Omuz Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/giyim",
+    "timestamp": "2025-09-02T08:43:49.914Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf2axcw9wninn"
+  },
+  {
     "title": "Classy El ve Omuz Çantası Acı Kahve",
     "img": [
       "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/848/photoroom-004-20250621-203712_min.jpeg?revision=1750701790",
@@ -34,7 +78,7 @@
     },
     "pageTitle": "El Çantası",
     "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
-    "timestamp": "2025-09-02T08:40:48.095Z",
+    "timestamp": "2025-09-02T08:43:49.913Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -42,7 +86,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf2atgl2kdvas"
+    "processId": "mf2axcwc9yr1s"
   },
   {
     "title": "Classy El ve Omuz Çantası Beyaz",
@@ -79,7 +123,7 @@
     },
     "pageTitle": "El Çantası",
     "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
-    "timestamp": "2025-09-02T08:40:48.098Z",
+    "timestamp": "2025-09-02T08:43:49.917Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -87,7 +131,51 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf2atgl2kdvas"
+    "processId": "mf2axcwc9yr1s"
+  },
+  {
+    "title": "Nora Büyük Boy Örgü Desenli Salaş Omuz Çantası Acı Kahve",
+    "img": [
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/871/photoroom-004-20250826-182845_min.jpeg?revision=1756222448",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/871/photoroom-024-20250825-130509_min.jpeg?revision=1756222448",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
+      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/871/photoroom-025-20250825-130509_min.jpeg?revision=1756222448"
+    ],
+    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/871/photoroom-004-20250826-182845_min.jpeg?revision=1756222448",
+    "link": "https://www.boutiquehaki.com.tr/urun/nora-buyuk-boy-orgu-desenli-salas-omuz-cantasi-aci-kahve",
+    "price": [
+      {
+        "value": "609,90",
+        "selector": ".showcase-price-new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 609.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".showcase",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".showcase-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".showcase-price-new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Omuz Çantası",
+    "pageURL": "https://www.boutiquehaki.com.tr/kategori/giyim",
+    "timestamp": "2025-09-02T08:43:49.918Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf2axcw9wninn"
   },
   {
     "title": "Classy El ve Omuz Çantası Mint",
@@ -124,7 +212,7 @@
     },
     "pageTitle": "El Çantası",
     "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
-    "timestamp": "2025-09-02T08:40:48.101Z",
+    "timestamp": "2025-09-02T08:43:49.921Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -132,95 +220,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf2atgl2kdvas"
-  },
-  {
-    "title": "Classy El ve Omuz Çantası Taba",
-    "img": [
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/845/photoroom-002-20250621-203712_min.jpeg?revision=1750701665",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/845/photoroom-015-20250621-203241_min.jpeg?revision=1750701665",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/845/photoroom-016-20250621-203241_min.jpeg?revision=1750701665"
-    ],
-    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/845/photoroom-002-20250621-203712_min.jpeg?revision=1750701665",
-    "link": "https://www.boutiquehaki.com.tr/urun/classy-el-ve-omuz-cantasi-taba",
-    "price": [
-      {
-        "value": "659,90",
-        "selector": ".showcase-price-new",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 659.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".showcase",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".showcase-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".showcase-price-new",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "El Çantası",
-    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
-    "timestamp": "2025-09-02T08:40:48.104Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf2atgl2kdvas"
-  },
-  {
-    "title": "Classy El ve Omuz Çantası Siyah",
-    "img": [
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/844/photoroom-000-20250621-203712_min.jpeg?revision=1750701635",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/themes/selftpl_654cba4361443/assets/images/loader.gif?revision=7.2.9.8-3-1754674256",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/844/photoroom-023-20250621-203241_min.jpeg?revision=1750701635",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/844/photoroom-022-20250621-203241_min.jpeg?revision=1750701635",
-      "https://www.boutiquehaki.com.tr/idea/nh/64/myassets/products/844/photoroom-024-20250621-203241_min.jpeg?revision=1750701635"
-    ],
-    "primaryImg": "//www.boutiquehaki.com.tr/idea/nh/64/myassets/products/844/photoroom-000-20250621-203712_min.jpeg?revision=1750701635",
-    "link": "https://www.boutiquehaki.com.tr/urun/classy-el-ve-omuz-cantasi-siyah",
-    "price": [
-      {
-        "value": "659,90",
-        "selector": ".showcase-price-new",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 659.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".showcase",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".showcase-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".showcase-price-new",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "El Çantası",
-    "pageURL": "https://www.boutiquehaki.com.tr/kategori/el-cantasi",
-    "timestamp": "2025-09-02T08:40:48.107Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf2atgl2kdvas"
+    "processId": "mf2axcwc9yr1s"
   }
 ]
