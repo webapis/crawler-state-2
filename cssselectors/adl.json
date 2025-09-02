@@ -2,7 +2,7 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".product-list-item": {
-      "count": 36,
+      "count": 33,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -37,14 +37,11 @@
         29,
         30,
         31,
-        32,
-        33,
-        34,
-        35
+        32
       ]
     },
     ".product-content-name": {
-      "count": 36,
+      "count": 33,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -79,14 +76,11 @@
         29,
         30,
         31,
-        32,
-        33,
-        34,
-        35
+        32
       ]
     },
     "[srcset]": {
-      "count": 36,
+      "count": 33,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -121,14 +115,11 @@
         29,
         30,
         31,
-        32,
-        33,
-        34,
-        35
+        32
       ]
     },
     ".second-price": {
-      "count": 36,
+      "count": 33,
       "usedFor": {},
       "objectIndices": [
         0,
@@ -163,41 +154,38 @@
         29,
         30,
         31,
-        32,
-        33,
-        34,
-        35
+        32
       ]
     }
   },
   "summary": {
-    "totalObjects": 36,
+    "totalObjects": 33,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".product-list-item",
-        "count": 36,
+        "count": 33,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-content-name",
-        "count": 36,
+        "count": 33,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[srcset]",
-        "count": 36,
+        "count": 33,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".second-price",
-        "count": 36,
+        "count": 33,
         "usedFor": [
           "price"
         ]
