@@ -1,6 +1,6 @@
 [
   {
-    "title": "MAYOLAR",
+    "title": "ERKEK 3'LÜ BOXER PAKETİ - MURPHY",
     "img": [
       "https://images.jackjones.com.tr/12283379/4827346/003/jackjones-jacmurphyskulltrunks3pack-blue.jpg?v=90266979faaecffceb346501738e0fe4&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
       "https://images.jackjones.com.tr/12283379/4827346/003/jackjones-jacmurphyskulltrunks3pack-blue.jpg?v=90266979faaecffceb346501738e0fe4&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
@@ -31,14 +31,57 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-01T11:28:18.320Z",
+    "timestamp": "2025-09-02T12:13:26.627Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2iex6oz957h"
+  },
+  {
+    "title": "ERKEK CEP DETAYLI DENİM CEKET - KEVIN",
+    "img": [
+      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
+    "price": [
+      {
+        "value": "1.790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-02T12:13:26.630Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf2iex6oz957h"
   },
   {
     "title": "ERKEK TEDDY FERMUAR KAPAMALI CEKET - THATCHER",
@@ -72,58 +115,18 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-01T11:28:18.323Z",
+    "timestamp": "2025-09-02T12:13:26.632Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2iex6oz957h"
   },
   {
-    "title": "SPREAD YAKA DÜĞMELİ MANŞETLER CEKET",
-    "img": [
-      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12272525/4695205/001/jackjones-jjikevinjjjacketsq963-blue.png?v=39712170f06482c266be2c293fd3b05b&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12272525_3561/spread-yaka-du%C4%9Fmeli-man%C5%9Fetler-ceket",
-    "price": [
-      {
-        "value": "1.790,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1790,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
-      "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-01T11:28:18.326Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
+    "title": "ERKEK BİSİKLET YAKA BASKILI TİŞÖRT - MAKOTO",
     "img": [
       "https://images.jackjones.com.tr/12278493/4817856/001/jackjones-jjmakototeesscrewneck-white.png?v=3b1d50f34674142371ffe5e192362096&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
       "https://images.jackjones.com.tr/12278493/4817856/001/jackjones-jjmakototeesscrewneck-white.png?v=3b1d50f34674142371ffe5e192362096&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
@@ -154,14 +157,15 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-01T11:28:18.329Z",
+    "timestamp": "2025-09-02T12:13:26.635Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2iex6oz957h"
   },
   {
     "title": "ERKEK BİSİKLET YAKA BASKILI TİŞÖRT - VESTERBRO",
@@ -195,13 +199,14 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-01T11:28:18.332Z",
+    "timestamp": "2025-09-02T12:13:26.637Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf2iex6oz957h"
   }
 ]
