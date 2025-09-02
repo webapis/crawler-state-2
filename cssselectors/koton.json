@@ -2,50 +2,50 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".js-product-wrapper.product-item": {
-      "count": 57,
+      "count": 60,
       "usedFor": {}
     },
     "h2 .js-product-link.product-link": {
-      "count": 57,
+      "count": 60,
       "usedFor": {}
     },
     ".pz-image-placeholder source[data-srcset]": {
-      "count": 57,
+      "count": 60,
       "usedFor": {}
     },
     "pz-price": {
-      "count": 57,
+      "count": 60,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 57,
+    "totalObjects": 60,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".js-product-wrapper.product-item",
-        "count": 57,
+        "count": 60,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "h2 .js-product-link.product-link",
-        "count": 57,
+        "count": 60,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".pz-image-placeholder source[data-srcset]",
-        "count": 57,
+        "count": 60,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": "pz-price",
-        "count": 57,
+        "count": 60,
         "usedFor": [
           "price"
         ]
