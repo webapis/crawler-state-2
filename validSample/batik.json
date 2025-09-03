@@ -12,7 +12,17 @@
     ],
     "primaryImg": "https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_180.webp 180w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_360.webp 360w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_540.webp 540w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_720.webp 720w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_900.webp 900w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_1080.webp 1080w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_1296.webp 1296w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_1512.webp 1512w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_1728.webp 1728w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_1950.webp 1950w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_2560.webp 2560w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/e85445bb-58c6-43a3-81ed-1229957470d4/image_3840.webp 3840w",
     "link": "https://batik.com.tr/btk70210-canta?Renk=krem&Beden=st",
-    "price": [],
+    "price": [
+      {
+        "value": "₺ 1,899.99",
+        "selector": "[class*=\"style_price__\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1899.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -21,20 +31,20 @@
       "titleSelectorMatched": "[class*=\"style_product_title__\"] h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[class*=\"style_price__\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "CANTA",
     "pageURL": "https://batik.com.tr/canta",
-    "timestamp": "2025-09-03T07:26:06.239Z",
+    "timestamp": "2025-09-03T07:30:04.384Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf3nl91zglzrh"
+    "processId": "mf3nqctawlpuw"
   },
   {
     "title": "BTK70210 Çanta - vizon",
@@ -49,7 +59,17 @@
     ],
     "primaryImg": "https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_180.webp 180w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_360.webp 360w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_540.webp 540w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_720.webp 720w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_900.webp 900w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_1080.webp 1080w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_1296.webp 1296w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_1512.webp 1512w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_1728.webp 1728w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_1950.webp 1950w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_2560.webp 2560w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/eade4afc-e429-40ed-99f5-767e80564c37/image_3840.webp 3840w",
     "link": "https://batik.com.tr/btk70210-canta?Renk=vizon&Beden=st",
-    "price": [],
+    "price": [
+      {
+        "value": "₺ 1,899.99",
+        "selector": "[class*=\"style_price__\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1899.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -58,20 +78,20 @@
       "titleSelectorMatched": "[class*=\"style_product_title__\"] h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[class*=\"style_price__\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "CANTA",
     "pageURL": "https://batik.com.tr/canta",
-    "timestamp": "2025-09-03T07:26:06.241Z",
+    "timestamp": "2025-09-03T07:30:04.387Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf3nl91zglzrh"
+    "processId": "mf3nqctawlpuw"
   },
   {
     "title": "BTK70210 Çanta - SİYAH",
@@ -86,7 +106,17 @@
     ],
     "primaryImg": "https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_180.webp 180w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_360.webp 360w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_540.webp 540w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_720.webp 720w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_900.webp 900w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_1080.webp 1080w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_1296.webp 1296w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_1512.webp 1512w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_1728.webp 1728w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_1950.webp 1950w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_2560.webp 2560w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/a620051a-519a-457e-8e3f-45b119774d67/image_3840.webp 3840w",
     "link": "https://batik.com.tr/btk70210-canta?Renk=S%C4%B0YAH&Beden=st",
-    "price": [],
+    "price": [
+      {
+        "value": "₺ 1,899.99",
+        "selector": "[class*=\"style_price__\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1899.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -95,20 +125,20 @@
       "titleSelectorMatched": "[class*=\"style_product_title__\"] h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[class*=\"style_price__\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "CANTA",
     "pageURL": "https://batik.com.tr/canta",
-    "timestamp": "2025-09-03T07:26:06.244Z",
+    "timestamp": "2025-09-03T07:30:04.390Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf3nl91zglzrh"
+    "processId": "mf3nqctawlpuw"
   },
   {
     "title": "BTK70247 Çanta - vizon",
@@ -123,7 +153,17 @@
     ],
     "primaryImg": "https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_180.webp 180w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_360.webp 360w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_540.webp 540w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_720.webp 720w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_900.webp 900w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_1080.webp 1080w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_1296.webp 1296w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_1512.webp 1512w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_1728.webp 1728w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_1950.webp 1950w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_2560.webp 2560w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/fc70f127-9956-44d8-b43c-84439f4f73ce/image_3840.webp 3840w",
     "link": "https://batik.com.tr/btk70247-canta?Renk=vizon&Beden=st",
-    "price": [],
+    "price": [
+      {
+        "value": "₺ 2,199.99",
+        "selector": "[class*=\"style_price__\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2199.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -132,20 +172,20 @@
       "titleSelectorMatched": "[class*=\"style_product_title__\"] h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[class*=\"style_price__\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "CANTA",
     "pageURL": "https://batik.com.tr/canta",
-    "timestamp": "2025-09-03T07:26:06.246Z",
+    "timestamp": "2025-09-03T07:30:04.393Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf3nl91zglzrh"
+    "processId": "mf3nqctawlpuw"
   },
   {
     "title": "BTK70247 Çanta - SİYAH",
@@ -160,7 +200,17 @@
     ],
     "primaryImg": "https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_180.webp 180w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_360.webp 360w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_540.webp 540w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_720.webp 720w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_900.webp 900w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_1080.webp 1080w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_1296.webp 1296w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_1512.webp 1512w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_1728.webp 1728w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_1950.webp 1950w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_2560.webp 2560w, https://cdn.myikas.com/images/064383d7-9004-4c16-93a7-b71a214cbc9d/b738382b-d5d4-49d2-808b-b4c3314e01f8/image_3840.webp 3840w",
     "link": "https://batik.com.tr/btk70247-canta?Renk=S%C4%B0YAH&Beden=st",
-    "price": [],
+    "price": [
+      {
+        "value": "₺ 2,199.99",
+        "selector": "[class*=\"style_price__\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2199.99,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
@@ -169,19 +219,19 @@
       "titleSelectorMatched": "[class*=\"style_product_title__\"] h2",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": "[class*=\"style_price__\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "CANTA",
     "pageURL": "https://batik.com.tr/canta",
-    "timestamp": "2025-09-03T07:26:06.249Z",
+    "timestamp": "2025-09-03T07:30:04.396Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf3nl91zglzrh"
+    "processId": "mf3nqctawlpuw"
   }
 ]
