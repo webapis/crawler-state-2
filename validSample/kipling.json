@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "title": "Küçük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079582_gabb-s-40615.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079582_gabb-s-40615.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40615",
+    "price": [
+      {
+        "value": "5465,40 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5465.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-04T04:14:08.051Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf4w686sfdeks"
+  },
+  {
+    "title": "Küçük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079620_gabb-s-40614.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079620_gabb-s-40614.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40614",
+    "price": [
+      {
+        "value": "6209,40 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6209.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-04T04:14:08.054Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf4w686sfdeks"
+  },
+  {
+    "title": "Küçük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079613_gabb-s-40613.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079613_gabb-s-40613.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40613",
+    "price": [
+      {
+        "value": "6209,40 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6209.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-04T04:14:08.057Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf4w686sfdeks"
+  },
+  {
+    "title": "Küçük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079606_gabb-s-40609.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079606_gabb-s-40609.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-s-40609",
+    "price": [
+      {
+        "value": "5189,40 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5189.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-04T04:14:08.059Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf4w686sfdeks"
+  },
+  {
+    "title": "Orta Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079591_gabb-40607.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079591_gabb-40607.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabb-40607",
+    "price": [
+      {
+        "value": "5759,40 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5759.4,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-04T04:14:08.062Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf4w686sfdeks"
+  }
+]
