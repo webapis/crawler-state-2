@@ -1,5 +1,49 @@
 [
   {
+    "title": "Ördek Yeşili Rita Mini Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_view1.jpg",
+      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_view2.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/ordek-yesili-rita-mini-canta/p/PYJH9IYV25SK-OYS",
+    "price": [
+      {
+        "value": "₺524,99",
+        "selector": ".prc.prc-last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 524.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-09-05T03:44:43.386Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6ak99ye3j7f"
+  },
+  {
     "title": "Ekru Gloria Çanta",
     "img": [
       "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY8JM3B525SK-E10_front.jpg",
@@ -34,7 +78,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-09-04T08:55:24.907Z",
+    "timestamp": "2025-09-05T03:44:43.389Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -42,52 +86,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf567yi2bhh2o"
-  },
-  {
-    "title": "Kahverengi Sage Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYTWS5EM25SK-BN5_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYTWS5EM25SK-BN5_view1.jpg",
-      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYTWS5EM25SK-BN5_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYTWS5EM25SK-BN5_view4.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYTWS5EM25SK-BN5_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/kahverengi-sage-canta/p/PYTWS5EM25SK-BN5",
-    "price": [
-      {
-        "value": "₺1.199,99",
-        "selector": ".prc.prc-last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1199.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-09-04T08:55:24.910Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf567yi2bhh2o"
+    "processId": "mf6ak99ye3j7f"
   },
   {
     "title": "Petrol Mavisi Agatha Çanta",
@@ -123,7 +122,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-09-04T08:55:24.914Z",
+    "timestamp": "2025-09-05T03:44:43.392Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,19 +130,64 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf567yi2bhh2o"
+    "processId": "mf6ak99ye3j7f"
   },
   {
-    "title": "Siyah Joanna Çanta",
+    "title": "Siyah Linda Telefon Çantası",
     "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYV37M5B25SK-500_front.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYV37M5B25SK-500_view1.jpg",
       "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view2.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_view3.jpg"
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYV37M5B25SK-500_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYV37M5B25SK-500_view3.jpg"
     ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PY1RO1KX25SK-500_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-joanna-canta/p/PY1RO1KX25SK-500",
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYV37M5B25SK-500_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/siyah-linda-telefon-cantasi/p/PYV37M5B25SK-500",
+    "price": [
+      {
+        "value": "₺899,99",
+        "selector": ".prc.prc-last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 899.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.prd-link)",
+      "matchedSelector": ".prd",
+      "titleSelectorMatched": ".prd-title h2",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".prc.prc-last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
+    "pageURL": "https://www.penti.com/tr/c/canta",
+    "timestamp": "2025-09-05T03:44:43.395Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6ak99ye3j7f"
+  },
+  {
+    "title": "Haki Joanna Çanta",
+    "img": [
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_front.jpg",
+      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view1.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view2.jpg",
+      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_view3.jpg"
+    ],
+    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYUPKM6L25SK-76_front.jpg",
+    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/haki-joanna-canta/p/PYUPKM6L25SK-76",
     "price": [
       {
         "value": "₺1.199,99",
@@ -168,7 +212,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
     "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-09-04T08:55:24.918Z",
+    "timestamp": "2025-09-05T03:44:43.398Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,50 +220,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf567yi2bhh2o"
-  },
-  {
-    "title": "Ördek Yeşili Rita Mini Çanta",
-    "img": [
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_front.jpg",
-      "https://www.penti.com/tr/c/canta/_ui/responsive/theme-penti/images/placeholder-new.svg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_view1.jpg",
-      "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_view2.jpg"
-    ],
-    "primaryImg": "https://file-penti.mncdn.com/mnresize/550/825/pentiimages/PYJH9IYV25SK-OYS_front.jpg",
-    "link": "https://www.penti.com/tr/kadin/aksesuar/canta/ordek-yesili-rita-mini-canta/p/PYJH9IYV25SK-OYS",
-    "price": [
-      {
-        "value": "₺524,99",
-        "selector": ".prc.prc-last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 524.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.prd-link)",
-      "matchedSelector": ".prd",
-      "titleSelectorMatched": ".prd-title h2",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".prc.prc-last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Penti",
-    "pageURL": "https://www.penti.com/tr/c/canta",
-    "timestamp": "2025-09-04T08:55:24.921Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf567yi2bhh2o"
+    "processId": "mf6ak99ye3j7f"
   }
 ]
