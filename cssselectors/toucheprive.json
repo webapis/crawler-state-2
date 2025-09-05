@@ -1,9 +1,44 @@
 {
   "uniqueSelectors": {},
-  "selectorUsage": {},
+  "selectorUsage": {
+    ".product-block": {
+      "count": 4,
+      "usedFor": {}
+    },
+    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
+      "count": 1,
+      "usedFor": {}
+    },
+    "[data-lazy-bgset-src]": {
+      "count": 4,
+      "usedFor": {}
+    }
+  },
   "summary": {
-    "totalObjects": 0,
-    "selectorsFound": 0,
-    "mostCommonSelectors": []
+    "totalObjects": 4,
+    "selectorsFound": 3,
+    "mostCommonSelectors": [
+      {
+        "selector": ".product-block",
+        "count": 4,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": "[data-lazy-bgset-src]",
+        "count": 4,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+        "count": 1,
+        "usedFor": [
+          "title"
+        ]
+      }
+    ]
   }
 }
