@@ -1,15 +1,15 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".content-product-card .product-media": {
-      "count": 221,
-      "usedFor": {}
-    },
-    "[srcset]": {
-      "count": 221,
+    ".content-product-card .product-media:has(product-prices)": {
+      "count": 218,
       "usedFor": {}
     },
     ".product-title span": {
+      "count": 218,
+      "usedFor": {}
+    },
+    "[srcset]": {
       "count": 218,
       "usedFor": {}
     },
@@ -19,21 +19,14 @@
     }
   },
   "summary": {
-    "totalObjects": 221,
+    "totalObjects": 218,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".content-product-card .product-media",
-        "count": 221,
+        "selector": ".content-product-card .product-media:has(product-prices)",
+        "count": 218,
         "usedFor": [
           "main element"
-        ]
-      },
-      {
-        "selector": "[srcset]",
-        "count": 221,
-        "usedFor": [
-          "image"
         ]
       },
       {
@@ -41,6 +34,13 @@
         "count": 218,
         "usedFor": [
           "title"
+        ]
+      },
+      {
+        "selector": "[srcset]",
+        "count": 218,
+        "usedFor": [
+          "image"
         ]
       },
       {
