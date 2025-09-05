@@ -1,5 +1,47 @@
 [
   {
+    "title": "ERKEK BEYZBOL YAKA BOMBER CEKET - CHARGE",
+    "img": [
+      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+    "price": [
+      {
+        "value": "2.190,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2190,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-05T07:46:16.376Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6j6w85jg8yh"
+  },
+  {
     "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
     "img": [
       "https://images.jackjones.com.tr/12301194/5055346/003/jackjones-jorunveilingsscrewneckteeft0925-black.jpg?v=9d1956373eb0b7aac1dc04a879744613&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
@@ -21,9 +63,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -31,7 +73,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T06:31:23.987Z",
+    "timestamp": "2025-09-05T07:46:16.380Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +81,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gilvcqzmqh"
+    "processId": "mf6j6w85jg8yh"
   },
   {
     "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
@@ -63,9 +105,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -73,7 +115,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T06:31:23.990Z",
+    "timestamp": "2025-09-05T07:46:16.383Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,7 +123,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gilvcqzmqh"
+    "processId": "mf6j6w85jg8yh"
   },
   {
     "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
@@ -105,9 +147,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -115,7 +157,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T06:31:23.993Z",
+    "timestamp": "2025-09-05T07:46:16.386Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,7 +165,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gilvcqzmqh"
+    "processId": "mf6j6w85jg8yh"
   },
   {
     "title": "ERKEK 3'LÜ BOXER PAKETİ - MURPHY",
@@ -147,9 +189,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -157,7 +199,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T06:31:23.996Z",
+    "timestamp": "2025-09-05T07:46:16.389Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,48 +207,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gilvcqzmqh"
-  },
-  {
-    "title": "ERKEK TEDDY FERMUAR KAPAMALI CEKET - THATCHER",
-    "img": [
-      "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12279290/4779971/003/jackjones-jjthatcherfleecejacket-black.jpg?v=dd9ce063c8c24c08d5807c48de135707&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12279290_2161/yuksek-yaka-ceket",
-    "price": [
-      {
-        "value": "1.990,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1990,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
-      "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T06:31:23.999Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6gilvcqzmqh"
+    "processId": "mf6j6w85jg8yh"
   }
 ]
