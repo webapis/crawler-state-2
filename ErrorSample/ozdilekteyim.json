@@ -1,17 +1,17 @@
 [
   {
-    "title": "Sisley Kadın Kol Çantası SLY_029 Siyah",
+    "title": "Sisley Kadın Kol Çantası SLY_022 Siyah",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly029-p-13607336",
+    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly022-p-13607291",
     "price": [
       {
-        "value": "3.745,17 TL",
+        "value": "3.260,34 TL",
         "selector": ".current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3745.17,
+        "numericValue": 3260.34,
         "unsetPrice": false
       }
     ],
@@ -21,14 +21,14 @@
       "linkSource": "titleElement (matched: .product-item-info a)",
       "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
       "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": ".ng-star-inserted",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".current-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:11:23.997Z",
+    "timestamp": "2025-09-05T12:38:00.108Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -36,162 +36,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6snujepraae"
-  },
-  {
-    "title": "Sisley Kadın Kol Çantası SLY_029 Bej",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly029-p-13607337",
-    "price": [
-      {
-        "value": "3.745,17 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3745.17,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:11:24.000Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6snujepraae"
-  },
-  {
-    "title": "Sisley Kadın Kol Çantası SLY_028 Siyah",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly028-p-13607340",
-    "price": [
-      {
-        "value": "3.774,42 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3774.42,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:11:24.003Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6snujepraae"
-  },
-  {
-    "title": "Sisley Kadın El Çantası SLY_027 Siyah",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-el-cantasi-sly027-p-13607332",
-    "price": [
-      {
-        "value": "3.745,17 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3745.17,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:11:24.007Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6snujepraae"
-  },
-  {
-    "title": "Sisley Kadın Kol Çantası SLY_024 Siyah",
-    "img": [],
-    "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly024-p-13607347",
-    "price": [
-      {
-        "value": "3.949,80 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3949.8,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": null,
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:11:24.010Z",
-    "imgValid": false,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6snujepraae"
+    "processId": "mf6tm249aew5v"
   }
 ]
