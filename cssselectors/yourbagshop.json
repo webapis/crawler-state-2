@@ -17,7 +17,7 @@
       "count": 9,
       "usedFor": {}
     },
-    ".image img": {
+    ".img-responsive.img-first": {
       "count": 9,
       "usedFor": {}
     },
@@ -45,7 +45,7 @@
         ]
       },
       {
-        "selector": ".image img",
+        "selector": ".img-responsive.img-first",
         "count": 9,
         "usedFor": [
           "image"
