@@ -1,68 +1,53 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".grid-item": {
-      "count": 7,
-      "usedFor": {}
-    },
-    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 1,
-      "usedFor": {}
-    },
-    ".product-layout": {
-      "count": 9,
+    ".main-products.product-grid .product-thumb": {
+      "count": 11,
       "usedFor": {}
     },
     ".name a": {
-      "count": 9,
+      "count": 11,
       "usedFor": {}
     },
     ".img-responsive.img-first": {
-      "count": 9,
+      "count": 11,
       "usedFor": {}
     },
     ".price .price-normal": {
-      "count": 9,
+      "count": 11,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 16,
-    "selectorsFound": 6,
+    "totalObjects": 11,
+    "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".product-layout",
-        "count": 9,
+        "selector": ".main-products.product-grid .product-thumb",
+        "count": 11,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".name a",
-        "count": 9,
+        "count": 11,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".img-responsive.img-first",
-        "count": 9,
+        "count": 11,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".price .price-normal",
-        "count": 9,
+        "count": 11,
         "usedFor": [
           "price"
-        ]
-      },
-      {
-        "selector": ".grid-item",
-        "count": 7,
-        "usedFor": [
-          "main element"
         ]
       }
     ]
