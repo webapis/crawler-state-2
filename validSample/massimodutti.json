@@ -1,37 +1,5 @@
 [
   {
-    "title": null,
-    "img": [
-      "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589",
-      "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589"
-    ],
-    "primaryImg": "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 850w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1024w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1440w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1920w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 2400w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 4000w",
-    "link": "https://www.massimodutti.com/tr/catlak-napa-deri-buyuk-boy-canta-l06920606?pelement=53412186",
-    "price": [],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card .product-media",
-      "titleSelectorMatched": null,
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": null,
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
-    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:35:25.322Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": false,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6isymc8thmu"
-  },
-  {
     "title": "Napa deri satchel çanta",
     "img": [
       "https://static.massimodutti.net/assets/public/605b/df25/aafe4b08a6eb/9cc53b27531d/06919606800-o15/06919606800-o15.jpg?ts=1750836918871&w=1024",
@@ -54,7 +22,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card .product-media",
+      "matchedSelector": ".content-product-card .product-media:has(product-prices)",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -63,7 +31,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:35:25.328Z",
+    "timestamp": "2025-09-05T11:07:38.714Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -71,7 +39,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6isymc8thmu"
+    "processId": "mf6qdvqwpq6cv"
   },
   {
     "title": "Napa deri satchel çanta",
@@ -96,7 +64,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card .product-media",
+      "matchedSelector": ".content-product-card .product-media:has(product-prices)",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -105,7 +73,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:35:25.334Z",
+    "timestamp": "2025-09-05T11:07:38.720Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -113,7 +81,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6isymc8thmu"
+    "processId": "mf6qdvqwpq6cv"
   },
   {
     "title": "Kalın süet deri saten çanta",
@@ -138,7 +106,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card .product-media",
+      "matchedSelector": ".content-product-card .product-media:has(product-prices)",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -147,7 +115,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:35:25.339Z",
+    "timestamp": "2025-09-05T11:07:38.725Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -155,7 +123,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6isymc8thmu"
+    "processId": "mf6qdvqwpq6cv"
   },
   {
     "title": "Kalın süet deri çapraz askılı çanta",
@@ -180,7 +148,7 @@
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-card-figure a)",
-      "matchedSelector": ".content-product-card .product-media",
+      "matchedSelector": ".content-product-card .product-media:has(product-prices)",
       "titleSelectorMatched": ".product-title span",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
@@ -189,7 +157,7 @@
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:35:25.345Z",
+    "timestamp": "2025-09-05T11:07:38.730Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -197,6 +165,48 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6isymc8thmu"
+    "processId": "mf6qdvqwpq6cv"
+  },
+  {
+    "title": "Orta boy deri kalın süet çanta",
+    "img": [
+      "https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=1024",
+      "https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535"
+    ],
+    "primaryImg": "https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=200 200w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=400 400w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=850 850w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=1024 1024w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=1440 1440w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=1920 1920w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535&w=2400 2400w, https://static.massimodutti.net/assets/public/e484/1c9e/c06844e58323/600e8a196c90/06910647711-o15/06910647711-o15.jpg?ts=1750836378535 4000w",
+    "link": "https://www.massimodutti.com/tr/orta-boy-deri-kal%C4%B1n-suet-canta-l06910647?pelement=52230658",
+    "price": [
+      {
+        "value": "9.950,00 TL",
+        "selector": "formatted-price-detail div div",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 9950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card-figure a)",
+      "matchedSelector": ".content-product-card .product-media:has(product-prices)",
+      "titleSelectorMatched": ".product-title span",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "formatted-price-detail div div",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
+    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
+    "timestamp": "2025-09-05T11:07:38.736Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6qdvqwpq6cv"
   }
 ]
