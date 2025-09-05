@@ -33,14 +33,15 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-01T11:15:26.967Z",
+    "timestamp": "2025-09-05T12:00:51.824Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf6saapf2bvhl"
   },
   {
     "title": "Tote Bag Mini Omuz Çantası",
@@ -76,25 +77,114 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-01T11:15:27.028Z",
+    "timestamp": "2025-09-05T12:00:51.859Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf6saapf2bvhl"
   },
   {
-    "title": "Trail Mountaineer Bag Sırt Çantası",
+    "title": "Retreat Small Sırt Çantası",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-652201.jpg?v=1751967850&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-652201.jpg?v=1751967850&width=200"
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-997859.jpg?v=1747745018&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-trail-mountaineer-bag-sirt-cantasi-powder-565030.jpg?v=1751967850&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/trail-mountaineer-bag-sirt-cantasi",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/herschel-retreat-small-sirt-cantasi-lilas-crosshatch-917125.jpg?v=1747745018&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/herschel-retreat-small-sirt-cantasi",
+    "price": [
+      {
+        "value": "4.399 TL - 4.599 TL",
+        "selector": ".boost-sd__format-currency",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .boost-sd__product-link)",
+      "matchedSelector": ".boost-sd__product-item",
+      "titleSelectorMatched": ".boost-sd__product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
+    "timestamp": "2025-09-05T12:01:03.230Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6sajj705gdg"
+  },
+  {
+    "title": "Mix Backpack Mini Sırt Çantası",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-526333.jpg?v=1756880837&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-526333.jpg?v=1756880837&width=200"
+    ],
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-mini-sirt-cantasi-black-204003.jpg?v=1756880837&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/rains-mix-backpack-mini-sirt-cantasi",
+    "price": [
+      {
+        "value": "3.160 TL - 4.107 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 0,
+        "unsetPrice": true
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .boost-sd__product-link)",
+      "matchedSelector": ".boost-sd__product-item",
+      "titleSelectorMatched": ".boost-sd__product-title",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
+    "timestamp": "2025-09-05T12:01:03.245Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6sajj705gdg"
+  },
+  {
+    "title": "Sibu Rolltop Rucksack Sırt Çantası",
+    "img": [
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-909474.jpg?v=1750881937&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-909474.jpg?v=1750881937&width=200"
+    ],
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-sibu-rolltop-rucksack-sirt-cantasi-grey-150462.jpg?v=1750881937&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/rains-sibu-rolltop-rucksack-sirt-cantasi",
     "price": [
       {
         "value": "3.670 TL - 4.770 TL",
@@ -117,101 +207,16 @@
       "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta – Sayfa 3 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=3",
-    "timestamp": "2025-09-01T11:15:37.398Z",
+    "pageTitle": "Kadın Çanta – Sayfa 2 – vitruta",
+    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=2",
+    "timestamp": "2025-09-05T12:01:03.265Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
     "priceValid": false,
     "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Rolltop Rucksack Mini Sırt Çantası",
-    "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-815970.jpg?v=1743217697&width=200"
-    ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-mini-sirt-cantasi-black-258634.jpg?v=1743217697&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-mini-sirt-cantasi-1",
-    "price": [
-      {
-        "value": "2.820 TL - 3.665 TL",
-        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .boost-sd__product-link)",
-      "matchedSelector": ".boost-sd__product-item",
-      "titleSelectorMatched": ".boost-sd__product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta – Sayfa 3 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=3",
-    "timestamp": "2025-09-01T11:15:37.403Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
-  },
-  {
-    "title": "Mix Backpack Sırt Çantası",
-    "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-561515.jpg?v=1744642328&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-561515.jpg?v=1744642328&width=200"
-    ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-mix-backpack-sirt-cantasi-black-557182.jpg?v=1744642328&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/rains-mix-backpack-sirt-cantasi",
-    "price": [
-      {
-        "value": "3.384 TL - 4.400 TL",
-        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .boost-sd__product-link)",
-      "matchedSelector": ".boost-sd__product-item",
-      "titleSelectorMatched": ".boost-sd__product-title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta – Sayfa 3 – vitruta",
-    "pageURL": "https://www.vitruta.com/collections/kadin-canta?page=3",
-    "timestamp": "2025-09-01T11:15:37.424Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": false,
-    "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf6sajj705gdg"
   }
 ]
