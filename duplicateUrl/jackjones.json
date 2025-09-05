@@ -1,5 +1,111 @@
 [
   {
+    "title": "ERKEK BEYZBOL YAKA BOMBER CEKET - CHARGE",
+    "img": [
+      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+    "price": [
+      {
+        "value": "2.190,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2190,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": "article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-05T07:51:02.174Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "originalIndex": 0,
+    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+    "duplicateCount": 12,
+    "duplicateGroup": [
+      {
+        "title": "ERKEK BEYZBOL YAKA BOMBER CEKET - CHARGE",
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 0
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 64
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 144
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 224
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 304
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 384
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 464
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 544
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 624
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 704
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 784
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
+        "originalIndex": 864
+      }
+    ]
+  },
+  {
     "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
     "img": [
       "https://images.jackjones.com.tr/12301194/5055346/003/jackjones-jorunveilingsscrewneckteeft0925-black.jpg?v=9d1956373eb0b7aac1dc04a879744613&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
@@ -21,9 +127,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -31,7 +137,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T05:50:01.688Z",
+    "timestamp": "2025-09-05T07:51:02.177Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,14 +145,14 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "originalIndex": 0,
+    "originalIndex": 1,
     "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12301194_2161/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-    "duplicateCount": 11,
+    "duplicateCount": 12,
     "duplicateGroup": [
       {
         "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301194_2161/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-        "originalIndex": 0
+        "originalIndex": 1
       },
       {
         "title": null,
@@ -97,6 +203,11 @@
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301194_2161/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
         "originalIndex": 780
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12301194_2161/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 860
       }
     ]
   },
@@ -122,9 +233,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -132,7 +243,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T05:50:01.691Z",
+    "timestamp": "2025-09-05T07:51:02.179Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -140,14 +251,14 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "originalIndex": 1,
+    "originalIndex": 2,
     "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12301195_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-    "duplicateCount": 11,
+    "duplicateCount": 12,
     "duplicateGroup": [
       {
         "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301195_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-        "originalIndex": 1
+        "originalIndex": 2
       },
       {
         "title": null,
@@ -198,6 +309,11 @@
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301195_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
         "originalIndex": 781
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12301195_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 861
       }
     ]
   },
@@ -223,9 +339,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -233,7 +349,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T05:50:01.694Z",
+    "timestamp": "2025-09-05T07:51:02.182Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -241,14 +357,14 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "originalIndex": 2,
+    "originalIndex": 3,
     "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12301184_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-    "duplicateCount": 11,
+    "duplicateCount": 12,
     "duplicateGroup": [
       {
         "title": "RAHAT KALIP BİSİKLET YAKA TİŞÖRT",
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301184_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
-        "originalIndex": 2
+        "originalIndex": 3
       },
       {
         "title": null,
@@ -299,6 +415,11 @@
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12301184_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
         "originalIndex": 782
+      },
+      {
+        "title": null,
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12301184_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+        "originalIndex": 862
       }
     ]
   },
@@ -324,9 +445,9 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
       "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-price__list-price",
@@ -334,7 +455,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T05:50:01.696Z",
+    "timestamp": "2025-09-05T07:51:02.184Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -342,165 +463,69 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "originalIndex": 3,
+    "originalIndex": 4,
     "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-    "duplicateCount": 11,
+    "duplicateCount": 12,
     "duplicateGroup": [
       {
         "title": "ERKEK 3'LÜ BOXER PAKETİ - MURPHY",
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 3
+        "originalIndex": 4
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 69
+        "originalIndex": 70
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 149
+        "originalIndex": 150
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 229
+        "originalIndex": 230
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 309
+        "originalIndex": 310
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 389
+        "originalIndex": 390
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 469
+        "originalIndex": 470
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 549
+        "originalIndex": 550
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 629
+        "originalIndex": 630
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 709
+        "originalIndex": 710
       },
       {
         "title": null,
         "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
-        "originalIndex": 789
-      }
-    ]
-  },
-  {
-    "title": "ERKEK POLO YAKA TİŞÖRT - SUMMER",
-    "img": [
-      "https://images.jackjones.com.tr/12285716/4861286/001/jackjones-jorsummerottomanpololsss255-black.png?v=5a8ebb73ea540701dc67586a2ee78ad5&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12285716/4861286/001/jackjones-jorsummerottomanpololsss255-black.png?v=5a8ebb73ea540701dc67586a2ee78ad5&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12285716/4861286/001/jackjones-jorsummerottomanpololsss255-black.png?v=5a8ebb73ea540701dc67586a2ee78ad5&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-    "price": [
-      {
-        "value": "1.290,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1290,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title)",
-      "matchedSelector": "article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-05T05:50:01.838Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "originalIndex": 56,
-    "duplicateUrl": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-    "duplicateCount": 11,
-    "duplicateGroup": [
-      {
-        "title": "ERKEK POLO YAKA TİŞÖRT - SUMMER",
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 56
+        "originalIndex": 790
       },
       {
         "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 73
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 153
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 233
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 313
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 393
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 473
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 553
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 633
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 713
-      },
-      {
-        "title": null,
-        "link": "https://www.jackjones.com.tr/tr-tr/product/12285716_2161/rahat-kal%C4%B1p-polo-polo-ti%C5%9Foert",
-        "originalIndex": 793
+        "link": "https://www.jackjones.com.tr/tr-tr/product/12283379_7823_1209722/mayolar",
+        "originalIndex": 870
       }
     ]
   }
