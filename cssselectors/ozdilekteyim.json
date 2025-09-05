@@ -9,8 +9,8 @@
       "count": 2221,
       "usedFor": {}
     },
-    ".ng-star-inserted": {
-      "count": 2221,
+    ".ls-is-cached.lazyloaded": {
+      "count": 1727,
       "usedFor": {}
     },
     ".current-price": {
@@ -18,17 +18,25 @@
       "usedFor": {}
     },
     ".current-price.promotion-current-price": {
-      "count": 1778,
+      "count": 1776,
+      "usedFor": {}
+    },
+    "[data-srcset]": {
+      "count": 480,
       "usedFor": {}
     },
     ".old-price": {
-      "count": 369,
+      "count": 371,
+      "usedFor": {}
+    },
+    "[data-src]": {
+      "count": 14,
       "usedFor": {}
     }
   },
   "summary": {
     "totalObjects": 2221,
-    "selectorsFound": 6,
+    "selectorsFound": 8,
     "mostCommonSelectors": [
       {
         "selector": "ozd-custom-product-grid-item .carouselItem",
@@ -45,24 +53,24 @@
         ]
       },
       {
-        "selector": ".ng-star-inserted",
-        "count": 2221,
+        "selector": ".current-price.promotion-current-price",
+        "count": 1776,
+        "usedFor": [
+          "price"
+        ]
+      },
+      {
+        "selector": ".ls-is-cached.lazyloaded",
+        "count": 1727,
         "usedFor": [
           "image"
         ]
       },
       {
-        "selector": ".current-price.promotion-current-price",
-        "count": 1778,
+        "selector": "[data-srcset]",
+        "count": 480,
         "usedFor": [
-          "price"
-        ]
-      },
-      {
-        "selector": ".old-price",
-        "count": 369,
-        "usedFor": [
-          "price"
+          "image"
         ]
       }
     ]
