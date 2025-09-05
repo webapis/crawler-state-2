@@ -1,23 +1,23 @@
 [
   {
-    "title": "DERİ GÖRÜNÜMLÜ KARMA AKSESUARLI ÇANTA",
+    "title": "METAL TOKALI DERİ GÖRÜNÜMLÜ ÇANTA",
     "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_1.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052029001.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052029001_1.jpg",
       "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_2.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_3.JPG"
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052029001_2.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052029001_3.JPG"
     ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035.JPG",
-    "link": "https://www.twist.com.tr/urun/bordo-canta-tr-18487",
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052029001.JPG",
+    "link": "https://www.twist.com.tr/urun/siyah-canta-tr-18484",
     "price": [
       {
-        "value": "3.599,00 ₺",
+        "value": "3.999,00 ₺",
         "selector": ".urunListe_satisFiyat",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3599,
+        "numericValue": 3999,
         "unsetPrice": false
       }
     ],
@@ -34,7 +34,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-09-04T08:54:37.895Z",
+    "timestamp": "2025-09-05T03:43:40.886Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -42,7 +42,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf566y6m3vk2g"
+    "processId": "mf6aix057vkb3"
   },
   {
     "title": "DERİ GÖRÜNÜMLÜ KARMA CHARM LI ÇANTA",
@@ -79,7 +79,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-09-04T08:54:37.898Z",
+    "timestamp": "2025-09-05T03:43:40.889Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -87,7 +87,52 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf566y6m3vk2g"
+    "processId": "mf6aix057vkb3"
+  },
+  {
+    "title": "DERİ GÖRÜNÜMLÜ KARMA AKSESUARLI ÇANTA",
+    "img": [
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_1.JPG",
+      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_2.JPG",
+      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035_3.JPG"
+    ],
+    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052027035.JPG",
+    "link": "https://www.twist.com.tr/urun/bordo-canta-tr-18487",
+    "price": [
+      {
+        "value": "3.599,00 ₺",
+        "selector": ".urunListe_satisFiyat",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3599,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".urunListe_satisFiyat",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Twist",
+    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
+    "timestamp": "2025-09-05T03:43:40.892Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6aix057vkb3"
   },
   {
     "title": "DERİ GÖRÜNÜMLÜ KARMA AKSESUARLI ÇANTA",
@@ -124,7 +169,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-09-04T08:54:37.901Z",
+    "timestamp": "2025-09-05T03:43:40.896Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -132,7 +177,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf566y6m3vk2g"
+    "processId": "mf6aix057vkb3"
   },
   {
     "title": "TROK BASKILI DERİ GÖRÜNÜMLÜ ÇANTA",
@@ -169,7 +214,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Twist",
     "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-09-04T08:54:37.905Z",
+    "timestamp": "2025-09-05T03:43:40.899Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -177,51 +222,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf566y6m3vk2g"
-  },
-  {
-    "title": "DEGRADE RENK GEÇİŞLİ ÇANTA",
-    "img": [
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_2.JPG",
-      "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Vw8AAoEBfymqrywAAAAASUVORK5CYII=",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_3.JPG",
-      "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074_4.JPG"
-    ],
-    "primaryImg": "https://img2-twist.mncdn.com/mnresize/2400/-//Twist/products/FW2526/Stillife/TW6250052038074.JPG",
-    "link": "https://www.twist.com.tr/urun/kahverengi-canta-tr-18607",
-    "price": [
-      {
-        "value": "3.999,00 ₺",
-        "selector": ".urunListe_satisFiyat",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".urunListe_satisFiyat",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Twist",
-    "pageURL": "https://www.twist.com.tr/aksesuar/kadin-canta-modelleri",
-    "timestamp": "2025-09-04T08:54:37.909Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf566y6m3vk2g"
+    "processId": "mf6aix057vkb3"
   }
 ]
