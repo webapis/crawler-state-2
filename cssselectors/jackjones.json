@@ -1,7 +1,7 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".product-list__products .product-tile-core": {
+    ".product-list__products article.product-tile-core": {
       "count": 802,
       "usedFor": {}
     },
@@ -23,7 +23,7 @@
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".product-list__products .product-tile-core",
+        "selector": ".product-list__products article.product-tile-core",
         "count": 802,
         "usedFor": [
           "main element"
