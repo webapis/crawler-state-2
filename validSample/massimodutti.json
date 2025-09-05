@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "title": null,
+    "img": [],
+    "primaryImg": null,
+    "link": null,
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": null,
+      "matchedSelector": "[data-id]",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": null,
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
+    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
+    "timestamp": "2025-09-05T07:24:04.427Z",
+    "imgValid": false,
+    "linkValid": false,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6iecb1dntee"
+  }
+]
