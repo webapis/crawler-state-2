@@ -1,53 +1,53 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    "article.product-tile-core": {
-      "count": 880,
+    ".product-list__products .product-tile-core": {
+      "count": 802,
       "usedFor": {}
     },
     ".product-tile-info__title-container a": {
-      "count": 660,
+      "count": 802,
       "usedFor": {}
     },
     "[srcset]": {
-      "count": 880,
+      "count": 802,
       "usedFor": {}
     },
     ".product-price__list-price": {
-      "count": 880,
+      "count": 802,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 880,
+    "totalObjects": 802,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": "article.product-tile-core",
-        "count": 880,
+        "selector": ".product-list__products .product-tile-core",
+        "count": 802,
         "usedFor": [
           "main element"
         ]
       },
       {
+        "selector": ".product-tile-info__title-container a",
+        "count": 802,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
         "selector": "[srcset]",
-        "count": 880,
+        "count": 802,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".product-price__list-price",
-        "count": 880,
+        "count": 802,
         "usedFor": [
           "price"
-        ]
-      },
-      {
-        "selector": ".product-tile-info__title-container a",
-        "count": 660,
-        "usedFor": [
-          "title"
         ]
       }
     ]
