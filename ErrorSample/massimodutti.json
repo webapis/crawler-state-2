@@ -1,31 +1,98 @@
 [
   {
     "title": null,
-    "img": [],
-    "primaryImg": null,
-    "link": null,
+    "img": [
+      "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589",
+      "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589"
+    ],
+    "primaryImg": "https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 850w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1024w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1440w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 1920w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 2400w, https://static.massimodutti.net/assets/public/a519/3a07/ee3b433d9d9e/5c74f9c3e788/0692060670001-v1/poster.jpg?ts=1756726725589 4000w",
+    "link": "https://www.massimodutti.com/tr/catlak-napa-deri-buyuk-boy-canta-l06920606?pelement=53412186",
     "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": "[data-id]",
+      "linkSource": "linkElement (matched: .product-card-figure a)",
+      "matchedSelector": ".content-product-card .product-media",
       "titleSelectorMatched": null,
-      "imgSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
       "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
     "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
-    "timestamp": "2025-09-05T07:24:04.427Z",
-    "imgValid": false,
-    "linkValid": false,
+    "timestamp": "2025-09-05T07:35:25.322Z",
+    "imgValid": true,
+    "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6iecb1dntee"
+    "processId": "mf6isymc8thmu"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312",
+      "https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312"
+    ],
+    "primaryImg": "https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 200w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 400w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 850w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 1024w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 1440w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 1920w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 2400w, https://static.massimodutti.net/assets/public/db70/3761/b56940a29fe2/c5fc701ec4fe/0691364770001-v2/poster.jpg?ts=1756723053312 4000w",
+    "link": "https://www.massimodutti.com/tr/kucuk-kal%C4%B1n-suet-deri-canta-l06913647?pelement=56496132",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card-figure a)",
+      "matchedSelector": ".content-product-card .product-media",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
+    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
+    "timestamp": "2025-09-05T07:35:25.501Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6isymc8thmu"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034",
+      "https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034"
+    ],
+    "primaryImg": "https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 850w, https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 1024w, https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 1440w, https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 1920w, https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 2400w, https://static.massimodutti.net/assets/public/884d/3cd0/cef9466d9a5f/dc83b58126ce/0691960660604-v9d/poster.jpg?ts=1756729520034 4000w",
+    "link": "https://www.massimodutti.com/tr/napa-deri-satchel-canta-l06919606?pelement=56433455",
+    "price": [],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-card-figure a)",
+      "matchedSelector": ".content-product-card .product-media",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": null,
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta - Massimo Dutti - TR",
+    "pageURL": "https://www.massimodutti.com/tr/kadin/el-cantalari-n1597?banner=true",
+    "timestamp": "2025-09-05T07:35:25.732Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": false,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf6isymc8thmu"
   }
 ]
