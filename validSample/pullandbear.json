@@ -31,7 +31,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-05T06:46:37.070Z",
+    "timestamp": "2025-09-06T04:03:43.087Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +39,49 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6h26qmgc0we"
+    "processId": "mf7qojrdbld37"
+  },
+  {
+    "title": "Süslemeli omuz çantası",
+    "img": [
+      "https://static.pullandbear.net/assets/public/2ddb/262b/3bb74faa84f9/7c5ede550fda/14211640100-D2/14211640100-D2.jpg?ts=1756994664500&w=888&f=auto",
+      "https://static.pullandbear.net/assets/public/967b/cf3d/327d420f9939/6928fdf6c1d9/14211640100-M/14211640100-M.jpg?ts=1756822909396&w=888&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/2ddb/262b/3bb74faa84f9/7c5ede550fda/14211640100-D2/14211640100-D2.jpg?ts=1756994664500&w=888&f=auto",
+    "link": "https://www.pullandbear.com/tr/suslemeli-omuz-cantas%C4%B1-l14211640?cS=100&pelement=701190259",
+    "price": [
+      {
+        "value": "1.190,00 TL",
+        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+        "attribute": "textContent",
+        "isJavaScript": true,
+        "isShadowDOM": true,
+        "numericValue": 1190,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+      "priceExtractedFromShadowDOM": true
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-09-06T04:03:43.091Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf7qojrdbld37"
   },
   {
     "title": "Çiçekli omuz çantası",
@@ -73,7 +115,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-05T06:46:37.074Z",
+    "timestamp": "2025-09-06T04:03:43.095Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,7 +123,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6h26qmgc0we"
+    "processId": "mf7qojrdbld37"
   },
   {
     "title": "Urban shopper çanta",
@@ -115,7 +157,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-05T06:46:37.078Z",
+    "timestamp": "2025-09-06T04:03:43.099Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,7 +165,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6h26qmgc0we"
+    "processId": "mf7qojrdbld37"
   },
   {
     "title": "Çok cepli tote çanta",
@@ -157,7 +199,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-05T06:46:37.081Z",
+    "timestamp": "2025-09-06T04:03:43.102Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,48 +207,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6h26qmgc0we"
-  },
-  {
-    "title": "Suni deri shopper çanta",
-    "img": [
-      "https://static.pullandbear.net/assets/public/bf8e/c730/bdcb4329873c/510004058527/14024540040-m/14024540040-m.jpg?ts=1741766986141&w=888&f=auto",
-      "https://static.pullandbear.net/assets/public/16f1/e9d5/0eca444780b7/09aa1595dad7/14024540040-a2m/14024540040-a2m.jpg?ts=1741766984678&w=888&f=auto"
-    ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/bf8e/c730/bdcb4329873c/510004058527/14024540040-m/14024540040-m.jpg?ts=1741766986141&w=888&f=auto",
-    "link": "https://www.pullandbear.com/tr/suni-deri-shopper-canta-l14024540?cS=040&pelement=692161334",
-    "price": [
-      {
-        "value": "1.590,00 TL",
-        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "isShadowDOM": true,
-        "numericValue": 1590,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.carousel-item-container)",
-      "matchedSelector": ".c-tile.c-tile--product",
-      "titleSelectorMatched": "span.product-name",
-      "imgSelectorMatched": "img.image-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-      "priceExtractedFromShadowDOM": true
-    },
-    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
-    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-05T06:46:37.085Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6h26qmgc0we"
+    "processId": "mf7qojrdbld37"
   }
 ]
