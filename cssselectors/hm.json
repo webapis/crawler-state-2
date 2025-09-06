@@ -10,7 +10,7 @@
       "usedFor": {}
     },
     "[data-testid='next-image'] img": {
-      "count": 103,
+      "count": 102,
       "usedFor": {}
     },
     "[data-articlecode] div div p span": {
@@ -37,17 +37,17 @@
         ]
       },
       {
-        "selector": "[data-testid='next-image'] img",
-        "count": 103,
-        "usedFor": [
-          "image"
-        ]
-      },
-      {
         "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
         "count": 102,
         "usedFor": [
           "title"
+        ]
+      },
+      {
+        "selector": "[data-testid='next-image'] img",
+        "count": 102,
+        "usedFor": [
+          "image"
         ]
       }
     ]
