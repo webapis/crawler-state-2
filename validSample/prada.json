@@ -29,14 +29,14 @@
       "linkSource": "titleElement (matched: .product-card__link)",
       "matchedSelector": "article.product-card",
       "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[data-srcset]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-card__price--new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-09-05T06:35:10.937Z",
+    "timestamp": "2025-09-06T03:48:28.596Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -44,7 +44,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gngvcixsgx"
+    "processId": "mf7q4xou3q65y"
   },
   {
     "title": "FROM THE RUNWAY\n\nChevron Yün Midi Etek\n\n95.000 TL",
@@ -76,14 +76,14 @@
       "linkSource": "titleElement (matched: .product-card__link)",
       "matchedSelector": "article.product-card",
       "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[data-srcset]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-card__price--new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-09-05T06:35:10.940Z",
+    "timestamp": "2025-09-06T03:48:28.599Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -91,7 +91,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gngvcixsgx"
+    "processId": "mf7q4xou3q65y"
   },
   {
     "title": "FROM THE RUNWAY\n\nPamuk Gömlek\n\n81.500 TL",
@@ -123,14 +123,14 @@
       "linkSource": "titleElement (matched: .product-card__link)",
       "matchedSelector": "article.product-card",
       "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[data-srcset]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-card__price--new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-09-05T06:35:10.943Z",
+    "timestamp": "2025-09-06T03:48:28.602Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -138,7 +138,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gngvcixsgx"
+    "processId": "mf7q4xou3q65y"
   },
   {
     "title": "FROM THE RUNWAY\n\nPamuklu Midi Etek\n\n62.500 TL",
@@ -170,14 +170,14 @@
       "linkSource": "titleElement (matched: .product-card__link)",
       "matchedSelector": "article.product-card",
       "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[data-srcset]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-card__price--new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-09-05T06:35:10.945Z",
+    "timestamp": "2025-09-06T03:48:28.605Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -185,7 +185,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gngvcixsgx"
+    "processId": "mf7q4xou3q65y"
   },
   {
     "title": "FROM THE RUNWAY\n\nFil-à-fil Gömlek\n\n65.000 TL",
@@ -224,7 +224,7 @@
     },
     "pageTitle": "Hazır Giyim - Kadın | PRADA",
     "pageURL": "https://www.prada.com/tr/tr/womens/ready-to-wear/c/10048TR",
-    "timestamp": "2025-09-05T06:35:10.948Z",
+    "timestamp": "2025-09-06T03:48:28.607Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -232,6 +232,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6gngvcixsgx"
+    "processId": "mf7q4xou3q65y"
   }
 ]
