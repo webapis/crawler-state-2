@@ -2,15 +2,15 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".boost-sd__product-item": {
-      "count": 156,
+      "count": 157,
       "usedFor": {}
     },
     ".boost-sd__product-title": {
-      "count": 156,
+      "count": 157,
       "usedFor": {}
     },
     "[srcset]": {
-      "count": 156,
+      "count": 157,
       "usedFor": {}
     },
     ".boost-sd__format-currency": {
@@ -18,31 +18,31 @@
       "usedFor": {}
     },
     ".boost-sd__product-price--sale .boost-sd__format-currency": {
-      "count": 50,
+      "count": 51,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 156,
+    "totalObjects": 157,
     "selectorsFound": 5,
     "mostCommonSelectors": [
       {
         "selector": ".boost-sd__product-item",
-        "count": 156,
+        "count": 157,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".boost-sd__product-title",
-        "count": 156,
+        "count": 157,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[srcset]",
-        "count": 156,
+        "count": 157,
         "usedFor": [
           "image"
         ]
@@ -56,7 +56,7 @@
       },
       {
         "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
-        "count": 50,
+        "count": 51,
         "usedFor": [
           "price"
         ]
