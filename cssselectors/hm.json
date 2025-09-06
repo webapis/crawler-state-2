@@ -1,7 +1,7 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    "article[data-category]": {
+    "li div article[data-articlecode][data-category]": {
       "count": 104,
       "usedFor": {}
     },
@@ -10,7 +10,7 @@
       "usedFor": {}
     },
     "[data-testid='next-image'] img": {
-      "count": 102,
+      "count": 103,
       "usedFor": {}
     },
     "[data-articlecode] div div p span": {
@@ -23,7 +23,7 @@
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": "article[data-category]",
+        "selector": "li div article[data-articlecode][data-category]",
         "count": 104,
         "usedFor": [
           "main element"
@@ -37,17 +37,17 @@
         ]
       },
       {
+        "selector": "[data-testid='next-image'] img",
+        "count": 103,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
         "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
         "count": 102,
         "usedFor": [
           "title"
-        ]
-      },
-      {
-        "selector": "[data-testid='next-image'] img",
-        "count": 102,
-        "usedFor": [
-          "image"
         ]
       }
     ]
