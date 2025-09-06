@@ -1,19 +1,60 @@
 [
   {
-    "title": null,
     "img": [
-      "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=1648&f=auto"
+      "https://static.pullandbear.net/assets/public/204d/1f0e/256742bba4ef/17b296891440/14207640197-M/14207640197-M.jpg?ts=1754653991802&w=611&f=auto",
+      "https://static.pullandbear.net/assets/public/f4e5/57d2/d5aa42c68c5e/205390867b00/14207640197-A2M/14207640197-A2M.jpg?ts=1754653989888&w=611&f=auto"
     ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=1648&f=auto",
-    "link": null,
+    "primaryImg": "https://static.pullandbear.net/assets/public/204d/1f0e/256742bba4ef/17b296891440/14207640197-M/14207640197-M.jpg?ts=1754653991802&w=611&f=auto",
+    "link": "https://www.pullandbear.com/tr/-l14207640?cS=197&pelement=698993692",
     "price": [
       {
-        "value": "990,00 TL",
+        "value": "790,00 TL",
         "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
         "attribute": "textContent",
         "isJavaScript": true,
         "isShadowDOM": true,
-        "numericValue": 990,
+        "numericValue": 790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+      "priceExtractedFromShadowDOM": true
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-09-06T05:17:25.763Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf7tbc0onw3cr"
+  },
+  {
+    "title": null,
+    "img": [
+      "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=611&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/1cb4/93cd/0bcf48d99450/59eb618b4b4b/M3107202510-M/M3107202510-M.jpg?ts=1753973793409&w=611&f=auto",
+    "link": null,
+    "price": [
+      {
+        "value": "1.390,00 TL",
+        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+        "attribute": "textContent",
+        "isJavaScript": true,
+        "isShadowDOM": true,
+        "numericValue": 1390,
         "unsetPrice": false
       }
     ],
@@ -30,13 +71,14 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-01T11:21:56.186Z",
+    "timestamp": "2025-09-06T05:17:25.777Z",
     "imgValid": true,
     "linkValid": false,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
-    "mediaType": "image"
+    "mediaType": "image",
+    "processId": "mf7tbc0onw3cr"
   }
 ]
