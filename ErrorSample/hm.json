@@ -1,6 +1,6 @@
 [
   {
-    "title": null,
+    "title": "This video is either unavailable or not supported in this browser",
     "img": [],
     "primaryImg": null,
     "link": null,
@@ -20,7 +20,7 @@
     "matchedInfo": {
       "linkSource": null,
       "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
       "bestPriceSelector": "[data-articlecode] div div p span",
@@ -28,19 +28,19 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-06T05:48:58.073Z",
+    "timestamp": "2025-09-06T05:59:23.246Z",
     "imgValid": false,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7ufw027ifep",
+    "processId": "mf7utadty2nkf",
     "index": 10
   },
   {
-    "title": null,
+    "title": "This video is either unavailable or not supported in this browser",
     "img": [],
     "primaryImg": null,
     "link": null,
@@ -60,7 +60,7 @@
     "matchedInfo": {
       "linkSource": null,
       "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
       "imgSelectorMatched": null,
       "videoSelectorMatched": null,
       "bestPriceSelector": "[data-articlecode] div div p span",
@@ -68,15 +68,15 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html?page=2",
-    "timestamp": "2025-09-06T05:49:19.702Z",
+    "timestamp": "2025-09-06T05:59:47.930Z",
     "imgValid": false,
     "linkValid": false,
-    "titleValid": false,
+    "titleValid": true,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7ugcoo2opne",
+    "processId": "mf7uttfxwuu0u",
     "index": 4
   }
 ]
