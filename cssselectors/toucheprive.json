@@ -5,24 +5,35 @@
       "count": 4,
       "usedFor": {}
     },
-    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 1,
+    ".deskTitle": {
+      "count": 4,
       "usedFor": {}
     },
     "[data-lazy-bgset-src]": {
+      "count": 4,
+      "usedFor": {}
+    },
+    ".money": {
       "count": 4,
       "usedFor": {}
     }
   },
   "summary": {
     "totalObjects": 4,
-    "selectorsFound": 3,
+    "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".product-block",
         "count": 4,
         "usedFor": [
           "main element"
+        ]
+      },
+      {
+        "selector": ".deskTitle",
+        "count": 4,
+        "usedFor": [
+          "title"
         ]
       },
       {
@@ -33,10 +44,10 @@
         ]
       },
       {
-        "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-        "count": 1,
+        "selector": ".money",
+        "count": 4,
         "usedFor": [
-          "title"
+          "price"
         ]
       }
     ]
