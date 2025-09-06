@@ -5,8 +5,8 @@
       "count": 104,
       "usedFor": {}
     },
-    "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])": {
-      "count": 102,
+    "li div article[data-articlecode][data-category] div a h2": {
+      "count": 104,
       "usedFor": {}
     },
     "[data-testid='next-image'] img": {
@@ -30,17 +30,17 @@
         ]
       },
       {
+        "selector": "li div article[data-articlecode][data-category] div a h2",
+        "count": 104,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
         "selector": "[data-articlecode] div div p span",
         "count": 104,
         "usedFor": [
           "price"
-        ]
-      },
-      {
-        "selector": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-        "count": 102,
-        "usedFor": [
-          "title"
         ]
       },
       {
