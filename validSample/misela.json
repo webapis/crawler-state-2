@@ -11,12 +11,12 @@
     "link": "https://www.misela.com/products/edna-at-anatolia-dark-taupe-black-l-ss24?variant=41835894440038",
     "price": [
       {
-        "value": "31.000TL",
+        "value": "36.000TL",
         "selector": ".price__regular span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 31000,
+        "numericValue": 36000,
         "unsetPrice": false
       }
     ],
@@ -33,7 +33,7 @@
     },
     "pageTitle": "Made to Order – MISELA",
     "pageURL": "https://www.misela.com/collections/mto",
-    "timestamp": "2025-09-05T06:53:18.869Z",
+    "timestamp": "2025-09-06T04:13:23.992Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6hasaq8srvy"
+    "processId": "mf7r0zifwvo55"
   },
   {
     "title": "Go to Luna at Anatolia",
@@ -55,12 +55,12 @@
     "link": "https://www.misela.com/products/luna-at-anatolia-light-taupe-anthracite-one-size-ss24?variant=41835212144742",
     "price": [
       {
-        "value": "15.000TL",
+        "value": "16.000TL",
         "selector": ".price__regular span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 15000,
+        "numericValue": 16000,
         "unsetPrice": false
       }
     ],
@@ -77,7 +77,7 @@
     },
     "pageTitle": "Made to Order – MISELA",
     "pageURL": "https://www.misela.com/collections/mto",
-    "timestamp": "2025-09-05T06:53:18.872Z",
+    "timestamp": "2025-09-06T04:13:23.996Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +85,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6hasaq8srvy"
+    "processId": "mf7r0zifwvo55"
   },
   {
     "title": "Go to Lorna at Anatolia",
@@ -99,6 +99,94 @@
     "link": "https://www.misela.com/products/lorna-at-anatolia-black-anthracite-l-ss24?variant=41835205525606",
     "price": [
       {
+        "value": "16.000TL",
+        "selector": ".price__regular span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 16000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-card__link)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-card__link",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price__regular span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Made to Order – MISELA",
+    "pageURL": "https://www.misela.com/collections/mto",
+    "timestamp": "2025-09-06T04:13:23.999Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf7r0zifwvo55"
+  },
+  {
+    "title": "Go to Gabriela at Anatolia",
+    "img": [
+      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=840",
+      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=64",
+      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry-2.jpg?v=1744401894&width=840",
+      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry-2.jpg?v=1744401894&width=64"
+    ],
+    "primaryImg": " //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=360 360w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=480 480w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=600 600w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=720 720w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=840 840w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=960 960w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1280 1280w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1440 1440w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1800 1800w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=2160 2160w",
+    "link": "https://www.misela.com/products/gabriela-at-anatolia-dark-taupe-black-m-ss24?variant=41835550179430",
+    "price": [
+      {
+        "value": "21.500TL",
+        "selector": ".price__regular span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 21500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-card__link)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-card__link",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price__regular span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Made to Order – MISELA",
+    "pageURL": "https://www.misela.com/collections/mto",
+    "timestamp": "2025-09-06T04:13:24.001Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf7r0zifwvo55"
+  },
+  {
+    "title": "Go to Lara at Anatolia",
+    "img": [
+      "https://www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=840",
+      "https://www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=64",
+      "https://www.misela.com/cdn/shop/files/Black-black-anthracite_57062c6e-7af7-4147-a908-4e53098616fd.jpg?v=1744397077&width=720",
+      "https://www.misela.com/cdn/shop/files/Black-black-anthracite_57062c6e-7af7-4147-a908-4e53098616fd.jpg?v=1744397077&width=64"
+    ],
+    "primaryImg": " //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=360 360w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=480 480w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=600 600w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=720 720w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=840 840w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=960 960w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1280 1280w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1440 1440w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1800 1800w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=2160 2160w",
+    "link": "https://www.misela.com/products/lara-at-anatolia-black-anthracite-l-ss24?variant=41835208671334",
+    "price": [
+      {
         "value": "15.000TL",
         "selector": ".price__regular span:nth-child(2)",
         "attribute": "textContent",
@@ -121,7 +209,7 @@
     },
     "pageTitle": "Made to Order – MISELA",
     "pageURL": "https://www.misela.com/collections/mto",
-    "timestamp": "2025-09-05T06:53:18.875Z",
+    "timestamp": "2025-09-06T04:13:24.004Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,94 +217,6 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6hasaq8srvy"
-  },
-  {
-    "title": "Go to Gabriela at Anatolia",
-    "img": [
-      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=840",
-      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=64",
-      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry-2.jpg?v=1744401894&width=840",
-      "https://www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry-2.jpg?v=1744401894&width=64"
-    ],
-    "primaryImg": " //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=360 360w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=480 480w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=600 600w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=720 720w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=840 840w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=960 960w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1280 1280w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1440 1440w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=1800 1800w, //www.misela.com/cdn/shop/files/gabriela-at-anatolia-medium-dark-taupe-black-cherry.jpg?v=1744401894&width=2160 2160w",
-    "link": "https://www.misela.com/products/gabriela-at-anatolia-dark-taupe-black-m-ss24?variant=41835550179430",
-    "price": [
-      {
-        "value": "18.500TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 18500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-card__link)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price__regular span:nth-child(2)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Made to Order – MISELA",
-    "pageURL": "https://www.misela.com/collections/mto",
-    "timestamp": "2025-09-05T06:53:18.877Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6hasaq8srvy"
-  },
-  {
-    "title": "Go to Lara at Anatolia",
-    "img": [
-      "https://www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=840",
-      "https://www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=64",
-      "https://www.misela.com/cdn/shop/files/Black-black-anthracite_57062c6e-7af7-4147-a908-4e53098616fd.jpg?v=1744397077&width=720",
-      "https://www.misela.com/cdn/shop/files/Black-black-anthracite_57062c6e-7af7-4147-a908-4e53098616fd.jpg?v=1744397077&width=64"
-    ],
-    "primaryImg": " //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=360 360w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=480 480w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=600 600w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=720 720w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=840 840w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=960 960w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1280 1280w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1440 1440w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=1800 1800w, //www.misela.com/cdn/shop/files/lara-at-anatolia-l-black-anthracite-black_5ba822dd-051c-409a-81ab-4348dc87c995.jpg?v=1744397077&width=2160 2160w",
-    "link": "https://www.misela.com/products/lara-at-anatolia-black-anthracite-l-ss24?variant=41835208671334",
-    "price": [
-      {
-        "value": "14.000TL",
-        "selector": ".price__regular span:nth-child(2)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 14000,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-card__link)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": ".product-card__link",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price__regular span:nth-child(2)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Made to Order – MISELA",
-    "pageURL": "https://www.misela.com/collections/mto",
-    "timestamp": "2025-09-05T06:53:18.880Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf6hasaq8srvy"
+    "processId": "mf7r0zifwvo55"
   }
 ]
