@@ -1,6 +1,5 @@
 [
   {
-    "title": "PLEATED SKIRT",
     "img": [
       "https://int.toucheprive.com/cdn/shop/files/24S1R0004_103_24S_01_01.jpg?v=1752844013",
       "https://int.toucheprive.com/cdn/shop/files/24S1R0004_103_24S_01_01_720x.jpg?v=1752844013",
@@ -17,33 +16,51 @@
       "https://int.toucheprive.com/cdn/shop/files/24S1R0004_103_24S_02_01_360x.jpg?v=1752844017"
     ],
     "primaryImg": "//int.toucheprive.com/cdn/shop/files/24S1R0004_103_24S_01_01.jpg?v=1752844013",
-    "link": "https://int.toucheprive.com/products/pleated-skirt-29",
-    "price": [],
+    "link": "https://int.toucheprive.com/products/pleated-skirt-37",
+    "price": [
+      {
+        "value": "$19.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 668.32,
+        "unsetPrice": false
+      },
+      {
+        "value": "$14.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 500.82,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "linkSource": "linkElement (matched: .product-info a)",
       "matchedSelector": ".product-block",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "titleSelectorMatched": ".deskTitle",
       "imgSelectorMatched": "[data-lazy-bgset-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-06T04:56:02.668Z",
+    "timestamp": "2025-09-06T05:03:17.198Z",
     "imgValid": true,
     "linkValid": true,
-    "titleValid": true,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7sjtrs3srak"
+    "processId": "mf7st525mlo11"
   },
   {
-    "title": null,
     "img": [
       "https://int.toucheprive.com/cdn/shop/files/25Y3CZM019_100_25Y_01_01.jpg?v=1750185152",
       "https://int.toucheprive.com/cdn/shop/files/25Y3CZM019_100_25Y_01_01_720x.jpg?v=1750185152",
@@ -59,32 +76,50 @@
     ],
     "primaryImg": "//int.toucheprive.com/cdn/shop/files/25Y3CZM019_100_25Y_01_01.jpg?v=1750185152",
     "link": "https://int.toucheprive.com/products/gold-buttoned-cupra-tunic",
-    "price": [],
+    "price": [
+      {
+        "value": "$89.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3013.33,
+        "unsetPrice": false
+      },
+      {
+        "value": "$44.98",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1506.83,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-info a)",
       "matchedSelector": ".product-block",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".deskTitle",
       "imgSelectorMatched": "[data-lazy-bgset-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-06T04:56:02.671Z",
+    "timestamp": "2025-09-06T05:03:17.202Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7sjtrs3srak"
+    "processId": "mf7st525mlo11"
   },
   {
-    "title": null,
     "img": [
       "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_02_01.jpg?v=1746457652",
       "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_02_01_720x.jpg?v=1746457652",
@@ -98,32 +133,50 @@
     ],
     "primaryImg": "//int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_02_01.jpg?v=1746457652",
     "link": "https://int.toucheprive.com/products/kemer-detayli-elbi%CC%87se-4",
-    "price": [],
+    "price": [
+      {
+        "value": "$129.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4353.32,
+        "unsetPrice": false
+      },
+      {
+        "value": "$64.98",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2176.83,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-info a)",
       "matchedSelector": ".product-block",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".deskTitle",
       "imgSelectorMatched": "[data-lazy-bgset-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-06T04:56:02.674Z",
+    "timestamp": "2025-09-06T05:03:17.205Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7sjtrs3srak"
+    "processId": "mf7st525mlo11"
   },
   {
-    "title": null,
     "img": [
       "https://int.toucheprive.com/cdn/shop/files/25Y2CBU005_173_25Y_01_02.jpg?v=1753881621",
       "https://int.toucheprive.com/cdn/shop/files/25Y2CBU005_173_25Y_01_02_720x.jpg?v=1753881621",
@@ -131,28 +184,47 @@
     ],
     "primaryImg": "//int.toucheprive.com/cdn/shop/files/25Y2CBU005_173_25Y_01_02.jpg?v=1753881621",
     "link": "https://int.toucheprive.com/products/ekoseli%CC%87-gomlek-5",
-    "price": [],
+    "price": [
+      {
+        "value": "$54.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1840.83,
+        "unsetPrice": false
+      },
+      {
+        "value": "$27.48",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 920.58,
+        "unsetPrice": false
+      }
+    ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
       "linkSource": "linkElement (matched: .product-info a)",
       "matchedSelector": ".product-block",
-      "titleSelectorMatched": null,
+      "titleSelectorMatched": ".deskTitle",
       "imgSelectorMatched": "[data-lazy-bgset-src]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": null,
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-06T04:56:02.677Z",
+    "timestamp": "2025-09-06T05:03:17.208Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7sjtrs3srak"
+    "processId": "mf7st525mlo11"
   }
 ]
