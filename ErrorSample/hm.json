@@ -28,7 +28,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-06T05:42:34.282Z",
+    "timestamp": "2025-09-06T05:48:58.073Z",
     "imgValid": false,
     "linkValid": false,
     "titleValid": false,
@@ -36,15 +36,13 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7u7nvaughsu"
+    "processId": "mf7ufw027ifep",
+    "index": 10
   },
   {
     "title": null,
-    "img": [
-      "https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=564",
-      "https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/19/4c/194ca2cf400d6b7b45846405af591bb5955f1a02.jpg?imwidth=1536 1536w",
+    "img": [],
+    "primaryImg": null,
     "link": null,
     "price": [
       {
@@ -63,21 +61,22 @@
       "linkSource": null,
       "matchedSelector": "li div article[data-articlecode][data-category]",
       "titleSelectorMatched": null,
-      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "imgSelectorMatched": null,
       "videoSelectorMatched": null,
       "bestPriceSelector": "[data-articlecode] div div p span",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html?page=2",
-    "timestamp": "2025-09-06T05:42:56.412Z",
-    "imgValid": true,
+    "timestamp": "2025-09-06T05:49:19.702Z",
+    "imgValid": false,
     "linkValid": false,
     "titleValid": false,
     "pageTitleValid": true,
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7u84y7eitcx"
+    "processId": "mf7ugcoo2opne",
+    "index": 4
   }
 ]
