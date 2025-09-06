@@ -2,75 +2,67 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "ozd-custom-product-grid-item .carouselItem": {
-      "count": 2221,
+      "count": 2191,
       "usedFor": {}
     },
     ".product-item-info a": {
-      "count": 2221,
+      "count": 2191,
       "usedFor": {}
     },
-    ".ls-is-cached.lazyloaded": {
-      "count": 1727,
-      "usedFor": {}
-    },
-    ".current-price": {
-      "count": 74,
+    ".ng-star-inserted": {
+      "count": 2191,
       "usedFor": {}
     },
     ".current-price.promotion-current-price": {
-      "count": 1776,
+      "count": 1757,
       "usedFor": {}
     },
-    "[data-srcset]": {
-      "count": 480,
+    ".current-price": {
+      "count": 67,
       "usedFor": {}
     },
     ".old-price": {
-      "count": 371,
-      "usedFor": {}
-    },
-    "[data-src]": {
-      "count": 14,
+      "count": 367,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 2221,
-    "selectorsFound": 8,
+    "totalObjects": 2191,
+    "selectorsFound": 6,
     "mostCommonSelectors": [
       {
         "selector": "ozd-custom-product-grid-item .carouselItem",
-        "count": 2221,
+        "count": 2191,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-item-info a",
-        "count": 2221,
+        "count": 2191,
         "usedFor": [
           "title"
         ]
       },
       {
+        "selector": ".ng-star-inserted",
+        "count": 2191,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
         "selector": ".current-price.promotion-current-price",
-        "count": 1776,
+        "count": 1757,
         "usedFor": [
           "price"
         ]
       },
       {
-        "selector": ".ls-is-cached.lazyloaded",
-        "count": 1727,
+        "selector": ".old-price",
+        "count": 367,
         "usedFor": [
-          "image"
-        ]
-      },
-      {
-        "selector": "[data-srcset]",
-        "count": 480,
-        "usedFor": [
-          "image"
+          "price"
         ]
       }
     ]
