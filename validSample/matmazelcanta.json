@@ -12,11 +12,20 @@
     "price": [
       {
         "value": "2,299.00 TL",
-        "selector": "sale-price",
+        "selector": ".money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
         "numericValue": 2299,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,850.00 TL",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3850,
         "unsetPrice": false
       }
     ],
@@ -28,12 +37,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price",
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-09-06T04:09:21.848Z",
+    "timestamp": "2025-09-07T09:43:32.708Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +50,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qvtaqx6vua"
+    "processId": "mf9i9fberc4a4",
+    "index": 0
   },
   {
     "title": "Matmazel Yelena Siyah Kadın Omuz Çantası",
@@ -56,11 +66,20 @@
     "price": [
       {
         "value": "2,299.00 TL",
-        "selector": "sale-price",
+        "selector": ".money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
         "numericValue": 2299,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,790.00 TL",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3790,
         "unsetPrice": false
       }
     ],
@@ -72,12 +91,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price",
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-09-06T04:09:21.852Z",
+    "timestamp": "2025-09-07T09:43:32.713Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +104,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qvtaqx6vua"
+    "processId": "mf9i9fberc4a4",
+    "index": 1
   },
   {
     "title": "Matmazel Caelestis Siyah Kadın Omuz Çantası",
@@ -100,11 +120,20 @@
     "price": [
       {
         "value": "2,349.95 TL",
-        "selector": "sale-price",
+        "selector": ".money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
         "numericValue": 2349.95,
+        "unsetPrice": false
+      },
+      {
+        "value": "4,699.90 TL",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4699.9,
         "unsetPrice": false
       }
     ],
@@ -116,12 +145,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price",
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-09-06T04:09:21.856Z",
+    "timestamp": "2025-09-07T09:43:32.716Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,7 +158,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qvtaqx6vua"
+    "processId": "mf9i9fberc4a4",
+    "index": 2
   },
   {
     "title": "Matmazel Elation Siyah Kadın Omuz Çantası",
@@ -144,11 +174,20 @@
     "price": [
       {
         "value": "2,299.00 TL",
-        "selector": "sale-price",
+        "selector": ".money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
         "numericValue": 2299,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,300.00 TL",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3300,
         "unsetPrice": false
       }
     ],
@@ -160,12 +199,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price",
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-09-06T04:09:21.860Z",
+    "timestamp": "2025-09-07T09:43:32.720Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,7 +212,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qvtaqx6vua"
+    "processId": "mf9i9fberc4a4",
+    "index": 3
   },
   {
     "title": "Matmazel Sun Kissed Taba Kadın Sırt Çantası",
@@ -188,11 +228,20 @@
     "price": [
       {
         "value": "2,299.00 TL",
-        "selector": "sale-price",
+        "selector": ".money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
         "numericValue": 2299,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,960.00 TL",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3960,
         "unsetPrice": false
       }
     ],
@@ -204,12 +253,12 @@
       "titleSelectorMatched": "a.product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "sale-price",
+      "bestPriceSelector": ".money",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları, Kendinizi Yansıtın! | Matmazel",
     "pageURL": "https://matmazelcanta.com/collections/cantalar",
-    "timestamp": "2025-09-06T04:09:21.863Z",
+    "timestamp": "2025-09-07T09:43:32.724Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -217,6 +266,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qvtaqx6vua"
+    "processId": "mf9i9fberc4a4",
+    "index": 4
   }
 ]
