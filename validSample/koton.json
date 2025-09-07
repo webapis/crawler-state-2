@@ -32,7 +32,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-09-06T04:07:03.785Z",
+    "timestamp": "2025-09-07T08:59:53.265Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -40,50 +40,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qsu620o6ub"
-  },
-  {
-    "title": "Woman Cross Bag",
-    "img": [
-      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/00967437-60e6-4cd2-93bb-9bceccd03807_size354x464.jpg"
-    ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size354x464.jpg",
-    "link": "https://www.koton.com/halka-toka-detayli-askili-canta-ekru-4053430/",
-    "price": [
-      {
-        "value": "899,99 TL",
-        "selector": "pz-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 899.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2 .js-product-link.product-link",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-09-06T04:07:03.789Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7qsu620o6ub"
+    "processId": "mf9gp9j6q1bud",
+    "index": 0
   },
   {
     "title": "Woman Zincir Askılı Asimetrik Metalik Çanta",
@@ -118,7 +76,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-09-06T04:07:03.793Z",
+    "timestamp": "2025-09-07T08:59:53.269Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,16 +84,106 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qsu620o6ub"
+    "processId": "mf9gp9j6q1bud",
+    "index": 1
+  },
+  {
+    "title": "Woman Crossbody Bag",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3074262/81d2ba4a-c287-492b-9742-269f8844f2f9_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3074262/81d2ba4a-c287-492b-9742-269f8844f2f9_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/17/3074262/a09a749b-dc0c-4f48-9079-1bacdd5a1aff_size354x464.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/17/3074262/81d2ba4a-c287-492b-9742-269f8844f2f9_size354x464.jpg",
+    "link": "https://www.koton.com/metal-aksesuarli-suni-deri-sapli-askili-capraz-canta-yesil-4035250/",
+    "price": [
+      {
+        "value": "749,99 TL",
+        "selector": "pz-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 749.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-09-07T08:59:53.272Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9gp9j6q1bud",
+    "index": 2
+  },
+  {
+    "title": "Woman Cross Bag",
+    "img": [
+      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size354x464.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/00967437-60e6-4cd2-93bb-9bceccd03807_size354x464.jpg"
+    ],
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/05/29/3093709/a467f537-ed72-456b-b72f-7f2f91fa7c6e_size354x464.jpg",
+    "link": "https://www.koton.com/halka-toka-detayli-askili-canta-ekru-4053430/",
+    "price": [
+      {
+        "value": "899,99 TL",
+        "selector": "pz-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 899.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "h2 .js-product-link.product-link",
+      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
+    "pageURL": "https://www.koton.com/kadin-canta/",
+    "timestamp": "2025-09-07T08:59:53.275Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9gp9j6q1bud",
+    "index": 3
   },
   {
     "title": "Woman Tote Bag",
     "img": [
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg",
       "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg"
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size708x930.jpg",
+      "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size708x930.jpg"
     ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/6a662c54-b941-4139-b2ad-18bdf380f1f8_size354x464.jpg",
+    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082406/84952e9b-93d5-49d2-b4f1-de2fd78ff921_size354x464.jpg",
     "link": "https://www.koton.com/metal-tokali-file-detayli-sapli-tote-canta-ekru-4043247/",
     "price": [
       {
@@ -161,7 +209,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
     "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-09-06T04:07:03.796Z",
+    "timestamp": "2025-09-07T08:59:53.278Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,50 +217,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7qsu620o6ub"
-  },
-  {
-    "title": "Woman Shoulder Bag",
-    "img": [
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size354x464.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size708x930.jpg",
-      "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/7f4a1093-e868-4155-be63-49586b7dbb33_size708x930.jpg"
-    ],
-    "primaryImg": "https://ktnimg2.mncdn.com/products/2025/04/30/3082334/d79c98a5-05cb-4794-bc73-c9b07a0af25a_size354x464.jpg",
-    "link": "https://www.koton.com/sapli-fermuarli-suni-deri-omuz-cantasi-mavi-4051043/",
-    "price": [
-      {
-        "value": "799,99 TL",
-        "selector": "pz-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 799.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: h2 .js-product-link.product-link)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "h2 .js-product-link.product-link",
-      "imgSelectorMatched": ".pz-image-placeholder source[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta, Baget Çanta, Hasır Çanta, Abiye Çanta Modelleri | Koton",
-    "pageURL": "https://www.koton.com/kadin-canta/",
-    "timestamp": "2025-09-06T04:07:03.799Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7qsu620o6ub"
+    "processId": "mf9gp9j6q1bud",
+    "index": 4
   }
 ]
