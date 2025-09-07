@@ -31,7 +31,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-09-06T03:46:59.675Z",
+    "timestamp": "2025-09-07T09:20:49.733Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +39,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q315zy008t"
+    "processId": "mf9hg73ueo7s2",
+    "index": 0
   },
   {
     "title": "Kadın Ekru Omuz Ve El Çantası-1",
@@ -73,7 +74,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-09-06T03:46:59.680Z",
+    "timestamp": "2025-09-07T09:20:49.737Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,91 +82,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q315zy008t"
-  },
-  {
-    "title": "Kadın Mavi Çapraz Çanta-1",
-    "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=533"
-    ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/beyaz-canta-p-nanali-430-002-029",
-    "price": [
-      {
-        "value": "2.239,60TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2239.6,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ALDO Kadın Çanta Modelleri",
-    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-09-06T03:46:59.685Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q315zy008t"
-  },
-  {
-    "title": "Kadın Siyah Çapraz Çanta-1",
-    "img": [
-      "https://www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1440",
-      "https://www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=533"
-    ],
-    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744 1600w\n                  ",
-    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-unila-008-002-043",
-    "price": [
-      {
-        "value": "1.999,60TL",
-        "selector": ".price-item.price-item--sale.price-item--last",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1999.6,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .full-unstyled-link)",
-      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
-      "titleSelectorMatched": "img.motion-reduce",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ALDO Kadın Çanta Modelleri",
-    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-09-06T03:46:59.689Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q315zy008t"
+    "processId": "mf9hg73ueo7s2",
+    "index": 1
   },
   {
     "title": "Kadın Ekru Çapraz Çanta-1",
@@ -199,7 +117,7 @@
     },
     "pageTitle": "ALDO Kadın Çanta Modelleri",
     "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
-    "timestamp": "2025-09-06T03:46:59.693Z",
+    "timestamp": "2025-09-07T09:20:49.740Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -207,6 +125,93 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q315zy008t"
+    "processId": "mf9hg73ueo7s2",
+    "index": 2
+  },
+  {
+    "title": "Kadın Mavi Çapraz Çanta-1",
+    "img": [
+      "https://www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=533"
+    ],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/NANALI-430-002-029_1.jpg?v=1747139990 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/beyaz-canta-p-nanali-430-002-029",
+    "price": [
+      {
+        "value": "2.239,60TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2239.6,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ALDO Kadın Çanta Modelleri",
+    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
+    "timestamp": "2025-09-07T09:20:49.744Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hg73ueo7s2",
+    "index": 3
+  },
+  {
+    "title": "Kadın Siyah Çapraz Çanta-1",
+    "img": [
+      "https://www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1440",
+      "https://www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=533"
+    ],
+    "primaryImg": "//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=330 165w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=720 360w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1066 533w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1440 720w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=1880 940w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744&width=2132 1066w,//www.aldoshoes.com.tr/cdn/shop/files/UNILA-008-002-043_1.jpg?v=1747141744 1600w\n                  ",
+    "link": "https://www.aldoshoes.com.tr/products/siyah-canta-p-unila-008-002-043",
+    "price": [
+      {
+        "value": "1.999,60TL",
+        "selector": ".price-item.price-item--sale.price-item--last",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.6,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .full-unstyled-link)",
+      "matchedSelector": "li.grid__item .card-wrapper.product-card-wrapper:has(a)",
+      "titleSelectorMatched": "img.motion-reduce",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price-item.price-item--sale.price-item--last",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ALDO Kadın Çanta Modelleri",
+    "pageURL": "https://www.aldoshoes.com.tr/collections/canta-modelleri",
+    "timestamp": "2025-09-07T09:20:49.747Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hg73ueo7s2",
+    "index": 4
   }
 ]
