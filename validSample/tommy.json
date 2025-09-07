@@ -1,5 +1,52 @@
 [
   {
+    "title": "Kadın TH City Mini Tote Çanta",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573850296980.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573850296980.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573850296980.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
+    "link": "https://tr.tommy.com/kadin-th-city-mini-tote-canta_201498",
+    "price": [
+      {
+        "value": "7.199,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7199,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col-6",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-09-07T09:23:43.092Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hjwufys1kk",
+    "index": 0
+  },
+  {
     "title": "Kadın TH Logotape Sırt Çantası",
     "img": [
       "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
@@ -35,7 +82,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-06T03:50:05.251Z",
+    "timestamp": "2025-09-07T09:23:43.095Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,7 +90,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q70bei0exf"
+    "processId": "mf9hjwufys1kk",
+    "index": 1
   },
   {
     "title": "Kadın TH Modern Essential Omuz Çantası",
@@ -81,7 +129,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-06T03:50:05.255Z",
+    "timestamp": "2025-09-07T09:23:43.098Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -89,7 +137,55 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q70bei0exf"
+    "processId": "mf9hjwufys1kk",
+    "index": 2
+  },
+  {
+    "title": "Kadın TH City Mono Tote Çanta",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573632952693.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573632952693.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573632952693.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573634202599.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573634202599.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573634202599.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573632952693.webp",
+    "link": "https://tr.tommy.com/kadin-th-city-mono-tote-canta_201493",
+    "price": [
+      {
+        "value": "8.099,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8099,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col-6",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-09-07T09:23:43.101Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hjwufys1kk",
+    "index": 3
   },
   {
     "title": "Kadın TJW Daily Tote Çanta",
@@ -127,7 +223,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-06T03:50:05.258Z",
+    "timestamp": "2025-09-07T09:23:43.104Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -135,95 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q70bei0exf"
-  },
-  {
-    "title": "Kadın TH Distinct Tote Çanta",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463551173523.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463551173523.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463551173523.webp",
-    "link": "https://tr.tommy.com/kadin-th-distinct-tote-canta_201052",
-    "price": [
-      {
-        "value": "7.199,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 7199,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col-6",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-06T03:50:05.262Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q70bei0exf"
-  },
-  {
-    "title": "Kadın TJW Edition Tote Çanta",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463306797988.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463308985489.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638859463308985489.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638859463308985489.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638859463306797988.webp",
-    "link": "https://tr.tommy.com/kadin-tjw-edition-tote-canta_201046",
-    "price": [
-      {
-        "value": "4.499,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 4499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col-6",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-06T03:50:05.265Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q70bei0exf"
+    "processId": "mf9hjwufys1kk",
+    "index": 4
   }
 ]
