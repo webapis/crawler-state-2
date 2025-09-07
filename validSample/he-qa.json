@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-06T04:31:09.951Z",
+    "timestamp": "2025-09-07T10:01:59.200Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,7 +38,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7rnu4a6spx4"
+    "processId": "mf9ix4jx3qql9",
+    "index": 0
   },
   {
     "title": "Mini Bag Bitter Brown ",
@@ -71,7 +72,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-06T04:31:09.954Z",
+    "timestamp": "2025-09-07T10:01:59.204Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -79,7 +80,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7rnu4a6spx4"
+    "processId": "mf9ix4jx3qql9",
+    "index": 1
   },
   {
     "title": "Rectangular Long Bag Red",
@@ -112,7 +114,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-06T04:31:09.958Z",
+    "timestamp": "2025-09-07T10:01:59.207Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -120,7 +122,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7rnu4a6spx4"
+    "processId": "mf9ix4jx3qql9",
+    "index": 2
   },
   {
     "title": "Printed Bag Your White",
@@ -153,7 +156,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-06T04:31:09.961Z",
+    "timestamp": "2025-09-07T10:01:59.211Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -161,7 +164,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7rnu4a6spx4"
+    "processId": "mf9ix4jx3qql9",
+    "index": 3
   },
   {
     "title": "Denim Bag Dark Blue ",
@@ -187,14 +191,14 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-src]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-06T04:31:09.965Z",
+    "timestamp": "2025-09-07T10:01:59.215Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,6 +206,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7rnu4a6spx4"
+    "processId": "mf9ix4jx3qql9",
+    "index": 4
   }
 ]
