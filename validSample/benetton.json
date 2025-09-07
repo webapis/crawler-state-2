@@ -1,5 +1,185 @@
 [
   {
+    "title": "Kadın Lacivert Keten Karışımlı Desenli Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597806457054.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597726144135.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597806457054.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597726144135.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597806457054.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-lacivert-keten-karisimli-desenli-canta_166083",
+    "price": [
+      {
+        "value": "649,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 649.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-07T09:22:00.213Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hhpevylksg",
+    "index": 0
+  },
+  {
+    "title": "Kadın Yeşil Desenli Tote Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597066920462.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597019263780.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822597066920462.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597019263780.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822597066920462.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-yesil-desenli-tote-canta_166079",
+    "price": [
+      {
+        "value": "1.249,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-07T09:22:00.216Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hhpevylksg",
+    "index": 1
+  },
+  {
+    "title": "Kadın Krem Desenli Tote Çanta",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822596865512730.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822596819418631.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638822596865512730.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822596819418631.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638822596865512730.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-krem-desenli-tote-canta_166078",
+    "price": [
+      {
+        "value": "1.249,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1249.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-07T09:22:00.219Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hhpevylksg",
+    "index": 2
+  },
+  {
+    "title": "Kadın Siyah %100 Koton  Plaj Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638813093802787084.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638813093775130596.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638813093802787084.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638813093775130596.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638813093802787084.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-100-koton-plaj-cantasi_165949",
+    "price": [
+      {
+        "value": "899,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 899.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-07T09:22:00.223Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9hhpevylksg",
+    "index": 3
+  },
+  {
     "title": "Kadın Siyah İçi Pamuk Delikli Omuz Çantası",
     "img": [
       "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638811359306216900.jpeg",
@@ -33,7 +213,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-06T03:48:27.529Z",
+    "timestamp": "2025-09-07T09:22:00.225Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,182 +221,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q4wtvhs722"
-  },
-  {
-    "title": "Kadın Ekru İçi Pamuk Delikli Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183033742876.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638806183061711961.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183033742876.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638806183061711961.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-ekru-ici-pamuk-delikli-omuz-cantasi_165846",
-    "price": [
-      {
-        "value": "1.249,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1249.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-06T03:48:27.532Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q4wtvhs722"
-  },
-  {
-    "title": "Kadın Mercan Logolu Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638803593846031539.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638803593803531277.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638803593846031539.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638803593803531277.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638803593846031539.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-mercan-logolu-omuz-cantasi_165599",
-    "price": [
-      {
-        "value": "1.349,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1349.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-06T03:48:27.534Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q4wtvhs722"
-  },
-  {
-    "title": "Kadın Siyah Logolu Omuz Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857769267220.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857671297632.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857769267220.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857671297632.jpg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p6nyfdy07r-100-kadin-siyah-logolu-omuz-cantasi-638882857769267220.jpg",
-    "link": "https://tr.benetton.com/kadin/kadin-siyah-logolu-omuz-cantasi_165598",
-    "price": [
-      {
-        "value": "1.349,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1349.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-06T03:48:27.537Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q4wtvhs722"
-  },
-  {
-    "title": "Kadın Siyah Tote Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p67o1dy07s-100-kadin-siyah-tote-canta-638882861925724712.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p67o1dy07s-100-kadin-siyah-tote-canta-638882862011506662.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p67o1dy07s-100-kadin-siyah-tote-canta-638882861925724712.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/125p67o1dy07s-100-kadin-siyah-tote-canta-638882862011506662.jpg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/125p67o1dy07s-100-kadin-siyah-tote-canta-638882861925724712.jpg",
-    "link": "https://tr.benetton.com/kadin/kadin-siyah-tote-canta_165592",
-    "price": [
-      {
-        "value": "1.999,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-06T03:48:27.540Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf7q4wtvhs722"
+    "processId": "mf9hhpevylksg",
+    "index": 4
   }
 ]
