@@ -14,11 +14,11 @@
       "usedFor": {}
     },
     "span.new-price": {
-      "count": 74,
+      "count": 73,
       "usedFor": {}
     },
     ".price": {
-      "count": 23,
+      "count": 24,
       "usedFor": {}
     }
   },
@@ -49,14 +49,14 @@
       },
       {
         "selector": "span.new-price",
-        "count": 74,
+        "count": 73,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": ".price",
-        "count": 23,
+        "count": 24,
         "usedFor": [
           "price"
         ]
