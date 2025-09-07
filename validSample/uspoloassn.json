@@ -32,7 +32,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-09-06T03:40:19.719Z",
+    "timestamp": "2025-09-07T09:14:01.348Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -40,7 +40,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7pugh1vmhzh"
+    "processId": "mf9h7fxbq2zju",
+    "index": 0
   },
   {
     "title": "Kadın Kahverengi Omuz Çantası",
@@ -75,7 +76,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-09-06T03:40:19.724Z",
+    "timestamp": "2025-09-07T09:14:01.352Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -83,7 +84,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7pugh1vmhzh"
+    "processId": "mf9h7fxbq2zju",
+    "index": 1
   },
   {
     "title": "Kadın Beyaz Çapraz Çanta",
@@ -118,7 +120,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-09-06T03:40:19.727Z",
+    "timestamp": "2025-09-07T09:14:01.356Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,7 +128,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7pugh1vmhzh"
+    "processId": "mf9h7fxbq2zju",
+    "index": 2
   },
   {
     "title": "Kadın Krem Kol Çantası",
@@ -154,14 +157,14 @@
       "linkSource": "titleElement (matched: .product__listing--content h3 a)",
       "matchedSelector": ".js-product-list-item",
       "titleSelectorMatched": ".product__listing--content h3 a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "img.swiper-slide",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product__listing--basket-price span",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-09-06T03:40:19.731Z",
+    "timestamp": "2025-09-07T09:14:01.360Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -169,7 +172,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7pugh1vmhzh"
+    "processId": "mf9h7fxbq2zju",
+    "index": 3
   },
   {
     "title": "Kadın Kahverengi Kol Çantası",
@@ -204,7 +208,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri - U.S. Polo Assn.",
     "pageURL": "https://tr.uspoloassn.com/kadin-canta-modelleri/",
-    "timestamp": "2025-09-06T03:40:19.735Z",
+    "timestamp": "2025-09-07T09:14:01.363Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -212,6 +216,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7pugh1vmhzh"
+    "processId": "mf9h7fxbq2zju",
+    "index": 4
   }
 ]
