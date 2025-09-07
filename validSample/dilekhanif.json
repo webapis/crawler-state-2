@@ -9,12 +9,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-2",
     "price": [
       {
-        "value": "$480.9 USD",
+        "value": "$479.67 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 16110.15,
+        "numericValue": 16068.94,
         "unsetPrice": false
       }
     ],
@@ -31,7 +31,7 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-06T03:46:29.419Z",
+    "timestamp": "2025-09-07T09:20:07.520Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +39,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q2do9alqj9"
+    "processId": "mf9hfael2ubfq",
+    "index": 0
   },
   {
     "title": "HANDMADE TASSEL BAG",
@@ -51,12 +52,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-puskullu-canta",
     "price": [
       {
-        "value": "$380.71 USD",
+        "value": "$379.74 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 12753.78,
+        "numericValue": 12721.29,
         "unsetPrice": false
       }
     ],
@@ -73,7 +74,7 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-06T03:46:29.423Z",
+    "timestamp": "2025-09-07T09:20:07.523Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -81,7 +82,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q2do9alqj9"
+    "processId": "mf9hfael2ubfq",
+    "index": 1
   },
   {
     "title": "HANDMADE EMBROIDERED BAG",
@@ -93,12 +95,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-1",
     "price": [
       {
-        "value": "$480.9 USD",
+        "value": "$479.67 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 16110.15,
+        "numericValue": 16068.94,
         "unsetPrice": false
       }
     ],
@@ -115,7 +117,7 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-06T03:46:29.426Z",
+    "timestamp": "2025-09-07T09:20:07.526Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,7 +125,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q2do9alqj9"
+    "processId": "mf9hfael2ubfq",
+    "index": 2
   },
   {
     "title": "HANDMADE EMBROIDERED BAG",
@@ -135,12 +138,12 @@
     "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta",
     "price": [
       {
-        "value": "$480.9 USD",
+        "value": "$479.67 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 16110.15,
+        "numericValue": 16068.94,
         "unsetPrice": false
       }
     ],
@@ -157,7 +160,7 @@
     },
     "pageTitle": "Bag – Dilek Hanif",
     "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-06T03:46:29.429Z",
+    "timestamp": "2025-09-07T09:20:07.529Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -165,6 +168,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7q2do9alqj9"
+    "processId": "mf9hfael2ubfq",
+    "index": 3
   }
 ]
