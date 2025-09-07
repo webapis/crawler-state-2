@@ -33,7 +33,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-06T04:23:34.255Z",
+    "timestamp": "2025-09-07T09:55:58.688Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7re2datdygy"
+    "processId": "mf9ipe99dp5av",
+    "index": 0
   },
   {
     "title": "Element Kanvas Çanta - Yeşil",
@@ -77,7 +78,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-06T04:23:34.258Z",
+    "timestamp": "2025-09-07T09:55:58.690Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +86,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7re2datdygy"
+    "processId": "mf9ipe99dp5av",
+    "index": 1
   },
   {
     "title": "Element Kanvas Çanta - Antrasit",
@@ -121,7 +123,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-06T04:23:34.261Z",
+    "timestamp": "2025-09-07T09:55:58.693Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,7 +131,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7re2datdygy"
+    "processId": "mf9ipe99dp5av",
+    "index": 2
   },
   {
     "title": "Element Kanvas Çanta - Lila",
@@ -165,7 +168,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-06T04:23:34.264Z",
+    "timestamp": "2025-09-07T09:55:58.695Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,7 +176,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7re2datdygy"
+    "processId": "mf9ipe99dp5av",
+    "index": 3
   },
   {
     "title": "Element Kanvas Çanta - Krem",
@@ -202,14 +206,14 @@
       "linkSource": "titleElement (matched: a.product-name)",
       "matchedSelector": ".product-card",
       "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-06T04:23:34.266Z",
+    "timestamp": "2025-09-07T09:55:58.698Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -217,6 +221,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7re2datdygy"
+    "processId": "mf9ipe99dp5av",
+    "index": 4
   }
 ]
