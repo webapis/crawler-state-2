@@ -21,7 +21,7 @@
       }
     ],
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a.product-title)",
       "matchedSelector": ".product-card",
@@ -33,7 +33,7 @@
     },
     "pageTitle": "Tüm Çantalar",
     "pageURL": "https://liujoturkiye.com/collections/canta",
-    "timestamp": "2025-09-06T04:44:45.174Z",
+    "timestamp": "2025-09-07T10:12:00.207Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s5b0jeec8y"
+    "processId": "mf9ja0641a37k",
+    "index": 0
   },
   {
     "title": "LİU JO FERMUAR DETAYLI ASKILI ÇANTA",
@@ -77,7 +78,7 @@
     },
     "pageTitle": "Tüm Çantalar",
     "pageURL": "https://liujoturkiye.com/collections/canta",
-    "timestamp": "2025-09-06T04:44:45.176Z",
+    "timestamp": "2025-09-07T10:12:00.210Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -85,7 +86,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s5b0jeec8y"
+    "processId": "mf9ja0641a37k",
+    "index": 1
   },
   {
     "title": "LİU JO ÇAPRAZ ASKILI ÇANTA",
@@ -121,7 +123,7 @@
     },
     "pageTitle": "Tüm Çantalar",
     "pageURL": "https://liujoturkiye.com/collections/canta",
-    "timestamp": "2025-09-06T04:44:45.179Z",
+    "timestamp": "2025-09-07T10:12:00.213Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,7 +131,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s5b0jeec8y"
+    "processId": "mf9ja0641a37k",
+    "index": 2
   },
   {
     "title": "LİU JO ÇAPRAZ ASKILI ÇANTA",
@@ -165,7 +168,7 @@
     },
     "pageTitle": "Tüm Çantalar",
     "pageURL": "https://liujoturkiye.com/collections/canta",
-    "timestamp": "2025-09-06T04:44:45.183Z",
+    "timestamp": "2025-09-07T10:12:00.216Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -173,6 +176,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s5b0jeec8y"
+    "processId": "mf9ja0641a37k",
+    "index": 3
   }
 ]
