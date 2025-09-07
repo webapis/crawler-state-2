@@ -1,17 +1,17 @@
 [
   {
-    "title": "Sisley Kadın Kol Çantası SLY_022 Siyah",
+    "title": "U.S. Polo Assn. Kadın Çapraz Çanta US25104 Siyah",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/sisley-kadin-kol-cantasi-sly022-p-13607291",
+    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-capraz-canta-us25104-p-13942402",
     "price": [
       {
-        "value": "3.260,34 TL",
-        "selector": ".current-price",
+        "value": "3.499,99 TL",
+        "selector": ".old-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3260.34,
+        "numericValue": 3499.99,
         "unsetPrice": false
       }
     ],
@@ -23,12 +23,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": ".ng-star-inserted",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
+      "bestPriceSelector": ".old-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-05T12:38:00.108Z",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=34",
+    "timestamp": "2025-09-07T09:53:51.540Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -36,6 +36,47 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf6tm249aew5v"
+    "processId": "mf9imo83qerd5",
+    "index": 6
+  },
+  {
+    "title": "U.S. Polo Assn. Kadın Çapraz Çanta US25104 Ekru",
+    "img": [],
+    "primaryImg": null,
+    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-capraz-canta-us25104-p-13942401",
+    "price": [
+      {
+        "value": "3.499,99 TL",
+        "selector": ".old-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": ".ng-star-inserted",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".old-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=34",
+    "timestamp": "2025-09-07T09:53:51.543Z",
+    "imgValid": false,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mf9imo83qerd5",
+    "index": 7
   }
 ]
