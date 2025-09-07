@@ -9,13 +9,13 @@
     "link": "https://www.maisonju.com/collections/ju-aksesuar/products/clement-earrings",
     "price": [
       {
-        "value": "£40 GBP",
+        "value": "$53 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 1775.5,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -31,15 +31,16 @@
     },
     "pageTitle": "JU ACCESSORIES – MaisonJU TR",
     "pageURL": "https://www.maisonju.com/collections/ju-aksesuar",
-    "timestamp": "2025-09-06T04:44:01.387Z",
+    "timestamp": "2025-09-07T10:11:58.185Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s4d8bdtqi2"
+    "processId": "mf9j9ym0rqqqf",
+    "index": 0
   },
   {
     "title": "Gold Glitter Bag",
@@ -51,13 +52,13 @@
     "link": "https://www.maisonju.com/collections/ju-aksesuar/products/gold-glitter-bag",
     "price": [
       {
-        "value": "£216 GBP",
+        "value": "$291 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 9748.5,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -73,15 +74,16 @@
     },
     "pageTitle": "JU ACCESSORIES – MaisonJU TR",
     "pageURL": "https://www.maisonju.com/collections/ju-aksesuar",
-    "timestamp": "2025-09-06T04:44:01.390Z",
+    "timestamp": "2025-09-07T10:11:58.188Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s4d8bdtqi2"
+    "processId": "mf9j9ym0rqqqf",
+    "index": 1
   },
   {
     "title": "Beige Satin Bag",
@@ -93,13 +95,13 @@
     "link": "https://www.maisonju.com/collections/ju-aksesuar/products/beige-satin-bag",
     "price": [
       {
-        "value": "£216 GBP",
+        "value": "$291 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 9748.5,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -115,15 +117,16 @@
     },
     "pageTitle": "JU ACCESSORIES – MaisonJU TR",
     "pageURL": "https://www.maisonju.com/collections/ju-aksesuar",
-    "timestamp": "2025-09-06T04:44:01.393Z",
+    "timestamp": "2025-09-07T10:11:58.190Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s4d8bdtqi2"
+    "processId": "mf9j9ym0rqqqf",
+    "index": 2
   },
   {
     "title": "Black Satin Bag",
@@ -135,13 +138,13 @@
     "link": "https://www.maisonju.com/collections/ju-aksesuar/products/black-satin-bag",
     "price": [
       {
-        "value": "£180 GBP",
+        "value": "$243 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 8140.5,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -157,15 +160,16 @@
     },
     "pageTitle": "JU ACCESSORIES – MaisonJU TR",
     "pageURL": "https://www.maisonju.com/collections/ju-aksesuar",
-    "timestamp": "2025-09-06T04:44:01.395Z",
+    "timestamp": "2025-09-07T10:11:58.193Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s4d8bdtqi2"
+    "processId": "mf9j9ym0rqqqf",
+    "index": 3
   },
   {
     "title": "Navy Satin Bag",
@@ -177,22 +181,22 @@
     "link": "https://www.maisonju.com/collections/ju-aksesuar/products/navy-satin-bag",
     "price": [
       {
-        "value": "£216 GBP",
+        "value": "$291 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 9748.5,
+        "unsetPrice": false
       },
       {
-        "value": "£162 GBP",
+        "value": "$218 USD",
         "selector": ".grid-product__price > :not(.visually-hidden)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 0,
-        "unsetPrice": true
+        "numericValue": 7303,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -208,14 +212,15 @@
     },
     "pageTitle": "JU ACCESSORIES – MaisonJU TR",
     "pageURL": "https://www.maisonju.com/collections/ju-aksesuar",
-    "timestamp": "2025-09-06T04:44:01.398Z",
+    "timestamp": "2025-09-07T10:11:58.196Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": false,
+    "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf7s4d8bdtqi2"
+    "processId": "mf9j9ym0rqqqf",
+    "index": 4
   }
 ]
