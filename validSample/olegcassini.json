@@ -1,48 +1,5 @@
 [
   {
-    "title": "Bakır Renk Portföy Çanta JX-633-2",
-    "img": [
-      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp",
-      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/3840/barkodsuz-527.webp"
-    ],
-    "primaryImg": "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 16w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 32w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 48w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 64w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 96w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 128w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 180w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 256w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp 360w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp 384w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/540/barkodsuz-527.webp 540w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/720/barkodsuz-527.webp 720w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/900/barkodsuz-527.webp 900w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1080/barkodsuz-527.webp 1080w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1296/barkodsuz-527.webp 1296w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1512/barkodsuz-527.webp 1512w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1728/barkodsuz-527.webp 1728w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1950/barkodsuz-527.webp 1950w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/2560/barkodsuz-527.webp 2560w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/3840/barkodsuz-527.webp 3840w",
-    "link": "https://olegcassini.com.tr/bakir-renk-portfoy-canta-jx-633-2",
-    "price": [
-      {
-        "value": "1.836,00 ₺",
-        "selector": ".discount-price span:nth-child(2)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1836,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "containerElement (m)",
-      "matchedSelector": ".category__list__main div.grid a",
-      "titleSelectorMatched": "h2.product-name",
-      "imgSelectorMatched": "img.category-products-image",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discount-price span:nth-child(2)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
-    "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-09-07T09:20:10.269Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf9hfcjrleai1",
-    "index": 0
-  },
-  {
     "title": "Gri Renk Portföy Çanta JX-633-2",
     "img": [
       "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/0a8778f0-d011-4a10-beac-952af3ca9957/360/barkodsuz-519.webp",
@@ -74,7 +31,7 @@
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-09-07T09:20:10.272Z",
+    "timestamp": "2025-09-08T04:04:49.863Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -82,8 +39,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hfcjrleai1",
-    "index": 1
+    "processId": "mfallo4s3982s",
+    "index": 0
   },
   {
     "title": "Gold Rengi El Çantası",
@@ -117,7 +74,7 @@
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-09-07T09:20:10.275Z",
+    "timestamp": "2025-09-08T04:04:49.866Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,8 +82,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hfcjrleai1",
-    "index": 2
+    "processId": "mfallo4s3982s",
+    "index": 1
   },
   {
     "title": "Siyah Klipsli Clutch Abiye Çanta JX-919",
@@ -160,7 +117,7 @@
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-09-07T09:20:10.278Z",
+    "timestamp": "2025-09-08T04:04:49.868Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,7 +125,50 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hfcjrleai1",
+    "processId": "mfallo4s3982s",
+    "index": 2
+  },
+  {
+    "title": "Bakır Renk Portföy Çanta JX-633-2",
+    "img": [
+      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp",
+      "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/3840/barkodsuz-527.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 16w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 32w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 48w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 64w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 96w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 128w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 180w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/180/barkodsuz-527.webp 256w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp 360w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/360/barkodsuz-527.webp 384w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/540/barkodsuz-527.webp 540w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/720/barkodsuz-527.webp 720w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/900/barkodsuz-527.webp 900w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1080/barkodsuz-527.webp 1080w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1296/barkodsuz-527.webp 1296w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1512/barkodsuz-527.webp 1512w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1728/barkodsuz-527.webp 1728w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/1950/barkodsuz-527.webp 1950w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/2560/barkodsuz-527.webp 2560w, https://cdn.myikas.com/images/e99580d7-47a2-4686-b55b-0172e2768516/1eb33c29-9523-4f61-b15d-2d5de0802793/3840/barkodsuz-527.webp 3840w",
+    "link": "https://olegcassini.com.tr/bakir-renk-portfoy-canta-jx-633-2",
+    "price": [
+      {
+        "value": "1.836,00 ₺",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1836,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
+    "pageURL": "https://olegcassini.com.tr/abiye-canta",
+    "timestamp": "2025-09-08T04:04:49.870Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfallo4s3982s",
     "index": 3
   },
   {
@@ -203,7 +203,7 @@
     },
     "pageTitle": "Şık Abiye Çanta Modelleri ile Göz Kamaştırın - Oleg Cassini",
     "pageURL": "https://olegcassini.com.tr/abiye-canta",
-    "timestamp": "2025-09-07T09:20:10.280Z",
+    "timestamp": "2025-09-08T04:04:49.873Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,7 +211,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hfcjrleai1",
+    "processId": "mfallo4s3982s",
     "index": 4
   }
 ]
