@@ -2,50 +2,50 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     ".content-product-card .product-media:has(product-prices)": {
-      "count": 221,
+      "count": 219,
       "usedFor": {}
     },
     ".product-title span": {
-      "count": 221,
+      "count": 219,
       "usedFor": {}
     },
     "[srcset]": {
-      "count": 221,
+      "count": 219,
       "usedFor": {}
     },
     "formatted-price-detail div div": {
-      "count": 221,
+      "count": 219,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 221,
+    "totalObjects": 219,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": ".content-product-card .product-media:has(product-prices)",
-        "count": 221,
+        "count": 219,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-title span",
-        "count": 221,
+        "count": 219,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[srcset]",
-        "count": 221,
+        "count": 219,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": "formatted-price-detail div div",
-        "count": 221,
+        "count": 219,
         "usedFor": [
           "price"
         ]
