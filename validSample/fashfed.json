@@ -1,5 +1,57 @@
 [
   {
+    "title": "Nike Sportswear Futura 365 Mini Kadın Pembe Sırt Çantası",
+    "img": [
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/a9997856-3e63-4005-9ed4-1a155b2860af_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/78b6f7d8-93d2-4c61-91e5-0b21e90e6894_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/f0e680d0-04c9-4e42-9d27-e56ea6a31955_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/acd45181-dc76-4a08-a184-0e173933b8e5_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/7c0fdfef-c71d-496b-afbc-b0ad0dd42d95_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/bbeb4eca-33d2-4dc5-8b5f-98356d80a3be_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/61530d18-9e5e-4e80-ac20-438200c56c76_size375_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/a9997856-3e63-4005-9ed4-1a155b2860af_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/78b6f7d8-93d2-4c61-91e5-0b21e90e6894_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/f0e680d0-04c9-4e42-9d27-e56ea6a31955_size650_cropTop.jpg",
+      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/acd45181-dc76-4a08-a184-0e173933b8e5_size650_cropTop.jpg"
+    ],
+    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2025/07/24/140890946/a9997856-3e63-4005-9ed4-1a155b2860af_size375_cropTop.jpg",
+    "link": "https://www.fashfed.com/urun/nike-sportswear-futura-365-mini-kadin-pembe-sirt-cantasi-hv6622/",
+    "price": [
+      {
+        "value": "₺ 2.099,00",
+        "selector": ".price .price__new",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2099,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .price__new",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
+    "pageURL": "https://www.fashfed.com/kadin-canta/",
+    "timestamp": "2025-09-08T10:16:32.006Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfayvosoe8v99",
+    "index": 0
+  },
+  {
     "title": "Rains Backpack Micro W3 Unisex Gri Sırt Çantası",
     "img": [
       "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/10/04/98066884/60bdb6bc-716a-4f0e-a57a-82bc050245f5_size375_cropTop.jpg",
@@ -37,7 +89,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-09-08T04:22:26.302Z",
+    "timestamp": "2025-09-08T10:16:32.010Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -45,8 +97,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam8bgtdfajo",
-    "index": 0
+    "processId": "mfayvosoe8v99",
+    "index": 1
   },
   {
     "title": "Tommy Hilfiger Jacquard Kadın Mavi Çapraz Çanta",
@@ -86,7 +138,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-09-08T04:22:26.306Z",
+    "timestamp": "2025-09-08T10:16:32.015Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -94,8 +146,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam8bgtdfajo",
-    "index": 1
+    "processId": "mfayvosoe8v99",
+    "index": 2
   },
   {
     "title": "Nike Gym Club Kadın Mavi Spor Çantası",
@@ -141,7 +193,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-09-08T04:22:26.310Z",
+    "timestamp": "2025-09-08T10:16:32.019Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -149,8 +201,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam8bgtdfajo",
-    "index": 2
+    "processId": "mfayvosoe8v99",
+    "index": 3
   },
   {
     "title": "Lacoste Anna Kadın Çift Taraflı Haki Omuz Çantası",
@@ -194,7 +246,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
     "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-09-08T04:22:26.314Z",
+    "timestamp": "2025-09-08T10:16:32.024Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -202,54 +254,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam8bgtdfajo",
-    "index": 3
-  },
-  {
-    "title": "Guess Vikky Iı Large 44290 Kadın Renkli Tote Çanta",
-    "img": [
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/03f76fa0-32bb-4948-802d-dc4b7fac4ccf_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/c05bc1cb-8aad-4817-9cfa-85c841cc152b_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/6518018b-6291-482f-aaea-6a0b001f997b_size375_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/03f76fa0-32bb-4948-802d-dc4b7fac4ccf_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/c05bc1cb-8aad-4817-9cfa-85c841cc152b_size650_cropTop.jpg",
-      "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/6518018b-6291-482f-aaea-6a0b001f997b_size650_cropTop.jpg"
-    ],
-    "primaryImg": "https://akn-fashfed.a-cdn.akinoncloud.com/products/2024/12/04/95114266/03f76fa0-32bb-4948-802d-dc4b7fac4ccf_size375_cropTop.jpg",
-    "link": "https://www.fashfed.com/urun/guess-vikky-ii-large-44290-kadin-renkli-tote-canta-hwjt9344290/",
-    "price": [
-      {
-        "value": "₺ 9.500,00",
-        "selector": ".price.price--discounted .price__old",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 9500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price.price--discounted .price__old",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | FashFed",
-    "pageURL": "https://www.fashfed.com/kadin-canta/",
-    "timestamp": "2025-09-08T04:22:26.317Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfam8bgtdfajo",
+    "processId": "mfayvosoe8v99",
     "index": 4
   }
 ]
