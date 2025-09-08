@@ -1,134 +1,5 @@
 [
   {
-    "title": "Zımbalı omuz çantası",
-    "img": [
-      "https://static.pullandbear.net/assets/public/b8c9/5aa0/40d748879543/68a8c988f9eb/14065640040-E/14065640040-E.jpg?ts=1756994637260&w=888&f=auto",
-      "https://static.pullandbear.net/assets/public/b68c/9750/713f4bd58d34/0576772df3fe/14065640040-M/14065640040-M.jpg?ts=1756826074383&w=888&f=auto"
-    ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/b8c9/5aa0/40d748879543/68a8c988f9eb/14065640040-E/14065640040-E.jpg?ts=1756994637260&w=888&f=auto",
-    "link": "https://www.pullandbear.com/tr/z%C4%B1mbal%C4%B1-omuz-cantas%C4%B1-l14065640?cS=040&pelement=694390215",
-    "price": [
-      {
-        "value": "1.390,00 TL",
-        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "isShadowDOM": true,
-        "numericValue": 1390,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.carousel-item-container)",
-      "matchedSelector": ".c-tile.c-tile--product",
-      "titleSelectorMatched": "span.product-name",
-      "imgSelectorMatched": "img.image-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-      "priceExtractedFromShadowDOM": true
-    },
-    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
-    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-08T04:22:18.591Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfam85v7ojz1p",
-    "index": 0
-  },
-  {
-    "title": "Süslemeli omuz çantası",
-    "img": [
-      "https://static.pullandbear.net/assets/public/2ddb/262b/3bb74faa84f9/7c5ede550fda/14211640100-D2/14211640100-D2.jpg?ts=1756994664500&w=888&f=auto",
-      "https://static.pullandbear.net/assets/public/967b/cf3d/327d420f9939/6928fdf6c1d9/14211640100-M/14211640100-M.jpg?ts=1756822909396&w=888&f=auto"
-    ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/2ddb/262b/3bb74faa84f9/7c5ede550fda/14211640100-D2/14211640100-D2.jpg?ts=1756994664500&w=888&f=auto",
-    "link": "https://www.pullandbear.com/tr/suslemeli-omuz-cantas%C4%B1-l14211640?cS=100&pelement=701190259",
-    "price": [
-      {
-        "value": "1.190,00 TL",
-        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "isShadowDOM": true,
-        "numericValue": 1190,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.carousel-item-container)",
-      "matchedSelector": ".c-tile.c-tile--product",
-      "titleSelectorMatched": "span.product-name",
-      "imgSelectorMatched": "img.image-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-      "priceExtractedFromShadowDOM": true
-    },
-    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
-    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-08T04:22:18.595Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfam85v7ojz1p",
-    "index": 1
-  },
-  {
-    "title": "Çiçekli omuz çantası",
-    "img": [
-      "https://static.pullandbear.net/assets/public/e666/e37c/0bf948d7810c/1368fe63367d/14201640100-E/14201640100-E.jpg?ts=1756994924581&w=888&f=auto",
-      "https://static.pullandbear.net/assets/public/f3d5/4fbf/1fc44e0c8dd6/566cc2ae6a3d/14201640100-M/14201640100-M.jpg?ts=1756827620209&w=888&f=auto"
-    ],
-    "primaryImg": "https://static.pullandbear.net/assets/public/e666/e37c/0bf948d7810c/1368fe63367d/14201640100-E/14201640100-E.jpg?ts=1756994924581&w=888&f=auto",
-    "link": "https://www.pullandbear.com/tr/cicekli-omuz-cantas%C4%B1-l14201640?cS=100&pelement=698993684",
-    "price": [
-      {
-        "value": "2.090,00 TL",
-        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-        "attribute": "textContent",
-        "isJavaScript": true,
-        "isShadowDOM": true,
-        "numericValue": 2090,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a.carousel-item-container)",
-      "matchedSelector": ".c-tile.c-tile--product",
-      "titleSelectorMatched": "span.product-name",
-      "imgSelectorMatched": "img.image-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
-      "priceExtractedFromShadowDOM": true
-    },
-    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
-    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-08T04:22:18.599Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfam85v7ojz1p",
-    "index": 2
-  },
-  {
     "title": "Tokalı kol çantası",
     "img": [
       "https://static.pullandbear.net/assets/public/6b1b/3a61/9f6a4302b719/44a0c5d075ae/14215640100-E/14215640100-E.jpg?ts=1755792077987&w=888&f=auto",
@@ -160,7 +31,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-08T04:22:18.602Z",
+    "timestamp": "2025-09-08T10:15:41.604Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,8 +39,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam85v7ojz1p",
-    "index": 3
+    "processId": "mfayum4tyo5h1",
+    "index": 0
   },
   {
     "title": "Metal detaylı kol çantası",
@@ -203,7 +74,7 @@
     },
     "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
     "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
-    "timestamp": "2025-09-08T04:22:18.606Z",
+    "timestamp": "2025-09-08T10:15:41.607Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,7 +82,136 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfam85v7ojz1p",
+    "processId": "mfayum4tyo5h1",
+    "index": 1
+  },
+  {
+    "title": "Süslemeli naylon shopper çanta",
+    "img": [
+      "https://static.pullandbear.net/assets/public/7129/c68a/0151430a92da/5db5adb4d82f/14066640100-E/14066640100-E.jpg?ts=1750332425620&w=888&f=auto",
+      "https://static.pullandbear.net/assets/public/2a3c/6861/92374dba8188/51cc5ac21619/14066640100-M/14066640100-M.jpg?ts=1748353464200&w=888&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/7129/c68a/0151430a92da/5db5adb4d82f/14066640100-E/14066640100-E.jpg?ts=1750332425620&w=888&f=auto",
+    "link": "https://www.pullandbear.com/tr/suslemeli-naylon-shopper-canta-l14066640?cS=100&pelement=692152005",
+    "price": [
+      {
+        "value": "1.390,00 TL",
+        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+        "attribute": "textContent",
+        "isJavaScript": true,
+        "isShadowDOM": true,
+        "numericValue": 1390,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+      "priceExtractedFromShadowDOM": true
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-09-08T10:15:41.611Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfayum4tyo5h1",
+    "index": 2
+  },
+  {
+    "title": "Süslemeli naylon shopper çanta",
+    "img": [
+      "https://static.pullandbear.net/assets/public/b40b/350d/9efe4be8a994/b29bcb5ab21a/14066640040-A10M/14066640040-A10M.jpg?ts=1750241708397&w=888&f=auto",
+      "https://static.pullandbear.net/assets/public/b7d8/f413/2ea64629ac8f/44d361f0a43a/14066640040-m/14066640040-m.jpg?ts=1748269965481&w=888&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/b40b/350d/9efe4be8a994/b29bcb5ab21a/14066640040-A10M/14066640040-A10M.jpg?ts=1750241708397&w=888&f=auto",
+    "link": "https://www.pullandbear.com/tr/suslemeli-naylon-shopper-canta-l14066640?cS=040&pelement=692152008",
+    "price": [
+      {
+        "value": "1.390,00 TL",
+        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+        "attribute": "textContent",
+        "isJavaScript": true,
+        "isShadowDOM": true,
+        "numericValue": 1390,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+      "priceExtractedFromShadowDOM": true
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-09-08T10:15:41.614Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfayum4tyo5h1",
+    "index": 3
+  },
+  {
+    "title": "Süslemeli naylon shopper çanta",
+    "img": [
+      "https://static.pullandbear.net/assets/public/51d2/0140/2c3648b8afd1/41e9078fe45a/14066640004-A10M/14066640004-A10M.jpg?ts=1750342125572&w=888&f=auto",
+      "https://static.pullandbear.net/assets/public/4b82/63cd/9f5d4d728dce/e2bf2c828c62/14066640004-m/14066640004-m.jpg?ts=1748601920643&w=888&f=auto"
+    ],
+    "primaryImg": "https://static.pullandbear.net/assets/public/51d2/0140/2c3648b8afd1/41e9078fe45a/14066640004-A10M/14066640004-A10M.jpg?ts=1750342125572&w=888&f=auto",
+    "link": "https://www.pullandbear.com/tr/suslemeli-naylon-shopper-canta-l14066640?cS=004&pelement=692152007",
+    "price": [
+      {
+        "value": "1.390,00 TL",
+        "selector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+        "attribute": "textContent",
+        "isJavaScript": true,
+        "isShadowDOM": true,
+        "numericValue": 1390,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.carousel-item-container)",
+      "matchedSelector": ".c-tile.c-tile--product",
+      "titleSelectorMatched": "span.product-name",
+      "imgSelectorMatched": "img.image-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "document.querySelector(\"price-element\").shadowRoot.querySelector(\".container .price\")",
+      "priceExtractedFromShadowDOM": true
+    },
+    "pageTitle": "Kadın çanta modelleri | Pull&Bear Turkey / Türkiye",
+    "pageURL": "https://www.pullandbear.com/tr/kadin/cantalar-n6878",
+    "timestamp": "2025-09-08T10:15:41.617Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfayum4tyo5h1",
     "index": 4
   }
 ]
