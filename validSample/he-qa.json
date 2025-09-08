@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-08T04:46:22.958Z",
+    "timestamp": "2025-09-08T10:48:28.447Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,7 +38,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfan33x8hjev7",
+    "processId": "mfb00rezludhk",
     "index": 0
   },
   {
@@ -72,7 +72,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-08T04:46:22.962Z",
+    "timestamp": "2025-09-08T10:48:28.450Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,7 +80,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfan33x8hjev7",
+    "processId": "mfb00rezludhk",
     "index": 1
   },
   {
@@ -114,7 +114,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-08T04:46:22.965Z",
+    "timestamp": "2025-09-08T10:48:28.453Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,7 +122,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfan33x8hjev7",
+    "processId": "mfb00rezludhk",
     "index": 2
   },
   {
@@ -149,48 +149,6 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-08T04:46:22.968Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfan33x8hjev7",
-    "index": 3
-  },
-  {
-    "title": "Denim Bag Dark Blue ",
-    "img": [
-      "https://image.he-qa.com/-32048-52-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-32048-52-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/denim-bag-dark-blue",
-    "price": [
-      {
-        "value": "10.26 USD",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 343.71,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": true,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
@@ -198,7 +156,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-08T04:46:22.972Z",
+    "timestamp": "2025-09-08T10:48:28.457Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,7 +164,49 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfan33x8hjev7",
+    "processId": "mfb00rezludhk",
+    "index": 3
+  },
+  {
+    "title": "Leather Detailed Canvas Bag Dark Beige-Orange ",
+    "img": [
+      "https://image.he-qa.com/-24759-40-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-24759-40-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/leather-detailed-canvas-bag-dark-beige-orange",
+    "price": [
+      {
+        "value": "7.69 USD",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 257.62,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
+    "timestamp": "2025-09-08T10:48:28.461Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfb00rezludhk",
     "index": 4
   }
 ]
