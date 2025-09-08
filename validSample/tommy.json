@@ -1,52 +1,5 @@
 [
   {
-    "title": "Kadın TH City Mini Tote Çanta",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573848578291.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573848578291.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573850296980.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573850296980.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573850296980.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
-    "link": "https://tr.tommy.com/kadin-th-city-mini-tote-canta_201498",
-    "price": [
-      {
-        "value": "7.199,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 7199,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col-6",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-07T09:23:43.092Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf9hjwufys1kk",
-    "index": 0
-  },
-  {
     "title": "Kadın TH Logotape Sırt Çantası",
     "img": [
       "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
@@ -82,7 +35,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-07T09:23:43.095Z",
+    "timestamp": "2025-09-08T04:08:37.162Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,7 +43,54 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hjwufys1kk",
+    "processId": "mfalqjlmnten6",
+    "index": 0
+  },
+  {
+    "title": "Kadın TH City Mini Tote Çanta",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573848578291.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573850296980.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573850296980.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573850296980.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573848578291.webp",
+    "link": "https://tr.tommy.com/kadin-th-city-mini-tote-canta_201498",
+    "price": [
+      {
+        "value": "7.199,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7199,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col-6",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-09-08T04:08:37.165Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfalqjlmnten6",
     "index": 1
   },
   {
@@ -129,7 +129,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-07T09:23:43.098Z",
+    "timestamp": "2025-09-08T04:08:37.168Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,7 +137,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hjwufys1kk",
+    "processId": "mfalqjlmnten6",
     "index": 2
   },
   {
@@ -176,7 +176,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-07T09:23:43.101Z",
+    "timestamp": "2025-09-08T04:08:37.171Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,7 +184,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hjwufys1kk",
+    "processId": "mfalqjlmnten6",
     "index": 3
   },
   {
@@ -223,7 +223,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-07T09:23:43.104Z",
+    "timestamp": "2025-09-08T04:08:37.174Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -231,7 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9hjwufys1kk",
+    "processId": "mfalqjlmnten6",
     "index": 4
   }
 ]
