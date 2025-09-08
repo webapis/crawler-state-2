@@ -1,60 +1,17 @@
 [
   {
     "title": "This video is either unavailable or not supported in this browser",
-    "img": [
-      "https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=564",
-      "https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/b6/dd/b6dda59f67417a6721997f6c40c2e222924a1d86.jpg?imwidth=1536 1536w",
-    "link": null,
-    "price": [
-      {
-        "value": "1 649,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1649,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": null,
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-07T09:15:41.091Z",
-    "imgValid": true,
-    "linkValid": false,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf9h9kwo8xn80",
-    "index": 7
-  },
-  {
-    "title": "This video is either unavailable or not supported in this browser",
     "img": [],
     "primaryImg": null,
     "link": null,
     "price": [
       {
-        "value": "1 249,00 TL",
+        "value": "999,99 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1249,
+        "numericValue": 999.99,
         "unsetPrice": false
       }
     ],
@@ -71,7 +28,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-07T09:15:41.173Z",
+    "timestamp": "2025-09-08T04:00:05.979Z",
     "imgValid": false,
     "linkValid": false,
     "titleValid": true,
@@ -79,7 +36,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9h9kwo8xn80",
-    "index": 32
+    "processId": "mfalfl4a2l8ev",
+    "index": 11
   }
 ]
