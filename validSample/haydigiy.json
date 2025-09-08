@@ -30,7 +30,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-09-07T09:59:09.843Z",
+    "timestamp": "2025-09-08T04:44:11.682Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,7 +38,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9iti5t8quyc",
+    "processId": "mfan0aw70gtjy",
     "index": 0
   },
   {
@@ -72,7 +72,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-09-07T09:59:09.847Z",
+    "timestamp": "2025-09-08T04:44:11.685Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,7 +80,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9iti5t8quyc",
+    "processId": "mfan0aw70gtjy",
     "index": 1
   },
   {
@@ -114,7 +114,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-09-07T09:59:09.850Z",
+    "timestamp": "2025-09-08T04:44:11.688Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,50 +122,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9iti5t8quyc",
+    "processId": "mfan0aw70gtjy",
     "index": 2
-  },
-  {
-    "title": "Kol Çantası Acıkahve - 31090.1059.",
-    "img": [
-      "https://www.haydigiy.com/i/m/100/1007792_kol-cantasi-acikahve-310901059.jpeg"
-    ],
-    "primaryImg": "https://www.haydigiy.com/i/m/100/1007792_kol-cantasi-acikahve-310901059.jpeg",
-    "link": "https://www.haydigiy.com/kol-cantasi-acikahve-310901059/?product=True",
-    "price": [
-      {
-        "value": "269,99 TL",
-        "selector": ".price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 269.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
-    "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-09-07T09:59:09.853Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mf9iti5t8quyc",
-    "index": 3
   },
   {
     "title": "Kol Çantası Siyah - 31084.519.",
@@ -198,7 +156,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
     "pageURL": "https://www.haydigiy.com/kadin-canta/",
-    "timestamp": "2025-09-07T09:59:09.856Z",
+    "timestamp": "2025-09-08T04:44:11.691Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,7 +164,49 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mf9iti5t8quyc",
+    "processId": "mfan0aw70gtjy",
+    "index": 3
+  },
+  {
+    "title": "Toka Detaylı Kol Çantası Acıkahve - 3023.1853.",
+    "img": [
+      "https://www.haydigiy.com/i/m/102/1026936_toka-detayli-kol-cantasi-acikahve-30231853.jpeg"
+    ],
+    "primaryImg": "https://www.haydigiy.com/i/m/102/1026936_toka-detayli-kol-cantasi-acikahve-30231853.jpeg",
+    "link": "https://www.haydigiy.com/toka-detayli-kol-cantasi-acikahve-30231853-2/?product=True",
+    "price": [
+      {
+        "value": "284,99 TL",
+        "selector": ".price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 284.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri, Fiyatları - Haydigiy",
+    "pageURL": "https://www.haydigiy.com/kadin-canta/",
+    "timestamp": "2025-09-08T04:44:11.695Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfan0aw70gtjy",
     "index": 4
   }
 ]
