@@ -50,7 +50,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-08T10:59:39.875Z",
+    "timestamp": "2025-09-09T05:40:49.201Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -58,8 +58,57 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb0f5ddwxil3",
+    "processId": "mfc4gypucg0mr",
     "index": 0
+  },
+  {
+    "img": [
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_02_01.jpg?v=1742667408",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_02_01_720x.jpg?v=1742667408",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_03_01.jpg?v=1742667411",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_03_01_720x.jpg?v=1742667411",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_04_01.jpg?v=1742667414",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_04_01_720x.jpg?v=1742667414",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_01_01_720x.jpg?v=1742667406",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_02_01_360x.jpg?v=1742667408",
+      "https://int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_03_01_360x.jpg?v=1742667411"
+    ],
+    "primaryImg": "//int.toucheprive.com/cdn/shop/files/25S2FIC009_103_25S_02_01.jpg?v=1742667408",
+    "link": "https://int.toucheprive.com/products/pi%CC%87leli%CC%87-onu-fermuarli-bluz-1",
+    "price": [
+      {
+        "value": "$99.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3348.33,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product-info a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".deskTitle",
+      "imgSelectorMatched": "[data-lazy-bgset-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".money",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "404 Not Found – Touche Prive International",
+    "pageURL": "https://int.toucheprive.com/collections/canta",
+    "timestamp": "2025-09-09T05:40:49.204Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": false,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfc4gypucg0mr",
+    "index": 1
   },
   {
     "img": [
@@ -110,7 +159,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-08T10:59:39.878Z",
+    "timestamp": "2025-09-09T05:40:49.207Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -118,8 +167,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb0f5ddwxil3",
-    "index": 1
+    "processId": "mfc4gypucg0mr",
+    "index": 2
   },
   {
     "img": [
@@ -129,9 +178,7 @@
       "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_03_01_720x.jpg?v=1746457655",
       "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_04_01.jpg?v=1746457658",
       "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_04_01_720x.jpg?v=1746457658",
-      "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_01_01_8798ad88-e999-4bf3-81de-db167b24c42c_720x.jpg?v=1746457649",
-      "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_02_01_360x.jpg?v=1746457652",
-      "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_03_01_360x.jpg?v=1746457655"
+      "https://int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_01_01_8798ad88-e999-4bf3-81de-db167b24c42c_{width}x.jpg?v=1746457649"
     ],
     "primaryImg": "//int.toucheprive.com/cdn/shop/files/25Y2FIU122_137_25Y_02_01.jpg?v=1746457652",
     "link": "https://int.toucheprive.com/products/kemer-detayli-elbi%CC%87se-4",
@@ -168,7 +215,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-08T10:59:39.881Z",
+    "timestamp": "2025-09-09T05:40:49.210Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -176,8 +223,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb0f5ddwxil3",
-    "index": 2
+    "processId": "mfc4gypucg0mr",
+    "index": 3
   },
   {
     "img": [
@@ -220,7 +267,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-08T10:59:39.884Z",
+    "timestamp": "2025-09-09T05:40:49.213Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -228,7 +275,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb0f5ddwxil3",
-    "index": 3
+    "processId": "mfc4gypucg0mr",
+    "index": 4
   }
 ]
