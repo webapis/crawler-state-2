@@ -2,50 +2,50 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "li div article[data-articlecode][data-category]": {
-      "count": 98,
-      "usedFor": {}
-    },
-    "li div article[data-articlecode][data-category] div a h2": {
-      "count": 98,
-      "usedFor": {}
-    },
-    "[data-testid='next-image'] img": {
       "count": 97,
       "usedFor": {}
     },
+    "li div article[data-articlecode][data-category] div a h2": {
+      "count": 97,
+      "usedFor": {}
+    },
+    "[data-testid='next-image'] img": {
+      "count": 96,
+      "usedFor": {}
+    },
     "[data-articlecode] div div p span": {
-      "count": 98,
+      "count": 97,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 98,
+    "totalObjects": 97,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
         "selector": "li div article[data-articlecode][data-category]",
-        "count": 98,
+        "count": 97,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": "li div article[data-articlecode][data-category] div a h2",
-        "count": 98,
+        "count": 97,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": "[data-articlecode] div div p span",
-        "count": 98,
+        "count": 97,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": "[data-testid='next-image'] img",
-        "count": 97,
+        "count": 96,
         "usedFor": [
           "image"
         ]
