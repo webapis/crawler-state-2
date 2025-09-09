@@ -35,7 +35,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-08T11:43:48.980Z",
+    "timestamp": "2025-09-09T04:35:02.469Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,52 +43,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb1zxlduj9zu",
+    "processId": "mfc24djws247s",
     "index": 0
-  },
-  {
-    "title": "Siyah Deri Erkek Kemer",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-deri-erkek-kemer-77cb2f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-deri-erkek-kemer-d8fc-7.jpg",
-      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-deri-erkek-kemer-77cb2f.jpg",
-    "link": "https://www.elleshoes.com/siyah-deri-erkek-kemer-37011",
-    "price": [
-      {
-        "value": "1.119,93 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1119.93,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
-    "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-08T11:43:48.986Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfb1zxlduj9zu",
-    "index": 1
   },
   {
     "title": "Taba Kadın Çapraz Çanta",
@@ -126,7 +82,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-08T11:43:48.991Z",
+    "timestamp": "2025-09-09T04:35:02.473Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +90,54 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb1zxlduj9zu",
+    "processId": "mfc24djws247s",
+    "index": 1
+  },
+  {
+    "title": "Kahve Kadın El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi--4a9f-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi-7-4995.jpg",
+      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi-e07e57.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi-f6d-48.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi-4bec-9.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-el-cantasi--4a9f-.jpg",
+    "link": "https://www.elleshoes.com/kahve-kadin-el-cantasi-38062",
+    "price": [
+      {
+        "value": "3.999,90 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3999.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
+    "pageURL": "https://www.elleshoes.com/canta-aksesuar",
+    "timestamp": "2025-09-09T04:35:02.477Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfc24djws247s",
     "index": 2
   },
   {
@@ -173,7 +176,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-08T11:43:48.998Z",
+    "timestamp": "2025-09-09T04:35:02.481Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -181,26 +184,29 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb1zxlduj9zu",
+    "processId": "mfc24djws247s",
     "index": 3
   },
   {
-    "title": "Kahve Deri Erkek Kemer",
+    "title": "Siyah Kadın El Çantası",
     "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-deri-erkek-kemer-91148d.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-deri-erkek-kemer--4ba0-.jpg",
-      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif"
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi--9c83-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi-0-1245.jpg",
+      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi-91-213.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi-eed-84.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi--4288-.jpg"
     ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-deri-erkek-kemer-91148d.jpg",
-    "link": "https://www.elleshoes.com/kahve-deri-erkek-kemer-37013",
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/siyah-kadin-el-cantasi--9c83-.jpg",
+    "link": "https://www.elleshoes.com/siyah-kadin-el-cantasi-35963",
     "price": [
       {
-        "value": "1.119,93 TL",
+        "value": "1.259,91 TL",
         "selector": ".discountPrice .discountPriceSpan",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1119.93,
+        "numericValue": 1259.91,
         "unsetPrice": false
       }
     ],
@@ -217,7 +223,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-08T11:43:49.004Z",
+    "timestamp": "2025-09-09T04:35:02.484Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -225,7 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfb1zxlduj9zu",
+    "processId": "mfc24djws247s",
     "index": 4
   }
 ]
