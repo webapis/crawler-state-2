@@ -1,48 +1,5 @@
 [
   {
-    "title": "Yeşil Hasır Omuz Çantası",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913082-28726_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913082-28726_image_1.jpg",
-    "link": "https://www.mavi.com/yesil-hasir-omuz-cantasi/p/1913082-28726",
-    "price": [
-      {
-        "value": "999,99 TL",
-        "selector": ".product-pricing .nodiscount-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing .nodiscount-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=51",
-    "timestamp": "2025-09-09T05:05:28.909Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfc37iqtttf5z",
-    "index": 0
-  },
-  {
     "title": "Beyaz Bucket Çanta",
     "img": [
       "https://sky-static.mavi.com/mnresize/820/1162/1913093-620_image_1.jpg",
@@ -73,8 +30,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=51",
-    "timestamp": "2025-09-09T05:05:28.912Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-09-09T12:35:40.560Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -82,25 +39,25 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfc37iqtttf5z",
-    "index": 1
+    "processId": "mfcjah24z9b6y",
+    "index": 0
   },
   {
-    "title": "Renkli Hasır Omuz Çantası",
+    "title": "Yeşil Çanta",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1912735-71640_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1911324-70202_image_1.jpg",
-    "link": "https://www.mavi.com/renkli-hasir-omuz-cantasi/p/1911324-70202",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912735-71640_image_1.jpg",
+    "link": "https://www.mavi.com/yesil-canta/p/1912735-71640",
     "price": [
       {
-        "value": "1.299,99 TL",
-        "selector": ".product-pricing .nodiscount-price",
+        "value": "1.499,99 TL",
+        "selector": ".product-pricing .price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1299.99,
+        "numericValue": 1499.99,
         "unsetPrice": false
       }
     ],
@@ -112,12 +69,12 @@
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing .nodiscount-price",
+      "bestPriceSelector": ".product-pricing .price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=51",
-    "timestamp": "2025-09-09T05:05:28.915Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-09-09T12:35:40.563Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,8 +82,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfc37iqtttf5z",
-    "index": 2
+    "processId": "mfcjah24z9b6y",
+    "index": 1
   },
   {
     "title": "Kahverengi Omuz Çantası",
@@ -159,8 +116,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=51",
-    "timestamp": "2025-09-09T05:05:28.919Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-09-09T12:35:40.566Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,17 +125,17 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfc37iqtttf5z",
-    "index": 3
+    "processId": "mfcjah24z9b6y",
+    "index": 2
   },
   {
-    "title": "Kahverengi Tote Çanta",
+    "title": "Antrasit Omuz Çantası",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1912081-88062_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1913493-26868_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912081-88062_image_1.jpg",
-    "link": "https://www.mavi.com/kahverengi-tote-canta/p/1912081-88062",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913493-26868_image_1.jpg",
+    "link": "https://www.mavi.com/antrasit-omuz-cantasi/p/1913493-26868",
     "price": [
       {
         "value": "1.299,99 TL",
@@ -202,8 +159,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=51",
-    "timestamp": "2025-09-09T05:05:28.922Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-09-09T12:35:40.569Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,7 +168,50 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfc37iqtttf5z",
+    "processId": "mfcjah24z9b6y",
+    "index": 3
+  },
+  {
+    "title": "Leopar Desenli Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1913382-71595_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913382-71595_image_1.jpg",
+    "link": "https://www.mavi.com/leopar-desenli-canta/p/1913382-71595",
+    "price": [
+      {
+        "value": "1.199,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1199.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
+    "timestamp": "2025-09-09T12:35:40.572Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfcjah24z9b6y",
     "index": 4
   }
 ]
