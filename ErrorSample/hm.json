@@ -6,12 +6,12 @@
     "link": null,
     "price": [
       {
-        "value": "999,99 TL",
+        "value": "1 249,00 TL",
         "selector": "[data-articlecode] div div p span",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 999.99,
+        "numericValue": 1249,
         "unsetPrice": false
       }
     ],
@@ -28,7 +28,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-08T09:54:44.225Z",
+    "timestamp": "2025-09-09T04:43:47.183Z",
     "imgValid": false,
     "linkValid": false,
     "titleValid": true,
@@ -36,7 +36,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfay3nim64w8t",
-    "index": 15
+    "processId": "mfc2fmbuvhaeo",
+    "index": 10
   }
 ]
