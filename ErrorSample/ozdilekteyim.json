@@ -1,17 +1,17 @@
 [
   {
-    "title": "U.S. Polo Assn. Kadın Çapraz Çanta US25103 Ekru",
+    "title": "U.S. Polo Assn. Kadın Omuz Çantası US25100 Ekru",
     "img": [],
     "primaryImg": null,
-    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-capraz-canta-us25103-p-13942398",
+    "link": "https://www.ozdilekteyim.com/magaza/us-polo-assn-kadin-omuz-cantasi-us25100-p-13942392",
     "price": [
       {
-        "value": "2.499,99 TL",
-        "selector": ".old-price",
+        "value": "2.399,99 TL",
+        "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 2499.99,
+        "numericValue": 2399.99,
         "unsetPrice": false
       }
     ],
@@ -23,12 +23,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": ".ng-star-inserted",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".old-price",
+      "bestPriceSelector": ".current-price.promotion-current-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2?currentPage=34",
-    "timestamp": "2025-09-08T10:35:34.201Z",
+    "timestamp": "2025-09-09T12:51:45.610Z",
     "imgValid": false,
     "linkValid": true,
     "titleValid": true,
@@ -36,7 +36,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfazk5yhwx0m6",
-    "index": 6
+    "processId": "mfcjv5q13sm5s",
+    "index": 7
   }
 ]
