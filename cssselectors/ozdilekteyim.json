@@ -2,65 +2,65 @@
   "uniqueSelectors": {},
   "selectorUsage": {
     "ozd-custom-product-grid-item .carouselItem": {
-      "count": 2168,
+      "count": 2162,
       "usedFor": {}
     },
     ".product-item-info a": {
-      "count": 2168,
+      "count": 2162,
       "usedFor": {}
     },
     ".ng-star-inserted": {
-      "count": 2168,
+      "count": 2162,
       "usedFor": {}
     },
     ".current-price.promotion-current-price": {
-      "count": 1641,
+      "count": 1636,
       "usedFor": {}
     },
     ".old-price": {
-      "count": 362,
+      "count": 470,
       "usedFor": {}
     },
     ".current-price": {
-      "count": 165,
+      "count": 56,
       "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 2168,
+    "totalObjects": 2162,
     "selectorsFound": 6,
     "mostCommonSelectors": [
       {
         "selector": "ozd-custom-product-grid-item .carouselItem",
-        "count": 2168,
+        "count": 2162,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".product-item-info a",
-        "count": 2168,
+        "count": 2162,
         "usedFor": [
           "title"
         ]
       },
       {
         "selector": ".ng-star-inserted",
-        "count": 2168,
+        "count": 2162,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".current-price.promotion-current-price",
-        "count": 1641,
+        "count": 1636,
         "usedFor": [
           "price"
         ]
       },
       {
         "selector": ".old-price",
-        "count": 362,
+        "count": 470,
         "usedFor": [
           "price"
         ]
