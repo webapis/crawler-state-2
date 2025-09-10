@@ -3,59 +3,19 @@
   "selectorUsage": {
     "#ProductPageProductList .ItemOrj .productItem": {
       "count": 8,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
+      "usedFor": {}
     },
     ".productName a": {
       "count": 8,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
+      "usedFor": {}
     },
     "[data-original]": {
       "count": 8,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
+      "usedFor": {}
     },
     ".discountPrice .discountPriceSpan": {
       "count": 8,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ]
+      "usedFor": {}
     }
   },
   "summary": {
