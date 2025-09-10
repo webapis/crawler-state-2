@@ -50,7 +50,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-09T13:12:24.878Z",
+    "timestamp": "2025-09-10T05:33:21.813Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -58,7 +58,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcklpvvi4958",
+    "processId": "mfdjn86n9f5gt",
     "index": 0
   },
   {
@@ -94,7 +94,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-09T13:12:24.882Z",
+    "timestamp": "2025-09-10T05:33:21.816Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -102,7 +102,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcklpvvi4958",
+    "processId": "mfdjn86n9f5gt",
     "index": 1
   },
   {
@@ -154,7 +154,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-09T13:12:24.885Z",
+    "timestamp": "2025-09-10T05:33:21.819Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -162,7 +162,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcklpvvi4958",
+    "processId": "mfdjn86n9f5gt",
     "index": 2
   },
   {
@@ -190,6 +190,15 @@
         "isShadowDOM": false,
         "numericValue": 4353.32,
         "unsetPrice": false
+      },
+      {
+        "value": "$64.95",
+        "selector": ".money",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2175.83,
+        "unsetPrice": false
       }
     ],
     "videos": [],
@@ -205,7 +214,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-09T13:12:24.888Z",
+    "timestamp": "2025-09-10T05:33:21.822Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -213,7 +222,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcklpvvi4958",
+    "processId": "mfdjn86n9f5gt",
     "index": 3
   },
   {
@@ -261,7 +270,7 @@
     },
     "pageTitle": "404 Not Found – Touche Prive International",
     "pageURL": "https://int.toucheprive.com/collections/canta",
-    "timestamp": "2025-09-09T13:12:24.891Z",
+    "timestamp": "2025-09-10T05:33:21.826Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": false,
@@ -269,7 +278,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcklpvvi4958",
+    "processId": "mfdjn86n9f5gt",
     "index": 4
   }
 ]
