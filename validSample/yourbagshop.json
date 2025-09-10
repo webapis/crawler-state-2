@@ -33,7 +33,7 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-09-10T07:00:33.166Z",
+    "timestamp": "2025-09-10T09:17:18.475Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdmrcpgzd2qt",
+    "processId": "mfdrn7ypndnd9",
     "index": 0
   },
   {
@@ -78,7 +78,7 @@
     },
     "pageTitle": "EL ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=254",
-    "timestamp": "2025-09-10T07:00:33.169Z",
+    "timestamp": "2025-09-10T09:17:18.478Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -86,7 +86,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdmrcpgzd2qt",
+    "processId": "mfdrn7ypndnd9",
     "index": 1
   },
   {
@@ -121,7 +121,7 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-09-10T07:00:40.075Z",
+    "timestamp": "2025-09-10T09:17:25.254Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -129,53 +129,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdmri1w32pev",
+    "processId": "mfdrnd7kfufi0",
     "index": 0
-  },
-  {
-    "title": "DERİ OMUZ ÇANTASI",
-    "img": [
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1020-1000x1000h.jpg",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1020-1000x1000h.jpg",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1022-1000x1000h.jpg",
-      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1022-1000x1000h.jpg"
-    ],
-    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1020-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1020-2000x2000h.jpg 2x",
-    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=499",
-    "price": [
-      {
-        "value": "2.033,90TL",
-        "selector": ".price .price-normal",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2033.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".main-products.product-grid .product-thumb",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".img-responsive.img-first",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .price-normal",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "OMUZ ÇANTASI",
-    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-09-10T07:00:40.078Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfdmri1w32pev",
-    "index": 1
   },
   {
     "title": "DERİ OMUZ ÇANTASI",
@@ -211,7 +166,7 @@
     },
     "pageTitle": "OMUZ ÇANTASI",
     "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
-    "timestamp": "2025-09-10T07:00:40.080Z",
+    "timestamp": "2025-09-10T09:17:25.257Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -219,7 +174,52 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdmri1w32pev",
+    "processId": "mfdrnd7kfufi0",
+    "index": 1
+  },
+  {
+    "title": "DERİ OMUZ ÇANTASI",
+    "img": [
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1026-1000x1000h.jpg",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1026-1000x1000h.jpg",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1028-1000x1000h.jpg",
+      "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1028-1000x1000h.jpg"
+    ],
+    "primaryImg": "https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1026-1000x1000h.jpg 1x, https://yourbagshop.com/image/cache/catalog/urunler/BSP_BAG_1026-2000x2000h.jpg 2x",
+    "link": "https://yourbagshop.com/index.php?route=product/product&path=258&product_id=498",
+    "price": [
+      {
+        "value": "2.033,90TL",
+        "selector": ".price .price-normal",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2033.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".main-products.product-grid .product-thumb",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".img-responsive.img-first",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .price-normal",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "OMUZ ÇANTASI",
+    "pageURL": "https://yourbagshop.com/index.php?route=product/category&path=258",
+    "timestamp": "2025-09-10T09:17:25.260Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdrnd7kfufi0",
     "index": 2
   }
 ]
