@@ -1,5 +1,47 @@
 [
   {
+    "title": "Altın Leydi Abiye Çanta",
+    "img": [
+      "https://www.marcatellishop.com/kategori/canta/SFolder/ProductImages/abiye-canta-leydi-abiye-canta2504_24706_R2.jpg?v=0000"
+    ],
+    "primaryImg": "SFolder/ProductImages/abiye-canta-leydi-abiye-canta2504_24706_R2.jpg?v=0000",
+    "link": "https://www.marcatellishop.com/altin-leydi-abiye-canta-17-1-2504",
+    "price": [
+      {
+        "value": "t 3.250,00",
+        "selector": "span.divUFiyat1",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".divUrun",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": "img.img-responsive",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "span.divUFiyat1",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
+    "pageURL": "https://www.marcatellishop.com/kategori/canta",
+    "timestamp": "2025-09-10T12:09:23.615Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdxsiyla9x9q",
+    "index": 0
+  },
+  {
     "title": "Siyah Madame Kol Çantası",
     "img": [
       "https://www.marcatellishop.com/kategori/canta/SFolder/ProductImages/gunluk-canta-madame-kol-cantasi_2313_22668_R2.jpg?v=1231"
@@ -28,9 +70,9 @@
       "bestPriceSelector": "span.divUFiyat1",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-09-10T08:50:16.189Z",
+    "timestamp": "2025-09-10T12:09:23.618Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,8 +80,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdqog9hw37uc",
-    "index": 0
+    "processId": "mfdxsiyla9x9q",
+    "index": 1
   },
   {
     "title": "Lacivert Kemer Detaylı Omuz Çantası",
@@ -70,9 +112,9 @@
       "bestPriceSelector": "span.divUFiyat1",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-09-10T08:50:16.192Z",
+    "timestamp": "2025-09-10T12:09:23.620Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,8 +122,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdqog9hw37uc",
-    "index": 1
+    "processId": "mfdxsiyla9x9q",
+    "index": 2
   },
   {
     "title": "Vizon Omuz Çantası",
@@ -112,9 +154,9 @@
       "bestPriceSelector": "span.divUFiyat1",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-09-10T08:50:16.194Z",
+    "timestamp": "2025-09-10T12:09:23.623Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,8 +164,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdqog9hw37uc",
-    "index": 2
+    "processId": "mfdxsiyla9x9q",
+    "index": 3
   },
   {
     "title": "Taba Saddle Deri Omuz Çantası",
@@ -154,9 +196,9 @@
       "bestPriceSelector": "span.divUFiyat1",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
+    "pageTitle": "Gelin Ayakkabısı | Düğün Nişan Damat Ayakkabı Modelleri | Marcatelli",
     "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-09-10T08:50:16.197Z",
+    "timestamp": "2025-09-10T12:09:23.626Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,49 +206,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdqog9hw37uc",
-    "index": 3
-  },
-  {
-    "title": "Lacivert Saten Luna Pliseli Abiye Çanta",
-    "img": [
-      "https://www.marcatellishop.com/kategori/canta/SFolder/ProductImages/abiye-canta-luna-pliseli-abiye-canta2506_23760_R2.jpg?v=0000"
-    ],
-    "primaryImg": "SFolder/ProductImages/abiye-canta-luna-pliseli-abiye-canta2506_23760_R2.jpg?v=0000",
-    "link": "https://www.marcatellishop.com/lacivert-saten-luna-pliseli-abiye-canta-226-1-2506",
-    "price": [
-      {
-        "value": "t 3.650,00",
-        "selector": "span.divUFiyat1",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3650,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".divUrun",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "img.img-responsive",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "span.divUFiyat1",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Günlük & Abiye Çanta | Marcatelli",
-    "pageURL": "https://www.marcatellishop.com/kategori/canta",
-    "timestamp": "2025-09-10T08:50:16.199Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfdqog9hw37uc",
+    "processId": "mfdxsiyla9x9q",
     "index": 4
   }
 ]
