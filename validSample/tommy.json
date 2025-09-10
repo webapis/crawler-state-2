@@ -1,24 +1,24 @@
 [
   {
-    "title": "Kadın TH Logotape Sırt Çantası",
+    "title": "Kadın TJW Bold Omuz Çantası",
     "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574124986614.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574124986614.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574127017810.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574127017810.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574127017810.webp"
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574190612094.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574190612094.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574190612094.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574192018320.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574192018320.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574192018320.webp"
     ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
-    "link": "https://tr.tommy.com/kadin-th-logotape-sirt-cantasi_201505",
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574190612094.webp",
+    "link": "https://tr.tommy.com/kadin-tjw-bold-omuz-cantasi_201507",
     "price": [
       {
-        "value": "7.499,00 TL",
+        "value": "4.999,00 TL",
         "selector": ".p-price .one-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 7499,
+        "numericValue": 4999,
         "unsetPrice": false
       }
     ],
@@ -35,7 +35,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-09T12:22:15.518Z",
+    "timestamp": "2025-09-10T06:14:33.578Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,7 +43,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcit7xrygyf4",
+    "processId": "mfdl47i17smdl",
     "index": 0
   },
   {
@@ -82,7 +82,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-09T12:22:15.522Z",
+    "timestamp": "2025-09-10T06:14:33.581Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,8 +90,55 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcit7xrygyf4",
+    "processId": "mfdl47i17smdl",
     "index": 1
+  },
+  {
+    "title": "Kadın TH Logotape Sırt Çantası",
+    "img": [
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574124986614.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574124986614.webp",
+      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574127017810.webp",
+      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890574127017810.webp",
+      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890574127017810.webp"
+    ],
+    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890574124986614.webp",
+    "link": "https://tr.tommy.com/kadin-th-logotape-sirt-cantasi_201505",
+    "price": [
+      {
+        "value": "7.499,00 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".p-item.col-6",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
+    "pageURL": "https://tr.tommy.com/kadin-canta",
+    "timestamp": "2025-09-10T06:14:33.584Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdl47i17smdl",
+    "index": 2
   },
   {
     "title": "Kadın TH City Mono Tote Çanta",
@@ -129,7 +176,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-09T12:22:15.525Z",
+    "timestamp": "2025-09-10T06:14:33.587Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,8 +184,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcit7xrygyf4",
-    "index": 2
+    "processId": "mfdl47i17smdl",
+    "index": 3
   },
   {
     "title": "Kadın TH City Mini Tote Çanta",
@@ -176,7 +223,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
     "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-09T12:22:15.528Z",
+    "timestamp": "2025-09-10T06:14:33.591Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,54 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcit7xrygyf4",
-    "index": 3
-  },
-  {
-    "title": "Kadın TH Modern Essential Omuz Çantası",
-    "img": [
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573680452768.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573680452768.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573680452768.webp",
-      "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573681859047.webp",
-      "https://st-tommy.mncdn.com/mnresize/375/500/Content/media/ProductImg/original/638890573681859047.webp",
-      "https://st-tommy.mncdn.com/mnresize/460/615/Content/media/ProductImg/original/638890573681859047.webp"
-    ],
-    "primaryImg": "https://st-tommy.mncdn.com/mnresize/240/321/Content/media/ProductImg/original/638890573680452768.webp",
-    "link": "https://tr.tommy.com/kadin-th-modern-essential-omuz-cantasi_201494",
-    "price": [
-      {
-        "value": "6.999,00 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 6999,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".p-item.col-6",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | Tommy Hilfiger",
-    "pageURL": "https://tr.tommy.com/kadin-canta",
-    "timestamp": "2025-09-09T12:22:15.531Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfcit7xrygyf4",
+    "processId": "mfdl47i17smdl",
     "index": 4
   }
 ]
