@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-10T09:08:25.013Z",
+    "timestamp": "2025-09-10T12:28:33.176Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,7 +38,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdrbsht0e6vq",
+    "processId": "mfdyh61m4lucn",
     "index": 0
   },
   {
@@ -72,7 +72,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-10T09:08:25.017Z",
+    "timestamp": "2025-09-10T12:28:33.180Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,7 +80,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdrbsht0e6vq",
+    "processId": "mfdyh61m4lucn",
     "index": 1
   },
   {
@@ -114,7 +114,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-10T09:08:25.020Z",
+    "timestamp": "2025-09-10T12:28:33.185Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,7 +122,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdrbsht0e6vq",
+    "processId": "mfdyh61m4lucn",
     "index": 2
   },
   {
@@ -149,14 +149,14 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-10T09:08:25.024Z",
+    "timestamp": "2025-09-10T12:28:33.188Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,7 +164,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdrbsht0e6vq",
+    "processId": "mfdyh61m4lucn",
     "index": 3
   },
   {
@@ -198,7 +198,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-10T09:08:25.028Z",
+    "timestamp": "2025-09-10T12:28:33.192Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,7 +206,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdrbsht0e6vq",
+    "processId": "mfdyh61m4lucn",
     "index": 4
   }
 ]
