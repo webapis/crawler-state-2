@@ -1,52 +1,5 @@
 [
   {
-    "title": "Kahve Kadın Çapraz Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-8-4153.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-99c-d9.jpg",
-      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-43f-2c.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-70e39a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-9ff-41.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-capraz-canta-8-4153.jpg",
-    "link": "https://www.elleshoes.com/kahve-kadin-capraz-canta-35616",
-    "price": [
-      {
-        "value": "4.279,90 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 4279.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
-    "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-09T12:16:54.999Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfcimcnmnkjda",
-    "index": 0
-  },
-  {
     "title": "Taba Kadın Çapraz Çanta",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/taba-kadin-capraz-canta--440d-.jpg",
@@ -82,7 +35,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-09T12:16:55.003Z",
+    "timestamp": "2025-09-10T05:49:21.983Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,8 +43,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcimcnmnkjda",
-    "index": 1
+    "processId": "mfdk7t6sj0ve4",
+    "index": 0
   },
   {
     "title": "Kahve Kadın El Çantası",
@@ -129,7 +82,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-09T12:16:55.007Z",
+    "timestamp": "2025-09-10T05:49:21.988Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,8 +90,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcimcnmnkjda",
-    "index": 2
+    "processId": "mfdk7t6sj0ve4",
+    "index": 1
   },
   {
     "title": "Taba Kadın El Çantası",
@@ -176,7 +129,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-09T12:16:55.010Z",
+    "timestamp": "2025-09-10T05:49:21.992Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -184,8 +137,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcimcnmnkjda",
-    "index": 3
+    "processId": "mfdk7t6sj0ve4",
+    "index": 2
   },
   {
     "title": "Siyah Kadın El Çantası",
@@ -223,7 +176,7 @@
     },
     "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
     "pageURL": "https://www.elleshoes.com/canta-aksesuar",
-    "timestamp": "2025-09-09T12:16:55.014Z",
+    "timestamp": "2025-09-10T05:49:21.996Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -231,7 +184,54 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfcimcnmnkjda",
+    "processId": "mfdk7t6sj0ve4",
+    "index": 3
+  },
+  {
+    "title": "Kahve Kadın Küçük El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi-410a-2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi--eb23-.jpg",
+      "https://www.elleshoes.com/canta-aksesuar/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi-d10d49.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi-93dbb2.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi-c-4410.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=700,quality=95,format=webp/10873/uploads/urunresimleri/buyuk/kahve-kadin-kucuk-el-cantasi-410a-2.jpg",
+    "link": "https://www.elleshoes.com/kahve-kadin-kucuk-el-cantasi-38039",
+    "price": [
+      {
+        "value": "2.799,90 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2799.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta ve Aksesuar Modelleri & Fiyatları | Elle Shoes",
+    "pageURL": "https://www.elleshoes.com/canta-aksesuar",
+    "timestamp": "2025-09-10T05:49:22.001Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdk7t6sj0ve4",
     "index": 4
   }
 ]
