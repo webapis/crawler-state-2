@@ -1,5 +1,47 @@
 [
   {
+    "title": "Telefon Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079912_tally-41602.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079912_tally-41602.jpeg",
+    "link": "https://www.kipling.com.tr/p/tally-41602",
+    "price": [
+      {
+        "value": "4179,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4179,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-10T06:49:43.835Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmdfq3yq08j",
+    "index": 0
+  },
+  {
     "title": "Orta Boy Sırt Çantası",
     "img": [
       "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079863_firefly-up-41600.jpeg"
@@ -30,7 +72,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-09-09T12:57:50.566Z",
+    "timestamp": "2025-09-10T06:49:43.838Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,66 +80,24 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfck2zah8bxa3",
-    "index": 0
-  },
-  {
-    "title": "Anne - Bebek Çantası",
-    "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079696_camama-41426.jpeg"
-    ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079696_camama-41426.jpeg",
-    "link": "https://www.kipling.com.tr/p/camama-41426",
-    "price": [
-      {
-        "value": "14369,00 TL",
-        "selector": ".product-prices li.text-left",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 14369,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-box-container",
-      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-prices li.text-left",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
-    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-09-09T12:57:50.569Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfck2zah8bxa3",
+    "processId": "mfdmdfq3yq08j",
     "index": 1
   },
   {
-    "title": "Orta Boy Omuz Çantası",
+    "title": "Büyük Boy Omuz Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079846_arto-41393.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082510_hye-lap-41545.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079846_arto-41393.jpeg",
-    "link": "https://www.kipling.com.tr/p/arto-41393",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082510_hye-lap-41545.jpeg",
+    "link": "https://www.kipling.com.tr/p/hye-lap-41545",
     "price": [
       {
-        "value": "7669,00 TL",
+        "value": "6239,00 TL",
         "selector": ".product-prices li.text-left",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 7669,
+        "numericValue": 6239,
         "unsetPrice": false
       }
     ],
@@ -114,7 +114,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-09-09T12:57:50.572Z",
+    "timestamp": "2025-09-10T06:49:43.841Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,24 +122,24 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfck2zah8bxa3",
+    "processId": "mfdmdfq3yq08j",
     "index": 2
   },
   {
-    "title": "Orta Boy Omuz Çantası",
+    "title": "Küçük Boy Omuz Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079828_arto-41390.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082323_gabbette-s-41464.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079828_arto-41390.jpeg",
-    "link": "https://www.kipling.com.tr/p/arto-41390",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082323_gabbette-s-41464.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabbette-s-41464",
     "price": [
       {
-        "value": "7669,00 TL",
+        "value": "8639,00 TL",
         "selector": ".product-prices li.text-left",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 7669,
+        "numericValue": 8639,
         "unsetPrice": false
       }
     ],
@@ -156,7 +156,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-09-09T12:57:50.575Z",
+    "timestamp": "2025-09-10T06:49:43.843Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,24 +164,24 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfck2zah8bxa3",
+    "processId": "mfdmdfq3yq08j",
     "index": 3
   },
   {
-    "title": "Orta Boy Omuz Çantası",
+    "title": "Orta Boy Sırt Çantası",
     "img": [
-      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079747_arto-41282.jpeg"
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082404_amita-41435.jpeg"
     ],
-    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079747_arto-41282.jpeg",
-    "link": "https://www.kipling.com.tr/p/arto-41282",
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082404_amita-41435.jpeg",
+    "link": "https://www.kipling.com.tr/p/amita-41435",
     "price": [
       {
-        "value": "8149,00 TL",
+        "value": "6719,00 TL",
         "selector": ".product-prices li.text-left",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 8149,
+        "numericValue": 6719,
         "unsetPrice": false
       }
     ],
@@ -198,7 +198,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
     "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
-    "timestamp": "2025-09-09T12:57:50.577Z",
+    "timestamp": "2025-09-10T06:49:43.846Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,7 +206,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfck2zah8bxa3",
+    "processId": "mfdmdfq3yq08j",
     "index": 4
   }
 ]
