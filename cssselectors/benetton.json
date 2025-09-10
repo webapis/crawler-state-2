@@ -1,123 +1,51 @@
 {
   "uniqueSelectors": {},
   "selectorUsage": {
-    ".p-item.col": {
-      "count": 16,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
+    ".product-list.js-customize .p-item.col": {
+      "count": 1,
+      "usedFor": {}
     },
     ".p-name a": {
-      "count": 16,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
+      "count": 1,
+      "usedFor": {}
     },
-    "[data-srcset]": {
-      "count": 16,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
+    ".ls-is-cached.lazyloaded": {
+      "count": 1,
+      "usedFor": {}
     },
     ".p-price .one-price": {
-      "count": 16,
-      "usedFor": {},
-      "objectIndices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15
-      ]
+      "count": 1,
+      "usedFor": {}
     }
   },
   "summary": {
-    "totalObjects": 16,
+    "totalObjects": 1,
     "selectorsFound": 4,
     "mostCommonSelectors": [
       {
-        "selector": ".p-item.col",
-        "count": 16,
+        "selector": ".product-list.js-customize .p-item.col",
+        "count": 1,
         "usedFor": [
           "main element"
         ]
       },
       {
         "selector": ".p-name a",
-        "count": 16,
+        "count": 1,
         "usedFor": [
           "title"
         ]
       },
       {
-        "selector": "[data-srcset]",
-        "count": 16,
+        "selector": ".ls-is-cached.lazyloaded",
+        "count": 1,
         "usedFor": [
           "image"
         ]
       },
       {
         "selector": ".p-price .one-price",
-        "count": 16,
+        "count": 1,
         "usedFor": [
           "price"
         ]
