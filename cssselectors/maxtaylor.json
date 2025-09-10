@@ -1,0 +1,55 @@
+{
+  "uniqueSelectors": {},
+  "selectorUsage": {
+    ".yit-wcan-container .product.product-item.grid": {
+      "count": 48,
+      "usedFor": {}
+    },
+    ".name a": {
+      "count": 48,
+      "usedFor": {}
+    },
+    "[data-bgset]": {
+      "count": 48,
+      "usedFor": {}
+    },
+    ".money.tutar": {
+      "count": 48,
+      "usedFor": {}
+    }
+  },
+  "summary": {
+    "totalObjects": 48,
+    "selectorsFound": 4,
+    "mostCommonSelectors": [
+      {
+        "selector": ".yit-wcan-container .product.product-item.grid",
+        "count": 48,
+        "usedFor": [
+          "main element"
+        ]
+      },
+      {
+        "selector": ".name a",
+        "count": 48,
+        "usedFor": [
+          "title"
+        ]
+      },
+      {
+        "selector": "[data-bgset]",
+        "count": 48,
+        "usedFor": [
+          "image"
+        ]
+      },
+      {
+        "selector": ".money.tutar",
+        "count": 48,
+        "usedFor": [
+          "price"
+        ]
+      }
+    ]
+  }
+}
