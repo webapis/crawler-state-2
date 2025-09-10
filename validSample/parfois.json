@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "title": "Charm'lı Teknik Kumaş Çapraz Çanta",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b851a10e6ff1b54ceeafae_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b851a10e6ff1b54ceeafae_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/charmli-teknik-kumas-capraz-canta-p-240807_bk",
+    "price": [
+      {
+        "value": "2.299,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Parfois Kadın Çantaları | Tote, Laptop, Sırt, Çapraz Çantalar | Günlük ve Şık Modeller | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta?orderby=15&pagesize=40&viewmode=list&pagenumber=8",
+    "timestamp": "2025-09-10T06:58:08.973Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmoa846e1wm",
+    "index": 0
+  },
+  {
+    "title": "Teknik Kumaş Shopper Çanta L",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8519e0e6ff1b54cee43fd_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8519e0e6ff1b54cee43fd_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/teknik-kumas-shopper-canta-l-p-240702_md",
+    "price": [
+      {
+        "value": "1.999,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Parfois Kadın Çantaları | Tote, Laptop, Sırt, Çapraz Çantalar | Günlük ve Şık Modeller | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta?orderby=15&pagesize=40&viewmode=list&pagenumber=8",
+    "timestamp": "2025-09-10T06:58:08.977Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmoa846e1wm",
+    "index": 1
+  },
+  {
+    "title": "Teknik Kumaş Shopper Çanta L",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8519a0e6ff1b54cedd84a_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8519a0e6ff1b54cedd84a_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/teknik-kumas-shopper-canta-l-p-240702_ec",
+    "price": [
+      {
+        "value": "1.999,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Parfois Kadın Çantaları | Tote, Laptop, Sırt, Çapraz Çantalar | Günlük ve Şık Modeller | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta?orderby=15&pagesize=40&viewmode=list&pagenumber=8",
+    "timestamp": "2025-09-10T06:58:08.980Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmoa846e1wm",
+    "index": 2
+  },
+  {
+    "title": "Desenli Teknik Kumaş Çok Amaçlı Çanta",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8518d0e6ff1b54cec2988_0.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/68b8518d0e6ff1b54cec2988_0.jpg",
+    "link": "https://www.parfois.com.tr/tr/desenli-teknik-kumas-cok-amacli-canta-p-239423_ca",
+    "price": [
+      {
+        "value": "1.099,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1099.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Parfois Kadın Çantaları | Tote, Laptop, Sırt, Çapraz Çantalar | Günlük ve Şık Modeller | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta?orderby=15&pagesize=40&viewmode=list&pagenumber=8",
+    "timestamp": "2025-09-10T06:58:08.983Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmoa846e1wm",
+    "index": 3
+  },
+  {
+    "title": "Deri Detaylı Omuz Çantası",
+    "img": [
+      "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68b8526d0e6ff1b54c03ba3d_deri-detayli-omuz-cantasi.jpg"
+    ],
+    "primaryImg": "https://cdn-parfois.mncdn.com/mnresize/700/-/content/images/thumbs/68b8526d0e6ff1b54c03ba3d_deri-detayli-omuz-cantasi.jpg",
+    "link": "https://www.parfois.com.tr/tr/deri-detayli-omuz-cantasi-p-238765_bn",
+    "price": [
+      {
+        "value": "2.499,99 TL",
+        "selector": ".price.actual-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2499.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-title a)",
+      "matchedSelector": ".cat-product article.product-box:has(.product-body)",
+      "titleSelectorMatched": ".product-title a",
+      "imgSelectorMatched": ".main-product-img.card-img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price.actual-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Parfois Kadın Çantaları | Tote, Laptop, Sırt, Çapraz Çantalar | Günlük ve Şık Modeller | Parfois",
+    "pageURL": "https://www.parfois.com.tr/tr/canta?orderby=15&pagesize=40&viewmode=list&pagenumber=8",
+    "timestamp": "2025-09-10T06:58:08.986Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfdmoa846e1wm",
+    "index": 4
+  }
+]
