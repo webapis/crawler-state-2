@@ -8,13 +8,13 @@
     "link": "https://cattocatto.com/collections/products/products/bespoke-portait-customisation",
     "price": [
       {
-        "value": "$193.00 USD",
+        "value": "£143.00 GBP",
         "selector": ".product-list-item-price .money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 6465.5,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -30,15 +30,15 @@
     },
     "pageTitle": "CATTO STORE – Catto Catto",
     "pageURL": "https://cattocatto.com/collections/products",
-    "timestamp": "2025-09-11T04:55:06.027Z",
+    "timestamp": "2025-09-11T06:45:34.167Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexpvglq9tcw",
+    "processId": "mff1nxs60rqj0",
     "index": 0
   },
   {
@@ -50,13 +50,13 @@
     "link": "https://cattocatto.com/collections/products/products/customisation-from-catto-catalogue",
     "price": [
       {
-        "value": "$138.00 USD",
+        "value": "£102.00 GBP",
         "selector": ".product-list-item-price .money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 4623,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -72,15 +72,15 @@
     },
     "pageTitle": "CATTO STORE – Catto Catto",
     "pageURL": "https://cattocatto.com/collections/products",
-    "timestamp": "2025-09-11T04:55:06.029Z",
+    "timestamp": "2025-09-11T06:45:34.170Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexpvglq9tcw",
+    "processId": "mff1nxs60rqj0",
     "index": 1
   },
   {
@@ -92,13 +92,13 @@
     "link": "https://cattocatto.com/collections/products/products/initial-typography-customisation",
     "price": [
       {
-        "value": "$83.00 USD",
+        "value": "£61.00 GBP",
         "selector": ".product-list-item-price .money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 2780.5,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -114,15 +114,15 @@
     },
     "pageTitle": "CATTO STORE – Catto Catto",
     "pageURL": "https://cattocatto.com/collections/products",
-    "timestamp": "2025-09-11T04:55:06.032Z",
+    "timestamp": "2025-09-11T06:45:34.173Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexpvglq9tcw",
+    "processId": "mff1nxs60rqj0",
     "index": 2
   },
   {
@@ -134,13 +134,13 @@
     "link": "https://cattocatto.com/collections/products/products/flower-typography",
     "price": [
       {
-        "value": "$106.00 USD",
+        "value": "£78.00 GBP",
         "selector": ".product-list-item-price .money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3551,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -156,15 +156,15 @@
     },
     "pageTitle": "CATTO STORE – Catto Catto",
     "pageURL": "https://cattocatto.com/collections/products",
-    "timestamp": "2025-09-11T04:55:06.034Z",
+    "timestamp": "2025-09-11T06:45:34.175Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexpvglq9tcw",
+    "processId": "mff1nxs60rqj0",
     "index": 3
   },
   {
@@ -176,13 +176,13 @@
     "link": "https://cattocatto.com/collections/products/products/customization-online-order",
     "price": [
       {
-        "value": "$138.00 USD",
+        "value": "£102.00 GBP",
         "selector": ".product-list-item-price .money",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 4623,
-        "unsetPrice": false
+        "numericValue": 0,
+        "unsetPrice": true
       }
     ],
     "videos": [],
@@ -198,15 +198,15 @@
     },
     "pageTitle": "CATTO STORE – Catto Catto",
     "pageURL": "https://cattocatto.com/collections/products",
-    "timestamp": "2025-09-11T04:55:06.037Z",
+    "timestamp": "2025-09-11T06:45:34.178Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexpvglq9tcw",
+    "processId": "mff1nxs60rqj0",
     "index": 4
   }
 ]
