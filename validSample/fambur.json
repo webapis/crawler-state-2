@@ -33,7 +33,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-11T04:44:15.828Z",
+    "timestamp": "2025-09-11T06:35:28.629Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexbxpevibj9",
+    "processId": "mff1ayh1e2a71",
     "index": 0
   },
   {
@@ -78,7 +78,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-11T04:44:15.830Z",
+    "timestamp": "2025-09-11T06:35:28.633Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -86,7 +86,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexbxpevibj9",
+    "processId": "mff1ayh1e2a71",
     "index": 1
   },
   {
@@ -123,7 +123,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-11T04:44:15.833Z",
+    "timestamp": "2025-09-11T06:35:28.636Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -131,7 +131,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexbxpevibj9",
+    "processId": "mff1ayh1e2a71",
     "index": 2
   },
   {
@@ -168,7 +168,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-11T04:44:15.835Z",
+    "timestamp": "2025-09-11T06:35:28.638Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -176,7 +176,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexbxpevibj9",
+    "processId": "mff1ayh1e2a71",
     "index": 3
   },
   {
@@ -206,14 +206,14 @@
       "linkSource": "titleElement (matched: a.product-name)",
       "matchedSelector": ".product-card",
       "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": "[data-src]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-11T04:44:15.838Z",
+    "timestamp": "2025-09-11T06:35:28.641Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -221,7 +221,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfexbxpevibj9",
+    "processId": "mff1ayh1e2a71",
     "index": 4
   }
 ]
