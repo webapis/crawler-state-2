@@ -1,49 +1,5 @@
 [
   {
-    "title": "SHOULDER BAG",
-    "img": [
-      "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=264",
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/e0/55/e055f2090844c6cf67fc1f4f50b50ec00c8a0703.jpg",
-      "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1300699004.html",
-    "price": [
-      {
-        "value": "1 249,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1249,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-10T11:38:58.022Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfdwpeciri5v3",
-    "index": 0
-  },
-  {
     "title": "TORBA ÇANTA",
     "img": [
       "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=264",
@@ -76,7 +32,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-10T11:38:58.025Z",
+    "timestamp": "2025-09-11T04:03:46.857Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -84,52 +40,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdwpeciri5v3",
-    "index": 1
-  },
-  {
-    "title": "OMUZ ÇANTASI",
-    "img": [
-      "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=264",
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/df/cf/dfcfd2b9278cd050248834d8236cef899b210d40.jpg",
-      "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1274257005.html",
-    "price": [
-      {
-        "value": "1 949,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1949,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-10T11:38:58.027Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfdwpeciri5v3",
-    "index": 2
+    "processId": "mfevvvlc0f44d",
+    "index": 0
   },
   {
     "title": "SHOPPER ÇANTA",
@@ -164,7 +76,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-10T11:38:58.030Z",
+    "timestamp": "2025-09-11T04:03:46.860Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,18 +84,106 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdwpeciri5v3",
+    "processId": "mfevvvlc0f44d",
+    "index": 1
+  },
+  {
+    "title": "SHOULDER BAG",
+    "img": [
+      "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=264",
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/e0/55/e055f2090844c6cf67fc1f4f50b50ec00c8a0703.jpg",
+      "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1536"
+    ],
+    "primaryImg": "https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/06/64/066408bdf366581124d3cacdb969b87acda2bf74.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1300699004.html",
+    "price": [
+      {
+        "value": "1 249,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1249,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": "li div article[data-articlecode][data-category]",
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-articlecode] div div p span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-09-11T04:03:46.863Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfevvvlc0f44d",
+    "index": 2
+  },
+  {
+    "title": "OMUZ ÇANTASI",
+    "img": [
+      "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=264",
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/df/cf/dfcfd2b9278cd050248834d8236cef899b210d40.jpg",
+      "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1536"
+    ],
+    "primaryImg": "https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/f9/70/f970fb4844edf1719352741f6b253c20be5b9e4a.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1274257005.html",
+    "price": [
+      {
+        "value": "1 949,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1949,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": "li div article[data-articlecode][data-category]",
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-articlecode] div div p span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-09-11T04:03:46.866Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfevvvlc0f44d",
     "index": 3
   },
   {
-    "title": "KESELİ SHOPPER ÇANTA",
+    "title": "KEMER DETAYLI TOTE ÇANTA",
     "img": [
-      "https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=264",
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/bf/f5/bff5319308c0424411fbfc77082d56dea228aa12.jpg",
-      "https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=1536"
+      "https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=264",
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/c9/84/c9849ef6a9af450ea767e095929ff7a06cbcd033.jpg",
+      "https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=1536"
     ],
-    "primaryImg": "https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/43/cb/43cbb97b0c904166a5332e27d2c8c924598a5fbe.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1293501003.html",
+    "primaryImg": "https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/0c/e2/0ce26de2a3e5c710ad970d0565af848ce28e14f8.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1293502001.html",
     "price": [
       {
         "value": "1 649,00 TL",
@@ -208,7 +208,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-10T11:38:58.033Z",
+    "timestamp": "2025-09-11T04:03:46.868Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -216,7 +216,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfdwpeciri5v3",
+    "processId": "mfevvvlc0f44d",
     "index": 4
   }
 ]
