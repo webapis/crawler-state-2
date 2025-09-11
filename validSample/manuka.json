@@ -25,14 +25,14 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".picture a img",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-09-11T04:19:10.566Z",
+    "timestamp": "2025-09-11T06:11:39.324Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -40,7 +40,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewfoc52x3jk",
+    "processId": "mff0gbqi3euew",
     "index": 0
   },
   {
@@ -76,7 +76,7 @@
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-09-11T04:19:10.570Z",
+    "timestamp": "2025-09-11T06:11:39.328Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -84,7 +84,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewfoc52x3jk",
+    "processId": "mff0gbqi3euew",
     "index": 1
   },
   {
@@ -113,14 +113,14 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".picture a img",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-09-11T04:19:10.574Z",
+    "timestamp": "2025-09-11T06:11:39.332Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -128,7 +128,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewfoc52x3jk",
+    "processId": "mff0gbqi3euew",
     "index": 2
   },
   {
@@ -164,7 +164,7 @@
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-09-11T04:19:10.577Z",
+    "timestamp": "2025-09-11T06:11:39.335Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -172,7 +172,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewfoc52x3jk",
+    "processId": "mff0gbqi3euew",
     "index": 3
   },
   {
@@ -208,7 +208,7 @@
     },
     "pageTitle": "Kadın Çanta | Birbirinden Şık Kadın Çanta Modelleri - Manuka",
     "pageURL": "https://www.manuka.com.tr/canta",
-    "timestamp": "2025-09-11T04:19:10.581Z",
+    "timestamp": "2025-09-11T06:11:39.339Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -216,7 +216,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewfoc52x3jk",
+    "processId": "mff0gbqi3euew",
     "index": 4
   }
 ]
