@@ -41,7 +41,7 @@
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-09-11T04:14:49.647Z",
+    "timestamp": "2025-09-11T06:03:24.812Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -49,7 +49,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewa2yvpam8e",
+    "processId": "mff05q3ju8nso",
     "index": 0
   },
   {
@@ -94,7 +94,7 @@
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-09-11T04:14:49.652Z",
+    "timestamp": "2025-09-11T06:03:24.817Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -102,7 +102,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewa2yvpam8e",
+    "processId": "mff05q3ju8nso",
     "index": 1
   },
   {
@@ -140,14 +140,14 @@
       "linkSource": "titleElement (matched: .product-grid-item__title)",
       "matchedSelector": ".ProductCard.mb-2.w-full",
       "titleSelectorMatched": ".product-grid-item__title",
-      "imgSelectorMatched": "[data-bgset]",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".product-grid-item__price__new",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-09-11T04:14:49.656Z",
+    "timestamp": "2025-09-11T06:03:24.820Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -155,7 +155,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewa2yvpam8e",
+    "processId": "mff05q3ju8nso",
     "index": 2
   },
   {
@@ -200,7 +200,7 @@
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-09-11T04:14:49.660Z",
+    "timestamp": "2025-09-11T06:03:24.824Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -208,7 +208,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewa2yvpam8e",
+    "processId": "mff05q3ju8nso",
     "index": 3
   },
   {
@@ -253,7 +253,7 @@
     },
     "pageTitle": "Kadın Çanta",
     "pageURL": "https://derimod.com.tr/collections/kadin-canta?filter.v.availability=1",
-    "timestamp": "2025-09-11T04:14:49.664Z",
+    "timestamp": "2025-09-11T06:03:24.828Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -261,7 +261,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfewa2yvpam8e",
+    "processId": "mff05q3ju8nso",
     "index": 4
   }
 ]
