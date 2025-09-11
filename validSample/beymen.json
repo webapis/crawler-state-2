@@ -1,5 +1,99 @@
 [
   {
+    "title": "Nyluxe Siyah Seyahat Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/ebnxyfjk.kk0_IMG_01_2110099142579.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/ebnxyfjk.kk0_IMG_01_2110099142579.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ebnxyfjk.kk0_IMG_01_2110099142579.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/julyq5k3.hgh_IMG_02_2110099142579.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/dt1p4ctx.ipt_IMG_03_2110099142579.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/vuejqiif.4wj_IMG_04_2110099142579.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/ebnxyfjk.kk0_IMG_01_2110099142579.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/ebnxyfjk.kk0_IMG_01_2110099142579.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_beymen-nyluxe-siyah-seyahat-cantasi_1641044",
+    "price": [
+      {
+        "value": "4.999 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-09-11T05:51:06.051Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfezpw4u1xbb6",
+    "index": 0
+  },
+  {
+    "title": "Hera Siyah Kadın El Çantası",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/kw3duwqa.5ee_IMG_01_2110099142890.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/kw3duwqa.5ee_IMG_01_2110099142890.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kw3duwqa.5ee_IMG_01_2110099142890.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ipnek0bk.f1p_IMG_02_2110099142890.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/cbuleivv.5oe_IMG_03_2110099142890.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ihgcsrfe.lim_IMG_04_2110099142890.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/kw3duwqa.5ee_IMG_01_2110099142890.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/kw3duwqa.5ee_IMG_01_2110099142890.jpg 2x",
+    "link": "https://www.beymen.com/tr/p_beymen-hera-siyah-kadin-el-cantasi_1641077",
+    "price": [
+      {
+        "value": "3.349 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3349,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
+    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
+    "timestamp": "2025-09-11T05:51:06.055Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfezpw4u1xbb6",
+    "index": 1
+  },
+  {
     "title": "Lupella Large Siyah Kadın Deri Çanta",
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/rttuoiak.dfg_IMG_01_2110099142401.jpg",
@@ -35,7 +129,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-09-11T04:00:43.254Z",
+    "timestamp": "2025-09-11T05:51:06.058Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +137,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfevrxyxg7qhl",
-    "index": 0
+    "processId": "mfezpw4u1xbb6",
+    "index": 2
   },
   {
     "title": "Nyluxe Gri Kadın El Portföyü",
@@ -82,7 +176,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-09-11T04:00:43.259Z",
+    "timestamp": "2025-09-11T05:51:06.062Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,8 +184,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfevrxyxg7qhl",
-    "index": 1
+    "processId": "mfezpw4u1xbb6",
+    "index": 3
   },
   {
     "title": "Small Siyah Kadın Kanvas Çapraz Çanta",
@@ -129,7 +223,7 @@
     },
     "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
     "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-09-11T04:00:43.263Z",
+    "timestamp": "2025-09-11T05:51:06.065Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -137,101 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfevrxyxg7qhl",
-    "index": 2
-  },
-  {
-    "title": "Nyluxe Ekru Kadın Alışveriş Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/0poyql0e.g3q_IMG_01_2110099142593.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/0poyql0e.g3q_IMG_01_2110099142593.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/0poyql0e.g3q_IMG_01_2110099142593.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/qbniuutm.bio_IMG_02_2110099142593.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bb4dmagt.yit_IMG_03_2110099142593.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/4hys3rcp.wi5_IMG_04_2110099142593.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/0poyql0e.g3q_IMG_01_2110099142593.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/0poyql0e.g3q_IMG_01_2110099142593.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_beymen-nyluxe-ekru-kadin-alisveris-cantasi_1627215",
-    "price": [
-      {
-        "value": "5.095 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 5095,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-09-11T04:00:43.269Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfevrxyxg7qhl",
-    "index": 3
-  },
-  {
-    "title": "Siyah Beyaz Çizgili Kadın Küçük Kanvas Plaj Çantas",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/isdlkfms.cb1_IMG_01_2110099142753.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/isdlkfms.cb1_IMG_01_2110099142753.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/isdlkfms.cb1_IMG_01_2110099142753.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/oepkpwjx.c13_IMG_02_2110099142753.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/br1m2zup.c4u_IMG_03_2110099142753.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/csql0011.omc_IMG_04_2110099142753.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/isdlkfms.cb1_IMG_01_2110099142753.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/isdlkfms.cb1_IMG_01_2110099142753.jpg 2x",
-    "link": "https://www.beymen.com/tr/p_beymen-siyah-beyaz-cizgili-kadin-kucuk-kanvas-plaj-cantas_1641011",
-    "price": [
-      {
-        "value": "5.995 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 5995,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "2025 Kadın Çanta Marka & Modelleri | Beymen",
-    "pageURL": "https://www.beymen.com/tr/kadin-canta-10019",
-    "timestamp": "2025-09-11T04:00:43.273Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfevrxyxg7qhl",
+    "processId": "mfezpw4u1xbb6",
     "index": 4
   }
 ]
