@@ -1,5 +1,50 @@
 [
   {
+    "title": "Kanken Classic Unisex Gri Sırt Çantası",
+    "img": [
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size384x384_cropCenter.jpg",
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size3840x3840_cropCenter.jpg",
+      "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png",
+      "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png"
+    ],
+    "primaryImg": "https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size16x16_cropCenter.jpg 16w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size32x32_cropCenter.jpg 32w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size48x48_cropCenter.jpg 48w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size64x64_cropCenter.jpg 64w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size96x96_cropCenter.jpg 96w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size128x128_cropCenter.jpg 128w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size256x256_cropCenter.jpg 256w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size384x384_cropCenter.jpg 384w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size640x640_cropCenter.jpg 640w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size750x750_cropCenter.jpg 750w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size828x828_cropCenter.jpg 828w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size1080x1080_cropCenter.jpg 1080w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size1200x1200_cropCenter.jpg 1200w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size1920x1920_cropCenter.jpg 1920w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size2048x2048_cropCenter.jpg 2048w, https://akn-ss.a-cdn.akinoncloud.com/products/2021/06/29/267578/fdca2bdb-c0db-4a16-903d-37f8b1df498a_size3840x3840_cropCenter.jpg 3840w",
+    "link": "https://www.superstep.com.tr/urun/kanken-classic-unisex-gri-sirt-cantasi/23510-46/",
+    "price": [
+      {
+        "value": "5.249 TL",
+        "selector": "[data-testid=\"product-price\"]",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5249,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: div.text-sm.text-left.flex.flex-col.justify-start a)",
+      "matchedSelector": ".text-sm.text-left.flex.flex-col",
+      "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
+    "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
+    "timestamp": "2025-09-12T04:19:35.122Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbw1xptgbkc",
+    "index": 0
+  },
+  {
     "title": "Kanken Classic Unisex Sarı Sırt Çantası",
     "img": [
       "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/20/219697/0492c062-106e-4417-bcf5-a1522ee4bce5_size384x384_cropCenter.jpg",
@@ -35,7 +80,7 @@
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-09-11T06:35:27.641Z",
+    "timestamp": "2025-09-12T04:19:35.124Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +88,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1axsosicwl",
-    "index": 0
+    "processId": "mfgbw1xptgbkc",
+    "index": 1
   },
   {
     "title": "Vans Old Skool Sport Unisex Siyah Sırt Çantası",
@@ -82,7 +127,7 @@
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-09-11T06:35:27.644Z",
+    "timestamp": "2025-09-12T04:19:35.127Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,8 +135,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1axsosicwl",
-    "index": 1
+    "processId": "mfgbw1xptgbkc",
+    "index": 2
   },
   {
     "title": "Eastpak Padded Pak R Unisex Mor Sırt Çantası",
@@ -131,7 +176,7 @@
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-09-11T06:35:27.646Z",
+    "timestamp": "2025-09-12T04:19:35.130Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -139,80 +184,31 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1axsosicwl",
-    "index": 2
-  },
-  {
-    "title": "Eastpak Day Pak R Unisex Gri Sırt Çantası",
-    "img": [
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size384x384_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size3840x3840_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/7078506c-b607-451e-a870-30463ff639df_size384x384_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/7078506c-b607-451e-a870-30463ff639df_size3840x3840_cropCenter.jpg",
-      "https://www.superstep.com.tr/kadin-canta-cuzdan/white-bg.png",
-      "https://www.superstep.com.tr/kadin-canta-cuzdan/white-bg.png",
-      "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png",
-      "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png"
-    ],
-    "primaryImg": "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size16x16_cropCenter.jpg 16w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size32x32_cropCenter.jpg 32w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size48x48_cropCenter.jpg 48w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size64x64_cropCenter.jpg 64w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size96x96_cropCenter.jpg 96w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size128x128_cropCenter.jpg 128w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size256x256_cropCenter.jpg 256w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size384x384_cropCenter.jpg 384w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size640x640_cropCenter.jpg 640w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size750x750_cropCenter.jpg 750w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size828x828_cropCenter.jpg 828w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size1080x1080_cropCenter.jpg 1080w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size1200x1200_cropCenter.jpg 1200w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size1920x1920_cropCenter.jpg 1920w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size2048x2048_cropCenter.jpg 2048w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448439/09874881-daec-4042-9e63-4bbd9f3b32c1_size3840x3840_cropCenter.jpg 3840w",
-    "link": "https://www.superstep.com.tr/urun/eastpak-day-pak-r-unisex-gri-sirt-cantasi/ek0a5bg4-2/",
-    "price": [
-      {
-        "value": "1.889 TL",
-        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1889,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: div.text-sm.text-left.flex.flex-col.justify-start a)",
-      "matchedSelector": ".text-sm.text-left.flex.flex-col",
-      "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
-    "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-09-11T06:35:27.649Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff1axsosicwl",
+    "processId": "mfgbw1xptgbkc",
     "index": 3
   },
   {
-    "title": "Eastpak Day Pak R Unisex Lacivert Sırt Çantası",
+    "title": "Eastpak Day Pak'R Unisex Mavi Sırt Çantası",
     "img": [
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size384x384_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size3840x3840_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/3945ae7f-bb53-4002-9cdf-a0415e69d9b8_size384x384_cropCenter.jpg",
-      "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/3945ae7f-bb53-4002-9cdf-a0415e69d9b8_size3840x3840_cropCenter.jpg",
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size384x384_cropCenter.jpg",
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size3840x3840_cropCenter.jpg",
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/17a6689a-c4d7-42be-8313-f0d65bee79d5_size384x384_cropCenter.jpg",
+      "https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/17a6689a-c4d7-42be-8313-f0d65bee79d5_size3840x3840_cropCenter.jpg",
       "https://www.superstep.com.tr/kadin-canta-cuzdan/white-bg.png",
       "https://www.superstep.com.tr/kadin-canta-cuzdan/white-bg.png",
       "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png",
       "https://www.superstep.com.tr/kadin-canta-cuzdan/colors.png"
     ],
-    "primaryImg": "https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size16x16_cropCenter.jpg 16w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size32x32_cropCenter.jpg 32w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size48x48_cropCenter.jpg 48w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size64x64_cropCenter.jpg 64w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size96x96_cropCenter.jpg 96w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size128x128_cropCenter.jpg 128w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size256x256_cropCenter.jpg 256w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size384x384_cropCenter.jpg 384w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size640x640_cropCenter.jpg 640w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size750x750_cropCenter.jpg 750w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size828x828_cropCenter.jpg 828w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size1080x1080_cropCenter.jpg 1080w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size1200x1200_cropCenter.jpg 1200w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size1920x1920_cropCenter.jpg 1920w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size2048x2048_cropCenter.jpg 2048w, https://akn-ss.a-cdn.akinoncloud.com/products/2024/11/29/43448437/7c5d95c9-6b60-4f89-ae19-60544236a5ba_size3840x3840_cropCenter.jpg 3840w",
-    "link": "https://www.superstep.com.tr/urun/eastpak-day-pak-r-unisex-lacivert-sirt-cantasi/ek0a5bg4-4/",
+    "primaryImg": "https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size16x16_cropCenter.jpg 16w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size32x32_cropCenter.jpg 32w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size48x48_cropCenter.jpg 48w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size64x64_cropCenter.jpg 64w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size96x96_cropCenter.jpg 96w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size128x128_cropCenter.jpg 128w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size256x256_cropCenter.jpg 256w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size384x384_cropCenter.jpg 384w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size640x640_cropCenter.jpg 640w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size750x750_cropCenter.jpg 750w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size828x828_cropCenter.jpg 828w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size1080x1080_cropCenter.jpg 1080w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size1200x1200_cropCenter.jpg 1200w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size1920x1920_cropCenter.jpg 1920w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size2048x2048_cropCenter.jpg 2048w, https://akn-ss.a-cdn.akinoncloud.com/products/2025/01/15/50143258/29199df8-b3c9-42cc-bcd8-553dd5ef18a2_size3840x3840_cropCenter.jpg 3840w",
+    "link": "https://www.superstep.com.tr/urun/eastpak-day-pak-r-unisex-mavi-sirt-cantasi/ek0a5bg4-3/",
     "price": [
       {
-        "value": "1.819 TL",
-        "selector": "span.text-sm.font-bold.leading-snug.text-primary",
+        "value": "2.799 TL",
+        "selector": "[data-testid=\"product-price\"]",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1819,
+        "numericValue": 2799,
         "unsetPrice": false
       }
     ],
@@ -224,12 +220,12 @@
       "titleSelectorMatched": ".text-xs.font-medium.leading-snug.text-secondary-100",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": "span.text-sm.font-bold.leading-snug.text-primary",
+      "bestPriceSelector": "[data-testid=\"product-price\"]",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta ve Cüzdan Modelleri",
     "pageURL": "https://www.superstep.com.tr/kadin-canta-cuzdan/",
-    "timestamp": "2025-09-11T06:35:27.652Z",
+    "timestamp": "2025-09-12T04:19:35.132Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -237,7 +233,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1axsosicwl",
+    "processId": "mfgbw1xptgbkc",
     "index": 4
   }
 ]
