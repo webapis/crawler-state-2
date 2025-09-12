@@ -31,7 +31,7 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-09-11T06:22:07.157Z",
+    "timestamp": "2025-09-12T04:07:31.591Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,8 +39,51 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff0ts46tmmju",
+    "processId": "mfgbgjmuf4mq8",
     "index": 0
+  },
+  {
+    "title": "SİYAH TANGOSO ÇANTA",
+    "img": [
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/12/20/1532918/815bc9d8-138f-4ff1-a9f1-2255f10cf57f_size800x800_cropCenter.jpg",
+      "https://c38c9c.cdn.akinoncloud.com/products/2024/12/20/1532918/815bc9d8-138f-4ff1-a9f1-2255f10cf57f_size700x700_cropCenter.jpg"
+    ],
+    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2024/12/20/1532918/815bc9d8-138f-4ff1-a9f1-2255f10cf57f_size800x800_cropCenter.jpg",
+    "link": "https://www.sandro.com.tr/siyah-tangoso-canta/",
+    "price": [
+      {
+        "value": "₺ 23.100,00",
+        "selector": ".product-item__price pz-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 23100,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a.product-item__name)",
+      "matchedSelector": ".list__content .js-product-wrapper.product-item",
+      "titleSelectorMatched": "a.product-item__name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-item__price pz-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
+    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
+    "timestamp": "2025-09-12T04:07:31.594Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbgjmuf4mq8",
+    "index": 1
   },
   {
     "title": "SİYAH SÜET TANGOSO ÇANTA",
@@ -74,7 +117,7 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-09-11T06:22:07.160Z",
+    "timestamp": "2025-09-12T04:07:31.597Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -82,8 +125,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff0ts46tmmju",
-    "index": 1
+    "processId": "mfgbgjmuf4mq8",
+    "index": 2
   },
   {
     "title": "SÜET MİNİ TANGOSO ÇANTA",
@@ -117,7 +160,7 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-09-11T06:22:07.164Z",
+    "timestamp": "2025-09-12T04:07:31.600Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,8 +168,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff0ts46tmmju",
-    "index": 2
+    "processId": "mfgbgjmuf4mq8",
+    "index": 3
   },
   {
     "title": "SÜET GEÇİŞLİ BÜYÜK TANGOSO ÇANTA",
@@ -160,7 +203,7 @@
     },
     "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
     "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-09-11T06:22:07.167Z",
+    "timestamp": "2025-09-12T04:07:31.603Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,50 +211,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff0ts46tmmju",
-    "index": 3
-  },
-  {
-    "title": "BORDO DERİ KÜÇÜK TANGOSO ÇANTA",
-    "img": [
-      "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size800x800_cropCenter.jpg",
-      "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size700x700_cropCenter.jpg"
-    ],
-    "primaryImg": "https://c38c9c.cdn.akinoncloud.com/products/2025/07/09/2294086/8dcec0c0-9d5f-47c7-8357-6c4b9a911d56_size800x800_cropCenter.jpg",
-    "link": "https://www.sandro.com.tr/bordo-deri-kucuk-tangoso-canta/",
-    "price": [
-      {
-        "value": "₺ 19.500,00",
-        "selector": ".product-item__price pz-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 19500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a.product-item__name)",
-      "matchedSelector": ".list__content .js-product-wrapper.product-item",
-      "titleSelectorMatched": "a.product-item__name",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item__price pz-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Koleksiyonu | Sandro",
-    "pageURL": "https://www.sandro.com.tr/kadin-canta/",
-    "timestamp": "2025-09-11T06:22:07.170Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff0ts46tmmju",
+    "processId": "mfgbgjmuf4mq8",
     "index": 4
   }
 ]
