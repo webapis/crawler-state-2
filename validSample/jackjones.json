@@ -1,184 +1,12 @@
 [
   {
-    "title": "MEVSİMLİK CEKET - RUSH",
+    "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
     "img": [
-      "https://images.jackjones.com.tr/12204277/4644465/003/jackjones-jjerushharringtonbombernoos-grey.jpg?v=cfc73674bdf1c961a1648ef1ae84709f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12204277/4644465/003/jackjones-jjerushharringtonbombernoos-grey.jpg?v=cfc73674bdf1c961a1648ef1ae84709f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+      "https://images.jackjones.com.tr/12288078/4889134/001/jackjones-jprblacasperssteefst-blue.jpg?v=5a681e244b7997580d88a181f7dd0097&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12288078/4889134/001/jackjones-jprblacasperssteefst-blue.jpg?v=5a681e244b7997580d88a181f7dd0097&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
     ],
-    "primaryImg": "https://images.jackjones.com.tr/12204277/4644465/003/jackjones-jjerushharringtonbombernoos-grey.jpg?v=cfc73674bdf1c961a1648ef1ae84709f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12204277_176/mevsimlik-ceket-rush",
-    "price": [
-      {
-        "value": "2.790,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2790,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-11T05:55:41.375Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfezvsl00lrym",
-    "index": 0
-  },
-  {
-    "title": "ERKEK 5'Lİ BOXER PAKETİ - TONE",
-    "img": [
-      "https://images.jackjones.com.tr/12176266/3406347/003/jackjones-jactoneintonetrunks5packnoos-black.jpg?v=62d2208e1455788b7b32548e314f84a5&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12176266/3406347/003/jackjones-jactoneintonetrunks5packnoos-black.jpg?v=62d2208e1455788b7b32548e314f84a5&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12176266/3406347/003/jackjones-jactoneintonetrunks5packnoos-black.jpg?v=62d2208e1455788b7b32548e314f84a5&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12176266_2161_787911/mayolar",
-    "price": [
-      {
-        "value": "1.250,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1250,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-11T05:55:41.380Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfezvsl00lrym",
-    "index": 1
-  },
-  {
-    "title": "ERKEK 3'LÜ BOXER PAKETİ - TASMANIA",
-    "img": [
-      "https://images.jackjones.com.tr/12277719/4771386/003/jackjones-jactasmaniatrunks3pack-grey.jpg?v=03c97bd41d5722ba47aead3ff625e099&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12277719/4771386/003/jackjones-jactasmaniatrunks3pack-grey.jpg?v=03c97bd41d5722ba47aead3ff625e099&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12277719/4771386/003/jackjones-jactasmaniatrunks3pack-grey.jpg?v=03c97bd41d5722ba47aead3ff625e099&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12277719_1627_1190740/mayolar",
-    "price": [
-      {
-        "value": "830,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 830,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-11T05:55:41.384Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfezvsl00lrym",
-    "index": 2
-  },
-  {
-    "title": "ERKEK BEYZBOL YAKA BOMBER CEKET - CHARGE",
-    "img": [
-      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12268608/4771149/003/jackjones-jjechargebomberjacketnoos-green.jpg?v=1b06e68ca6ded1e584901ba5bb55258f&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12268608_1647/beyzbol-yaka-otw-bomber-ceket",
-    "price": [
-      {
-        "value": "2.190,00 TL",
-        "selector": ".product-price__list-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 2190,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
-      "matchedSelector": ".product-list__products article.product-tile-core",
-      "titleSelectorMatched": ".product-tile-info__title-container a",
-      "imgSelectorMatched": "[srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-price__list-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
-    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-11T05:55:41.388Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfezvsl00lrym",
-    "index": 3
-  },
-  {
-    "title": "ERKEK SIRT BASKILI TİŞÖRT - SOCIAL",
-    "img": [
-      "https://images.jackjones.com.tr/12301195/5055355/001/jackjones-jorsocialsscrewneckteeft0925-white.png?v=c90da39aa6f272dece38094d71222baa&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-      "https://images.jackjones.com.tr/12301195/5055355/001/jackjones-jorsocialsscrewneckteeft0925-white.png?v=c90da39aa6f272dece38094d71222baa&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
-    ],
-    "primaryImg": "https://images.jackjones.com.tr/12301195/5055355/001/jackjones-jorsocialsscrewneckteeft0925-white.png?v=c90da39aa6f272dece38094d71222baa&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
-    "link": "https://www.jackjones.com.tr/tr-tr/product/12301195_3/rahat-kal%C4%B1p-bisiklet-yaka-ti%C5%9Foert",
+    "primaryImg": "https://images.jackjones.com.tr/12288078/4889134/001/jackjones-jprblacasperssteefst-blue.jpg?v=5a681e244b7997580d88a181f7dd0097&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12288078_1465/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
     "price": [
       {
         "value": "790,00 TL",
@@ -203,7 +31,7 @@
     },
     "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
     "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
-    "timestamp": "2025-09-11T05:55:41.392Z",
+    "timestamp": "2025-09-12T03:41:06.002Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,7 +39,179 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfezvsl00lrym",
+    "processId": "mfgaik8v380zg",
+    "index": 0
+  },
+  {
+    "title": "ERKEK DİK YAKA CEKET - DIEGO",
+    "img": [
+      "https://images.jackjones.com.tr/12278759/4771464/003/jackjones-jjediegotransitionaljacketnoos-brown.jpg?v=37892d11d1f173f0a4d14991bc0deebc&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12278759/4771464/003/jackjones-jjediegotransitionaljacketnoos-brown.jpg?v=37892d11d1f173f0a4d14991bc0deebc&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12278759/4771464/003/jackjones-jjediegotransitionaljacketnoos-brown.jpg?v=37892d11d1f173f0a4d14991bc0deebc&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12278759_1924/yuksek-dik-yaka-ceket",
+    "price": [
+      {
+        "value": "2.790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-12T03:41:06.005Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgaik8v380zg",
+    "index": 1
+  },
+  {
+    "title": "ERKEK KAPÜŞONLU PUFFER CEKET - GLOBAL",
+    "img": [
+      "https://images.jackjones.com.tr/12283517/4828411/003/jackjones-jjglobalpufferjacket-black.jpg?v=e97370bcc2f320433fbd1849c07655fa&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12283517/4828411/003/jackjones-jjglobalpufferjacket-black.jpg?v=e97370bcc2f320433fbd1849c07655fa&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12283517/4828411/003/jackjones-jjglobalpufferjacket-black.jpg?v=e97370bcc2f320433fbd1849c07655fa&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12283517_2161/%C4%B0pli-kapu%C5%9Fon-%C5%9Fi%C5%9Fme-ceket",
+    "price": [
+      {
+        "value": "2.990,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2990,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-12T03:41:06.008Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgaik8v380zg",
+    "index": 2
+  },
+  {
+    "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
+    "img": [
+      "https://images.jackjones.com.tr/12288078/4889132/001/jackjones-jprblacasperssteefst-white.jpg?v=ac45055c77e39a5773da6f09f9e08696&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12288078/4889132/001/jackjones-jprblacasperssteefst-white.jpg?v=ac45055c77e39a5773da6f09f9e08696&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12288078/4889132/001/jackjones-jprblacasperssteefst-white.jpg?v=ac45055c77e39a5773da6f09f9e08696&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12288078_2206/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+    "price": [
+      {
+        "value": "790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-12T03:41:06.011Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgaik8v380zg",
+    "index": 3
+  },
+  {
+    "title": "NORMAL KALIP SIFIR YAKA TİŞÖRT",
+    "img": [
+      "https://images.jackjones.com.tr/12288078/4889131/001/jackjones-jprblacasperssteefst-black.jpg?v=2d68d8c06441f6c164dffc844101a43c&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+      "https://images.jackjones.com.tr/12288078/4889131/001/jackjones-jprblacasperssteefst-black.jpg?v=2d68d8c06441f6c164dffc844101a43c&format=webp&width=512&quality=80&key=10-0-2&bg-color=%23f5f5f5"
+    ],
+    "primaryImg": "https://images.jackjones.com.tr/12288078/4889131/001/jackjones-jprblacasperssteefst-black.jpg?v=2d68d8c06441f6c164dffc844101a43c&format=webp&width=480&quality=80&key=10-0-1&bg-color=%23f5f5f5",
+    "link": "https://www.jackjones.com.tr/tr-tr/product/12288078_2161/normal-kal%C4%B1p-s%C4%B1f%C4%B1r-yaka-ti%C5%9Foert",
+    "price": [
+      {
+        "value": "790,00 TL",
+        "selector": ".product-price__list-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 790,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-tile-info__title-container a)",
+      "matchedSelector": ".product-list__products article.product-tile-core",
+      "titleSelectorMatched": ".product-tile-info__title-container a",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-price__list-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Erkek Giyim Modelleri ve Fiyatları | JACK & JONES",
+    "pageURL": "https://www.jackjones.com.tr/tr-tr/erkek-giyim",
+    "timestamp": "2025-09-12T03:41:06.013Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgaik8v380zg",
     "index": 4
   }
 ]
