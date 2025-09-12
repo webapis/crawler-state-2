@@ -1,5 +1,47 @@
 [
   {
+    "title": "Matraş Kadın Askılı Omuz Çantası Kahve 0BB-1119",
+    "img": [
+      "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-460-7760-0BB-11190001000200-1726591297-1.jpg?v22"
+    ],
+    "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-460-7760-0BB-11190001000200-1726591297-1.jpg?v22",
+    "link": "https://www.matras.com/urun/0bb-11190001000200_matras-kadin-askili-omuz-cantasi-kahve-0bb-1119",
+    "price": [
+      {
+        "value": "6.600,00 TL",
+        "selector": ".product_box .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6600,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .product_image a)",
+      "matchedSelector": ".col-md-3.col-sm-3.col-xs-6.wow",
+      "titleSelectorMatched": ".product_image img",
+      "imgSelectorMatched": ".product_image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product_box .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
+    "pageURL": "https://www.matras.com/canta-modelleri",
+    "timestamp": "2025-09-12T03:38:09.617Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgaes2mml7p9",
+    "index": 0
+  },
+  {
     "title": "Matraş Füme Gerçek Deri El Çantası – 16x11x6 cm",
     "img": [
       "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-459-8219-0SS-10290005001300-1754682293-5.jpg?v22"
@@ -30,7 +72,7 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-09-11T05:52:18.784Z",
+    "timestamp": "2025-09-12T03:38:09.619Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,8 +80,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfezrg6l3suax",
-    "index": 0
+    "processId": "mfgaes2mml7p9",
+    "index": 1
   },
   {
     "title": "Matraş Taba Gerçek Deri El Çantası – 16x11x6 cm",
@@ -72,7 +114,7 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-09-11T05:52:18.786Z",
+    "timestamp": "2025-09-12T03:38:09.621Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -80,8 +122,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfezrg6l3suax",
-    "index": 1
+    "processId": "mfgaes2mml7p9",
+    "index": 2
   },
   {
     "title": "Matraş Kahve Gerçek Deri El Çantası – 16x11x6 cm",
@@ -114,7 +156,7 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-09-11T05:52:18.789Z",
+    "timestamp": "2025-09-12T03:38:09.624Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -122,8 +164,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfezrg6l3suax",
-    "index": 2
+    "processId": "mfgaes2mml7p9",
+    "index": 3
   },
   {
     "title": "Matraş Siyah Gerçek Deri El Çantası – 16x11x6 cm",
@@ -156,7 +198,7 @@
     },
     "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
     "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-09-11T05:52:18.791Z",
+    "timestamp": "2025-09-12T03:38:09.626Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -164,49 +206,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfezrg6l3suax",
-    "index": 3
-  },
-  {
-    "title": "Matraş Gerçek Deri Kadın Çanta Tokalı 0BB-1147 Siyah",
-    "img": [
-      "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-460-8199-0BB-11470005000100-1754675425-6.jpg?v22"
-    ],
-    "primaryImg": "https://img.matras.com/resim/urun_liste/canta-modelleri/matras-16-460-8199-0BB-11470005000100-1754675425-6.jpg?v22",
-    "link": "https://www.matras.com/urun/0bb-11470005000100_matras-gercek-deri-kadin-canta-tokali-0bb-1147-siyah",
-    "price": [
-      {
-        "value": "8.090,00 TL",
-        "selector": ".product_box .price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 8090,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .product_image a)",
-      "matchedSelector": ".col-md-3.col-sm-3.col-xs-6.wow",
-      "titleSelectorMatched": ".product_image img",
-      "imgSelectorMatched": ".product_image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product_box .price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "ÇANTA Modelleri ve Fiyatları 2024",
-    "pageURL": "https://www.matras.com/canta-modelleri",
-    "timestamp": "2025-09-11T05:52:18.793Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfezrg6l3suax",
+    "processId": "mfgaes2mml7p9",
     "index": 4
   }
 ]
