@@ -1,5 +1,146 @@
 [
   {
+    "title": "ASKILI ÇAPRAZ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/w1mxrmol.prn_IMG_01_8683791936622.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/w1mxrmol.prn_IMG_01_8683791936622.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/w1mxrmol.prn_IMG_01_8683791936622.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ikt340ps.l2c_IMG_02_8683791936622.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/1hoarfdd.syx_IMG_03_8683791936622.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/sq5ahsiw.jxc_IMG_04_8683791936622.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/w1mxrmol.prn_IMG_01_8683791936622.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/w1mxrmol.prn_IMG_01_8683791936622.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-askili-capraz-canta_1755610",
+    "price": [
+      {
+        "value": "7.450 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7450,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-12T04:16:06.130Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbrkp8q3fbp",
+    "index": 0
+  },
+  {
+    "title": "MİNİ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/la2vwk1l.ouy_IMG_01_8683791936981.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/la2vwk1l.ouy_IMG_01_8683791936981.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/la2vwk1l.ouy_IMG_01_8683791936981.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/u4plleto.5uf_IMG_02_8683791936981.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/fnlfjzjq.tin_IMG_03_8683791936981.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/j2n0ftqn.knh_IMG_04_8683791936981.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/la2vwk1l.ouy_IMG_01_8683791936981.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/la2vwk1l.ouy_IMG_01_8683791936981.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-mini-canta_1755594",
+    "price": [
+      {
+        "value": "4.999 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-12T04:16:06.133Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbrkp8q3fbp",
+    "index": 1
+  },
+  {
+    "title": "MİNİ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/nko53ijc.km4_IMG_01_8683791936998.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/nko53ijc.km4_IMG_01_8683791936998.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/nko53ijc.km4_IMG_01_8683791936998.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/eib0v1h1.c5u_IMG_02_8683791936998.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/s4iixdit.fxy_IMG_03_8683791936998.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/oqk42ani.lhi_IMG_04_8683791936998.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/nko53ijc.km4_IMG_01_8683791936998.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/nko53ijc.km4_IMG_01_8683791936998.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-mini-canta_1755620",
+    "price": [
+      {
+        "value": "4.999 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4999,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-12T04:16:06.136Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbrkp8q3fbp",
+    "index": 2
+  },
+  {
     "title": "Picollo Lacivert Kadın Alışveriş Çantası",
     "img": [
       "https://cdn.beymen.com/mnresize/870/-/productimages/ctmc0tss.qrc_IMG_01_8683791936424.jpg",
@@ -35,7 +176,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-11T06:31:35.876Z",
+    "timestamp": "2025-09-12T04:16:06.140Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +184,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff15yzf46w68",
-    "index": 0
+    "processId": "mfgbrkp8q3fbp",
+    "index": 3
   },
   {
     "title": "Picollo Bordo Kadın Alışveriş Çantası",
@@ -82,7 +223,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-11T06:31:35.880Z",
+    "timestamp": "2025-09-12T04:16:06.143Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -90,148 +231,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff15yzf46w68",
-    "index": 1
-  },
-  {
-    "title": "Picollo Siyah Kadın Alışveriş Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/l3nstu2d.iqk_IMG_01_8683791936448.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/l3nstu2d.iqk_IMG_01_8683791936448.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/l3nstu2d.iqk_IMG_01_8683791936448.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kekomqgw.4jt_IMG_02_8683791936448.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/mfrobrxv.aqa_IMG_03_8683791936448.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/j23xsqdi.pl2_IMG_04_8683791936448.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/l3nstu2d.iqk_IMG_01_8683791936448.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/l3nstu2d.iqk_IMG_01_8683791936448.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-picollo-siyah-kadin-alisveris-cantasi_1755533",
-    "price": [
-      {
-        "value": "9.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 9950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-11T06:31:35.883Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff15yzf46w68",
-    "index": 2
-  },
-  {
-    "title": "Picollo Siyah Kadın Alışveriş Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/cffm1rle.mg5_IMG_01_8683791936639.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/cffm1rle.mg5_IMG_01_8683791936639.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/cffm1rle.mg5_IMG_01_8683791936639.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/azzpxltf.q3j_IMG_02_8683791936639.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ja4lhlon.mcf_IMG_03_8683791936639.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/lxg3hiu0.xk2_IMG_04_8683791936639.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/cffm1rle.mg5_IMG_01_8683791936639.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/cffm1rle.mg5_IMG_01_8683791936639.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-picollo-siyah-kadin-alisveris-cantasi_1755609",
-    "price": [
-      {
-        "value": "7.450 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 7450,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-11T06:31:35.887Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff15yzf46w68",
-    "index": 3
-  },
-  {
-    "title": "Siyah Kaz Logolu Kadın Deri Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/870/-/productimages/p5t1fioh.ijb_IMG_01_8683791936455.jpg",
-      "https://cdn.beymen.com/mnresize/435/-/productimages/p5t1fioh.ijb_IMG_01_8683791936455.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/p5t1fioh.ijb_IMG_01_8683791936455.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/lm4j5vk5.aox_IMG_02_8683791936455.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/i4d1nedz.rtx_IMG_03_8683791936455.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/cjlwkrq4.x2y_IMG_04_8683791936455.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/p5t1fioh.ijb_IMG_01_8683791936455.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/p5t1fioh.ijb_IMG_01_8683791936455.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-siyah-kaz-logolu-kadin-deri-canta_1800650",
-    "price": [
-      {
-        "value": "11.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 11950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-11T06:31:35.890Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff15yzf46w68",
+    "processId": "mfgbrkp8q3fbp",
     "index": 4
   }
 ]
