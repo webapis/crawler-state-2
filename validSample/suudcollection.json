@@ -1,5 +1,52 @@
 [
   {
+    "title": "Acı Kahve Cove Büzgülü El Çantası",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-2a8ae-.jpg",
+      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-9803f8.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--4ceb-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-069386.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
+    "link": "https://www.suudcollection.com/aci-kahve-cove-buzgulu-el-cantasi-4153",
+    "price": [
+      {
+        "value": "1.650,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1650,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-09-12T04:18:10.847Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfgbu90w4hp11",
+    "index": 0
+  },
+  {
     "title": "Beyaz Cove Zebra Büzgülü El Çantası",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/beyaz-cove-zebra-buzgulu-el-cantasi-760e2e.jpg",
@@ -35,7 +82,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-11T06:34:29.614Z",
+    "timestamp": "2025-09-12T04:18:10.851Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +90,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff19p4l4xddd",
-    "index": 0
+    "processId": "mfgbu90w4hp11",
+    "index": 1
   },
   {
     "title": "Siyah Lora Kemerli Deri Çanta",
@@ -84,7 +131,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-11T06:34:29.618Z",
+    "timestamp": "2025-09-12T04:18:10.855Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -92,8 +139,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff19p4l4xddd",
-    "index": 1
+    "processId": "mfgbu90w4hp11",
+    "index": 2
   },
   {
     "title": "Kırmızı Lue Aynalı Kartlık",
@@ -133,7 +180,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-11T06:34:29.622Z",
+    "timestamp": "2025-09-12T04:18:10.858Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -141,54 +188,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff19p4l4xddd",
-    "index": 2
-  },
-  {
-    "title": "Acı Kahve Cove Büzgülü El Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-2a8ae-.jpg",
-      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-9803f8.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--4ceb-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi-069386.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-cove-buzgulu-el-cantasi--ac63-.jpg",
-    "link": "https://www.suudcollection.com/aci-kahve-cove-buzgulu-el-cantasi-4153",
-    "price": [
-      {
-        "value": "1.650,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1650,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-11T06:34:29.625Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mff19p4l4xddd",
+    "processId": "mfgbu90w4hp11",
     "index": 3
   },
   {
@@ -229,7 +229,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-11T06:34:29.629Z",
+    "timestamp": "2025-09-12T04:18:10.862Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -237,7 +237,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff19p4l4xddd",
+    "processId": "mfgbu90w4hp11",
     "index": 4
   }
 ]
