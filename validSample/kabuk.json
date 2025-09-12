@@ -9,12 +9,12 @@
     "link": "https://kabuk.com.tr/sepet-sari",
     "price": [
       {
-        "value": "₺ 1,325.00",
-        "selector": ".sell-price",
+        "value": "₺ 861.25",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1325,
+        "numericValue": 861.25,
         "unsetPrice": false
       }
     ],
@@ -26,12 +26,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price",
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Dönüşüm",
     "pageURL": "https://kabuk.com.tr/donusum",
-    "timestamp": "2025-09-11T06:37:23.521Z",
+    "timestamp": "2025-09-12T04:20:54.249Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +39,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1df5pyu5vz",
+    "processId": "mfgbxqxwnmgs7",
     "index": 0
   },
   {
@@ -52,12 +52,12 @@
     "link": "https://kabuk.com.tr/ucubirarada-sari",
     "price": [
       {
-        "value": "₺ 1,315.00",
-        "selector": ".sell-price",
+        "value": "₺ 854.75",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1315,
+        "numericValue": 854.75,
         "unsetPrice": false
       }
     ],
@@ -69,12 +69,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price",
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Dönüşüm",
     "pageURL": "https://kabuk.com.tr/donusum",
-    "timestamp": "2025-09-11T06:37:23.523Z",
+    "timestamp": "2025-09-12T04:20:54.252Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -82,7 +82,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1df5pyu5vz",
+    "processId": "mfgbxqxwnmgs7",
     "index": 1
   },
   {
@@ -95,12 +95,12 @@
     "link": "https://kabuk.com.tr/havlu-sari",
     "price": [
       {
-        "value": "₺ 1,565.00",
-        "selector": ".sell-price",
+        "value": "₺ 1,017.25",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1565,
+        "numericValue": 1017.25,
         "unsetPrice": false
       }
     ],
@@ -112,12 +112,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price",
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Dönüşüm",
     "pageURL": "https://kabuk.com.tr/donusum",
-    "timestamp": "2025-09-11T06:37:23.526Z",
+    "timestamp": "2025-09-12T04:20:54.254Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -125,7 +125,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1df5pyu5vz",
+    "processId": "mfgbxqxwnmgs7",
     "index": 2
   },
   {
@@ -138,12 +138,12 @@
     "link": "https://kabuk.com.tr/mavi---cizgili-portfoy",
     "price": [
       {
-        "value": "₺ 1,215.00",
-        "selector": ".sell-price",
+        "value": "₺ 789.75",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1215,
+        "numericValue": 789.75,
         "unsetPrice": false
       }
     ],
@@ -155,12 +155,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price",
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Dönüşüm",
     "pageURL": "https://kabuk.com.tr/donusum",
-    "timestamp": "2025-09-11T06:37:23.529Z",
+    "timestamp": "2025-09-12T04:20:54.257Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -168,7 +168,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1df5pyu5vz",
+    "processId": "mfgbxqxwnmgs7",
     "index": 3
   },
   {
@@ -181,12 +181,12 @@
     "link": "https://kabuk.com.tr/klasik-pazar-saks",
     "price": [
       {
-        "value": "₺ 745.00",
-        "selector": ".sell-price",
+        "value": "₺ 484.25",
+        "selector": ".discount-price span:nth-child(2)",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 745,
+        "numericValue": 484.25,
         "unsetPrice": false
       }
     ],
@@ -198,12 +198,12 @@
       "titleSelectorMatched": "h2.product-name",
       "imgSelectorMatched": "img.category-products-image",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".sell-price",
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Dönüşüm",
     "pageURL": "https://kabuk.com.tr/donusum",
-    "timestamp": "2025-09-11T06:37:23.531Z",
+    "timestamp": "2025-09-12T04:20:54.260Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -211,7 +211,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mff1df5pyu5vz",
+    "processId": "mfgbxqxwnmgs7",
     "index": 4
   }
 ]
