@@ -1,0 +1,357 @@
+[
+  {
+    "title": "Baguette Vizon-Krem",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2023/12/7-BAGUETTE-VIZON-KREM-STORY-370x475.jpg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2021/10/BAGUETTE-VIZON-KREM-POST-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2023/12/7-BAGUETTE-VIZON-KREM-STORY-370x475.jpg",
+    "link": "https://lupaprojectistanbul.com/urun/4885/",
+    "price": [
+      {
+        "value": "4,250.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4250,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,750.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-20T11:08:20.630Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs60j7b505n3",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "vizon"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "vizon"
+      ],
+      "tags": [
+        "vizon"
+      ]
+    }
+  },
+  {
+    "title": "İstanbul Koyu Kahve X Yeşil",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2020/09/89317327-6813-409A-8070-03DA3FE852C0-370x475.jpeg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2020/09/canta0397-726-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2020/09/89317327-6813-409A-8070-03DA3FE852C0-370x475.jpeg",
+    "link": "https://lupaprojectistanbul.com/urun/istanbul-bag-koyu-kahve-x-yesil/",
+    "price": [
+      {
+        "value": "5,950.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5950,
+        "unsetPrice": false
+      },
+      {
+        "value": "4,250.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-20T11:08:20.633Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs60j7b505n3",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "kahverengi",
+        "yeşil"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "yeşil"
+      ],
+      "tags": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "yeşil"
+      ]
+    }
+  },
+  {
+    "title": "Naaz Gri – Açık Gri Uzun Sap",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/WhatsApp-Image-2024-03-25-at-10.23.12-4-370x475.jpeg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/ade448ad-ae45-48bf-9f8c-d0b552419124-1-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2020/08/WhatsApp-Image-2024-03-25-at-10.23.12-4-370x475.jpeg",
+    "link": "https://lupaprojectistanbul.com/urun/naaz-bag-gri/",
+    "price": [
+      {
+        "value": "5,000.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5000,
+        "unsetPrice": false
+      },
+      {
+        "value": "4,250.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-20T11:08:20.636Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs60j7b505n3",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "gri/füme"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "gri/füme",
+        "gri",
+        "füme"
+      ],
+      "tags": [
+        "gri/füme",
+        "gri",
+        "füme"
+      ]
+    }
+  },
+  {
+    "title": "Naaz Krem Lacivert",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/c1359f23-0ef5-48aa-a21b-39f2076dc495-370x475.jpg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2021/10/fe364129-0737-4b26-9d8b-b0e6ee4705ad-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/c1359f23-0ef5-48aa-a21b-39f2076dc495-370x475.jpg",
+    "link": "https://lupaprojectistanbul.com/urun/naaz-jut-lacivert/",
+    "price": [
+      {
+        "value": "5,000.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5000,
+        "unsetPrice": false
+      },
+      {
+        "value": "2,250.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2250,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-20T11:08:20.638Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs60j7b505n3",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "lacivert"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "lacivert"
+      ],
+      "tags": [
+        "lacivert"
+      ]
+    }
+  },
+  {
+    "title": "Sienna Yeşil",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/4307198c-ed29-4368-be2c-9c11df92918d-370x475.jpg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/ccde7f72-72bf-47fe-9aa6-36a105106617-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/4307198c-ed29-4368-be2c-9c11df92918d-370x475.jpg",
+    "link": "https://lupaprojectistanbul.com/urun/sienna-yesil/",
+    "price": [
+      {
+        "value": "5,000.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 5000,
+        "unsetPrice": false
+      },
+      {
+        "value": "3,500.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 3500,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-20T11:08:20.641Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs60j7b505n3",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "yeşil"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "yeşil"
+      ],
+      "tags": [
+        "yeşil"
+      ]
+    }
+  }
+]
