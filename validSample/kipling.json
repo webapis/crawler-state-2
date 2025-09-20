@@ -1,0 +1,374 @@
+[
+  {
+    "title": "Telefon Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079912_tally-41602.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079912_tally-41602.jpeg",
+    "link": "https://www.kipling.com.tr/p/tally-41602",
+    "price": [
+      {
+        "value": "4179,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 4179,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-20T11:23:33.495Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6k3lkrcgpw",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "telefon çantası"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "telefon çantası",
+        "telefon"
+      ]
+    }
+  },
+  {
+    "title": "Orta Boy Sırt Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079863_firefly-up-41600.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0079863_firefly-up-41600.jpeg",
+    "link": "https://www.kipling.com.tr/p/firefly-up-41600",
+    "price": [
+      {
+        "value": "10069,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 10069,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-20T11:23:33.498Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6k3lkrcgpw",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası",
+        "orta boy çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "orta boy çanta",
+        "orta boy",
+        "medium"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "orta boy çanta",
+        "orta boy",
+        "medium"
+      ]
+    }
+  },
+  {
+    "title": "Büyük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082510_hye-lap-41545.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082510_hye-lap-41545.jpeg",
+    "link": "https://www.kipling.com.tr/p/hye-lap-41545",
+    "price": [
+      {
+        "value": "6239,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6239,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-20T11:23:33.500Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6k3lkrcgpw",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "büyük çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big"
+      ]
+    }
+  },
+  {
+    "title": "Küçük Boy Omuz Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082323_gabbette-s-41464.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082323_gabbette-s-41464.jpeg",
+    "link": "https://www.kipling.com.tr/p/gabbette-s-41464",
+    "price": [
+      {
+        "value": "8639,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8639,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-20T11:23:33.503Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6k3lkrcgpw",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "küçük çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "küçük çanta",
+        "küçük",
+        "small"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "küçük çanta",
+        "küçük",
+        "small"
+      ]
+    }
+  },
+  {
+    "title": "Orta Boy Sırt Çantası",
+    "img": [
+      "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082404_amita-41435.jpeg"
+    ],
+    "primaryImg": "https://img-kipling.mncdn.com/Content/Images/Thumbs/0082404_amita-41435.jpeg",
+    "link": "https://www.kipling.com.tr/p/amita-41435",
+    "price": [
+      {
+        "value": "6719,00 TL",
+        "selector": ".product-prices li.text-left",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6719,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-box-container",
+      "titleSelectorMatched": ".product__inside__name .product-shot-desc",
+      "imgSelectorMatched": "[data-src]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-prices li.text-left",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları - Kipling",
+    "pageURL": "https://www.kipling.com.tr/c/kadin-cantasi-589",
+    "timestamp": "2025-09-20T11:23:33.506Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6k3lkrcgpw",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "sırt çantası",
+        "orta boy çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "orta boy çanta",
+        "orta boy",
+        "medium"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "sırt çantası",
+        "sırt",
+        "sirt",
+        "orta boy çanta",
+        "orta boy",
+        "medium"
+      ]
+    }
+  }
+]
