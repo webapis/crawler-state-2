@@ -1,0 +1,266 @@
+[
+  {
+    "title": "SEPET SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/3840/16.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/180/16.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/360/16.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/540/16.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/720/16.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/900/16.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1080/16.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1296/16.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1512/16.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1728/16.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/1950/16.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/2560/16.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/5c16a866-7320-4f67-8c7b-40240c39ad8a/3840/16.webp 3840w",
+    "link": "https://kabuk.com.tr/sepet-sari",
+    "price": [
+      {
+        "value": "₺ 861.25",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 861.25,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-09-20T11:20:21.659Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6fzkpg8rkx",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": [],
+      "tags": []
+    }
+  },
+  {
+    "title": "HAVLU ASTARLI SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/3840/1.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/180/1.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/360/1.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/540/1.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/720/1.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/900/1.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1080/1.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1296/1.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1512/1.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1728/1.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/1950/1.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/2560/1.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/4a3e8c96-f71e-4fad-aa55-0891184417db/3840/1.webp 3840w",
+    "link": "https://kabuk.com.tr/havlu-sari",
+    "price": [
+      {
+        "value": "₺ 1,017.25",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1017.25,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-09-20T11:20:21.662Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6fzkpg8rkx",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": [],
+      "tags": []
+    }
+  },
+  {
+    "title": "PORTFÖY - 1",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/360/1.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/3840/1.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/180/1.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/360/1.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/360/1.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/540/1.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/720/1.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/900/1.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/1080/1.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/1296/1.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/1512/1.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/1728/1.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/1950/1.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/2560/1.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/55ef432c-6b30-4439-a5b5-9e1a60f0c0c3/3840/1.webp 3840w",
+    "link": "https://kabuk.com.tr/mavi---cizgili-portfoy",
+    "price": [
+      {
+        "value": "₺ 789.75",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 789.75,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-09-20T11:20:21.665Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6fzkpg8rkx",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "portföy"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "portföy"
+      ],
+      "tags": [
+        "portföy"
+      ]
+    }
+  },
+  {
+    "title": "KLASİK PAZAR SAKS",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/360/3.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/3840/3.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/180/3.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/360/3.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/360/3.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/540/3.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/720/3.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/900/3.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/1080/3.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/1296/3.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/1512/3.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/1728/3.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/1950/3.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/2560/3.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/9dcb693c-8799-4383-941c-7f725d63acc1/3840/3.webp 3840w",
+    "link": "https://kabuk.com.tr/klasik-pazar-saks",
+    "price": [
+      {
+        "value": "₺ 484.25",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 484.25,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-09-20T11:20:21.668Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6fzkpg8rkx",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": [],
+      "tags": []
+    }
+  },
+  {
+    "title": "GÖZLÜK SARI",
+    "img": [
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/360/gozluk-kilif-sari.webp",
+      "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/3840/gozluk-kilif-sari.webp"
+    ],
+    "primaryImg": "https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 16w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 32w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 48w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 64w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 96w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 128w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 180w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/180/gozluk-kilif-sari.webp 256w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/360/gozluk-kilif-sari.webp 360w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/360/gozluk-kilif-sari.webp 384w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/540/gozluk-kilif-sari.webp 540w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/720/gozluk-kilif-sari.webp 720w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/900/gozluk-kilif-sari.webp 900w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/1080/gozluk-kilif-sari.webp 1080w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/1296/gozluk-kilif-sari.webp 1296w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/1512/gozluk-kilif-sari.webp 1512w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/1728/gozluk-kilif-sari.webp 1728w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/1950/gozluk-kilif-sari.webp 1950w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/2560/gozluk-kilif-sari.webp 2560w, https://cdn.myikas.com/images/fc002442-10a7-48f4-9249-b1bee1e4b335/2ab95fc0-854b-4b70-a59b-c8786349409f/3840/gozluk-kilif-sari.webp 3840w",
+    "link": "https://kabuk.com.tr/gozluk-sari",
+    "price": [
+      {
+        "value": "₺ 204.75",
+        "selector": ".discount-price span:nth-child(2)",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 204.75,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "containerElement (m)",
+      "matchedSelector": ".category__list__main div.grid a",
+      "titleSelectorMatched": "h2.product-name",
+      "imgSelectorMatched": "img.category-products-image",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discount-price span:nth-child(2)",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Dönüşüm",
+    "pageURL": "https://kabuk.com.tr/donusum",
+    "timestamp": "2025-09-20T11:20:21.672Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfs6fzkpg8rkx",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "none"
+      ]
+    },
+    "seo": {
+      "keywords": [],
+      "tags": []
+    }
+  }
+]
