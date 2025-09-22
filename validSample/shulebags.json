@@ -1,85 +1,5 @@
 [
   {
-    "title": "Poppin Süet Omuz Çantası Vizon",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/47c2fb11-f864-429f-a001-fec18079273c-9-4b11.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/47c2fb11-f864-429f-a001-fec18079273c-9-4b11.jpg",
-    "link": "https://www.shulebags.com/poppin-suet-omuz-cantasi-vizon-5391",
-    "price": [
-      {
-        "value": "₺499,90",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.9,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
-    "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-09-20T10:48:22.728Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfs5auwf6oe72",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "süet çanta"
-      ],
-      "color": [
-        "vizon"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "süet çanta",
-        "süet",
-        "vizon"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "süet çanta",
-        "süet",
-        "vizon"
-      ]
-    }
-  },
-  {
     "title": "Poppin Süet Omuz Çantası Taba",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/0d00047a-19b5-4bee-aceb-d780752742f3-c6-734.jpg"
@@ -110,7 +30,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-09-20T10:48:22.731Z",
+    "timestamp": "2025-09-22T05:31:23.555Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -118,8 +38,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs5auwf6oe72",
-    "index": 1,
+    "processId": "mfuouwykpgqki",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -198,7 +118,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-09-20T10:48:22.734Z",
+    "timestamp": "2025-09-22T05:31:23.559Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -206,8 +126,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs5auwf6oe72",
-    "index": 2,
+    "processId": "mfuouwykpgqki",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -275,7 +195,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-09-20T10:48:22.737Z",
+    "timestamp": "2025-09-22T05:31:23.564Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -283,8 +203,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs5auwf6oe72",
-    "index": 3,
+    "processId": "mfuouwykpgqki",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -358,7 +278,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
     "pageURL": "https://www.shulebags.com/kadin-canta",
-    "timestamp": "2025-09-20T10:48:22.740Z",
+    "timestamp": "2025-09-22T05:31:23.568Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -366,8 +286,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs5auwf6oe72",
-    "index": 4,
+    "processId": "mfuouwykpgqki",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -401,6 +321,92 @@
         "kol",
         "siyah",
         "black"
+      ]
+    }
+  },
+  {
+    "title": "Giglio Spor Omuz Çantası Bej",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ff100d49-2d25-4ca6-a823-8bb407bff9b9-257d79.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=800,quality=99,format=webp/55374/uploads/urunresimleri/buyuk/ff100d49-2d25-4ca6-a823-8bb407bff9b9-257d79.jpg",
+    "link": "https://www.shulebags.com/giglio-spor-omuz-cantasi-bej",
+    "price": [
+      {
+        "value": "₺699,90",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 699.9,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Shule Bags",
+    "pageURL": "https://www.shulebags.com/kadin-canta",
+    "timestamp": "2025-09-22T05:31:23.572Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfuouwykpgqki",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "spor çantası"
+      ],
+      "color": [
+        "bej"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "spor çantası",
+        "spor",
+        "sport",
+        "sports",
+        "bej",
+        "ten"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "spor çantası",
+        "spor",
+        "sport",
+        "sports",
+        "bej",
+        "ten"
       ]
     }
   }
