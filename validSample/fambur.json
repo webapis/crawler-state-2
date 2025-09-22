@@ -33,7 +33,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-20T11:19:24.117Z",
+    "timestamp": "2025-09-22T06:00:12.789Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs6er4yw9jcg",
+    "processId": "mfupvz7qoa3xx",
     "index": 0,
     "categories": {
       "productType": [
@@ -97,7 +97,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-20T11:19:24.119Z",
+    "timestamp": "2025-09-22T06:00:12.793Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -105,7 +105,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs6er4yw9jcg",
+    "processId": "mfupvz7qoa3xx",
     "index": 1,
     "categories": {
       "productType": [
@@ -166,7 +166,7 @@
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-20T11:19:24.122Z",
+    "timestamp": "2025-09-22T06:00:12.796Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -174,7 +174,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs6er4yw9jcg",
+    "processId": "mfupvz7qoa3xx",
     "index": 2,
     "categories": {
       "productType": [
@@ -208,12 +208,12 @@
   {
     "title": "Element Kanvas Çanta - Lila",
     "img": [
-      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-02.jpg?v=1750003994&width={width}",
-      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-02.jpg?v=1750003994",
       "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-01.jpg?v=1750003994&width={width}",
-      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-01.jpg?v=1750003994"
+      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-01.jpg?v=1750003994",
+      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-02.jpg?v=1750003994&width={width}",
+      "https://www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-02.jpg?v=1750003994"
     ],
-    "primaryImg": "//www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-02.jpg?v=1750003994&width={width}",
+    "primaryImg": "//www.fambur.com/cdn/shop/files/element-lila-kanvas-canta-01.jpg?v=1750003994&width={width}",
     "link": "https://www.fambur.com/collections/canta/products/element-kanvas-canta-lila",
     "price": [
       {
@@ -232,14 +232,14 @@
       "linkSource": "titleElement (matched: a.product-name)",
       "matchedSelector": ".product-card",
       "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-20T11:19:24.124Z",
+    "timestamp": "2025-09-22T06:00:12.799Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -247,7 +247,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs6er4yw9jcg",
+    "processId": "mfupvz7qoa3xx",
     "index": 3,
     "categories": {
       "productType": [
@@ -305,14 +305,14 @@
       "linkSource": "titleElement (matched: a.product-name)",
       "matchedSelector": ".product-card",
       "titleSelectorMatched": "a.product-name",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".item-price.textBase",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Çanta – FAMBUR",
     "pageURL": "https://www.fambur.com/collections/canta",
-    "timestamp": "2025-09-20T11:19:24.127Z",
+    "timestamp": "2025-09-22T06:00:12.802Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -320,7 +320,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs6er4yw9jcg",
+    "processId": "mfupvz7qoa3xx",
     "index": 4,
     "categories": {
       "productType": [
