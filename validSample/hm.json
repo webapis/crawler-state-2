@@ -31,7 +31,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-20T10:36:58.572Z",
+    "timestamp": "2025-09-22T05:19:53.581Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,8 +39,218 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs4w71yrvd8f",
+    "processId": "mfuog4lwxpkvu",
     "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body"
+      ]
+    }
+  },
+  {
+    "title": "TORBA ÇANTA",
+    "img": [
+      "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=264",
+      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/6f/98/6f9812d07137dfa5a26fbd5289d6571bd7945441.jpg",
+      "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1536"
+    ],
+    "primaryImg": "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1266903007.html",
+    "price": [
+      {
+        "value": "1 949,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1949,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": "li div article[data-articlecode][data-category]",
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-articlecode] div div p span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-09-22T05:19:53.583Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfuog4lwxpkvu",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "torba çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "torba çanta",
+        "torba"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "torba çanta",
+        "torba"
+      ]
+    }
+  },
+  {
+    "title": "TOTE ÇANTA",
+    "img": [
+      "https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=264",
+      "https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=1536"
+    ],
+    "primaryImg": "https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/51/46/514606aebc83cc15d03ad0f920ec1200dabbccae.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1308080001.html",
+    "price": [
+      {
+        "value": "1 499,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1499,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": "li div article[data-articlecode][data-category]",
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-articlecode] div div p span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-09-22T05:19:53.586Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfuog4lwxpkvu",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "tote çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "tote çanta",
+        "tote"
+      ]
+    }
+  },
+  {
+    "title": "ÇAPRAZ ÇANTA",
+    "img": [
+      "https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=264",
+      "https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=1536"
+    ],
+    "primaryImg": "https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/16/04/1604d39ec695949a3e374d799522565d1bc38d25.jpg?imwidth=1536 1536w",
+    "link": "https://www2.hm.com/tr_tr/productpage.1274320004.html",
+    "price": [
+      {
+        "value": "1 249,00 TL",
+        "selector": "[data-articlecode] div div p span",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1249,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": "li div article[data-articlecode][data-category]",
+      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
+      "imgSelectorMatched": "[data-testid='next-image'] img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": "[data-articlecode] div div p span",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
+    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
+    "timestamp": "2025-09-22T05:19:53.589Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mfuog4lwxpkvu",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -107,7 +317,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | H&M TR",
     "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-20T10:36:58.575Z",
+    "timestamp": "2025-09-22T05:19:53.591Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -115,8 +325,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfs4w71yrvd8f",
-    "index": 1,
+    "processId": "mfuog4lwxpkvu",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -147,212 +357,6 @@
         "crossbody",
         "cross body",
         "cross-body"
-      ]
-    }
-  },
-  {
-    "title": "OMUZ ÇANTASI",
-    "img": [
-      "https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=264",
-      "https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/7a/a0/7aa0bc8552787a50e616d16ba3a6b31ff7b01b45.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1310203001.html",
-    "price": [
-      {
-        "value": "1 499,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1499,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-20T10:36:58.577Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfs4w71yrvd8f",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
-      ]
-    }
-  },
-  {
-    "title": "TORBA ÇANTA",
-    "img": [
-      "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=264",
-      "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html/assets/hm/6f/98/6f9812d07137dfa5a26fbd5289d6571bd7945441.jpg",
-      "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/98/c3/98c3e03002b3fbf9411548fc1eb2bef516dd4990.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1266903007.html",
-    "price": [
-      {
-        "value": "1 949,00 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1949,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-20T10:36:58.580Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfs4w71yrvd8f",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "torba çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "torba çanta",
-        "torba"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "torba çanta",
-        "torba"
-      ]
-    }
-  },
-  {
-    "title": "FOSFORLU KOŞU BEL ÇANTASI",
-    "img": [
-      "https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=264",
-      "https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=1536"
-    ],
-    "primaryImg": "https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=16 16w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=32 32w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=48 48w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=64 64w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=96 96w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=128 128w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=180 180w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=256 256w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=264 264w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=384 384w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=396 396w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=564 564w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=657 657w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=768 768w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=820 820w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=1260 1260w, https://image.hm.com/assets/hm/94/29/942973d8f8ee3fc46f1160958a781ed2f2d9f12b.jpg?imwidth=1536 1536w",
-    "link": "https://www2.hm.com/tr_tr/productpage.1210590003.html",
-    "price": [
-      {
-        "value": "499,99 TL",
-        "selector": "[data-articlecode] div div p span",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": "li div article[data-articlecode][data-category]",
-      "titleSelectorMatched": "li div article[data-articlecode][data-category] div a h2",
-      "imgSelectorMatched": "[data-testid='next-image'] img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": "[data-articlecode] div div p span",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri | H&M TR",
-    "pageURL": "https://www2.hm.com/tr_tr/kadin/aksesuar/canta.html",
-    "timestamp": "2025-09-20T10:36:58.583Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfs4w71yrvd8f",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "bel çantası"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bel çantası",
-        "bel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "bel çantası",
-        "bel"
       ]
     }
   }
