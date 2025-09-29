@@ -33,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-09-22T05:27:29.238Z",
+    "timestamp": "2025-09-29T05:27:54.573Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuopw7u1vjni",
+    "processId": "mg4otefvxioy3",
     "index": 0,
     "categories": {
       "productType": [
@@ -126,7 +126,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-09-22T05:27:29.241Z",
+    "timestamp": "2025-09-29T05:27:54.576Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,7 +134,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuopw7u1vjni",
+    "processId": "mg4otefvxioy3",
     "index": 1,
     "categories": {
       "productType": [
@@ -219,7 +219,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-09-22T05:27:29.245Z",
+    "timestamp": "2025-09-29T05:27:54.579Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -227,7 +227,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuopw7u1vjni",
+    "processId": "mg4otefvxioy3",
     "index": 2,
     "categories": {
       "productType": [
@@ -312,7 +312,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-09-22T05:27:29.248Z",
+    "timestamp": "2025-09-29T05:27:54.582Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -320,7 +320,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuopw7u1vjni",
+    "processId": "mg4otefvxioy3",
     "index": 3,
     "categories": {
       "productType": [
@@ -379,12 +379,12 @@
     "link": "https://www.nautica-tr.com/nautica-kadin-yesil-omuz-cantasi-cn5302t/",
     "price": [
       {
-        "value": "2.799 TL",
-        "selector": ".product-item-info-prices .product-sale-price",
+        "value": "3.499 TL",
+        "selector": "span.product-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 2799,
+        "numericValue": 3499,
         "unsetPrice": false
       }
     ],
@@ -396,12 +396,12 @@
       "titleSelectorMatched": ".product-item-info  p.product-name a",
       "imgSelectorMatched": ".swiper-slide img",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-item-info-prices .product-sale-price",
+      "bestPriceSelector": "span.product-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri | Nautica",
     "pageURL": "https://www.nautica-tr.com/kadin-canta/",
-    "timestamp": "2025-09-22T05:27:29.251Z",
+    "timestamp": "2025-09-29T05:27:54.585Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -409,7 +409,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuopw7u1vjni",
+    "processId": "mg4otefvxioy3",
     "index": 4,
     "categories": {
       "productType": [
