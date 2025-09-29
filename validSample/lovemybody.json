@@ -1,20 +1,236 @@
 [
   {
-    "title": "Bej Toka Detaylı Çanta",
+    "title": "Pembe Çift Kulplu Büyük Boy Çanta\n+1 Renk",
     "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/27/499673/512ffbba-6d37-404c-8b7c-01f2a96cfb9e_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500059/eb293a49-2195-4cb5-8a3f-0cf254a86678_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500059/b760cc86-bd75-477a-a74e-55d532b2e00c_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500059/93a49320-91e8-429e-bf56-bf4ed6f7f919_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500059/e9fb0eca-40b8-4141-9263-d19b9a1b8f7e_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500059/576e56ca-f2e7-4620-b3d7-962660a2e489_size900x1350_quality100_cropCenter.jpg"
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9340000_026_1.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9340000_026_2.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9340000_026_3.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9340000_026_4.jpg"
     ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/27/499673/512ffbba-6d37-404c-8b7c-01f2a96cfb9e_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/bej-toka-detayli-canta-121l9345000/",
+    "primaryImg": "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9340000_026_1.jpg",
+    "link": "https://www.lovemybody.com.tr/tr/canta/pembe-cift-kulplu-buyuk-boy-canta-p-121L9340000-026",
     "price": [
       {
-        "value": "1499.95 TL",
-        "selector": ".info .product-discounted-price",
+        "value": "999,95 TL",
+        "selector": ".second-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/tr/kategoriler/canta-c-0204",
+    "timestamp": "2025-09-29T05:13:13.503Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4oaije5d2hc",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "büyük çanta"
+      ],
+      "color": [
+        "pembe"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "pembe"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "büyük çanta",
+        "büyük",
+        "large",
+        "big",
+        "pembe"
+      ]
+    }
+  },
+  {
+    "title": "Pembe Kapaklı Çanta\n+3 Renk",
+    "img": [
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9351000_026_1.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9351000_026_2.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9351000_026_3.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9351000_026_4.jpg"
+    ],
+    "primaryImg": "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9351000_026_1.jpg",
+    "link": "https://www.lovemybody.com.tr/tr/canta/pembe-kapakli-canta-p-121L9351000-026",
+    "price": [
+      {
+        "value": "999,95 TL",
+        "selector": ".second-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/tr/kategoriler/canta-c-0204",
+    "timestamp": "2025-09-29T05:13:13.506Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4oaije5d2hc",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "pembe"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "pembe"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "pembe"
+      ]
+    }
+  },
+  {
+    "title": "Siyah Metal Kilitli Çanta\n+1 Renk",
+    "img": [
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_001_1.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_001_2.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_001_3.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_001_4.jpg"
+    ],
+    "primaryImg": "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_001_1.jpg",
+    "link": "https://www.lovemybody.com.tr/tr/canta/siyah-metal-kilitli-canta-p-121L9346000-001",
+    "price": [
+      {
+        "value": "1.999,95 TL",
+        "selector": ".second-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1999.95,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".second-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/tr/kategoriler/canta-c-0204",
+    "timestamp": "2025-09-29T05:13:13.509Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4oaije5d2hc",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    }
+  },
+  {
+    "title": "Bej Toka Detaylı Çanta\n+1 Renk",
+    "img": [
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9345000_011_1.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9345000_011_2.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9345000_011_3.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9345000_011_4.jpg"
+    ],
+    "primaryImg": "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9345000_011_1.jpg",
+    "link": "https://www.lovemybody.com.tr/tr/canta/bej-toka-detayli-canta-p-121L9345000-011",
+    "price": [
+      {
+        "value": "1.499,95 TL",
+        "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
@@ -25,17 +241,17 @@
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
+      "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-22T05:13:09.429Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/tr/kategoriler/canta-c-0204",
+    "timestamp": "2025-09-29T05:13:13.511Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +259,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuo7gprfyugy",
-    "index": 0,
+    "processId": "mg4oaije5d2hc",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta",
@@ -85,40 +301,40 @@
     }
   },
   {
-    "title": "Kahverengi Kısa Saplı Hasır Garnili Çanta",
+    "title": "Kahverengi Metal Kilitli Çanta\n+1 Renk",
     "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500028/73cdb6d8-2bd6-4fd6-bc2e-f57a5a9b0c6b_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500028/b4d82038-009a-41c5-9d8c-fa31c67c6aec_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500028/e359586f-2017-447a-8e6d-1adf8c6472f8_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500028/541d726d-2c40-40da-90e4-1b82053b3be9_size900x1350_quality100_cropCenter.jpg"
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_005_1.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_005_2.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_005_3.jpg",
+      "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_005_4.jpg"
     ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500028/73cdb6d8-2bd6-4fd6-bc2e-f57a5a9b0c6b_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/kahverengi-kisa-sapli-hasir-garnili-canta-121l9344000/",
+    "primaryImg": "https://img-lmb.sm.mncdn.com/mnresize/830/1240/cdnimages/products/121L9346000_005_1.jpg",
+    "link": "https://www.lovemybody.com.tr/tr/canta/kahverengi-metal-kilitli-canta-p-121L9346000-005",
     "price": [
       {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
+        "value": "1.999,95 TL",
+        "selector": ".second-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 999.95,
+        "numericValue": 1999.95,
         "unsetPrice": false
       }
     ],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
+      "linkSource": "linkElement (matched: a.product-content)",
+      "matchedSelector": ".product-list-item",
+      "titleSelectorMatched": ".product-content-name",
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
+      "bestPriceSelector": ".second-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-22T05:13:09.432Z",
+    "pageTitle": "Çanta, Kadın Çanta Modelleri, El & Omuz Çantası | Love My Body",
+    "pageURL": "https://www.lovemybody.com.tr/tr/kategoriler/canta-c-0204",
+    "timestamp": "2025-09-29T05:13:13.514Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -126,260 +342,14 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuo7gprfyugy",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hasır çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hasır çanta",
-        "hasır",
-        "hasir",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hasır çanta",
-        "hasır",
-        "hasir",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    }
-  },
-  {
-    "title": "Turkuaz Deri Büzgülü Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2024/05/10/472201/a4aad569-48c5-41a9-b6ff-1eefafd58338_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2024/05/10/472201/7475a24a-b73d-45cd-90a8-82e32d03a9c9_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2024/05/10/472201/4c3bb97f-7197-42c6-9051-d92ea0529c58_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2024/05/10/472201/8ac788ac-c851-4c7a-977d-bcb22d6336e2_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2024/05/10/472201/a4aad569-48c5-41a9-b6ff-1eefafd58338_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/turkuaz-deri-buzgulu-canta-121l9078000/",
-    "price": [
-      {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-22T05:13:09.435Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuo7gprfyugy",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater"
-      ]
-    }
-  },
-  {
-    "title": "Kahverengi Kilit Detaylı Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/dce73257-7460-4dac-9e87-e013ffd5c8c0_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/d2a6f80b-a80e-42aa-8424-2dcdae3a05b3_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/04/04/500040/cc288447-f117-4234-a49c-288d2ef513a4_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/37782e55-b36b-4d52-8871-397a47a889f2_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/b6684cba-b58d-4144-a41e-17071bc93ce1_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/3c84eab0-3b92-4a7a-89d9-97e102d0fd1e_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500040/dce73257-7460-4dac-9e87-e013ffd5c8c0_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/kahverengi-kilit-detayli-canta-121l9343000/",
-    "price": [
-      {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-22T05:13:09.438Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuo7gprfyugy",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    }
-  },
-  {
-    "title": "Pembe Kapaklı Çanta",
-    "img": [
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/5808189b-9c93-4b50-9b09-b2391fd02df6_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/26b67861-842d-4b2a-978d-416a2ff97403_size900x1350_quality100_cropCenter.jpg",
-      "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/c9e33da5-55e1-45e7-abb6-8d2c407ea01a_size900x1350_quality100_cropCenter.jpg"
-    ],
-    "primaryImg": "https://e1e687.a-cdn.akinoncloud.com/products/2025/03/28/500041/9c104b3b-1800-40e4-9eb6-06d2bf7b7039_size900x1350_quality100_cropCenter.jpg",
-    "link": "https://www.lovemybody.com.tr/pembe-kapakli-canta-121l9351000/",
-    "price": [
-      {
-        "value": "999.95 TL",
-        "selector": ".info .product-discounted-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 999.95,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": ".product-item-box",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".info .product-discounted-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta modelleri ve kadın Çanta fiyatları | Love My Body",
-    "pageURL": "https://www.lovemybody.com.tr/canta/",
-    "timestamp": "2025-09-22T05:13:09.441Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuo7gprfyugy",
+    "processId": "mg4oaije5d2hc",
     "index": 4,
     "categories": {
       "productType": [
         "çanta"
       ],
       "color": [
-        "pembe"
+        "kahverengi"
       ]
     },
     "seo": {
@@ -388,14 +358,22 @@
         "çantası",
         "bag",
         "çantasi",
-        "pembe"
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ],
       "tags": [
         "çanta",
         "çantası",
         "bag",
         "çantasi",
-        "pembe"
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     }
   }
