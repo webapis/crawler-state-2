@@ -18,7 +18,7 @@
       }
     ],
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
@@ -30,7 +30,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-22T06:06:19.145Z",
+    "timestamp": "2025-09-29T06:06:29.583Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,7 +38,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq3u0x2jy5o",
+    "processId": "mg4q70qww4fiv",
     "index": 0,
     "categories": {
       "productType": [
@@ -105,7 +105,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-22T06:06:19.149Z",
+    "timestamp": "2025-09-29T06:06:29.586Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -113,7 +113,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq3u0x2jy5o",
+    "processId": "mg4q70qww4fiv",
     "index": 1,
     "categories": {
       "productType": [
@@ -141,67 +141,6 @@
     }
   },
   {
-    "title": "Rectangular Long Bag Tan ",
-    "img": [
-      "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2"
-    ],
-    "primaryImg": "https://image.he-qa.com/-39475-63-B.jpg?width=1200&v2",
-    "link": "https://www.he-qa.com/rectangular-long-bag-tan",
-    "price": [
-      {
-        "value": "23.08 USD",
-        "selector": ".priceWrapper .currentPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 773.18,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": true,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": "[data-src]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".priceWrapper .currentPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "BAG",
-    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-22T06:06:19.152Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuq3u0x2jy5o",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    }
-  },
-  {
     "title": "Braid Bucket Bag Black ",
     "img": [
       "https://image.he-qa.com/-39757-63-B.jpg?width=1200&v2"
@@ -220,7 +159,7 @@
       }
     ],
     "videos": [],
-    "productNotInStock": false,
+    "productNotInStock": true,
     "matchedInfo": {
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
@@ -232,7 +171,7 @@
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-22T06:06:19.156Z",
+    "timestamp": "2025-09-29T06:06:29.589Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -240,8 +179,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq3u0x2jy5o",
-    "index": 3,
+    "processId": "mg4q70qww4fiv",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -293,14 +232,14 @@
       "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
       "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
       "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "imgSelectorMatched": "[data-src]",
       "videoSelectorMatched": null,
       "bestPriceSelector": ".priceWrapper .currentPrice",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "BAG",
     "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
-    "timestamp": "2025-09-22T06:06:19.159Z",
+    "timestamp": "2025-09-29T06:06:29.593Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -308,8 +247,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq3u0x2jy5o",
-    "index": 4,
+    "processId": "mg4q70qww4fiv",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -327,6 +266,72 @@
         "çantası",
         "bag",
         "çantasi"
+      ]
+    }
+  },
+  {
+    "title": "Baseball Charm Brown ",
+    "img": [
+      "https://image.he-qa.com/-39030-64-B.jpg?width=1200&v2"
+    ],
+    "primaryImg": "https://image.he-qa.com/-39030-64-B.jpg?width=1200&v2",
+    "link": "https://www.he-qa.com/baseball-charm-brown",
+    "price": [
+      {
+        "value": "5.54 USD",
+        "selector": ".priceWrapper .currentPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 185.59,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": true,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".productItem:not(:has(.pw-img-swiper))",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".priceWrapper .currentPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "BAG",
+    "pageURL": "https://www.he-qa.com/kadin-canta-modelleri-ve-fiyatlari?ps=5",
+    "timestamp": "2025-09-29T06:06:29.596Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4q70qww4fiv",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ],
+      "tags": [
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     }
   }
