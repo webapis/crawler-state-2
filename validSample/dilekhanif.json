@@ -1,277 +1,46 @@
 [
   {
-    "title": "HANDMADE EMBROIDERED BAG",
+    "title": null,
     "img": [
-      "https://www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=720",
-      "https://www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=1080"
+      "https://www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=1200",
+      "https://www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=2400",
+      "https://www.dilekhanif.com/cdn/shop/files/canta_mobile.png?crop=center&height=333&v=1721814266&width=1200",
+      "https://www.dilekhanif.com/cdn/shop/files/canta_mobile.png?crop=center&height=1200&v=1721814266&width=4320"
     ],
-    "primaryImg": "//www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=360 360w, //www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=540 540w, //www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=720 720w, //www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=900 900w, //www.dilekhanif.com/cdn/shop/files/dh.jpg?v=1721642868&width=1080 1080w",
-    "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-2",
-    "price": [
-      {
-        "value": "$478.22 USD",
-        "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 16020.37,
-        "unsetPrice": false
-      }
-    ],
+    "primaryImg": "//www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=352 352w, //www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=832 832w, //www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=1200 1200w, //www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=1920 1920w, //www.dilekhanif.com/cdn/shop/files/canta_desktop.png?v=1721814260&width=2400 2400w",
+    "link": null,
+    "price": [],
     "videos": [],
     "productNotInStock": false,
     "matchedInfo": {
-      "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid-product__content",
-      "titleSelectorMatched": ".grid-product__title",
-      "imgSelectorMatched": ".grid-product__image",
+      "linkSource": null,
+      "matchedSelector": "div[data-id]",
+      "titleSelectorMatched": null,
+      "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
+      "bestPriceSelector": null,
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Bag – Dilek Hanif",
-    "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-22T05:23:45.862Z",
+    "pageTitle": "Çanta – Dilek Hanif",
+    "pageURL": "https://www.dilekhanif.com/collections/canta",
+    "timestamp": "2025-09-29T05:25:15.740Z",
     "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
+    "linkValid": false,
+    "titleValid": false,
     "pageTitleValid": true,
-    "priceValid": true,
+    "priceValid": false,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuol3rmjogju",
+    "processId": "mg4opzryk4vwf",
     "index": 0,
     "categories": {
       "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kırmızı"
+        "none"
       ]
     },
     "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
-    }
-  },
-  {
-    "title": "HANDMADE TASSEL BAG",
-    "img": [
-      "https://www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=720",
-      "https://www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=1080"
-    ],
-    "primaryImg": "//www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=360 360w, //www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=540 540w, //www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=720 720w, //www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=900 900w, //www.dilekhanif.com/cdn/shop/files/1_47659d0d-b3e3-4bd0-b570-45159ca3bffb.jpg?v=1721642365&width=1080 1080w",
-    "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-puskullu-canta",
-    "price": [
-      {
-        "value": "$378.59 USD",
-        "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 12682.76,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid-product__content",
-      "titleSelectorMatched": ".grid-product__title",
-      "imgSelectorMatched": ".grid-product__image",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Bag – Dilek Hanif",
-    "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-22T05:23:45.865Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuol3rmjogju",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    }
-  },
-  {
-    "title": "HANDMADE EMBROIDERED BAG",
-    "img": [
-      "https://www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=720",
-      "https://www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=1080"
-    ],
-    "primaryImg": "//www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=360 360w, //www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=540 540w, //www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=720 720w, //www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=900 900w, //www.dilekhanif.com/cdn/shop/files/6_0cc0786f-21be-4fa8-946d-9cb5a47690c6.jpg?v=1721642302&width=1080 1080w",
-    "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta-1",
-    "price": [
-      {
-        "value": "$478.22 USD",
-        "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 16020.37,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid-product__content",
-      "titleSelectorMatched": ".grid-product__title",
-      "imgSelectorMatched": ".grid-product__image",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Bag – Dilek Hanif",
-    "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-22T05:23:45.868Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuol3rmjogju",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kırmızı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
-    }
-  },
-  {
-    "title": "HANDMADE EMBROIDERED BAG",
-    "img": [
-      "https://www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=720",
-      "https://www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=1080"
-    ],
-    "primaryImg": "//www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=360 360w, //www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=540 540w, //www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=720 720w, //www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=900 900w, //www.dilekhanif.com/cdn/shop/files/2_9ec1c8a4-66d1-4532-9bc6-6cdd965a1285.jpg?v=1721642153&width=1080 1080w",
-    "link": "https://www.dilekhanif.com/en-us/collections/canta/products/el-yapimi-i%CC%87slemeli-canta",
-    "price": [
-      {
-        "value": "$478.22 USD",
-        "selector": ".grid-product__price > :not(.visually-hidden)",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 16020.37,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .grid-product__link)",
-      "matchedSelector": ".grid-product__content",
-      "titleSelectorMatched": ".grid-product__title",
-      "imgSelectorMatched": ".grid-product__image",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".grid-product__price > :not(.visually-hidden)",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Bag – Dilek Hanif",
-    "pageURL": "https://www.dilekhanif.com/en-us/collections/canta",
-    "timestamp": "2025-09-22T05:23:45.871Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuol3rmjogju",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "kırmızı"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "kırmızı",
-        "red",
-        "nar çiçeği"
-      ]
+      "keywords": [],
+      "tags": []
     }
   }
 ]
