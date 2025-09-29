@@ -33,7 +33,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-22T05:28:59.943Z",
+    "timestamp": "2025-09-29T05:29:30.959Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,7 +41,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoru8ucu8e4",
+    "processId": "mg4ovgtv4a2c2",
     "index": 0,
     "categories": {
       "productType": [
@@ -71,23 +71,23 @@
     }
   },
   {
-    "title": "Rolltop Rucksack Sırt Çantası",
+    "title": "Backpack Mini Sırt Çantası",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-716557.jpg?v=1754636226&width=200"
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-542388.jpg?v=1758267256&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-542388.jpg?v=1758267256&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-rolltop-rucksack-sirt-cantasi-grey-264682.jpg?v=1754636226&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/rains-rolltop-rucksack-sirt-cantasi-2",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/rains-backpack-mini-sirt-cantasi-pulse-7215784.jpg?v=1758267256&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/rains-backpack-mini-sirt-cantasi-1-1",
     "price": [
       {
-        "value": "7.639 TL",
-        "selector": ".boost-sd__format-currency",
+        "value": "2.480 TL",
+        "selector": ".boost-sd__product-price--sale .boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 7639,
+        "numericValue": 2480,
         "unsetPrice": false
       }
     ],
@@ -99,12 +99,12 @@
       "titleSelectorMatched": ".boost-sd__product-title",
       "imgSelectorMatched": "[srcset]",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".boost-sd__format-currency",
+      "bestPriceSelector": ".boost-sd__product-price--sale .boost-sd__format-currency",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-22T05:28:59.948Z",
+    "timestamp": "2025-09-29T05:29:30.964Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -112,12 +112,13 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoru8ucu8e4",
+    "processId": "mg4ovgtv4a2c2",
     "index": 1,
     "categories": {
       "productType": [
         "çanta",
-        "sırt çantası"
+        "sırt çantası",
+        "mini çanta"
       ]
     },
     "seo": {
@@ -128,7 +129,9 @@
         "çantasi",
         "sırt çantası",
         "sırt",
-        "sirt"
+        "sirt",
+        "mini çanta",
+        "mini"
       ],
       "tags": [
         "çanta",
@@ -137,7 +140,9 @@
         "çantasi",
         "sırt çantası",
         "sırt",
-        "sirt"
+        "sirt",
+        "mini çanta",
+        "mini"
       ]
     }
   },
@@ -175,7 +180,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-22T05:28:59.953Z",
+    "timestamp": "2025-09-29T05:29:30.968Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -183,7 +188,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoru8ucu8e4",
+    "processId": "mg4ovgtv4a2c2",
     "index": 2,
     "categories": {
       "productType": [
@@ -213,23 +218,23 @@
     }
   },
   {
-    "title": "F41 Hawaii Five-0 Omuz Çantası",
+    "title": "F11 Lassie Omuz Çantası",
     "img": [
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=200",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-193703.jpg?v=1746044775&width=400",
-      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-193703.jpg?v=1746044775&width=200"
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=200",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-245517.jpg?v=1757492167&width=400",
+      "https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-245517.jpg?v=1757492167&width=200"
     ],
-    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f41-hawaii-five-0-omuz-cantasi-multi-2-873228.jpg?v=1746044775&width=700 700w\n                      ",
-    "link": "https://www.vitruta.com/products/freitag-f41-hawaii-five-0-omuz-cantasi",
+    "primaryImg": "\n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=200 200w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=300 300w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=400 400w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=500 500w,\n                      \n                      https://cdn.shopify.com/s/files/1/0577/2299/4883/files/freitag-f11-lassie-omuz-cantasi-multi-8-989820.jpg?v=1757492167&width=700 700w\n                      ",
+    "link": "https://www.vitruta.com/products/freitag-f11-lassie-omuz-cantasi",
     "price": [
       {
-        "value": "11.075 TL",
+        "value": "14.765 TL",
         "selector": ".boost-sd__format-currency",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 11075,
+        "numericValue": 14765,
         "unsetPrice": false
       }
     ],
@@ -246,7 +251,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-22T05:28:59.960Z",
+    "timestamp": "2025-09-29T05:29:30.972Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -254,7 +259,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoru8ucu8e4",
+    "processId": "mg4ovgtv4a2c2",
     "index": 3,
     "categories": {
       "productType": [
@@ -319,7 +324,7 @@
     },
     "pageTitle": "Kadın Çanta – vitruta",
     "pageURL": "https://www.vitruta.com/collections/kadin-canta",
-    "timestamp": "2025-09-22T05:28:59.965Z",
+    "timestamp": "2025-09-29T05:29:30.976Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -327,7 +332,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoru8ucu8e4",
+    "processId": "mg4ovgtv4a2c2",
     "index": 4,
     "categories": {
       "productType": [
