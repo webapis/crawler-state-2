@@ -40,7 +40,7 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-09-22T05:49:33.756Z",
+    "timestamp": "2025-09-29T05:49:53.720Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -48,7 +48,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupia58syt9x",
+    "processId": "mg4plo7vpwhny",
     "index": 0,
     "categories": {
       "productType": [
@@ -64,6 +64,78 @@
       ],
       "tags": [
         "vizon"
+      ]
+    }
+  },
+  {
+    "title": "Bonnie Kırmızı Çizgili",
+    "img": [
+      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/083730ad-96b8-4ced-a490-5e1a7afc6d7d-370x475.jpg",
+      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/4a7944cf-bfcd-46c3-b5e9-d8cbceae5284-370x475.jpg"
+    ],
+    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/083730ad-96b8-4ced-a490-5e1a7afc6d7d-370x475.jpg",
+    "link": "https://lupaprojectistanbul.com/urun/bonnie-kirmizi-cizgili/",
+    "price": [
+      {
+        "value": "2,500.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2500,
+        "unsetPrice": false
+      },
+      {
+        "value": "1,750.00₺",
+        "selector": ".woocommerce-Price-amount.amount bdi",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .name a)",
+      "matchedSelector": ".product-block",
+      "titleSelectorMatched": ".name a",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Mağaza - Lupa Project Istanbul",
+    "pageURL": "https://lupaprojectistanbul.com/magaza/",
+    "timestamp": "2025-09-29T05:49:53.723Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4plo7vpwhny",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "none"
+      ],
+      "color": [
+        "kırmızı"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "kırmızı",
+        "red",
+        "nar çiçeği"
+      ],
+      "tags": [
+        "kırmızı",
+        "red",
+        "nar çiçeği"
       ]
     }
   },
@@ -108,7 +180,7 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-09-22T05:49:33.759Z",
+    "timestamp": "2025-09-29T05:49:53.726Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -116,8 +188,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupia58syt9x",
-    "index": 1,
+    "processId": "mg4plo7vpwhny",
+    "index": 2,
     "categories": {
       "productType": [
         "none"
@@ -187,7 +259,7 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-09-22T05:49:33.762Z",
+    "timestamp": "2025-09-29T05:49:53.728Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -195,8 +267,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupia58syt9x",
-    "index": 2,
+    "processId": "mg4plo7vpwhny",
+    "index": 3,
     "categories": {
       "productType": [
         "none"
@@ -259,7 +331,7 @@
     },
     "pageTitle": "Mağaza - Lupa Project Istanbul",
     "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-09-22T05:49:33.764Z",
+    "timestamp": "2025-09-29T05:49:53.731Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -267,90 +339,22 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupia58syt9x",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "none"
-      ],
-      "color": [
-        "lacivert"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "lacivert"
-      ],
-      "tags": [
-        "lacivert"
-      ]
-    }
-  },
-  {
-    "title": "Sienna Yeşil",
-    "img": [
-      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/4307198c-ed29-4368-be2c-9c11df92918d-370x475.jpg",
-      "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/ccde7f72-72bf-47fe-9aa6-36a105106617-370x475.jpg"
-    ],
-    "primaryImg": "https://lupaprojectistanbul.com/wp-content/uploads/2025/04/4307198c-ed29-4368-be2c-9c11df92918d-370x475.jpg",
-    "link": "https://lupaprojectistanbul.com/urun/sienna-yesil/",
-    "price": [
-      {
-        "value": "5,000.00₺",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 5000,
-        "unsetPrice": false
-      },
-      {
-        "value": "3,500.00₺",
-        "selector": ".woocommerce-Price-amount.amount bdi",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3500,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .name a)",
-      "matchedSelector": ".product-block",
-      "titleSelectorMatched": ".name a",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".woocommerce-Price-amount.amount bdi",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Mağaza - Lupa Project Istanbul",
-    "pageURL": "https://lupaprojectistanbul.com/magaza/",
-    "timestamp": "2025-09-22T05:49:33.767Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupia58syt9x",
+    "processId": "mg4plo7vpwhny",
     "index": 4,
     "categories": {
       "productType": [
         "none"
       ],
       "color": [
-        "yeşil"
+        "lacivert"
       ]
     },
     "seo": {
       "keywords": [
-        "yeşil"
+        "lacivert"
       ],
       "tags": [
-        "yeşil"
+        "lacivert"
       ]
     }
   }
