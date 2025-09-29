@@ -1,13 +1,467 @@
 [
   {
+    "title": "Kadın Siyah Metal Detaylı Cepli Askılı Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615351796350.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638943615392421411.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615351796350.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638943615392421411.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-metal-detayli-cepli-askili-omuz-cantasi_168327",
+    "price": [
+      {
+        "value": "2.999,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-29T05:26:05.520Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4or27kzf3y9",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
+    "title": "Kadın Haki Yeşili Metal Detaylı Cepli Askılı Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301835474719.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301787036984.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301835474719.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301787036984.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301835474719.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-haki-yesili-metal-detayli-cepli-askili-omuz-cantasi_168328",
+    "price": [
+      {
+        "value": "2.999,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-29T05:26:05.523Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4or27kzf3y9",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
+      ],
+      "color": [
+        "yeşil"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "yeşil",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "yeşil",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
+    "title": "Kadın Siyah Çok Cepli Ayarlanabilir Askılı Fermuarlı Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301226254866.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301177348303.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301226254866.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301177348303.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301226254866.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-siyah-cok-cepli-ayarlanabilir-askili-fermuarli-omuz-cantasi_168325",
+    "price": [
+      {
+        "value": "2.999,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-29T05:26:05.526Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4or27kzf3y9",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "fermuarlı çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "fermuarlı çanta",
+        "fermuarlı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "fermuarlı çanta",
+        "fermuarlı",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
+    "title": "Kadın Haki Yeşili Çok Cepli Ayarlanabilir Askılı Fermuarlı Omuz Çantası",
+    "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301448755122.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301398286438.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638939301448755122.jpeg",
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301398286438.jpeg"
+    ],
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638939301448755122.jpeg",
+    "link": "https://tr.benetton.com/kadin/kadin-haki-yesili-cok-cepli-ayarlanabilir-askili-fermuarli-omuz-cantasi_168326",
+    "price": [
+      {
+        "value": "2.999,99 TL",
+        "selector": ".p-price .one-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 2999.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .p-name a)",
+      "matchedSelector": ".product-list.js-customize .p-item.col",
+      "titleSelectorMatched": ".p-name a",
+      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".p-price .one-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
+    "pageURL": "https://tr.benetton.com/kadin-canta",
+    "timestamp": "2025-09-29T05:26:05.528Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4or27kzf3y9",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta",
+        "fermuarlı çanta"
+      ],
+      "color": [
+        "yeşil"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "fermuarlı çanta",
+        "fermuarlı",
+        "yeşil",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
+        "fermuarlı çanta",
+        "fermuarlı",
+        "yeşil",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
     "title": "Kadın Siyah Logo Detaylı Metal Tokalı Ayarlanabilir Askılı Kroko Çanta",
     "img": [
+      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935844003146283.jpeg",
       "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935843954397120.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935844003146283.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg"
+      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935844003146283.jpeg"
     ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935844003146283.jpeg",
+    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935843954397120.jpeg",
     "link": "https://tr.benetton.com/kadin/kadin-siyah-logo-detayli-metal-tokali-ayarlanabilir-askili-kroko-canta_168159",
     "price": [
       {
@@ -33,7 +487,7 @@
     },
     "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
     "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-22T05:26:12.516Z",
+    "timestamp": "2025-09-29T05:26:05.531Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -41,468 +495,20 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuoo8xe4e97l",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Kadın Krem Logo Detaylı Metal Tokalı Zincirli Askılı Kroko Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842909101804.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842860820118.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935842909101804.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842860820118.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935842909101804.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-krem-logo-detayli-metal-tokali-zincirli-askili-kroko-canta_168153",
-    "price": [
-      {
-        "value": "3.999,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-22T05:26:12.518Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuoo8xe4e97l",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Kadın Bordo Logo Baskılı Fermuarlı Ayarlanabilir Askılı Spor Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833957680797.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833906273120.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833957680797.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833906273120.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833957680797.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-bordo-logo-baskili-fermuarli-ayarlanabilir-askili-spor-canta_168027",
-    "price": [
-      {
-        "value": "3.999,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-22T05:26:12.521Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuoo8xe4e97l",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "baskılı çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "spor çantası",
-        "fermuarlı çanta"
-      ],
-      "color": [
-        "bordo"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "bordo",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "bordo",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Kadın Siyah Logo Baskılı Fermuarlı Ayarlanabilir Askılı Spor Çanta",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833737830943.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833689235574.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/638935833737830943.jpeg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833689235574.jpeg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/638935833737830943.jpeg",
-    "link": "https://tr.benetton.com/kadin/kadin-siyah-logo-baskili-fermuarli-ayarlanabilir-askili-spor-canta_168026",
-    "price": [
-      {
-        "value": "3.999,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-22T05:26:12.523Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuoo8xe4e97l",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "baskılı çanta",
-        "zincir askılı çanta",
-        "askılı çanta",
-        "askı detaylı çanta",
-        "spor çantası",
-        "fermuarlı çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "baskılı çanta",
-        "baskılı",
-        "baskili",
-        "baskı",
-        "zincir askılı çanta",
-        "zincir",
-        "askılı",
-        "askılı çanta",
-        "askili",
-        "askı detaylı çanta",
-        "askı",
-        "detaylı",
-        "spor çantası",
-        "spor",
-        "sport",
-        "sports",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Unisex Siyah Benetton Logolu Sırt Çantası",
-    "img": [
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884425789555.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884395320864.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/1006/1006/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884425789555.jpg",
-      "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884395320864.jpg"
-    ],
-    "primaryImg": "https://stn-benetton.mncdn.com/mnresize/630/630/Content/media/ProductImg/original/124a15974-100-unisex-siyah-benetton-logolu-sirt-cantasi-638659884425789555.jpg",
-    "link": "https://tr.benetton.com/unisex/unisex-siyah-benetton-logolu-sirt-cantasi_167711",
-    "price": [
-      {
-        "value": "3.999,99 TL",
-        "selector": ".p-price .one-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3999.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .p-name a)",
-      "matchedSelector": ".product-list.js-customize .p-item.col",
-      "titleSelectorMatched": ".p-name a",
-      "imgSelectorMatched": ".ls-is-cached.lazyloaded",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".p-price .one-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta, Kadın Çanta Modelleri | Benetton",
-    "pageURL": "https://tr.benetton.com/kadin-canta",
-    "timestamp": "2025-09-22T05:26:12.526Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuoo8xe4e97l",
+    "processId": "mg4or27kzf3y9",
     "index": 4,
     "categories": {
       "productType": [
         "çanta",
-        "sırt çantası",
-        "logolu çanta"
+        "zincir askılı çanta",
+        "askılı çanta",
+        "askı detaylı çanta"
       ],
       "color": [
         "siyah"
       ],
       "gender": [
-        "unisex"
+        "kadın"
       ]
     },
     "seo": {
@@ -511,28 +517,42 @@
         "çantası",
         "bag",
         "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "logolu çanta",
-        "logolu",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
         "siyah",
         "black",
-        "unisex"
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
       ],
       "tags": [
         "çanta",
         "çantası",
         "bag",
         "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "logolu çanta",
-        "logolu",
+        "zincir askılı çanta",
+        "zincir",
+        "askılı",
+        "askılı çanta",
+        "askili",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı",
         "siyah",
         "black",
-        "unisex"
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
       ]
     }
   }
