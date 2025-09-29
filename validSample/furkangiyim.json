@@ -1,5 +1,146 @@
 [
   {
+    "title": "Kayra Monogram Desen Baget Çanta Siyah KA-B25-CNT83-12",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-monogram-desen-baget-canta-siyah-e74057.jpg",
+    "link": "https://www.furkangiyim.com/kayra-monogram-desen-baget-canta-siyah-ka-b25-cnt83-12",
+    "price": [
+      {
+        "value": "₺1.300,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1300,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-09-29T05:48:01.430Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pj9m6iy8my",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "baget çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "baget çanta",
+        "baget",
+        "siyah",
+        "black"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "baget çanta",
+        "baget",
+        "siyah",
+        "black"
+      ]
+    }
+  },
+  {
+    "title": "Kayra Metal Detaylı Çanta Krem KY-A24-CNT14",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-metal-detayli-canta-krem-ky-a24--c8b-7e.jpg"
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/kayra-metal-detayli-canta-krem-ky-a24--c8b-7e.jpg",
+    "link": "https://www.furkangiyim.com/kayra-metal-detayli-canta-krem-ky-a24-cnt14",
+    "price": [
+      {
+        "value": "₺450,00",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 450,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "[data-original]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
+    "pageURL": "https://www.furkangiyim.com/canta",
+    "timestamp": "2025-09-29T05:48:01.433Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pj9m6iy8my",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "askı detaylı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "askı detaylı çanta",
+        "askı",
+        "detaylı"
+      ]
+    }
+  },
+  {
     "title": "Armine 402 Bayan Çanta Vizon",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-402-bayan-canta-vizon-09ed27.jpg"
@@ -30,7 +171,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-09-22T05:48:03.675Z",
+    "timestamp": "2025-09-29T05:48:01.436Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -38,8 +179,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupgcoh21zxv",
-    "index": 0,
+    "processId": "mg4pj9m6iy8my",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta"
@@ -109,7 +250,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-09-22T05:48:03.678Z",
+    "timestamp": "2025-09-29T05:48:01.439Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -117,89 +258,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupgcoh21zxv",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Armine 385 Bayan Çanta Siyah Noktalı",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-385-bayan-canta-siyah-noktali--a207-.jpg",
-    "link": "https://www.furkangiyim.com/armine-385-bayan-canta-siyah-noktali",
-    "price": [
-      {
-        "value": "₺1.300,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1300,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-09-22T05:48:03.681Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupgcoh21zxv",
-    "index": 2,
+    "processId": "mg4pj9m6iy8my",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -271,7 +331,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
     "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-09-22T05:48:03.684Z",
+    "timestamp": "2025-09-29T05:48:01.442Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -279,8 +339,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupgcoh21zxv",
-    "index": 3,
+    "processId": "mg4pj9m6iy8my",
+    "index": 4,
     "categories": {
       "productType": [
         "çanta",
@@ -316,87 +376,6 @@
         "el çantası",
         "el",
         "vizon",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Armine 266 Bayan Çanta Siyah Noktalı Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-266-bayan-canta-siyah-noktali-c-3c1bcd.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=246,quality=85/61458/uploads/urunresimleri/buyuk/armine-266-bayan-canta-siyah-noktali-c-3c1bcd.jpg",
-    "link": "https://www.furkangiyim.com/armine-266-bayan-canta-siyah-noktali-canta",
-    "price": [
-      {
-        "value": "₺550,00",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 550,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "[data-original]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ile Tarzını Tamamla | Furkangiyim",
-    "pageURL": "https://www.furkangiyim.com/canta",
-    "timestamp": "2025-09-22T05:48:03.687Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupgcoh21zxv",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "siyah",
-        "black",
         "kadın",
         "kadin",
         "bayan",
