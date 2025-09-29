@@ -1,5 +1,103 @@
 [
   {
+    "title": "Kahverengi Joli Mini Deri Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta-2-75ca.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta-4d-4ba.jpg",
+      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta-e6-a30.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta--920c-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta-014065.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85,format=webp/52168/uploads/images/ilgiliurunresim/siyah.png",
+      "https://www.suudcollection.com/tr/kadin-canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-joli-mini-deri-canta-2-75ca.jpg",
+    "link": "https://www.suudcollection.com/kahverengi-joli-mini-deri-canta-3926",
+    "price": [
+      {
+        "value": "950,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-09-29T05:58:54.336Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4px9jcc454d",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "mini çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "mini çanta",
+        "mini",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "mini çanta",
+        "mini",
+        "floater deri çanta",
+        "floater",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    }
+  },
+  {
     "title": "Beyaz Cove Zebra Büzgülü El Çantası",
     "img": [
       "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/beyaz-cove-zebra-buzgulu-el-cantasi--95f9-.jpg",
@@ -35,7 +133,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-22T05:58:33.015Z",
+    "timestamp": "2025-09-29T05:58:54.340Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,8 +141,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuptuf0f75wh",
-    "index": 0,
+    "processId": "mg4px9jcc454d",
+    "index": 1,
     "categories": {
       "productType": [
         "çanta",
@@ -115,7 +213,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-22T05:58:33.019Z",
+    "timestamp": "2025-09-29T05:58:54.344Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,8 +221,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuptuf0f75wh",
-    "index": 1,
+    "processId": "mg4px9jcc454d",
+    "index": 2,
     "categories": {
       "productType": [
         "çanta",
@@ -157,6 +255,98 @@
         "deri çanta",
         "leather",
         "deri",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ]
+    }
+  },
+  {
+    "title": "Siyah Joli Mini Deri Çanta",
+    "img": [
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta-0-4a74.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta-37-eeb.jpg",
+      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta-c5-c80.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta-c90bcb.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta--d360-.jpg",
+      "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85,format=webp/52168/uploads/images/ilgiliurunresim/kahverengi.png",
+      "https://www.suudcollection.com/tr/kadin-canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
+    ],
+    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/siyah-joli-mini-deri-canta-0-4a74.jpg",
+    "link": "https://www.suudcollection.com/siyah-joli-mini-deri-canta-3925",
+    "price": [
+      {
+        "value": "950,00 TL",
+        "selector": ".discountPrice .discountPriceSpan",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .productName a)",
+      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
+      "titleSelectorMatched": ".productName a",
+      "imgSelectorMatched": "img.productSliderImage",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".discountPrice .discountPriceSpan",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
+    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
+    "timestamp": "2025-09-29T05:58:54.348Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4px9jcc454d",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "deri çanta",
+        "mini çanta",
+        "floater deri çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "mini çanta",
+        "mini",
+        "floater deri çanta",
+        "floater",
+        "siyah",
+        "black"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "deri çanta",
+        "leather",
+        "deri",
+        "mini çanta",
+        "mini",
         "floater deri çanta",
         "floater",
         "siyah",
@@ -202,7 +392,7 @@
     },
     "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
     "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-22T05:58:33.023Z",
+    "timestamp": "2025-09-29T05:58:54.352Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -210,8 +400,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuptuf0f75wh",
-    "index": 2,
+    "processId": "mg4px9jcc454d",
+    "index": 4,
     "categories": {
       "productType": [
         "none"
@@ -230,183 +420,6 @@
         "kırmızı",
         "red",
         "nar çiçeği"
-      ]
-    }
-  },
-  {
-    "title": "Acı Kahve Lora Kemerli Deri Çanta",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta-de4-8a.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta-ff-172.jpg",
-      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta-bce5ea.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta-e6f5-1.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta--9ff9-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85,format=webp/52168/uploads/images/ilgiliurunresim/siyah.png",
-      "https://www.suudcollection.com/tr/kadin-canta/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAA1JREFUGFdjePfu3X8ACWIDyvrS0aMAAAAASUVORK5CYII="
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/aci-kahve-lora-kemerli-deri-canta-de4-8a.jpg",
-    "link": "https://www.suudcollection.com/aci-kahve-lora-kemerli-deri-canta-4105",
-    "price": [
-      {
-        "value": "1.950,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-22T05:58:33.027Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuptuf0f75wh",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "floater deri çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    }
-  },
-  {
-    "title": "Kahverengi Mia Leopar Telefon Çantası",
-    "img": [
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi-6-b23f.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi-3a5572.jpg",
-      "https://www.suudcollection.com/tr/kadin-canta/Uploads/images/load.gif",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi-4-4095.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi--49a6-.jpg",
-      "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi--4de9-.jpg"
-    ],
-    "primaryImg": "https://static.ticimax.cloud/cdn-cgi/image/width=438,quality=85,format=webp/52168/uploads/urunresimleri/buyuk/kahverengi-mia-leopar-telefon-cantasi-6-b23f.jpg",
-    "link": "https://www.suudcollection.com/kahverengi-mia-leopar-telefon-cantasi-4138",
-    "price": [
-      {
-        "value": "550,00 TL",
-        "selector": ".discountPrice .discountPriceSpan",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 550,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .productName a)",
-      "matchedSelector": "#ProductPageProductList .ItemOrj .productItem",
-      "titleSelectorMatched": ".productName a",
-      "imgSelectorMatched": "img.productSliderImage",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".discountPrice .discountPriceSpan",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Çanta Modelleri & Fiyatları | Suud Collection",
-    "pageURL": "https://www.suudcollection.com/tr/kadin-canta",
-    "timestamp": "2025-09-22T05:58:33.032Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuptuf0f75wh",
-    "index": 4,
-    "categories": {
-      "productType": [
-        "çanta",
-        "telefon çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "telefon çantası",
-        "telefon",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "telefon çantası",
-        "telefon",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
       ]
     }
   }
