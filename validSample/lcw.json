@@ -1,87 +1,5 @@
 [
   {
-    "title": "Fermuarlı Kadın Termal Çanta",
-    "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8472075/v1/l_20252-w5jc77z8-crc_a2.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/8472075/v1/l_20252-w5jc77z8-crc_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8472075/v1/l_20252-w5jc77z8-crc_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8472075/v1/l_20252-w5jc77z8-crc_a1.jpg"
-    ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8472075/v1/l_20252-w5jc77z8-crc_a2.jpg",
-    "link": "https://www.lcw.com/fermuarli-kadin-termal-canta-pembe-o-4881911",
-    "price": [
-      {
-        "value": "359,99 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 359.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .link.link__element)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": ".product-description.product-card-info__description",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 35",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=35",
-    "timestamp": "2025-09-22T05:35:40.020Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfup48ios70ry",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "fermuarlı çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "fermuarlı çanta",
-        "fermuarlı",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
     "title": "Fermuarlı Termal Çanta",
     "img": [
       "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20202/8128762/v1/l_20202-w5cf58z8-m0t_a2.jpg",
@@ -113,9 +31,9 @@
       "bestPriceSelector": ".current-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 35",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=35",
-    "timestamp": "2025-09-22T05:35:40.101Z",
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 34",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=34",
+    "timestamp": "2025-09-29T05:36:29.671Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -123,8 +41,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfup48ios70ry",
-    "index": 1,
+    "processId": "mg4p98qaaeds4",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -151,16 +69,80 @@
     }
   },
   {
+    "title": "Puantiye Desenli Termal Çanta",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8489673/v1/l_20252-w5ji21z8-huc_a2.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/8489673/v1/l_20252-w5ji21z8-huc_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8489673/v1/l_20252-w5ji21z8-huc_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8489673/v1/l_20252-w5ji21z8-huc_a1.jpg"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8489673/v1/l_20252-w5ji21z8-huc_a2.jpg",
+    "link": "https://www.lcw.com/puantiye-desenli-termal-canta-siyah-o-5079695",
+    "price": [
+      {
+        "value": "299,99 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 34",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=34",
+    "timestamp": "2025-09-29T05:36:29.744Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4p98qaaeds4",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi"
+      ]
+    }
+  },
+  {
     "title": "Çok Bölmeli Kadın Sırt Çantası",
     "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/8037900/v1/l_20251-w58180z8-rql_a2.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20251/8037900/v1/l_20251-w58180z8-rql_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/8037900/v1/l_20251-w58180z8-rql_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/8037900/v1/l_20251-w58180z8-rql_a1.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8037900/v2/l_20252-w58180z8-cr8_a1.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20242/8037900/v0/l_20242-w58180z8-cr8_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20242/8037900/v0/l_20242-w58180z8-cr8_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8037900/v2/l_20252-w58180z8-cr8_a.jpg",
       "https://img-lcwaikiki.mncdn.com/Resource/Images/Banner/KUPON-Y20.PNG"
     ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20251/8037900/v1/l_20251-w58180z8-rql_a2.jpg",
-    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-siyah-o-4524821",
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8037900/v2/l_20252-w58180z8-cr8_a1.jpg",
+    "link": "https://www.lcw.com/cok-bolmeli-kadin-sirt-cantasi-bej-o-4763835",
     "price": [
       {
         "value": "599,99 TL",
@@ -183,9 +165,9 @@
       "bestPriceSelector": ".current-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 35",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=35",
-    "timestamp": "2025-09-22T05:35:40.181Z",
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 34",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=34",
+    "timestamp": "2025-09-29T05:36:29.814Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -193,7 +175,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfup48ios70ry",
+    "processId": "mg4p98qaaeds4",
     "index": 2,
     "categories": {
       "productType": [
@@ -236,109 +218,6 @@
     }
   },
   {
-    "title": "Deri Görünümlü Kadın Kol Çantası",
-    "img": [
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8457344/v1/l_20252-w5j772z8-cvl_a2.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20252/8457344/v1/l_20252-w5j772z8-cvl_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8457344/v1/l_20252-w5j772z8-cvl_a.jpg",
-      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8457344/v1/l_20252-w5j772z8-cvl_a1.jpg"
-    ],
-    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20252/8457344/v1/l_20252-w5j772z8-cvl_a2.jpg",
-    "link": "https://www.lcw.com/deri-gorunumlu-kadin-kol-cantasi-siyah-o-4868283",
-    "price": [
-      {
-        "value": "599,99 TL",
-        "selector": ".current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 599.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .link.link__element)",
-      "matchedSelector": ".product-card",
-      "titleSelectorMatched": ".product-description.product-card-info__description",
-      "imgSelectorMatched": ".product-image img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 35",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=35",
-    "timestamp": "2025-09-22T05:35:40.255Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfup48ios70ry",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "omuz çantası",
-        "deri çanta",
-        "floater deri çanta",
-        "deri görünümlü çanta"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "deri görünümlü çanta",
-        "görünümlü",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol",
-        "deri çanta",
-        "leather",
-        "deri",
-        "floater deri çanta",
-        "floater",
-        "deri görünümlü çanta",
-        "görünümlü",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
     "title": "Çok Bölmeli Kadın Seyahat Çantası",
     "img": [
       "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20242/8037923/v1/l_20242-w58189z8-rql_a3.jpg",
@@ -350,12 +229,12 @@
     "link": "https://www.lcw.com/cok-bolmeli-kadin-seyahat-cantasi-siyah-o-4530043",
     "price": [
       {
-        "value": "649,99 TL",
+        "value": "699,99 TL",
         "selector": ".current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 649.99,
+        "numericValue": 699.99,
         "unsetPrice": false
       }
     ],
@@ -370,9 +249,9 @@
       "bestPriceSelector": ".current-price",
       "priceExtractedFromShadowDOM": false
     },
-    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 35",
-    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=35",
-    "timestamp": "2025-09-22T05:35:40.334Z",
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 34",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=34",
+    "timestamp": "2025-09-29T05:36:29.879Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -380,8 +259,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfup48ios70ry",
-    "index": 4,
+    "processId": "mg4p98qaaeds4",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -412,6 +291,76 @@
         "bayan",
         "woman",
         "female"
+      ]
+    }
+  },
+  {
+    "title": "Fermuarlı Termal Çanta",
+    "img": [
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7804314/v1/l_20201-s5gg79z8-m0t_a2.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/320/426/pim/productimages/20201/7804314/v1/l_20201-s5gg79z8-m0t_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7804314/v1/l_20201-s5gg79z8-m0t_a.jpg",
+      "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7804314/v1/l_20201-s5gg79z8-m0t_a1.jpg",
+      "https://img-lcwaikiki.mncdn.com/Resource/Images/Banner/KUPON-Y20.PNG"
+    ],
+    "primaryImg": "https://img-lcwaikiki.mncdn.com/mnresize/480/640/pim/productimages/20201/7804314/v1/l_20201-s5gg79z8-m0t_a2.jpg",
+    "link": "https://www.lcw.com/fermuarli-termal-canta-karisik-o-4364781",
+    "price": [
+      {
+        "value": "359,99 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 359.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .link.link__element)",
+      "matchedSelector": ".product-card",
+      "titleSelectorMatched": ".product-description.product-card-info__description",
+      "imgSelectorMatched": ".product-image img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Fiyatları ve Modelleri | LCW - Sayfa 34",
+    "pageURL": "https://www.lcw.com/kadin-canta-t-126?sayfa=34",
+    "timestamp": "2025-09-29T05:36:29.942Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4p98qaaeds4",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta",
+        "fermuarlı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "fermuarlı çanta",
+        "fermuarlı"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "fermuarlı çanta",
+        "fermuarlı"
       ]
     }
   }
