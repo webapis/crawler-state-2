@@ -1,219 +1,19 @@
 [
   {
-    "title": "Bag/Key Chain",
-    "img": [
-      "https://mynameiso.co/wp-content/uploads/2025/09/chiave1-500x600.jpeg"
-    ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/chiave1-500x600.jpeg",
-    "link": "https://mynameiso.co/product/bag-key-chain/",
-    "price": [
-      {
-        "value": "34.53€",
-        "selector": ".price .amount",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1277.96,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .amount",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Shop – MYNAMEISO",
-    "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-09-22T06:07:01.115Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuq4qa7ftx24",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi"
-      ]
-    }
-  },
-  {
-    "title": "Hobo Double Raffia Bag",
-    "img": [
-      "https://mynameiso.co/wp-content/uploads/2024/05/IMG_3511-1-500x600.jpg"
-    ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2024/05/IMG_3511-1-500x600.jpg",
-    "link": "https://mynameiso.co/product/hobo-raffia-bag/",
-    "price": [
-      {
-        "value": "334.69€",
-        "selector": ".price .amount",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 12386.88,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .amount",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Shop – MYNAMEISO",
-    "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-09-22T06:07:01.117Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuq4qa7ftx24",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hobo çanta"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hobo çanta",
-        "hobo"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hobo çanta",
-        "hobo"
-      ]
-    }
-  },
-  {
-    "title": "Hobo Double Raffia Bag Black",
-    "img": [
-      "https://mynameiso.co/wp-content/uploads/2024/05/hoboduoblack-1-500x600.jpg"
-    ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2024/05/hoboduoblack-1-500x600.jpg",
-    "link": "https://mynameiso.co/product/hobo-double-raffia-bag-black/",
-    "price": [
-      {
-        "value": "334.69€",
-        "selector": ".price .amount",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 12386.88,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
-      "matchedSelector": "li.product",
-      "titleSelectorMatched": ".woocommerce-loop-product__title",
-      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".price .amount",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Shop – MYNAMEISO",
-    "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-09-22T06:07:01.119Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfuq4qa7ftx24",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "hobo çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hobo çanta",
-        "hobo",
-        "siyah",
-        "black"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "hobo çanta",
-        "hobo",
-        "siyah",
-        "black"
-      ]
-    }
-  },
-  {
     "title": "TRIO Black Shoulder / Clutch Bag",
     "img": [
-      "https://mynameiso.co/wp-content/uploads/2025/09/TRIOBLCK-500x600.jpeg"
+      "https://mynameiso.co/wp-content/uploads/2025/09/20250928_142452-500x600.jpg"
     ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/TRIOBLCK-500x600.jpeg",
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/20250928_142452-500x600.jpg",
     "link": "https://mynameiso.co/product/trio-black-shoulder-clutch-bag/",
     "price": [
       {
-        "value": "546.07€",
+        "value": "616.53€",
         "selector": ".price .amount",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 20210.05,
+        "numericValue": 22817.78,
         "unsetPrice": false
       }
     ],
@@ -230,7 +30,7 @@
     },
     "pageTitle": "Shop – MYNAMEISO",
     "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-09-22T06:07:01.121Z",
+    "timestamp": "2025-09-29T06:07:48.859Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -238,8 +38,8 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq4qa7ftx24",
-    "index": 3,
+    "processId": "mg4q8pshyq2fa",
+    "index": 0,
     "categories": {
       "productType": [
         "çanta",
@@ -282,20 +82,20 @@
     }
   },
   {
-    "title": "TRIO Grey Shoulder / Clutch Bag",
+    "title": "TRIO Brown Shoulder / Clutch Bag",
     "img": [
-      "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg"
+      "https://mynameiso.co/wp-content/uploads/2025/09/20250928_141329-500x600.jpg"
     ],
-    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg",
-    "link": "https://mynameiso.co/product/trio-grey-shoulder-clutch-bag/",
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/20250928_141329-500x600.jpg",
+    "link": "https://mynameiso.co/product/trio-brown-shoulder-clutch-bag/",
     "price": [
       {
-        "value": "546.07€",
+        "value": "616.53€",
         "selector": ".price .amount",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 20210.05,
+        "numericValue": 22817.78,
         "unsetPrice": false
       }
     ],
@@ -312,7 +112,7 @@
     },
     "pageTitle": "Shop – MYNAMEISO",
     "pageURL": "https://mynameiso.co/shop/",
-    "timestamp": "2025-09-22T06:07:01.123Z",
+    "timestamp": "2025-09-29T06:07:48.861Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -320,7 +120,245 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfuq4qa7ftx24",
+    "processId": "mg4q8pshyq2fa",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "debriyaj çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    }
+  },
+  {
+    "title": "TRIO Grey Shoulder / Clutch Bag",
+    "img": [
+      "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg"
+    ],
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/09/TRIODGREY-500x600.jpg",
+    "link": "https://mynameiso.co/product/trio-grey-shoulder-clutch-bag/",
+    "price": [
+      {
+        "value": "616.53€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 22817.78,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-09-29T06:07:48.863Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4q8pshyq2fa",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "debriyaj çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch"
+      ]
+    }
+  },
+  {
+    "title": "TRIO Dark Blu Shoulder / Clutch Bag",
+    "img": [
+      "https://mynameiso.co/wp-content/uploads/2025/05/009_20250522_110054-500x600.jpg"
+    ],
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/05/009_20250522_110054-500x600.jpg",
+    "link": "https://mynameiso.co/product/trio-dark-blu-shoulder-clutch-bag/",
+    "price": [
+      {
+        "value": "616.53€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 22817.78,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-09-29T06:07:48.865Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4q8pshyq2fa",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "omuz çantası",
+        "debriyaj çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "debriyaj çanta",
+        "clutch"
+      ]
+    }
+  },
+  {
+    "title": "TRIO Emerald Shoulder / Clutch Bag",
+    "img": [
+      "https://mynameiso.co/wp-content/uploads/2025/05/005_20250522_110054-500x600.jpeg"
+    ],
+    "primaryImg": "https://mynameiso.co/wp-content/uploads/2025/05/005_20250522_110054-500x600.jpeg",
+    "link": "https://mynameiso.co/product/trio-black-2/",
+    "price": [
+      {
+        "value": "616.53€",
+        "selector": ".price .amount",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 22817.78,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .woocommerce-loop-product__title a)",
+      "matchedSelector": "li.product",
+      "titleSelectorMatched": ".woocommerce-loop-product__title",
+      "imgSelectorMatched": "img.attachment-woocommerce_thumbnail",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".price .amount",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Shop – MYNAMEISO",
+    "pageURL": "https://mynameiso.co/shop/",
+    "timestamp": "2025-09-29T06:07:48.867Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4q8pshyq2fa",
     "index": 4,
     "categories": {
       "productType": [
