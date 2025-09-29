@@ -9,12 +9,12 @@
     "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-capraz-canta-hweyg839572-p-13139943",
     "price": [
       {
-        "value": "7.000,00 TL",
-        "selector": ".current-price",
+        "value": "6.300,00 TL",
+        "selector": ".current-price.promotion-current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 7000,
+        "numericValue": 6300,
         "unsetPrice": false
       }
     ],
@@ -26,12 +26,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": ".ng-star-inserted",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price",
+      "bestPriceSelector": ".current-price.promotion-current-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-22T05:50:02.432Z",
+    "timestamp": "2025-09-29T05:50:32.001Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -39,7 +39,7 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupiwct8aaxh",
+    "processId": "mg4pmhu4fke04",
     "index": 0,
     "categories": {
       "productType": [
@@ -95,13 +95,95 @@
     }
   },
   {
-    "title": "Guess Kadın Çanta HWESG951018 Antrasit",
+    "title": "Guess Kadın Çanta HWEYG839532BLA Siyah",
     "img": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YURrM0wyaGpOUzh4TVRBeU9URXlPREk0TWpFME1nfGJhZWUxMDExZTc4NmJlNzczNmQxOWM5ODg3NWY4MTRkNTExZjYyMzY3N2MzMzdiNjJkYmU5N2Q5MDgxNDA5YjA",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YUdabUwyaGpPQzh4TVRBeU9URXlPRE00TURRME5nfDFlNjk5ZjEzMjZkOGUxZjU4ZWExODM2Mzk2MTQxMjBiOTI0YTAyMGE1OTFiNDBjNzNhODVkYTEyOGM2NjgzOTk"
+      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7628067494360.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM1NDMwfGltYWdlL2pwZWd8YUdJNEwyZzJZUzh4TVRFNU5UUTVNekU0TnpZeE5BfDViNmQ4Yjk5MDllODk2YzI2MmI4ZjVmNzZhMDcwNzgwYjZjZWRhMDBkMDcwNGMwYjE1ZjQyMzZiYzVhZjgyZjQ",
+      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/7628067494360.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM1NDMwfGltYWdlL2pwZWd8YURJd0wyZzJaUzh4TVRFNU5UUTVNekk0TlRreE9BfDg0M2UxMDVhNWRiNDg1ZDMwZjhhNzFhYTdkZjY3NTU0Y2FiNmUyM2Q3ZjU0ZGNhOWUwNTNiZTQ5ZTFkYjhlN2E"
     ],
-    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YURrM0wyaGpOUzh4TVRBeU9URXlPREk0TWpFME1nfGJhZWUxMDExZTc4NmJlNzczNmQxOWM5ODg3NWY4MTRkNTExZjYyMzY3N2MzMzdiNjJkYmU5N2Q5MDgxNDA5YjA",
-    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-canta-hwesg951018-p-13680337",
+    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7628067494360.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM1NDMwfGltYWdlL2pwZWd8YUdJNEwyZzJZUzh4TVRFNU5UUTVNekU0TnpZeE5BfDViNmQ4Yjk5MDllODk2YzI2MmI4ZjVmNzZhMDcwNzgwYjZjZWRhMDBkMDcwNGMwYjE1ZjQyMzZiYzVhZjgyZjQ",
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-canta-hweyg839532bla-p-13140055",
+    "price": [
+      {
+        "value": "8.000,00 TL",
+        "selector": ".current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 8000,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": ".ng-star-inserted",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-09-29T05:50:32.005Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pmhu4fke04",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
+    "title": "Guess Kadın Çanta HWESG951018 Kahverengi",
+    "img": [
+      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610045.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzkwNDQ3fGltYWdlL2pwZWd8YURVNUwyZ3dZaTh4TVRBeU9URXlOak14TmpBMk1nfGM3MDBlYWQxM2YyMzZjN2M2YzAzMjcxMTU3MDE3MDM3ODNlNDk4ZWI5MDE5OTJjNGJhOWU0ODlkMWE3NjNjMmY",
+      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/7625408610045.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzkwNDQ3fGltYWdlL2pwZWd8YUdZeEwyZ3dOeTh4TVRBeU9URXlOalF4TkRNMk5nfDRiYmYxMWU5M2I1ZGMwZTQ0OWNkNWE2OTQ5OTNhNjk3ZjllZmZmNWU2MmEyMDc5NmQzYmYzZGZmYjAzZTdkOTc"
+    ],
+    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610045.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzkwNDQ3fGltYWdlL2pwZWd8YURVNUwyZ3dZaTh4TVRBeU9URXlOak14TmpBMk1nfGM3MDBlYWQxM2YyMzZjN2M2YzAzMjcxMTU3MDE3MDM3ODNlNDk4ZWI5MDE5OTJjNGJhOWU0ODlkMWE3NjNjMmY",
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-canta-hwesg951018-p-13680339",
     "price": [
       {
         "value": "7.500,00 TL",
@@ -126,7 +208,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-22T05:50:02.437Z",
+    "timestamp": "2025-09-29T05:50:32.009Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -134,8 +216,96 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupiwct8aaxh",
-    "index": 1,
+    "processId": "mg4pmhu4fke04",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
+    "title": "Guess Kadın Çanta HWESG951018 Antrasit",
+    "img": [
+      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YURrM0wyaGpOUzh4TVRBeU9URXlPREk0TWpFME1nfGJhZWUxMDExZTc4NmJlNzczNmQxOWM5ODg3NWY4MTRkNTExZjYyMzY3N2MzMzdiNjJkYmU5N2Q5MDgxNDA5YjA",
+      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YUdabUwyaGpPQzh4TVRBeU9URXlPRE00TURRME5nfDFlNjk5ZjEzMjZkOGUxZjU4ZWExODM2Mzk2MTQxMjBiOTI0YTAyMGE1OTFiNDBjNzNhODVkYTEyOGM2NjgzOTk"
+    ],
+    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/7625408610021.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjk1MDc0fGltYWdlL2pwZWd8YURrM0wyaGpOUzh4TVRBeU9URXlPREk0TWpFME1nfGJhZWUxMDExZTc4NmJlNzczNmQxOWM5ODg3NWY4MTRkNTExZjYyMzY3N2MzMzdiNjJkYmU5N2Q5MDgxNDA5YjA",
+    "link": "https://www.ozdilekteyim.com/magaza/guess-kadin-canta-hwesg951018-p-13680337",
+    "price": [
+      {
+        "value": "6.750,00 TL",
+        "selector": ".current-price.promotion-current-price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6750,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: .product-item-info a)",
+      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
+      "titleSelectorMatched": ".product-item-info a",
+      "imgSelectorMatched": ".ng-star-inserted",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".current-price.promotion-current-price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
+    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
+    "timestamp": "2025-09-29T05:50:32.013Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pmhu4fke04",
+    "index": 3,
     "categories": {
       "productType": [
         "çanta"
@@ -179,21 +349,21 @@
     }
   },
   {
-    "title": "Calvin Klein Jeans Kadın Çapraz Çanta LV04K3162GWGY Kırık beyaz",
+    "title": "Ucla Kadın Omuz Çantası 05UC25K9007 LK S Siyah",
     "img": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107865621.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ4MzA1fGltYWdlL2pwZWd8YURZM0wyZzRPUzh4TVRFMk1qSTRPVEF4TWpjMk5nfGVkYzQ1YmUwNWJjMWRmMGEwMTMyZTM5NzdhMjc0YTU4ZWQwZjFkOGViZjNmNjc0M2JjZDBkNzYzNTAxZTAwYTY",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/8721107865621.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ4MzA1fGltYWdlL2pwZWd8YUdObUwyZzRZeTh4TVRFMk1qSTRPVEV4TVRBM01BfDU5MzgwMGJiYjkzYmNkYmYxNDU4YWIwNjFmODE3MmZkOTk1ODUzZDY2MDAyOTBhNmVlZDk2ZWEyNWIwODBjN2M"
+      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8683595035224.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MjQyfGltYWdlL2pwZWd8YUdWbUwyaGlNeTh4TVRRMU5qSTBNVFV6TWprMU9BfGZmMTdhNWNkOWYyMmFhMDE4NDMwNmE1OWRiODBlNDMyOTNiMmNjODA3YjE2YjYzODNkNjUwMGRlNjc3ZWYzM2Q",
+      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/8683595035224.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MjQyfGltYWdlL2pwZWd8YURjMkwyaGhaQzh4TVRRMU5qSTBNVE0yT1RFeE9BfGNkY2FkMjJlYTlkMjVjNzc5ZGFlMWU0MzYzMDcxMjc4ZjZmMzQ3MDE3Y2FjYTViYjJlNDM1NGYyZTExNzhjM2Q"
     ],
-    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107865621.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ4MzA1fGltYWdlL2pwZWd8YURZM0wyZzRPUzh4TVRFMk1qSTRPVEF4TWpjMk5nfGVkYzQ1YmUwNWJjMWRmMGEwMTMyZTM5NzdhMjc0YTU4ZWQwZjFkOGViZjNmNjc0M2JjZDBkNzYzNTAxZTAwYTY",
-    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-capraz-canta-lv04k3162gwgy-p-13691309",
+    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8683595035224.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3MjQyfGltYWdlL2pwZWd8YUdWbUwyaGlNeTh4TVRRMU5qSTBNVFV6TWprMU9BfGZmMTdhNWNkOWYyMmFhMDE4NDMwNmE1OWRiODBlNDMyOTNiMmNjODA3YjE2YjYzODNkNjUwMGRlNjc3ZWYzM2Q",
+    "link": "https://www.ozdilekteyim.com/magaza/ucla-kadin-omuz-cantasi-05uc25k9007-lk-s-p-14139186",
     "price": [
       {
-        "value": "3.644,10 TL",
-        "selector": ".current-price.promotion-current-price",
+        "value": "1.690,00 TL",
+        "selector": ".current-price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 3644.1,
+        "numericValue": 1690,
         "unsetPrice": false
       }
     ],
@@ -205,12 +375,12 @@
       "titleSelectorMatched": ".product-item-info a",
       "imgSelectorMatched": ".ng-star-inserted",
       "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
+      "bestPriceSelector": ".current-price",
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
     "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-22T05:50:02.441Z",
+    "timestamp": "2025-09-29T05:50:32.017Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -218,204 +388,15 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupiwct8aaxh",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "beyaz"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "beyaz",
-        "white",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "beyaz",
-        "white",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Calvin Klein Jeans Kadın Çapraz Çanta LV04K3162GGN9 Açık gri",
-    "img": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107864167.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIzMDg4fGltYWdlL2pwZWd8YUdZekwyZ3laaTh4TVRFMk16YzNOakExTnpNM05BfGZkZDI2MzFhNmM0YjQzZmU5M2FkMjJlNzJjYWZkYzA0YmVjNjJmYjgyY2M1MmMwMjhhY2YxNzliZjZiZjVjMWI",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/8721107864167.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIzMDg4fGltYWdlL2pwZWd8YURWaUwyZ3pNeTh4TVRFMk16YzNOakUxTlRZM09BfGJhY2IzMjc4MzYzN2VhNTA1YTE0MmJiOTlhMTBiOTUxZWYzZWY4ZjY0OTg1ZTE4MWJkMGY0MGRhZTEyYWFmYzA"
-    ],
-    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107864167.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIzMDg4fGltYWdlL2pwZWd8YUdZekwyZ3laaTh4TVRFMk16YzNOakExTnpNM05BfGZkZDI2MzFhNmM0YjQzZmU5M2FkMjJlNzJjYWZkYzA0YmVjNjJmYjgyY2M1MmMwMjhhY2YxNzliZjZiZjVjMWI",
-    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-capraz-canta-lv04k3162ggn9-p-13691297",
-    "price": [
-      {
-        "value": "3.644,10 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3644.1,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".ng-star-inserted",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-22T05:50:02.446Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupiwct8aaxh",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "gri/füme"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "gri/füme",
-        "gri",
-        "füme",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "gri/füme",
-        "gri",
-        "füme",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Calvin Klein Jeans Kadın Çapraz Çanta LV04K3162GCJH Ekru",
-    "img": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107865911.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI3MjMyfGltYWdlL2pwZWd8YURFd0wyZzRPUzh4TVRFMk1qSTVNall4TnpJME5nfDgyMGYyNDc3NWJiYTZmNDBkNGJjMWNkNjY3M2VmYWY4NGNjZTViNjEwNWU5ZDg2NGNmY2RhNmQxYzE5MWY2ZWI",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/192/192/medias/8721107865911.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI3MjMyfGltYWdlL2pwZWd8YURjNEwyZzRZeTh4TVRFMk1qSTVNamN4TlRVMU1BfGMxYWIxOWNlYTdkNTMwZGQ2NWJkMDRhMjMxZjQzYzkyOTA1ZDJmY2JjMDlkOWUxODQ4YmZiZGE1NmIwOTgyYzg"
-    ],
-    "primaryImg": "https://img-ozdilekteyim.mncdn.com/mnresize/848/848/medias/8721107865911.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI3MjMyfGltYWdlL2pwZWd8YURFd0wyZzRPUzh4TVRFMk1qSTVNall4TnpJME5nfDgyMGYyNDc3NWJiYTZmNDBkNGJjMWNkNjY3M2VmYWY4NGNjZTViNjEwNWU5ZDg2NGNmY2RhNmQxYzE5MWY2ZWI",
-    "link": "https://www.ozdilekteyim.com/magaza/calvin-klein-jeans-kadin-capraz-canta-lv04k3162gcjh-p-13691310",
-    "price": [
-      {
-        "value": "3.644,10 TL",
-        "selector": ".current-price.promotion-current-price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 3644.1,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: .product-item-info a)",
-      "matchedSelector": "ozd-custom-product-grid-item .carouselItem",
-      "titleSelectorMatched": ".product-item-info a",
-      "imgSelectorMatched": ".ng-star-inserted",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".current-price.promotion-current-price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | Özdilekteyim.com",
-    "pageURL": "https://www.ozdilekteyim.com/magaza/canta-2",
-    "timestamp": "2025-09-22T05:50:02.450Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupiwct8aaxh",
+    "processId": "mg4pmhu4fke04",
     "index": 4,
     "categories": {
       "productType": [
         "çanta",
-        "çapraz çanta"
+        "omuz çantası"
+      ],
+      "color": [
+        "siyah"
       ],
       "gender": [
         "kadın"
@@ -427,12 +408,12 @@
         "çantası",
         "bag",
         "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black",
         "kadın",
         "kadin",
         "bayan",
@@ -444,12 +425,12 @@
         "çantası",
         "bag",
         "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
+        "omuz çantası",
+        "omuz",
+        "shoulder",
+        "kol",
+        "siyah",
+        "black",
         "kadın",
         "kadin",
         "bayan",
