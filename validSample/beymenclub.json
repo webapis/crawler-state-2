@@ -1,15 +1,359 @@
 [
   {
+    "title": "ASKILI ÇAPRAZ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/preqoho1.mss_IMG_01_8683791936516.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/preqoho1.mss_IMG_01_8683791936516.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/preqoho1.mss_IMG_01_8683791936516.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/mrzxfhsn.puf_IMG_02_8683791936516.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/vtsagi5s.ilk_IMG_03_8683791936516.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/fsvtf0wm.ulb_IMG_05_8683791936516.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/preqoho1.mss_IMG_01_8683791936516.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/preqoho1.mss_IMG_01_8683791936516.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-askili-capraz-canta_1800571",
+    "price": [
+      {
+        "value": "9.950 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 9950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-29T05:56:48.626Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pukgvch47m",
+    "index": 0,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "askılı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ]
+    }
+  },
+  {
+    "title": "ASKILI ÇAPRAZ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/jwh4hu0j.ozj_IMG_01_8683791936684.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/jwh4hu0j.ozj_IMG_01_8683791936684.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/jwh4hu0j.ozj_IMG_01_8683791936684.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/h1vqb0ul.huk_IMG_02_8683791936684.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/jvifmbky.wqe_IMG_03_8683791936684.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ieoue32i.gdj_IMG_04_8683791936684.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/jwh4hu0j.ozj_IMG_01_8683791936684.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/jwh4hu0j.ozj_IMG_01_8683791936684.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-askili-capraz-canta_1755565",
+    "price": [
+      {
+        "value": "7.450 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7450,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-29T05:56:48.631Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pukgvch47m",
+    "index": 1,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "askılı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ]
+    }
+  },
+  {
+    "title": "ASKILI ÇAPRAZ ÇANTA",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/baphae53.ggm_IMG_01_8683791936691.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/baphae53.ggm_IMG_01_8683791936691.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/baphae53.ggm_IMG_01_8683791936691.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/xsgvcvte.pld_IMG_02_8683791936691.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/sngon2u2.dti_IMG_03_8683791936691.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/nugmw4ns.dst_IMG_04_8683791936691.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/baphae53.ggm_IMG_01_8683791936691.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/baphae53.ggm_IMG_01_8683791936691.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-askili-capraz-canta_1755612",
+    "price": [
+      {
+        "value": "7.450 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 7450,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-29T05:56:48.634Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pukgvch47m",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta",
+        "çapraz çanta",
+        "askılı çanta"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "çapraz çanta",
+        "çapraz",
+        "çaprazı",
+        "crossbody",
+        "cross body",
+        "cross-body",
+        "askılı çanta",
+        "askılı",
+        "askili"
+      ]
+    }
+  },
+  {
+    "title": "Small Daria Ekru Kadın Çanta",
+    "img": [
+      "https://cdn.beymen.com/mnresize/870/-/productimages/iuvb4rtr.zxd_IMG_01_8683791936752.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/iuvb4rtr.zxd_IMG_01_8683791936752.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/iuvb4rtr.zxd_IMG_01_8683791936752.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bg3rnm2h.lj3_IMG_02_8683791936752.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/oacwnyxq.wpj_IMG_03_8683791936752.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/bxs14nux.4wr_IMG_04_8683791936752.jpg"
+    ],
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/iuvb4rtr.zxd_IMG_01_8683791936752.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/iuvb4rtr.zxd_IMG_01_8683791936752.jpg 2x",
+    "link": "https://www.beymenclub.com/tr/p_beymen-club-small-daria-ekru-kadin-canta_1755616",
+    "price": [
+      {
+        "value": "6.950 TL",
+        "selector": ".m-productCard__newPrice",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 6950,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
+      "matchedSelector": ".o-productList__itemWrapper",
+      "titleSelectorMatched": ".m-productCard__desc",
+      "imgSelectorMatched": "[data-srcset]",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".m-productCard__newPrice",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
+    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
+    "timestamp": "2025-09-29T05:56:48.638Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4pukgvch47m",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta",
+        "küçük çanta"
+      ],
+      "gender": [
+        "kadın"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "küçük çanta",
+        "küçük",
+        "small",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "küçük çanta",
+        "küçük",
+        "small",
+        "kadın",
+        "kadin",
+        "bayan",
+        "woman",
+        "female"
+      ]
+    }
+  },
+  {
     "title": "Kahverengi Kadın Deri Alışveriş Çantası",
     "img": [
-      "https://cdn.beymen.com/mnresize/850/-/productimages/iqxa5eg5.vof_IMG_01_8683791935878.jpg",
-      "https://cdn.beymen.com/mnresize/425/-/productimages/iqxa5eg5.vof_IMG_01_8683791935878.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/iqxa5eg5.vof_IMG_01_8683791935878.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/px1wfd3i.cxi_IMG_02_8683791935878.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/z14fuypr.xtf_IMG_03_8683791935878.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/pmo2mjf3.0s4_IMG_04_8683791935878.jpg"
+      "https://cdn.beymen.com/mnresize/870/-/productimages/t11y3uf0.euu_IMG_01_8683791935878.jpg",
+      "https://cdn.beymen.com/mnresize/435/-/productimages/t11y3uf0.euu_IMG_01_8683791935878.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/t11y3uf0.euu_IMG_01_8683791935878.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/kuc2vigu.3nh_IMG_02_8683791935878.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/f42fno4z.lo2_IMG_03_8683791935878.jpg",
+      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/zyza0a3t.rbg_IMG_04_8683791935878.jpg"
     ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/425/-/productimages/iqxa5eg5.vof_IMG_01_8683791935878.jpg, https://cdn.beymen.com/mnresize/850/-/productimages/iqxa5eg5.vof_IMG_01_8683791935878.jpg 2x",
+    "primaryImg": "https://cdn.beymen.com/mnresize/435/-/productimages/t11y3uf0.euu_IMG_01_8683791935878.jpg, https://cdn.beymen.com/mnresize/870/-/productimages/t11y3uf0.euu_IMG_01_8683791935878.jpg 2x",
     "link": "https://www.beymenclub.com/tr/p_beymen-club-kahverengi-kadin-deri-alisveris-cantasi_1819402",
     "price": [
       {
@@ -35,7 +379,7 @@
     },
     "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
     "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-22T05:56:28.873Z",
+    "timestamp": "2025-09-29T05:56:48.642Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -43,397 +387,17 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfupr6jt7uihm",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "alışveriş çantası",
-        "floater deri çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "alışveriş çantası",
-        "alışveriş",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "alışveriş çantası",
-        "alışveriş",
-        "floater deri çanta",
-        "floater",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Siyah Kadın Deri Alışveriş Çantası",
-    "img": [
-      "https://cdn.beymen.com/mnresize/850/-/productimages/akd0pjs1.ay5_IMG_01_8683791935885.jpg",
-      "https://cdn.beymen.com/mnresize/425/-/productimages/akd0pjs1.ay5_IMG_01_8683791935885.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/akd0pjs1.ay5_IMG_01_8683791935885.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/enqdmvxq.e5z_IMG_02_8683791935885.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/az21oyqb.hmt_IMG_03_8683791935885.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/rnkywd5w.dno_IMG_04_8683791935885.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/425/-/productimages/akd0pjs1.ay5_IMG_01_8683791935885.jpg, https://cdn.beymen.com/mnresize/850/-/productimages/akd0pjs1.ay5_IMG_01_8683791935885.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-siyah-kadin-deri-alisveris-cantasi_1819258",
-    "price": [
-      {
-        "value": "14.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 14950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-22T05:56:28.876Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupr6jt7uihm",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "deri çanta",
-        "alışveriş çantası",
-        "floater deri çanta"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "alışveriş çantası",
-        "alışveriş",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "deri çanta",
-        "leather",
-        "deri",
-        "alışveriş çantası",
-        "alışveriş",
-        "floater deri çanta",
-        "floater",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Siyah Kadın Deri El Portföyü",
-    "img": [
-      "https://cdn.beymen.com/mnresize/850/-/productimages/zhhupld3.2ds_IMG_01_8683791936806.jpg",
-      "https://cdn.beymen.com/mnresize/425/-/productimages/zhhupld3.2ds_IMG_01_8683791936806.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/zhhupld3.2ds_IMG_01_8683791936806.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/dqucswr3.hfv_IMG_02_8683791936806.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/5symkdd0.rfr_IMG_03_8683791936806.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/aut0ovyn.kwi_IMG_04_8683791936806.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/425/-/productimages/zhhupld3.2ds_IMG_01_8683791936806.jpg, https://cdn.beymen.com/mnresize/850/-/productimages/zhhupld3.2ds_IMG_01_8683791936806.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-siyah-kadin-deri-el-portfoyu_1819397",
-    "price": [
-      {
-        "value": "10.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 10950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-22T05:56:28.879Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupr6jt7uihm",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "portföy"
-      ],
-      "color": [
-        "siyah"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "portföy",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "portföy",
-        "siyah",
-        "black",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Kahverengi Kadın Deri El Portföyü",
-    "img": [
-      "https://cdn.beymen.com/mnresize/850/-/productimages/i1r35qtj.zsn_IMG_01_8683791936813.jpg",
-      "https://cdn.beymen.com/mnresize/425/-/productimages/i1r35qtj.zsn_IMG_01_8683791936813.jpg",
-      "https://cdn.beymen.com/assets/desktop/img/club-placeholder-435px-606px.svg?t=2",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/i1r35qtj.zsn_IMG_01_8683791936813.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/gk4vkylw.sj4_IMG_02_8683791936813.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/ou3zce4q.erg_IMG_03_8683791936813.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/slerc452.yd1_IMG_04_8683791936813.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/425/-/productimages/i1r35qtj.zsn_IMG_01_8683791936813.jpg, https://cdn.beymen.com/mnresize/850/-/productimages/i1r35qtj.zsn_IMG_01_8683791936813.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-kahverengi-kadin-deri-el-portfoyu_1819304",
-    "price": [
-      {
-        "value": "10.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 10950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-22T05:56:28.883Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupr6jt7uihm",
-    "index": 3,
-    "categories": {
-      "productType": [
-        "portföy"
-      ],
-      "color": [
-        "kahverengi"
-      ],
-      "gender": [
-        "kadın"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "portföy",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ],
-      "tags": [
-        "portföy",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel",
-        "kadın",
-        "kadin",
-        "bayan",
-        "woman",
-        "female"
-      ]
-    }
-  },
-  {
-    "title": "Bordo Kadın Deri Mini Çanta",
-    "img": [
-      "https://cdn.beymen.com/mnresize/850/-/productimages/gbdlhgex.xwj_IMG_01_8683791936936.jpg",
-      "https://cdn.beymen.com/mnresize/425/-/productimages/gbdlhgex.xwj_IMG_01_8683791936936.jpg",
-      "https://cdn.beymen.com/assets/desktop/img/club-placeholder-435px-606px.svg?t=2",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/gbdlhgex.xwj_IMG_01_8683791936936.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/md4hm1sc.hnz_IMG_02_8683791936936.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/zazqznq0.iug_IMG_03_8683791936936.jpg",
-      "https://cdn.beymen.com/mnresize/{width}/{height}/productimages/4ssjmuky.vi0_IMG_04_8683791936936.jpg"
-    ],
-    "primaryImg": "https://cdn.beymen.com/mnresize/425/-/productimages/gbdlhgex.xwj_IMG_01_8683791936936.jpg, https://cdn.beymen.com/mnresize/850/-/productimages/gbdlhgex.xwj_IMG_01_8683791936936.jpg 2x",
-    "link": "https://www.beymenclub.com/tr/p_beymen-club-bordo-kadin-deri-mini-canta_1800655",
-    "price": [
-      {
-        "value": "7.950 TL",
-        "selector": ".m-productCard__newPrice",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 7950,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "linkElement (matched: .m-productCard__detail h3 > :nth-child(2))",
-      "matchedSelector": ".o-productList__itemWrapper",
-      "titleSelectorMatched": ".m-productCard__desc",
-      "imgSelectorMatched": "[data-srcset]",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".m-productCard__newPrice",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri ve Fiyatları | BeymenClub",
-    "pageURL": "https://www.beymenclub.com/tr/kadin-canta-30074",
-    "timestamp": "2025-09-22T05:56:28.886Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfupr6jt7uihm",
+    "processId": "mg4pukgvch47m",
     "index": 4,
     "categories": {
       "productType": [
         "çanta",
         "deri çanta",
-        "mini çanta",
+        "alışveriş çantası",
         "floater deri çanta"
       ],
       "color": [
-        "bordo"
+        "kahverengi"
       ],
       "gender": [
         "kadın"
@@ -448,11 +412,15 @@
         "deri çanta",
         "leather",
         "deri",
-        "mini çanta",
-        "mini",
+        "alışveriş çantası",
+        "alışveriş",
         "floater deri çanta",
         "floater",
-        "bordo",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
         "kadın",
         "kadin",
         "bayan",
@@ -467,11 +435,15 @@
         "deri çanta",
         "leather",
         "deri",
-        "mini çanta",
-        "mini",
+        "alışveriş çantası",
+        "alışveriş",
         "floater deri çanta",
         "floater",
-        "bordo",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel",
         "kadın",
         "kadin",
         "bayan",
