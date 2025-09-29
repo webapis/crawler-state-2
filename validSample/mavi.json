@@ -1,264 +1,12 @@
 [
   {
-    "title": "Kahverengi Sırt Çantası",
+    "title": "Haki Çanta",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913496-33267_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1913507-82048_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913496-33267_image_1.jpg",
-    "link": "https://www.mavi.com/kahverengi-sirt-cantasi/p/1913496-33267",
-    "price": [
-      {
-        "value": "1.499,99 TL",
-        "selector": ".product-pricing .price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1499.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing .price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-09-22T05:40:34.073Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfup6pr85h30o",
-    "index": 0,
-    "categories": {
-      "productType": [
-        "çanta",
-        "sırt çantası"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "sırt çantası",
-        "sırt",
-        "sirt",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    }
-  },
-  {
-    "title": "Kahverengi Çapraz Çanta",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913811-26823_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913811-26823_image_1.jpg",
-    "link": "https://www.mavi.com/kahverengi-capraz-canta/p/1913811-26823",
-    "price": [
-      {
-        "value": "1.199,99 TL",
-        "selector": ".product-pricing .price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1199.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing .price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-09-22T05:40:34.076Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfup6pr85h30o",
-    "index": 1,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "kahverengi"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
-      ]
-    }
-  },
-  {
-    "title": "Siyah Çapraz Çanta",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913459-900_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913459-900_image_1.jpg",
-    "link": "https://www.mavi.com/siyah-capraz-canta/p/1913459-900",
-    "price": [
-      {
-        "value": "1.299,99 TL",
-        "selector": ".product-pricing .price",
-        "attribute": "textContent",
-        "isJavaScript": false,
-        "isShadowDOM": false,
-        "numericValue": 1299.99,
-        "unsetPrice": false
-      }
-    ],
-    "videos": [],
-    "productNotInStock": false,
-    "matchedInfo": {
-      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
-      "matchedSelector": ".product-item",
-      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
-      "imgSelectorMatched": ".swiper-slide img",
-      "videoSelectorMatched": null,
-      "bestPriceSelector": ".product-pricing .price",
-      "priceExtractedFromShadowDOM": false
-    },
-    "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-09-22T05:40:34.079Z",
-    "imgValid": true,
-    "linkValid": true,
-    "titleValid": true,
-    "pageTitleValid": true,
-    "priceValid": true,
-    "videoValid": false,
-    "mediaType": "image",
-    "processId": "mfup6pr85h30o",
-    "index": 2,
-    "categories": {
-      "productType": [
-        "çanta",
-        "çapraz çanta"
-      ],
-      "color": [
-        "siyah"
-      ]
-    },
-    "seo": {
-      "keywords": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "siyah",
-        "black"
-      ],
-      "tags": [
-        "çanta",
-        "çantası",
-        "bag",
-        "çantasi",
-        "çapraz çanta",
-        "çapraz",
-        "çaprazı",
-        "crossbody",
-        "cross body",
-        "cross-body",
-        "siyah",
-        "black"
-      ]
-    }
-  },
-  {
-    "title": "Suni Süet Kahverengi Çanta",
-    "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913474-88062_image_1.jpg",
-      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
-    ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913474-88062_image_1.jpg",
-    "link": "https://www.mavi.com/suni-suet-kahverengi-canta/p/1913474-88062",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913507-82048_image_1.jpg",
+    "link": "https://www.mavi.com/haki-canta/p/1913507-82048",
     "price": [
       {
         "value": "1.699,99 TL",
@@ -282,8 +30,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-09-22T05:40:34.082Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=50",
+    "timestamp": "2025-09-29T05:40:42.456Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -291,15 +39,11 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfup6pr85h30o",
-    "index": 3,
+    "processId": "mg4p9uwcgoc31",
+    "index": 0,
     "categories": {
       "productType": [
-        "çanta",
-        "süet çanta"
-      ],
-      "color": [
-        "kahverengi"
+        "çanta"
       ]
     },
     "seo": {
@@ -307,46 +51,32 @@
         "çanta",
         "çantası",
         "bag",
-        "çantasi",
-        "süet çanta",
-        "süet",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
+        "çantasi"
       ],
       "tags": [
         "çanta",
         "çantası",
         "bag",
-        "çantasi",
-        "süet çanta",
-        "süet",
-        "kahverengi",
-        "kahve",
-        "brown",
-        "taba",
-        "camel"
+        "çantasi"
       ]
     }
   },
   {
-    "title": "Zebra Desenli Omuz Çantası",
+    "title": "Siyah Çanta",
     "img": [
-      "https://sky-static.mavi.com/mnresize/820/1162/1913329-30757_image_1.jpg",
+      "https://sky-static.mavi.com/mnresize/820/1162/1913389-900_image_1.jpg",
       "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
     ],
-    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913329-30757_image_1.jpg",
-    "link": "https://www.mavi.com/zebra-desenli-omuz-cantasi/p/1913329-30757",
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913389-900_image_1.jpg",
+    "link": "https://www.mavi.com/siyah-canta/p/1913389-900",
     "price": [
       {
-        "value": "1.199,99 TL",
+        "value": "1.699,99 TL",
         "selector": ".product-pricing .price",
         "attribute": "textContent",
         "isJavaScript": false,
         "isShadowDOM": false,
-        "numericValue": 1199.99,
+        "numericValue": 1699.99,
         "unsetPrice": false
       }
     ],
@@ -362,8 +92,8 @@
       "priceExtractedFromShadowDOM": false
     },
     "pageTitle": "Kadın Çanta Modelleri",
-    "pageURL": "https://www.mavi.com/kadin/canta/c/1",
-    "timestamp": "2025-09-22T05:40:34.085Z",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=50",
+    "timestamp": "2025-09-29T05:40:42.460Z",
     "imgValid": true,
     "linkValid": true,
     "titleValid": true,
@@ -371,12 +101,14 @@
     "priceValid": true,
     "videoValid": false,
     "mediaType": "image",
-    "processId": "mfup6pr85h30o",
-    "index": 4,
+    "processId": "mg4p9uwcgoc31",
+    "index": 1,
     "categories": {
       "productType": [
-        "çanta",
-        "omuz çantası"
+        "çanta"
+      ],
+      "color": [
+        "siyah"
       ]
     },
     "seo": {
@@ -385,20 +117,235 @@
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "siyah",
+        "black"
       ],
       "tags": [
         "çanta",
         "çantası",
         "bag",
         "çantasi",
-        "omuz çantası",
-        "omuz",
-        "shoulder",
-        "kol"
+        "siyah",
+        "black"
+      ]
+    }
+  },
+  {
+    "title": "Kahverengi Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1913458-88062_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913458-88062_image_1.jpg",
+    "link": "https://www.mavi.com/kahverengi-canta/p/1913458-88062",
+    "price": [
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=50",
+    "timestamp": "2025-09-29T05:40:42.464Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4p9uwcgoc31",
+    "index": 2,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ]
+    }
+  },
+  {
+    "title": "Siyah Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1913470-900_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1913470-900_image_1.jpg",
+    "link": "https://www.mavi.com/siyah-canta/p/1913470-900",
+    "price": [
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=50",
+    "timestamp": "2025-09-29T05:40:42.467Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4p9uwcgoc31",
+    "index": 3,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "siyah"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "siyah",
+        "black"
+      ]
+    }
+  },
+  {
+    "title": "Kahverengi Çanta",
+    "img": [
+      "https://sky-static.mavi.com/mnresize/820/1162/1912622-88062_image_1.jpg",
+      "https://www.mavi.com/kadin/canta/c/1/_ui/responsive/theme-mavi/images/placeholder.jpg"
+    ],
+    "primaryImg": "//sky-static.mavi.com/mnresize/820/1162/1912622-88062_image_1.jpg",
+    "link": "https://www.mavi.com/kahverengi-canta/p/1912622-88062",
+    "price": [
+      {
+        "value": "1.299,99 TL",
+        "selector": ".product-pricing .price",
+        "attribute": "textContent",
+        "isJavaScript": false,
+        "isShadowDOM": false,
+        "numericValue": 1299.99,
+        "unsetPrice": false
+      }
+    ],
+    "videos": [],
+    "productNotInStock": false,
+    "matchedInfo": {
+      "linkSource": "titleElement (matched: a[title]:not([href='javascript:void(0);']):not([href='#']):not([href='']))",
+      "matchedSelector": ".product-item",
+      "titleSelectorMatched": "a[title]:not([href='javascript:void(0);']):not([href='#']):not([href=''])",
+      "imgSelectorMatched": ".swiper-slide img",
+      "videoSelectorMatched": null,
+      "bestPriceSelector": ".product-pricing .price",
+      "priceExtractedFromShadowDOM": false
+    },
+    "pageTitle": "Kadın Çanta Modelleri",
+    "pageURL": "https://www.mavi.com/kadin/canta/c/1?page=50",
+    "timestamp": "2025-09-29T05:40:42.470Z",
+    "imgValid": true,
+    "linkValid": true,
+    "titleValid": true,
+    "pageTitleValid": true,
+    "priceValid": true,
+    "videoValid": false,
+    "mediaType": "image",
+    "processId": "mg4p9uwcgoc31",
+    "index": 4,
+    "categories": {
+      "productType": [
+        "çanta"
+      ],
+      "color": [
+        "kahverengi"
+      ]
+    },
+    "seo": {
+      "keywords": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
+      ],
+      "tags": [
+        "çanta",
+        "çantası",
+        "bag",
+        "çantasi",
+        "kahverengi",
+        "kahve",
+        "brown",
+        "taba",
+        "camel"
       ]
     }
   }
